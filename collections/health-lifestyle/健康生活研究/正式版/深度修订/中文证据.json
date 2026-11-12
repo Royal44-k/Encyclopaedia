@@ -1,0 +1,406 @@
+[
+  {
+    "id": "CN01",
+    "status": "usable_original_abstract",
+    "priority": "核心补充：中国人群前瞻性关联",
+    "language": "zh",
+    "authors": [
+      "胡梦婕",
+      "邹雁秋",
+      "郑迪心"
+    ],
+    "authors_truncated": true,
+    "title": "中国中老年居民生活方式与全因死亡风险关联的前瞻性研究",
+    "year": 2025,
+    "journal": "中华流行病学杂志",
+    "volume": "46",
+    "issue": "5",
+    "pages": "761–767",
+    "doi": "10.3760/cma.j.cn112338-20241016-00638",
+    "pmid": "40494782",
+    "citation": "胡梦婕, 邹雁秋, 郑迪心, 等. 中国中老年居民生活方式与全因死亡风险关联的前瞻性研究[J]. 中华流行病学杂志, 2025, 46(5): 761–767. DOI: 10.3760/cma.j.cn112338-20241016-00638.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/40494782/",
+    "publisher_url": "https://cs.medjournals.cn/article/doi/full/10.3760/cma.j.cn112338-20241016-00638",
+    "accessed": "2026-11-12",
+    "discovery_query_ids": [
+      "Q07",
+      "Q13"
+    ],
+    "retrieval": {
+      "entry": "站外网页检索 → 中华医学会期刊目录原始摘要 → PubMed正式记录",
+      "mode": "站外索引发现，非CNKI站内检索",
+      "level": "原始中英文摘要与元数据；全文未取得",
+      "successful_urls": [
+        "https://cs.medjournals.cn/cn/toc/66022",
+        "https://pubmed.ncbi.nlm.nih.gov/40494782/"
+      ],
+      "failed_attempts": [
+        "期刊独立全文页多次超时",
+        "PubMed指向yiigle的全文入口仅返回loading页面"
+      ],
+      "metadata_verified": [
+        "作者前3位",
+        "中文题名",
+        "年份",
+        "卷期页",
+        "DOI",
+        "PMID"
+      ],
+      "results_verified_at": "期刊目录原始摘要；PubMed Abstract中文及英文"
+    },
+    "study": {
+      "design": "CHARLS数据的前瞻性队列分析；非随机试验",
+      "population": "中国中老年居民",
+      "baseline_year": 2011,
+      "n": 5436,
+      "follow_up": "平均8.2年",
+      "events": {
+        "all_cause_deaths": 695
+      },
+      "exposure": "由吸烟、饮酒、睡眠、BMI和体力活动构成的5项综合生活方式评分；摘要未给出各项全部操作定义"
+    },
+    "effect_estimates": [
+      {
+        "outcome": "全因死亡",
+        "comparison": "得分2分 vs 0–1分",
+        "measure": "调整后HR",
+        "estimate": 0.78,
+        "ci95": [
+          0.62,
+          0.98
+        ]
+      },
+      {
+        "outcome": "全因死亡",
+        "comparison": "得分3分 vs 0–1分",
+        "measure": "调整后HR",
+        "estimate": 0.56,
+        "ci95": [
+          0.44,
+          0.72
+        ]
+      },
+      {
+        "outcome": "全因死亡",
+        "comparison": "得分4分 vs 0–1分",
+        "measure": "调整后HR",
+        "estimate": 0.36,
+        "ci95": [
+          0.27,
+          0.48
+        ]
+      },
+      {
+        "outcome": "全因死亡",
+        "comparison": "得分5分 vs 0–1分",
+        "measure": "调整后HR",
+        "estimate": 0.33,
+        "ci95": [
+          0.21,
+          0.52
+        ]
+      }
+    ],
+    "safe_sentence": "一项纳入5 436名中国中老年人的队列分析在平均8.2年随访中观察到695例死亡，综合生活方式评分越高，全因死亡风险越低；这一结果支持关注多种行为的组合，但属于观察性关联。",
+    "limitations": [
+      "不能把HR解释为个人寿命增益或干预因果效应。",
+      "结果以中老年样本为主，不可无条件推广至所有青年人或特殊患者。",
+      "未取得全文，不对完整混杂调整、失访机制、评分阈值作确定陈述。",
+      "评分把适量饮酒列为有利项，不构成鼓励不饮酒者开始饮酒的依据；需结合更强的酒精因果证据。"
+    ],
+    "suggested_use": "用于中国人群证据段；与试验结果分开陈述，不制作统一的个人健康分数。"
+  },
+  {
+    "id": "CN02",
+    "status": "usable_original_abstract_and_tables",
+    "priority": "核心补充：社会经济条件与实施机会",
+    "language": "zh",
+    "authors": [
+      "安芹彧",
+      "王艺颖",
+      "张小丹",
+      "张畑霖",
+      "詹清清",
+      "张福艳",
+      "刘涛",
+      "吴延莉"
+    ],
+    "title": "社会经济地位、健康生活方式对心血管疾病影响的前瞻性队列研究",
+    "year": 2025,
+    "journal": "中国全科医学",
+    "volume": "28",
+    "issue": "16",
+    "pages": "2017–2024",
+    "doi": "10.12114/j.issn.1007-9572.2024.0279",
+    "citation": "安芹彧, 王艺颖, 张小丹, 等. 社会经济地位、健康生活方式对心血管疾病影响的前瞻性队列研究[J]. 中国全科医学, 2025, 28(16): 2017–2024. DOI: 10.12114/j.issn.1007-9572.2024.0279.",
+    "url": "https://www.chinagp.net/CN/10.12114/j.issn.1007-9572.2024.0279",
+    "accessed": "2026-11-12",
+    "discovery_query_ids": [
+      "Q19",
+      "Q22"
+    ],
+    "retrieval": {
+      "entry": "站外网页检索 → 期刊官网 DOI 页面",
+      "mode": "站外索引发现，非CNKI站内检索",
+      "level": "原始摘要、作者信息及表1—5；PDF未取得，完整正文未完成核验",
+      "successful_urls": [
+        "https://www.chinagp.net/CN/10.12114/j.issn.1007-9572.2024.0279"
+      ],
+      "failed_attempts": [
+        "https://www.chinagp.net/EN/article/downloadArticleFile.do?attachType=PDF&id=8430 返回403"
+      ],
+      "metadata_verified": [
+        "全部作者",
+        "题名",
+        "年份",
+        "卷期页",
+        "DOI"
+      ],
+      "results_verified_at": "期刊原始摘要、表2、表3、表4、表5"
+    },
+    "study": {
+      "design": "贵州省居民前瞻性队列分析；非随机试验",
+      "population": "2010年贵州省12县区18岁及以上常住居民",
+      "baseline_n": 9280,
+      "analysis_n": 4148,
+      "follow_up": "2016—2020年随访",
+      "events": {
+        "incident_cvd": 123
+      },
+      "incidence_density": {
+        "value": 4.13,
+        "unit": "每1000人年"
+      },
+      "exposure": "SES由收入、职业和教育构成；HL为该研究定义的多项生活方式组合，不能当作全国统一量表"
+    },
+    "effect_estimates": [
+      {
+        "outcome": "新发CVD",
+        "comparison": "SES高分组 vs 低分组",
+        "measure": "模型3 HR",
+        "estimate": 0.594,
+        "ci95": [
+          0.402,
+          0.878
+        ]
+      },
+      {
+        "outcome": "新发CVD",
+        "comparison": "8种HL vs ≤6种HL",
+        "measure": "模型3 HR",
+        "estimate": 0.556,
+        "ci95": [
+          0.32,
+          0.968
+        ]
+      },
+      {
+        "outcome": "新发CVD",
+        "comparison": "≥9种HL vs ≤6种HL",
+        "measure": "模型3 HR",
+        "estimate": 0.508,
+        "ci95": [
+          0.284,
+          0.912
+        ]
+      }
+    ],
+    "safe_sentence": "贵州一项队列分析将社会经济地位与生活方式共同纳入评估，在4 148名分析对象中观察到123例心血管病；这提示论文需要同时讨论个人行为与资源条件，不能把健康结果全部归于意志力。",
+    "limitations": [
+      "基线9 280人，分析4 148人；失访、基线患病和资料缺失均参与排除，存在选择偏倚的可能。",
+      "仅123例事件，分层估计区间较宽；低SES分层不显著不能解释为健康行为对低收入者无效。",
+      "关联不等于社会经济条件与行为的因果交互作用已被证明。",
+      "研究表格采用盐<6g/d等历史评分定义，不应替代当前指南阈值。",
+      "未对完整模型、比例风险假设和缺失机制完成全文审查。"
+    ],
+    "suggested_use": "支持经济与社会条件分析：工时、照护负担、食品可及性和休息资源应纳入生活方式实施框架；不要据此量化某项日常安排的收益。"
+  },
+  {
+    "id": "CN03",
+    "status": "usable_original_html",
+    "priority": "核心补充：中国队列证据综述与因果边界",
+    "language": "zh",
+    "authors": [
+      "庞元捷",
+      "余灿清",
+      "郭彧",
+      "吕筠",
+      "李立明"
+    ],
+    "title": "中国成年人行为生活方式与主要慢性病的关联——来自中国慢性病前瞻性研究的证据",
+    "year": 2021,
+    "journal": "中华流行病学杂志",
+    "volume": "42",
+    "issue": "3",
+    "pages": "369–375",
+    "doi": "10.3760/cma.j.cn112338-20210111-00024",
+    "citation": "庞元捷, 余灿清, 郭彧, 等. 中国成年人行为生活方式与主要慢性病的关联——来自中国慢性病前瞻性研究的证据[J]. 中华流行病学杂志, 2021, 42(3): 369–375. DOI: 10.3760/cma.j.cn112338-20210111-00024.",
+    "url": "https://html.rhhz.net/zhlxbx/20210301.htm",
+    "accessed": "2026-11-12",
+    "discovery_query_ids": [
+      "Q05",
+      "Q21"
+    ],
+    "retrieval": {
+      "entry": "站外网页检索 → 期刊HTML全文",
+      "mode": "站外索引发现，非CNKI站内检索",
+      "level": "HTML全文；直接阅读摘要、各专题段落及引用元数据",
+      "successful_urls": [
+        "https://html.rhhz.net/zhlxbx/20210301.htm"
+      ],
+      "metadata_verified": [
+        "全部作者",
+        "题名",
+        "年份",
+        "卷期页",
+        "DOI"
+      ],
+      "results_verified_at": "正文第2部分饮酒、第4部分体力活动、第6部分综合生活方式"
+    },
+    "study": {
+      "design": "中国慢性病前瞻性研究（CKB）成果的叙述性综述；不是新的独立试验",
+      "population": "所述CKB基线为中国5城市、5农村地区50余万名30–79岁成年人",
+      "study_family": "CKB；引用其中原始分析时应避免把同一队列报告当成多个独立样本"
+    },
+    "findings": [
+      "梳理吸烟、饮酒、饮食、体力活动和体脂等因素与主要慢性病的关联。",
+      "正文区分职业、家务和通勤活动，提示中国人群行为模式与西方人群存在差别。",
+      "饮酒部分说明：普通观察性分析呈U形关联，但基因工具分析不支持适量饮酒保护心血管；混杂与反向因果可造成不一致。"
+    ],
+    "safe_sentence": "中国大型队列证据支持从多种行为及其共同发生的情境理解慢病风险。对观察性分析中看似有利的行为仍需考察混杂与反向因果，例如适量饮酒的保护性关联并未得到该综述所述基因工具分析的支持。",
+    "limitations": [
+      "本条是二次综述，不应冒充CKB某一原始分析。",
+      "文中归因比例属于群体模型估计，不是某个人采取习惯后的确定获益。",
+      "部分HTML不等号被解析为异常汉字，未据此抄录阈值；具体数值建议回到原始研究或PDF。",
+      "其历史饮食及评分定义不替代2022年以后现行指南。"
+    ],
+    "suggested_use": "用于解释为何采用中国证据、为何区分关联与因果；对具体生活方式效应优先再引原始研究。"
+  },
+  {
+    "id": "CN04",
+    "status": "usable_cnki_hosted_original_abstract",
+    "priority": "补充：我国健康素养研究与政策实践背景",
+    "language": "zh",
+    "authors": [
+      "李英华",
+      "吴敬",
+      "李长宁"
+    ],
+    "title": "我国健康素养研究与实践",
+    "year": 2023,
+    "journal": "首都公共卫生",
+    "volume": "17",
+    "issue": "2",
+    "pages": "65–70",
+    "doi": "10.16760/j.cnki.sdggws.2023.02.002",
+    "citation": "李英华, 吴敬, 李长宁. 我国健康素养研究与实践[J]. 首都公共卫生, 2023, 17(2): 65–70. DOI: 10.16760/j.cnki.sdggws.2023.02.002.",
+    "url": "https://sdgw.cbpt.cnki.net/portal/journal/portal/client/paper/8db363b53be1c4448213a30962dc6c5d",
+    "accessed": "2026-11-12",
+    "discovery_query_ids": [
+      "Q03",
+      "Q23"
+    ],
+    "retrieval": {
+      "entry": "站外site:cnki.net索引 → CNKI托管的期刊公开文章页",
+      "mode": "站外索引发现；已打开CNKI域名期刊页面，未执行CNKI数据库站内检索",
+      "level": "原始摘要、参考文献、出版信息；全文未取得",
+      "successful_urls": [
+        "https://sdgw.cbpt.cnki.net/portal/journal/portal/client/paper/8db363b53be1c4448213a30962dc6c5d"
+      ],
+      "access_limitation": "页面明确提示如需获取全文请访问cnki.net；没有把该提示当成全文权限",
+      "metadata_verified": [
+        "全部作者",
+        "题名",
+        "年份",
+        "卷期页",
+        "DOI"
+      ],
+      "results_verified_at": "期刊公开原始摘要；页面引用信息"
+    },
+    "study": {
+      "design": "研究与实践综述/政策评论，不是干预效果试验"
+    },
+    "findings": [
+      "原摘要回顾我国健康素养研究与促进工作的演进。",
+      "报告2012—2021年监测水平上升，同时提示地区和人群不均衡；本次修订的现状数据仍应采用最近官方监测。"
+    ],
+    "safe_sentence": "我国健康素养研究已形成持续监测与促进实践，但水平提升并不意味着不同地区和人群之间的差距已经消失。",
+    "limitations": [
+      "不是验证健康素养导致行为改变的因果研究。",
+      "没有直接测量本论文所设计个人计划的有效性。",
+      "仅获得摘要及参考资料，不能引述未读正文中的具体机制。"
+    ],
+    "suggested_use": "用于健康素养背景；将健康知识、信息理解、实际行为和健康结局分别设置指标。"
+  },
+  {
+    "id": "CN05",
+    "status": "usable_original_html_with_missing_doi",
+    "priority": "补充：传播效果与长期行为效果的区别",
+    "language": "zh",
+    "authors": [
+      "晋菲斐",
+      "田向阳"
+    ],
+    "title": "不同健康传播方式对中国居民传染病健康素养影响",
+    "year": 2018,
+    "journal": "中国公共卫生",
+    "volume": "34",
+    "issue": "8",
+    "pages": "1125–1128",
+    "doi": null,
+    "doi_note": "已打开期刊HTML全文未见该文DOI；题名+DOI检索未确认，故留空。搜索结果出现的10.11847/zgggws2016-32-12-13属于其参考文献中的量表编制论文，不能移植。",
+    "citation": "晋菲斐, 田向阳. 不同健康传播方式对中国居民传染病健康素养影响[J]. 中国公共卫生, 2018, 34(8): 1125–1128.",
+    "url": "https://html.rhhz.net/ZGGGWS/html/20180815.htm",
+    "accessed": "2026-11-12",
+    "discovery_query_ids": [
+      "Q09",
+      "Q11",
+      "Q14"
+    ],
+    "retrieval": {
+      "entry": "站外网页检索 → 期刊HTML全文",
+      "mode": "站外索引发现，非CNKI站内检索",
+      "level": "HTML全文；直接读取摘要、方法、表2、讨论和局限性",
+      "successful_urls": [
+        "https://html.rhhz.net/ZGGGWS/html/20180815.htm"
+      ],
+      "failed_attempts": [
+        "期刊PDF下载链接未成功取得"
+      ],
+      "metadata_verified": [
+        "全部作者",
+        "题名",
+        "年份",
+        "卷期页"
+      ],
+      "results_verified_at": "摘要、正文2.2与表2；讨论末段明确自身前后对照、即时效果、无外部对照"
+    },
+    "study": {
+      "design": "自身前后对照的现场教育干预；无未干预对照，不能称随机对照试验",
+      "period": "2015年5—7月",
+      "population": "浙江、湖北、甘肃3省六类人群，包含成人与中学生",
+      "n": 4292,
+      "outcome": "传染病健康素养量表得分；非疾病发病或长期习惯维持"
+    },
+    "effect_estimates": [
+      {
+        "outcome": "农村社区居民传染病健康素养得分",
+        "intervention": "人际传播",
+        "before_mean": 19.38,
+        "before_sd": 7.69,
+        "after_mean": 27.93,
+        "after_sd": 6.92,
+        "unit": "量表分",
+        "source": "表2"
+      }
+    ],
+    "safe_sentence": "一项三省现场研究显示，多种传播形式与短期素养得分改善相伴，但研究没有未干预对照，也未检验长期维持，因此不能把读懂科普或短期得分提高等同于稳定健康行为形成。",
+    "limitations": [
+      "即时测量且缺少外部对照，测试熟悉效应等不能排除。",
+      "受试者包括中学生，不全为成人。",
+      "传染病领域教育结果不能直接推及饮食、睡眠或运动习惯。",
+      "正文人口学分母存在排版/数值不一致，未采用这些分母；未用于效应合并。"
+    ],
+    "suggested_use": "用于形成具体评价链：是否理解信息、是否能执行、实际执行频率、长期维持和健康结果需分开评估。"
+  }
+]

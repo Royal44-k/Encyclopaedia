@@ -1,0 +1,470 @@
+[
+  {
+    "number": 1,
+    "source_number": 3,
+    "authors": [
+      "国家卫生健康委办公厅"
+    ],
+    "title": "中国公民健康素养——基本知识与技能（2024年版）",
+    "year": 2024,
+    "type": "EB/OL",
+    "journal": null,
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "article_number": null,
+    "doi": null,
+    "url": "https://wjw.gz.gov.cn/zmhd/cjwt/zczy/content/post_9687151.html",
+    "accessed": "2026-11-12",
+    "publication_date": "2024-05-28",
+    "document_number": "国卫办宣传函〔2024〕191号",
+    "citation": "国家卫生健康委办公厅. 中国公民健康素养——基本知识与技能（2024年版）[EB/OL]. (2024-05-28)[2026-11-12].",
+    "identifiers": {
+      "url": "https://wjw.gz.gov.cn/zmhd/cjwt/zczy/content/post_9687151.html"
+    }
+  },
+  {
+    "number": 2,
+    "source_number": 1,
+    "authors": [
+      "国家卫生健康委员会"
+    ],
+    "title": "2025年全国居民健康素养水平达到33.69%",
+    "year": 2026,
+    "type": "EB/OL",
+    "journal": null,
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "article_number": null,
+    "doi": null,
+    "url": "https://wjw.shanxi.gov.cn/xwzx/szyw/202601/t20260108_10035120.shtml",
+    "accessed": "2026-11-12",
+    "publication_date": "2026-01-07",
+    "citation": "国家卫生健康委员会. 2025年全国居民健康素养水平达到33.69%[EB/OL]. (2026-01-07)[2026-11-12].",
+    "identifiers": {
+      "url": "https://wjw.shanxi.gov.cn/xwzx/szyw/202601/t20260108_10035120.shtml"
+    }
+  },
+  {
+    "number": 3,
+    "source_number": 2,
+    "authors": [
+      "World Health Organization"
+    ],
+    "title": "Physical activity",
+    "year": 2026,
+    "type": "EB/OL",
+    "journal": null,
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "article_number": null,
+    "doi": null,
+    "url": "https://www.who.int/news-room/fact-sheets/detail/physical-activity",
+    "accessed": "2026-11-12",
+    "publication_date": "2026-11-04",
+    "citation": "World Health Organization. Physical activity[EB/OL]. (2026-11-04)[2026-11-12].",
+    "identifiers": {
+      "url": "https://www.who.int/news-room/fact-sheets/detail/physical-activity"
+    }
+  },
+  {
+    "number": 4,
+    "source_number": 5,
+    "authors": [
+      "Diabetes Prevention Program Research Group"
+    ],
+    "title": "Reduction in the incidence of type 2 diabetes with lifestyle intervention or metformin",
+    "year": 2002,
+    "type": "J",
+    "journal": "New England Journal of Medicine",
+    "volume": "346",
+    "issue": "6",
+    "pages": "393–403",
+    "article_number": null,
+    "doi": "10.1056/NEJMoa012512",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1370926/",
+    "accessed": "2026-11-12",
+    "pmid": "11832527",
+    "citation": "Diabetes Prevention Program Research Group. Reduction in the incidence of type 2 diabetes with lifestyle intervention or metformin[J]. New England Journal of Medicine, 2002, 346(6): 393–403. DOI: 10.1056/NEJMoa012512.",
+    "identifiers": {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1370926/",
+      "doi": "10.1056/NEJMoa012512"
+    }
+  },
+  {
+    "number": 5,
+    "source_number": 6,
+    "authors": [
+      "Neal B",
+      "Wu Y",
+      "Feng X"
+    ],
+    "title": "Effect of salt substitution on cardiovascular events and death",
+    "year": 2021,
+    "type": "J",
+    "journal": "New England Journal of Medicine",
+    "volume": "385",
+    "issue": "12",
+    "pages": "1067–1077",
+    "article_number": null,
+    "doi": "10.1056/NEJMoa2105675",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/34459569/",
+    "accessed": "2026-11-12",
+    "authors_truncated": true,
+    "pmid": "34459569",
+    "citation": "Neal B, Wu Y, Feng X, et al. Effect of salt substitution on cardiovascular events and death[J]. New England Journal of Medicine, 2021, 385(12): 1067–1077. DOI: 10.1056/NEJMoa2105675.",
+    "identifiers": {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34459569/",
+      "doi": "10.1056/NEJMoa2105675"
+    }
+  },
+  {
+    "number": 6,
+    "source_number": 4,
+    "authors": [
+      "Michie S",
+      "van Stralen MM",
+      "West R"
+    ],
+    "title": "The behaviour change wheel: a new method for characterising and designing behaviour change interventions",
+    "year": 2011,
+    "type": "J",
+    "journal": "Implementation Science",
+    "volume": "6",
+    "issue": null,
+    "pages": null,
+    "article_number": "42",
+    "doi": "10.1186/1748-5908-6-42",
+    "url": "https://link.springer.com/article/10.1186/1748-5908-6-42",
+    "accessed": "2026-11-12",
+    "citation": "Michie S, van Stralen MM, West R. The behaviour change wheel: a new method for characterising and designing behaviour change interventions[J]. Implementation Science, 2011, 6: 42. DOI: 10.1186/1748-5908-6-42.",
+    "identifiers": {
+      "url": "https://link.springer.com/article/10.1186/1748-5908-6-42",
+      "doi": "10.1186/1748-5908-6-42"
+    }
+  },
+  {
+    "number": 7,
+    "source_number": 7,
+    "authors": [
+      "World Health Organization"
+    ],
+    "title": "WHO guidelines on physical activity and sedentary behaviour",
+    "year": 2020,
+    "type": "M/OL",
+    "journal": null,
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "article_number": null,
+    "doi": null,
+    "url": "https://www.who.int/publications/i/item/9789240015128",
+    "accessed": "2026-11-12",
+    "publisher": "World Health Organization",
+    "publication_place": "Geneva",
+    "isbn": "9789240015128",
+    "fulltext_url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK566046/",
+    "citation": "World Health Organization. WHO guidelines on physical activity and sedentary behaviour[M/OL]. Geneva: World Health Organization, 2020[2026-11-12].",
+    "identifiers": {
+      "url": "https://www.who.int/publications/i/item/9789240015128"
+    }
+  },
+  {
+    "number": 8,
+    "source_number": 18,
+    "authors": [
+      "Centers for Disease Control and Prevention"
+    ],
+    "title": "How to measure physical activity intensity",
+    "year": 2025,
+    "type": "EB/OL",
+    "journal": null,
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "article_number": null,
+    "doi": null,
+    "url": "https://www.cdc.gov/physical-activity-basics/measuring/",
+    "accessed": "2026-11-12",
+    "publication_date": "2025-12-04",
+    "citation": "Centers for Disease Control and Prevention. How to measure physical activity intensity[EB/OL]. (2025-12-04)[2026-11-12].",
+    "identifiers": {
+      "url": "https://www.cdc.gov/physical-activity-basics/measuring/"
+    }
+  },
+  {
+    "number": 9,
+    "source_number": 10,
+    "authors": [
+      "中国营养学会"
+    ],
+    "title": "《中国居民膳食指南（2022）》平衡膳食八准则",
+    "year": 2022,
+    "type": "EB/OL",
+    "journal": null,
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "article_number": null,
+    "doi": null,
+    "url": "https://dg.cnsoc.org/article/04/J4-AsD_DR3OLQMnHG0-jZA.html",
+    "accessed": "2026-11-12",
+    "publication_date": "2022-04-26",
+    "citation": "中国营养学会. 《中国居民膳食指南（2022）》平衡膳食八准则[EB/OL]. (2022-04-26)[2026-11-12].",
+    "identifiers": {
+      "url": "https://dg.cnsoc.org/article/04/J4-AsD_DR3OLQMnHG0-jZA.html"
+    }
+  },
+  {
+    "number": 10,
+    "source_number": 11,
+    "authors": [
+      "中华人民共和国卫生部"
+    ],
+    "title": "食品安全国家标准 预包装食品营养标签通则：GB 28050—2011",
+    "year": 2011,
+    "type": "S/OL",
+    "journal": null,
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "article_number": null,
+    "doi": null,
+    "url": "https://www.nhc.gov.cn/ewebeditor/uploadfile/2013/02/20130204161215710.pdf",
+    "accessed": "2026-11-12",
+    "standard_number": "GB 28050—2011",
+    "publication_date": "2011-10-12",
+    "implementation_date": "2013-01-01",
+    "citation": "中华人民共和国卫生部. 食品安全国家标准 预包装食品营养标签通则：GB 28050—2011[S/OL]. 2011[2026-11-12].",
+    "identifiers": {
+      "url": "https://www.nhc.gov.cn/ewebeditor/uploadfile/2013/02/20130204161215710.pdf"
+    }
+  },
+  {
+    "number": 11,
+    "source_number": 19,
+    "authors": [
+      "World Health Organization"
+    ],
+    "title": "Sodium reduction",
+    "year": 2026,
+    "type": "EB/OL",
+    "journal": null,
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "article_number": null,
+    "doi": null,
+    "url": "https://www.who.int/news-room/fact-sheets/detail/sodium-reduction",
+    "accessed": "2026-11-12",
+    "publication_date": "2026-05-11",
+    "citation": "World Health Organization. Sodium reduction[EB/OL]. (2026-05-11)[2026-11-12].",
+    "identifiers": {
+      "url": "https://www.who.int/news-room/fact-sheets/detail/sodium-reduction"
+    }
+  },
+  {
+    "number": 12,
+    "source_number": 12,
+    "authors": [
+      "中华人民共和国国家卫生健康委员会",
+      "国家市场监督管理总局"
+    ],
+    "title": "食品安全国家标准 预包装食品营养标签通则：GB 28050—2025",
+    "year": 2025,
+    "type": "S/OL",
+    "journal": null,
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "article_number": null,
+    "doi": null,
+    "url": "https://www.hhgj.gov.cn/info/13461/674071.htm",
+    "accessed": "2026-11-12",
+    "standard_number": "GB 28050—2025",
+    "publication_date": "2025-03-16",
+    "implementation_date": "2027-03-16",
+    "publisher": "中华人民共和国国家卫生健康委员会；国家市场监督管理总局",
+    "fulltext_url": "https://www.hhgj.gov.cn/virtual_attach_file.vsb?afc=9oRVA2o7n2nNWkU1NVVUN7inlnfLzQmfMmV2M4-iUzn2nR70gihFp2hmCIa0LYy8oSyiMSy4nzT7nlMkLNUaL8UaU4GYLz-ZMl7Ynl-YL7WFUNM2nmNsU4MFMmCZUzGJv2nto4xdU1GYoRGiLk8YLR-iEqH7bCYVEHoVEqoFbQofEWkTbCIeb/kdbED3ECkqbC1QgjfNQmOeQDX4vtiEQ1hXptQ0g474MRCPg4CsMRGsLSbw62N8c",
+    "canonical_release_url": "https://www.nhc.gov.cn/wjw/zcwjgg/202503/97802a2683b840dd8be0e1449982c6a5.shtml",
+    "citation": "中华人民共和国国家卫生健康委员会, 国家市场监督管理总局. 食品安全国家标准 预包装食品营养标签通则：GB 28050—2025[S/OL]. 2025[2026-11-12].",
+    "identifiers": {
+      "url": "https://www.hhgj.gov.cn/info/13461/674071.htm"
+    }
+  },
+  {
+    "number": 13,
+    "source_number": 8,
+    "authors": [
+      "全国爱卫办"
+    ],
+    "title": "睡眠健康核心信息及释义",
+    "year": 2025,
+    "type": "EB/OL",
+    "journal": null,
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "article_number": null,
+    "doi": null,
+    "url": "https://wjw.fujian.gov.cn/ztzl/jkjy/jkzgxd/202504/t20250417_6901525.htm",
+    "accessed": "2026-11-12",
+    "citation": "全国爱卫办. 睡眠健康核心信息及释义[EB/OL]. 2025[2026-11-12].",
+    "identifiers": {
+      "url": "https://wjw.fujian.gov.cn/ztzl/jkjy/jkzgxd/202504/t20250417_6901525.htm"
+    }
+  },
+  {
+    "number": 14,
+    "source_number": 9,
+    "authors": [
+      "Watson NF",
+      "Badr MS",
+      "Belenky G"
+    ],
+    "title": "Recommended amount of sleep for a healthy adult: a joint consensus statement of the American Academy of Sleep Medicine and Sleep Research Society",
+    "year": 2015,
+    "type": "J",
+    "journal": "Journal of Clinical Sleep Medicine",
+    "volume": "11",
+    "issue": "6",
+    "pages": "591–592",
+    "article_number": null,
+    "doi": "10.5664/jcsm.4758",
+    "url": "https://www.aasm.org/resources/pdf/adultsleepdurationconsensus.pdf",
+    "accessed": "2026-11-12",
+    "authors_truncated": true,
+    "citation": "Watson NF, Badr MS, Belenky G, et al. Recommended amount of sleep for a healthy adult: a joint consensus statement of the American Academy of Sleep Medicine and Sleep Research Society[J]. Journal of Clinical Sleep Medicine, 2015, 11(6): 591–592. DOI: 10.5664/jcsm.4758.",
+    "identifiers": {
+      "url": "https://www.aasm.org/resources/pdf/adultsleepdurationconsensus.pdf",
+      "doi": "10.5664/jcsm.4758"
+    }
+  },
+  {
+    "number": 15,
+    "source_number": 14,
+    "authors": [
+      "World Health Organization"
+    ],
+    "title": "Social connection",
+    "year": 2025,
+    "type": "EB/OL",
+    "journal": null,
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "article_number": null,
+    "doi": null,
+    "url": "https://www.who.int/news-room/questions-and-answers/item/social-connection",
+    "accessed": "2026-11-12",
+    "publication_date": "2025-06-30",
+    "citation": "World Health Organization. Social connection[EB/OL]. (2025-06-30)[2026-11-12].",
+    "identifiers": {
+      "url": "https://www.who.int/news-room/questions-and-answers/item/social-connection"
+    }
+  },
+  {
+    "number": 16,
+    "source_number": 16,
+    "authors": [
+      "World Health Organization"
+    ],
+    "title": "WHO guidelines on mental health at work",
+    "year": 2022,
+    "type": "M/OL",
+    "journal": null,
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "article_number": null,
+    "doi": null,
+    "url": "https://www.who.int/publications/i/item/9789240053052",
+    "accessed": "2026-11-12",
+    "publisher": "World Health Organization",
+    "publication_place": "Geneva",
+    "publication_date": "2022-09-28",
+    "isbn": "9789240053052",
+    "citation": "World Health Organization. WHO guidelines on mental health at work[M/OL]. Geneva: World Health Organization, 2022[2026-11-12].",
+    "identifiers": {
+      "url": "https://www.who.int/publications/i/item/9789240053052"
+    }
+  },
+  {
+    "number": 17,
+    "source_number": 17,
+    "authors": [
+      "Husereau D",
+      "Drummond M",
+      "Augustovski F"
+    ],
+    "title": "Consolidated Health Economic Evaluation Reporting Standards 2022 (CHEERS 2022) statement: updated reporting guidance for health economic evaluations",
+    "year": 2022,
+    "type": "J",
+    "journal": "BMJ",
+    "volume": "376",
+    "issue": null,
+    "pages": null,
+    "article_number": "e067975",
+    "doi": "10.1136/bmj-2021-067975",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8749494/",
+    "accessed": "2026-11-12",
+    "authors_truncated": true,
+    "citation": "Husereau D, Drummond M, Augustovski F, et al. Consolidated Health Economic Evaluation Reporting Standards 2022 (CHEERS 2022) statement: updated reporting guidance for health economic evaluations[J]. BMJ, 2022, 376: e067975. DOI: 10.1136/bmj-2021-067975.",
+    "identifiers": {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8749494/",
+      "doi": "10.1136/bmj-2021-067975"
+    }
+  },
+  {
+    "number": 18,
+    "source_number": 13,
+    "authors": [
+      "World Health Organization"
+    ],
+    "title": "Alcohol",
+    "year": 2024,
+    "type": "EB/OL",
+    "journal": null,
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "article_number": null,
+    "doi": null,
+    "url": "https://www.who.int/news-room/fact-sheets/detail/alcohol",
+    "accessed": "2026-11-12",
+    "publication_date": "2024-06-28",
+    "citation": "World Health Organization. Alcohol[EB/OL]. (2024-06-28)[2026-11-12].",
+    "identifiers": {
+      "url": "https://www.who.int/news-room/fact-sheets/detail/alcohol"
+    }
+  },
+  {
+    "number": 19,
+    "source_number": 15,
+    "authors": [
+      "Lally P",
+      "van Jaarsveld CHM",
+      "Potts HWW",
+      "Wardle J"
+    ],
+    "title": "How are habits formed: modelling habit formation in the real world",
+    "year": 2010,
+    "type": "J",
+    "journal": "European Journal of Social Psychology",
+    "volume": "40",
+    "issue": "6",
+    "pages": "998–1009",
+    "article_number": null,
+    "doi": "10.1002/ejsp.674",
+    "url": "https://onlinelibrary.wiley.com/doi/10.1002/ejsp.674",
+    "accessed": "2026-11-12",
+    "first_online_date": "2009-07-16",
+    "citation": "Lally P, van Jaarsveld CHM, Potts HWW, et al. How are habits formed: modelling habit formation in the real world[J]. European Journal of Social Psychology, 2010, 40(6): 998–1009. DOI: 10.1002/ejsp.674.",
+    "identifiers": {
+      "url": "https://onlinelibrary.wiley.com/doi/10.1002/ejsp.674",
+      "doi": "10.1002/ejsp.674"
+    }
+  }
+]

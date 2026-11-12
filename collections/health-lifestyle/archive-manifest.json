@@ -1,0 +1,961 @@
+{
+  "archive_date": "2026-11-12",
+  "timezone": "Asia/Shanghai",
+  "repository": "Royal44-k/Encyclopaedia",
+  "original_asset_count": 114,
+  "original_asset_bytes": 46247310,
+  "original_assets": [
+    {
+      "path": "健康生活研究/12周健康实践方案.md",
+      "source_path": "12周健康实践方案.md",
+      "category": "初稿与实践方案",
+      "bytes": 5405,
+      "sha256": "f45e04362ff5cab69169157467195331fd0f13395bd3c440bf29603e4fe5b58f",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/claims.csv",
+      "source_path": "claims.csv",
+      "category": "早期证据与核验记录",
+      "bytes": 7069,
+      "sha256": "f2e058d6105f6387c110656f031a655d14f6bfd2a3fa1d2f008be120ae47dfef",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/source_manifest.json",
+      "source_path": "source_manifest.json",
+      "category": "早期证据与核验记录",
+      "bytes": 15127,
+      "sha256": "f6838c8fb427b683dd7a5057ff0e5fdd12a379e20807115e346caae29bf7fa1e",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/中国权威依据.md",
+      "source_path": "中国权威依据.md",
+      "category": "早期证据与核验记录",
+      "bytes": 10505,
+      "sha256": "1f59b22c15a797250ce74fa646497ab0a6e539a2967ba7544a1504d4865fff72",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/健康深度文章_写作稿.md",
+      "source_path": "健康深度文章_写作稿.md",
+      "category": "初稿与实践方案",
+      "bytes": 11266,
+      "sha256": "37e4dac18022e3a45a8cd422e38d5cb160aa4b4b8e601a23483fa91f2fd4ce33",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/写作与核验说明.md",
+      "source_path": "写作与核验说明.md",
+      "category": "早期证据与核验记录",
+      "bytes": 3034,
+      "sha256": "f29f8b4c0d00f778a147d716f10470c3f3644f92e6068d31e77ec8179c72657f",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/国际健康证据.md",
+      "source_path": "国际健康证据.md",
+      "category": "早期证据与核验记录",
+      "bytes": 8958,
+      "sha256": "82d38ef70cab4b1783b6921c8518fc51a363945bd3bc702e0274aa7e597ab452",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/学术观点论文.md",
+      "source_path": "学术观点论文.md",
+      "category": "初稿与实践方案",
+      "bytes": 23226,
+      "sha256": "6681b9adef0bc8ab7ecbe0129549eea50583e1087f11cc5b37d4b50ebc13623b",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/把健康放回日常生活.md",
+      "source_path": "把健康放回日常生活.md",
+      "category": "初稿与实践方案",
+      "bytes": 16254,
+      "sha256": "073851106f7c7242bacea5bf0e88a565c806f381ad77aeb34e6129b7161cd3de",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/整理文稿.py",
+      "source_path": "整理文稿.py",
+      "category": "生成与整理源码",
+      "bytes": 3480,
+      "sha256": "d90107ba1379ddac833a163b5ba3fbcfe7d0d09c0ff040ec6fcad950b5f9ef5d",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/核验记录.json",
+      "source_path": "核验记录.json",
+      "category": "早期证据与核验记录",
+      "bytes": 629,
+      "sha256": "d17710d53eea3cfbcb42d6412008f6f536c5f4e0bed8fddd29f94a39d372d717",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/academic_content.py",
+      "source_path": "正式版/academic_content.py",
+      "category": "生成与整理源码",
+      "bytes": 19591,
+      "sha256": "ea92e40f5f81a73521855ddc7e752fabf19e7faa037d97116acacde486c6f707",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/academic_reference_index.json",
+      "source_path": "正式版/academic_reference_index.json",
+      "category": "早期证据与核验记录",
+      "bytes": 16550,
+      "sha256": "f80dc52f4ba069c93879331d52c104613ca61424d2581ed8a2af7c8f758c4462",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/academic_references.json",
+      "source_path": "正式版/academic_references.json",
+      "category": "早期证据与核验记录",
+      "bytes": 15616,
+      "sha256": "eba96d866e637c6ec9f2e681c552f888defdafd7c58c0fb092b29c8277b2ee61",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/assets/create_academic_figures.py",
+      "source_path": "正式版/assets/create_academic_figures.py",
+      "category": "图表、插图与汇总数据",
+      "bytes": 1117,
+      "sha256": "c6b5884de95816ee376060f2881e862bbf6b072bce160c918de4731317dc51ce",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/assets/create_figures.py",
+      "source_path": "正式版/assets/create_figures.py",
+      "category": "图表、插图与汇总数据",
+      "bytes": 7756,
+      "sha256": "30f5d5abffd99042fc3550ad449ca8d20e83d6e862a336660eec68c29af886eb",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/assets/figure1_data.csv",
+      "source_path": "正式版/assets/figure1_data.csv",
+      "category": "图表、插图与汇总数据",
+      "bytes": 312,
+      "sha256": "fcc931a3fcb6fbc6bc152f1900f07fe7c5906c428f53563bdd60c0d86621f7f8",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/assets/figure1_health_literacy.pdf",
+      "source_path": "正式版/assets/figure1_health_literacy.pdf",
+      "category": "图表、插图与汇总数据",
+      "bytes": 50225,
+      "sha256": "74b398eab7bc11a9dd875e5449386e9fbc4f3e1de32dd9795e76e45d0e103d31",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/assets/figure1_health_literacy.png",
+      "source_path": "正式版/assets/figure1_health_literacy.png",
+      "category": "图表、插图与汇总数据",
+      "bytes": 151100,
+      "sha256": "80d1a44c56929ed982d17540a0cdfa96110afc756b0d68400b7b2e7029df8659",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/assets/figure1_health_literacy_academic.pdf",
+      "source_path": "正式版/assets/figure1_health_literacy_academic.pdf",
+      "category": "图表、插图与汇总数据",
+      "bytes": 47925,
+      "sha256": "f19f1c9cb3c4a12143fbe3492a29aa931f770e761cb64b53338719860051429a",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/assets/figure1_health_literacy_academic.png",
+      "source_path": "正式版/assets/figure1_health_literacy_academic.png",
+      "category": "图表、插图与汇总数据",
+      "bytes": 145019,
+      "sha256": "bfb9562c080a6938f26dbd4f6476496307ff0678117315726be5678f9df73e5b",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/assets/figure2_data.csv",
+      "source_path": "正式版/assets/figure2_data.csv",
+      "category": "图表、插图与汇总数据",
+      "bytes": 274,
+      "sha256": "ff90daf05c1fe227c34eda5fc8d453b8ca6c30caca5a10c68dd6e118ab2779f4",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/assets/figure2_ssass_stroke.pdf",
+      "source_path": "正式版/assets/figure2_ssass_stroke.pdf",
+      "category": "图表、插图与汇总数据",
+      "bytes": 68711,
+      "sha256": "5f480306484e4c8c7371b0da5bb746bd49e8801e4fb2ab3230ec842edbba3cdb",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/assets/figure2_ssass_stroke.png",
+      "source_path": "正式版/assets/figure2_ssass_stroke.png",
+      "category": "图表、插图与汇总数据",
+      "bytes": 241717,
+      "sha256": "620f091e994fbb7c4d56c5122da16a561b3442da4e329b04d70286553cd5bfca",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/assets/figure2_ssass_stroke_academic.pdf",
+      "source_path": "正式版/assets/figure2_ssass_stroke_academic.pdf",
+      "category": "图表、插图与汇总数据",
+      "bytes": 65824,
+      "sha256": "71b5c6323272745970ff6bfefb8862337b168e2bf6fb95e45daa4222f78a3b05",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/assets/figure2_ssass_stroke_academic.png",
+      "source_path": "正式版/assets/figure2_ssass_stroke_academic.png",
+      "category": "图表、插图与汇总数据",
+      "bytes": 246803,
+      "sha256": "a6ce074a638dba400d8310b5999fe36bc38edb49214ced56d6ade7b63a5c9d8d",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/assets/figure_notes.md",
+      "source_path": "正式版/assets/figure_notes.md",
+      "category": "图表、插图与汇总数据",
+      "bytes": 4104,
+      "sha256": "2913b2869853a025474c81f0e872f33c4329d9fb923793836d666fcb447839b7",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/assets/health_theme_icons.pdf",
+      "source_path": "正式版/assets/health_theme_icons.pdf",
+      "category": "图表、插图与汇总数据",
+      "bytes": 24532,
+      "sha256": "a00edadc3cc1d1a75d18fa1497a0622a194788106f791e40df15077836fddc7a",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/assets/health_theme_icons.png",
+      "source_path": "正式版/assets/health_theme_icons.png",
+      "category": "图表、插图与汇总数据",
+      "bytes": 78054,
+      "sha256": "e3feb426337c3c92caa3af56e118c7821af0e5cb2a859abf3debbb935fd8fe4b",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/assets/icon_1.pdf",
+      "source_path": "正式版/assets/icon_1.pdf",
+      "category": "图表、插图与汇总数据",
+      "bytes": 1545,
+      "sha256": "406c2619a7a6b80d33fef5a70eddbec9d9d6fe23a16c738393afc86b02258ef9",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/assets/icon_1.png",
+      "source_path": "正式版/assets/icon_1.png",
+      "category": "图表、插图与汇总数据",
+      "bytes": 13895,
+      "sha256": "2ce6d5c9b04e0221648db27c82d1e0d99a9a0874cf6db8efd944b263ea8db553",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/assets/icon_2.pdf",
+      "source_path": "正式版/assets/icon_2.pdf",
+      "category": "图表、插图与汇总数据",
+      "bytes": 1514,
+      "sha256": "e7f1798d3fe27d8eeb5c30f70a6ae277aaa85e3ac75b59fad5431d6a9ddc853e",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/assets/icon_2.png",
+      "source_path": "正式版/assets/icon_2.png",
+      "category": "图表、插图与汇总数据",
+      "bytes": 7226,
+      "sha256": "e384c1405738940bcf77a63ea3b66ccd47eceee2972b1350a5941eac736b6672",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/assets/icon_3.pdf",
+      "source_path": "正式版/assets/icon_3.pdf",
+      "category": "图表、插图与汇总数据",
+      "bytes": 1537,
+      "sha256": "1aff8bb2eda54a05e1590a0a7cf7fbe372f4dcfc0b759eebbcab9333440dbb73",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/assets/icon_3.png",
+      "source_path": "正式版/assets/icon_3.png",
+      "category": "图表、插图与汇总数据",
+      "bytes": 7349,
+      "sha256": "1542a726f3ffca8e80711f8b87d0114797918075a04a6d0b0c6db55fca3ed92c",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/assets/icon_4.pdf",
+      "source_path": "正式版/assets/icon_4.pdf",
+      "category": "图表、插图与汇总数据",
+      "bytes": 1658,
+      "sha256": "8ba334f2923019be19b35e41f82126ed1cbd30ef17caf0cb693abf48aa89a0f8",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/assets/icon_4.png",
+      "source_path": "正式版/assets/icon_4.png",
+      "category": "图表、插图与汇总数据",
+      "bytes": 9821,
+      "sha256": "eb624e5d59ea49a7c672b6d4a9562e55abe03a0bf5f7f7c9375d31128d2e109a",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/assets/icon_5.pdf",
+      "source_path": "正式版/assets/icon_5.pdf",
+      "category": "图表、插图与汇总数据",
+      "bytes": 1604,
+      "sha256": "a013194dd63364d0b29de11c09ba0567c722e3ca3e73d6e07fe2d4dd4d3aa6cf",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/assets/icon_5.png",
+      "source_path": "正式版/assets/icon_5.png",
+      "category": "图表、插图与汇总数据",
+      "bytes": 11799,
+      "sha256": "1a5a19fe0d21d4af73ae7b46b0c26bd4ec9533386e91e4a8b66dcfb4a06428bd",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/assets/icon_6.pdf",
+      "source_path": "正式版/assets/icon_6.pdf",
+      "category": "图表、插图与汇总数据",
+      "bytes": 1462,
+      "sha256": "28f92d1c06c8b74d8e0b3ae4cca1bb215b3ce2c215ff76cdb5df748bbb5d493f",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/assets/icon_6.png",
+      "source_path": "正式版/assets/icon_6.png",
+      "category": "图表、插图与汇总数据",
+      "bytes": 7750,
+      "sha256": "0c39516635ac251cc7f61d804d1aaba59433237b2f8c9f2d9f92a7a88b2727e9",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/assets/illustration-prompts.md",
+      "source_path": "正式版/assets/illustration-prompts.md",
+      "category": "图表、插图与汇总数据",
+      "bytes": 4076,
+      "sha256": "b8f93076be8069904e6d47890d71d5e31948f8be71ead6ba2e7aefb17fedd943",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/assets/meal.png",
+      "source_path": "正式版/assets/meal.png",
+      "category": "图表、插图与汇总数据",
+      "bytes": 3329256,
+      "sha256": "43b0fe26c5f24d9993965122b06f9d7c43573019f786e5a4a734f9b2e3f3d511",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/assets/生活场景插图.png",
+      "source_path": "正式版/assets/生活场景插图.png",
+      "category": "图表、插图与汇总数据",
+      "bytes": 3393371,
+      "sha256": "dc7c1fba4285f43c7bbd7167dd1769aecec4d07c8dced5b3997a3cfe8db84a94",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/book_content.py",
+      "source_path": "正式版/book_content.py",
+      "category": "生成与整理源码",
+      "bytes": 18923,
+      "sha256": "00d52b2e34a967be0ea9440dbe73e819c7e55f9675de23b789c66f734216ba92",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/build_academic.py",
+      "source_path": "正式版/build_academic.py",
+      "category": "生成与整理源码",
+      "bytes": 14151,
+      "sha256": "4ea5fcfd637ae276ecf2930664f32e703a0a6c7a2e4db41c89e02048c1975305",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/build_book.py",
+      "source_path": "正式版/build_book.py",
+      "category": "生成与整理源码",
+      "bytes": 13882,
+      "sha256": "183b575e8a7ae7925a74328c9ccdc4793619e5c79e1da3f3bc2492472b11eb4b",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/format_academic_markdown.py",
+      "source_path": "正式版/format_academic_markdown.py",
+      "category": "生成与整理源码",
+      "bytes": 1769,
+      "sha256": "c97a7bb060651883406a6cdb90cf19db3e93577592da14dd830e24ac0f1cab86",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/output/健康生活方式_学术修订版.pdf",
+      "source_path": "正式版/output/健康生活方式_学术修订版.pdf",
+      "category": "历史正式文稿",
+      "bytes": 11939804,
+      "sha256": "5f9e0583257e509270edc41c4021d1b4372974cd31076c360cfde5c957e2da53",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/output/健康生活方式_学术修订稿.md",
+      "source_path": "正式版/output/健康生活方式_学术修订稿.md",
+      "category": "历史正式文稿",
+      "bytes": 23563,
+      "sha256": "382597622f8719ae31bcf30caebfa1c0d096bcdb5fb31fb37d355dcae4d7dd6f",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/output/把健康放回日常生活_正式图文版.pdf",
+      "source_path": "正式版/output/把健康放回日常生活_正式图文版.pdf",
+      "category": "历史正式文稿",
+      "bytes": 12279280,
+      "sha256": "7d331c7f7c13fbf2746e97ee4e8c4d417314aef5c3838edd32e30e718812cd4b",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/output/把健康放回日常生活_正式文字稿.md",
+      "source_path": "正式版/output/把健康放回日常生活_正式文字稿.md",
+      "category": "历史正式文稿",
+      "bytes": 22736,
+      "sha256": "65832b6a75f8f987cf25614c1f9f0cfa99264b73a02de48a3da37f0c3979daf2",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/prepare_academic_builder.py",
+      "source_path": "正式版/prepare_academic_builder.py",
+      "category": "生成与整理源码",
+      "bytes": 7542,
+      "sha256": "949f378f18140a5753bc4fe5f319e8808045aa0be1f242338bb86caca370835c",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/qa/contact.png",
+      "source_path": "正式版/qa/contact.png",
+      "category": "排版核验",
+      "bytes": 747195,
+      "sha256": "fd4aa5123f85d947be0178e42ec720736733c49a8d5c9492806effbc408862ee",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/qa/layout_report.json",
+      "source_path": "正式版/qa/layout_report.json",
+      "category": "排版核验",
+      "bytes": 1587,
+      "sha256": "1b5580bba4d9ca0d0ec26bea973bd672e7274558fdf3a4c65708329133bf00ee",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/qa/page-01.png",
+      "source_path": "正式版/qa/page-01.png",
+      "category": "排版核验",
+      "bytes": 641621,
+      "sha256": "6def8b71d795b47dddf877bd05e466152a34d7e2595c0ab39547228995e9aac2",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/qa/page-02.png",
+      "source_path": "正式版/qa/page-02.png",
+      "category": "排版核验",
+      "bytes": 243304,
+      "sha256": "956a743c11631cd8ffae70b922d1d829e5e8e29fcdc28d28adb5440cfc1c4047",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/qa/page-03.png",
+      "source_path": "正式版/qa/page-03.png",
+      "category": "排版核验",
+      "bytes": 265202,
+      "sha256": "b0950849aeda1101262213039b61ecc9350265d39aefe274950aa2bc1b1130f4",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/qa/page-04.png",
+      "source_path": "正式版/qa/page-04.png",
+      "category": "排版核验",
+      "bytes": 241804,
+      "sha256": "baf91367a48938f0e4badc608cf5ca8f3cdcf04c356323ce543fe08751465789",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/qa/page-05.png",
+      "source_path": "正式版/qa/page-05.png",
+      "category": "排版核验",
+      "bytes": 227640,
+      "sha256": "60724303f3ba746164758dc92c6a8ac3b64ceeeb1c361c5481ed9b37a03e8142",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/qa/page-06.png",
+      "source_path": "正式版/qa/page-06.png",
+      "category": "排版核验",
+      "bytes": 452890,
+      "sha256": "3ed62dc0756aa453af0d69e55bf210b8840ee600669510afe9c483daa28aa829",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/qa/page-07.png",
+      "source_path": "正式版/qa/page-07.png",
+      "category": "排版核验",
+      "bytes": 247911,
+      "sha256": "b4d8773d5e282ace94cd8191abdb2decebf34a02967be86372f88d8a286e2467",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/qa/page-08.png",
+      "source_path": "正式版/qa/page-08.png",
+      "category": "排版核验",
+      "bytes": 262022,
+      "sha256": "86a0afd6e373488c14f8b6fcb911fd45ef61197793b534d5acb876d83a231d0e",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/qa/page-09.png",
+      "source_path": "正式版/qa/page-09.png",
+      "category": "排版核验",
+      "bytes": 247418,
+      "sha256": "7a7895e7eb7b31b3003fea6ec8ed2725827f32ce39e6454ff8d6348046b3efef",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/qa/page-10.png",
+      "source_path": "正式版/qa/page-10.png",
+      "category": "排版核验",
+      "bytes": 226279,
+      "sha256": "eee3603746af882940447c0ef24f696e08dd172aea9be21cf81efe98f744ab46",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/qa/page-11.png",
+      "source_path": "正式版/qa/page-11.png",
+      "category": "排版核验",
+      "bytes": 289713,
+      "sha256": "9c3c08ea5d12059a3da76200079027f3c4ab9e6d37f648408c6b7b41f98d274b",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/qa/page-12.png",
+      "source_path": "正式版/qa/page-12.png",
+      "category": "排版核验",
+      "bytes": 245617,
+      "sha256": "696a3908e33190e4a8417c6dbbd5b456a4894bc4fdca4f1dab9bede089ec0c01",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/qa/page-13.png",
+      "source_path": "正式版/qa/page-13.png",
+      "category": "排版核验",
+      "bytes": 267521,
+      "sha256": "249621df437c409cb11724a752c60114075e1df053a836ff0c7b4920df4077d3",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/qa_academic/contact.png",
+      "source_path": "正式版/qa_academic/contact.png",
+      "category": "排版核验",
+      "bytes": 641891,
+      "sha256": "40bcd96196a13065ebd03d50f22ea1013000f2de272c459c04ee75ac56f6b1a5",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/qa_academic/layout_report.json",
+      "source_path": "正式版/qa_academic/layout_report.json",
+      "category": "排版核验",
+      "bytes": 1567,
+      "sha256": "b9685eb3b7bacaf55c42d08ca4ba5898d8fc8754be3390e27e362d345442b657",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/qa_academic/page-01.png",
+      "source_path": "正式版/qa_academic/page-01.png",
+      "category": "排版核验",
+      "bytes": 585634,
+      "sha256": "221ea08599dae08108e898b7a91d74934f932a721cbd1a05db248a1af4715f21",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/qa_academic/page-02.png",
+      "source_path": "正式版/qa_academic/page-02.png",
+      "category": "排版核验",
+      "bytes": 260688,
+      "sha256": "0b1bf8de56437e772c546588ed9132980fe20b0e14326ebab8321f0f6a702fc4",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/qa_academic/page-03.png",
+      "source_path": "正式版/qa_academic/page-03.png",
+      "category": "排版核验",
+      "bytes": 275417,
+      "sha256": "542acefb080e7853b11ca8f2d821dddb5b0721c70890cf27315de97d1911d2a6",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/qa_academic/page-04.png",
+      "source_path": "正式版/qa_academic/page-04.png",
+      "category": "排版核验",
+      "bytes": 242575,
+      "sha256": "1a04ba2ae89ef4d48f2a4391afd0443a3e0a27a4862270ab8bbf24c0e8a3cedd",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/qa_academic/page-05.png",
+      "source_path": "正式版/qa_academic/page-05.png",
+      "category": "排版核验",
+      "bytes": 222133,
+      "sha256": "9c36180d475aa9b5154b0effd2ad681a0c4ae1a2188c8fed774d80583be0dc18",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/qa_academic/page-06.png",
+      "source_path": "正式版/qa_academic/page-06.png",
+      "category": "排版核验",
+      "bytes": 387703,
+      "sha256": "1cc67ebd10be77c4f3d892d62742bdfc3291296d863394315b406aee1521ed8f",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/qa_academic/page-07.png",
+      "source_path": "正式版/qa_academic/page-07.png",
+      "category": "排版核验",
+      "bytes": 215579,
+      "sha256": "64c90785b388e3d413082c7bb22122e1a4353b96f1f2ec4f3e765325a724d29c",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/qa_academic/page-08.png",
+      "source_path": "正式版/qa_academic/page-08.png",
+      "category": "排版核验",
+      "bytes": 248808,
+      "sha256": "7275c02ee3eaeb079c22fd78bdedfd26b2369634923c51f881e34aec08b2bf46",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/qa_academic/page-09.png",
+      "source_path": "正式版/qa_academic/page-09.png",
+      "category": "排版核验",
+      "bytes": 314442,
+      "sha256": "ee4a59f4bdf38c39934abcb5f7570e82bdb852082baa936c71f73ef67d7b652e",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/qa_academic/page-10.png",
+      "source_path": "正式版/qa_academic/page-10.png",
+      "category": "排版核验",
+      "bytes": 180455,
+      "sha256": "76f83d6ac60cff17e03984554629d830c2170f0f2c3dd741a843308b49d97a7e",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/qa_academic/page-11.png",
+      "source_path": "正式版/qa_academic/page-11.png",
+      "category": "排版核验",
+      "bytes": 205904,
+      "sha256": "a2864c9ef6ab6b7a8c326cec3a6fac92ce9bfb78a82e62de59a9a91567a1a994",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/qa_academic/page-12.png",
+      "source_path": "正式版/qa_academic/page-12.png",
+      "category": "排版核验",
+      "bytes": 232160,
+      "sha256": "b307bca184ccbdb3b774cf1828afbcecea1c78cc0ede51d2e25e05b7cb96e08f",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/qa_academic/page-13.png",
+      "source_path": "正式版/qa_academic/page-13.png",
+      "category": "排版核验",
+      "bytes": 193546,
+      "sha256": "7aede6dcee4d0b3182b81de37758cffbbb5cc80957a5c92d50d172f8fb39b0dd",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/reference_index.json",
+      "source_path": "正式版/reference_index.json",
+      "category": "早期证据与核验记录",
+      "bytes": 14191,
+      "sha256": "4367921862a6c889086ba591f94a39d2883dfd1967c000b6548389d1a344fc6a",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/参考核查说明.md",
+      "source_path": "正式版/参考核查说明.md",
+      "category": "早期证据与核验记录",
+      "bytes": 6971,
+      "sha256": "f59a3a6d9564272dfe2cc65be804b4b0e372e1be4bac2dc07052bd07e54f40e4",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/场景内容.md",
+      "source_path": "正式版/场景内容.md",
+      "category": "早期证据与核验记录",
+      "bytes": 12415,
+      "sha256": "ebaa2079f5005e846e52421c0f934d2e997b23dd0f55218b194b75ce250d90ae",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/深度修订/assets/ckb_life_expectancy.pdf",
+      "source_path": "正式版/深度修订/assets/ckb_life_expectancy.pdf",
+      "category": "图表、插图与汇总数据",
+      "bytes": 59792,
+      "sha256": "147e2092f39323841487118c94b90076daa193bb41d2b39dfdc771e0d3d1810d",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/深度修订/assets/ckb_life_expectancy.png",
+      "source_path": "正式版/深度修订/assets/ckb_life_expectancy.png",
+      "category": "图表、插图与汇总数据",
+      "bytes": 190962,
+      "sha256": "ffe1253a987ddd398bdf3fe516fcc4516195b0bd9878bce20e90927e79221cf9",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/深度修订/assets/ckb_life_expectancy_data.csv",
+      "source_path": "正式版/深度修订/assets/ckb_life_expectancy_data.csv",
+      "category": "图表、插图与汇总数据",
+      "bytes": 459,
+      "sha256": "a6d83feb6e8313732ce6fdbaca8b1125e0dbd4faee4fb0b6728e058550f66227",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/深度修订/assets/create_ckb_life_expectancy.py",
+      "source_path": "正式版/深度修订/assets/create_ckb_life_expectancy.py",
+      "category": "图表、插图与汇总数据",
+      "bytes": 3537,
+      "sha256": "24219f4eab4aaaa1f06930a9b959cd655de25c130f467bb961576b43cb89097f",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/深度修订/build_manuscript.py",
+      "source_path": "正式版/深度修订/build_manuscript.py",
+      "category": "生成与整理源码",
+      "bytes": 10106,
+      "sha256": "cad2d1fab42a7c72d9056f1c7065a6de34e4c804449a463049f07797deee3829",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/深度修订/manuscript_content.py",
+      "source_path": "正式版/深度修订/manuscript_content.py",
+      "category": "生成与整理源码",
+      "bytes": 20115,
+      "sha256": "38c0a6712a553a69246e60c0fce4b65f4e5332983924ec59adcfa730d68017e9",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/深度修订/output/健康生活方式形成与维持_文献深化稿.md",
+      "source_path": "正式版/深度修订/output/健康生活方式形成与维持_文献深化稿.md",
+      "category": "当前文献深化稿",
+      "bytes": 25705,
+      "sha256": "cda034993aa679f1baa114a8eda2ef6bd3398e7d539e7f41ca72b78d36719230",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/深度修订/output/健康生活方式形成与维持_文献深化稿.pdf",
+      "source_path": "正式版/深度修订/output/健康生活方式形成与维持_文献深化稿.pdf",
+      "category": "当前文献深化稿",
+      "bytes": 730131,
+      "sha256": "42d7fcfdcc275fcce59cd7ca60009d345f0b658c5e81fb33f4eb2eb776466fb5",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/深度修订/output/检索与编制说明.md",
+      "source_path": "正式版/深度修订/output/检索与编制说明.md",
+      "category": "当前文献深化稿",
+      "bytes": 4902,
+      "sha256": "b06402cc6518889f9146907c9e5b237f0873e45452107bd538beb99c85e54936",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/深度修订/qa/contact.png",
+      "source_path": "正式版/深度修订/qa/contact.png",
+      "category": "排版核验",
+      "bytes": 575812,
+      "sha256": "e8b2bc535e569cb5bab1ea1395123a0d35e08cc80616c9a7f388f7bc04a13540",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/深度修订/qa/page-1.png",
+      "source_path": "正式版/深度修订/qa/page-1.png",
+      "category": "排版核验",
+      "bytes": 443474,
+      "sha256": "a92f4fbc264ff67a3de166b4093d9e818112c8054533c7e00b9b83a057d40d53",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/深度修订/qa/page-2.png",
+      "source_path": "正式版/深度修订/qa/page-2.png",
+      "category": "排版核验",
+      "bytes": 397762,
+      "sha256": "44c6bc3608b09d719391e3ebd586f1203aa46961c76a25fabf51216bb0be20e1",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/深度修订/qa/page-3.png",
+      "source_path": "正式版/深度修订/qa/page-3.png",
+      "category": "排版核验",
+      "bytes": 403900,
+      "sha256": "c328ba9263ea320e79aac45153d12b8460eab28694b9fd64d65bde32da7d3d1c",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/深度修订/qa/page-4.png",
+      "source_path": "正式版/深度修订/qa/page-4.png",
+      "category": "排版核验",
+      "bytes": 393097,
+      "sha256": "ee4f7f1ae758ed84801872fb1423b32ab02dbc2a6ca72dec63689d65794bb757",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/深度修订/qa/page-5.png",
+      "source_path": "正式版/深度修订/qa/page-5.png",
+      "category": "排版核验",
+      "bytes": 481418,
+      "sha256": "db210a0438d16f282d989c514f94bf7f9d7ba4cebee11e48f42100497363d7c8",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/深度修订/qa/page-6.png",
+      "source_path": "正式版/深度修订/qa/page-6.png",
+      "category": "排版核验",
+      "bytes": 436331,
+      "sha256": "5d8e6a3c8ca339165b54d288482a512974a7a089aba82956250993191628b42d",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/深度修订/qa/page-7.png",
+      "source_path": "正式版/深度修订/qa/page-7.png",
+      "category": "排版核验",
+      "bytes": 286697,
+      "sha256": "e093e38dc178e5fb88467fb6d48754b67f1d7930572551c3652b9f270a61f340",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/深度修订/qa/page-8.png",
+      "source_path": "正式版/深度修订/qa/page-8.png",
+      "category": "排版核验",
+      "bytes": 196212,
+      "sha256": "b867e33c97a63e55d56f27c42d948d488b9493e7d70c01a7d831675381a83935",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/深度修订/qa/page-9.png",
+      "source_path": "正式版/深度修订/qa/page-9.png",
+      "category": "排版核验",
+      "bytes": 196169,
+      "sha256": "011f9abeaaa9e89cc815c62e940640f2a7436f1e133f3b69bc6777a31492e730",
+      "status": "历史中间渲染，非当前第9页"
+    },
+    {
+      "path": "健康生活研究/正式版/深度修订/qa/validation.json",
+      "source_path": "正式版/深度修订/qa/validation.json",
+      "category": "排版核验",
+      "bytes": 566,
+      "sha256": "4a9c72956351c41f468963470edd52a6148f25f6c2e9c05b3f847ccdfaf93e9a",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/深度修订/reference_library.json",
+      "source_path": "正式版/深度修订/reference_library.json",
+      "category": "深化检索与编辑记录",
+      "bytes": 38550,
+      "sha256": "0f0b9d1216a8ea73c2a656757ba43c8ec3e97dc468352f44cce43b5c3a33ced1",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/深度修订/中文检索记录.md",
+      "source_path": "正式版/深度修订/中文检索记录.md",
+      "category": "深化检索与编辑记录",
+      "bytes": 9507,
+      "sha256": "dc5333538ecc18f1279918f0ed635794b78ac1e9c4be4055df2c62c87afac783",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/深度修订/中文证据.json",
+      "source_path": "正式版/深度修订/中文证据.json",
+      "category": "深化检索与编辑记录",
+      "bytes": 16759,
+      "sha256": "11273057c6135e23b4481803a7a9c9a4de1fb575fa60f1bcf843fefe86f2ea39",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/深度修订/国际检索记录.md",
+      "source_path": "正式版/深度修订/国际检索记录.md",
+      "category": "深化检索与编辑记录",
+      "bytes": 6801,
+      "sha256": "c2597459da82c901bfe828ad92a01bca51de5381c18fb9436a19fd1d706dd965",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/深度修订/国际证据.json",
+      "source_path": "正式版/深度修订/国际证据.json",
+      "category": "深化检索与编辑记录",
+      "bytes": 14125,
+      "sha256": "fd0827183646d61a2c44446477924469acf17431e4c5c3c807f0023ee23524ca",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/正式版/深度修订/编辑诊断.md",
+      "source_path": "正式版/深度修订/编辑诊断.md",
+      "category": "深化检索与编辑记录",
+      "bytes": 18691,
+      "sha256": "2bfafef4baf64f3243f899aa3d30719357f901a4fdbe08d8ea0055ec060eec33",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/行为与经济证据.md",
+      "source_path": "行为与经济证据.md",
+      "category": "早期证据与核验记录",
+      "bytes": 12428,
+      "sha256": "c2ab389b2df3487950a6864db89a90a116345e0c78e58783cbd71adc34fe9640",
+      "status": "原字节保留"
+    },
+    {
+      "path": "健康生活研究/论文审阅底稿.md",
+      "source_path": "论文审阅底稿.md",
+      "category": "初稿与实践方案",
+      "bytes": 17803,
+      "sha256": "0feb1b6c075987b07de2ad355192fb4a8522156a591953468f7312d7ad154fbc",
+      "status": "原字节保留"
+    }
+  ],
+  "excluded_cache_files": [
+    {
+      "source_path": "正式版/__pycache__/academic_content.cpython-312.pyc",
+      "reason": "Python可再生运行缓存，不属于研究交付资产",
+      "bytes": 20826
+    },
+    {
+      "source_path": "正式版/__pycache__/book_content.cpython-312.pyc",
+      "reason": "Python可再生运行缓存，不属于研究交付资产",
+      "bytes": 20166
+    },
+    {
+      "source_path": "正式版/深度修订/__pycache__/manuscript_content.cpython-312.pyc",
+      "reason": "Python可再生运行缓存，不属于研究交付资产",
+      "bytes": 21347
+    }
+  ],
+  "github_reading_copies": [
+    {
+      "source": "健康生活研究/正式版/output/把健康放回日常生活_正式文字稿.md",
+      "reading_copy": "健康生活研究/阅读版/把健康放回日常生活_正式文字稿.md",
+      "image_links_changed": 4
+    },
+    {
+      "source": "健康生活研究/正式版/output/健康生活方式_学术修订稿.md",
+      "reading_copy": "健康生活研究/阅读版/健康生活方式_学术修订稿.md",
+      "image_links_changed": 4
+    },
+    {
+      "source": "健康生活研究/正式版/深度修订/output/健康生活方式形成与维持_文献深化稿.md",
+      "reading_copy": "健康生活研究/阅读版/健康生活方式形成与维持_文献深化稿.md",
+      "image_links_changed": 2
+    }
+  ],
+  "notes": [
+    "原资产原字节保留；本次新增文档不纳入原资产计数。",
+    "未导出完整对话记录；版本沿革为阶段摘要。",
+    "第三方个体原始研究数据未包含在归档中。"
+  ],
+  "repository_subdirectory": "collections/health-lifestyle"
+}

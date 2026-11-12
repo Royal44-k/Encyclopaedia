@@ -1,0 +1,40 @@
+{
+  "pages": 8,
+  "references": 23,
+  "source_keys": [
+    "CN03",
+    "CN04",
+    "INT01_CKB_LE2022",
+    "CN01",
+    "ALCOHOL_MR",
+    "INT03_DAQING2019",
+    "OLD06",
+    "OLD04",
+    "INT05_MILNE2002",
+    "INT04_LALLY2010",
+    "OLD07",
+    "OLD18",
+    "OLD10",
+    "OLD11",
+    "OLD19",
+    "OLD12",
+    "OLD08",
+    "OLD09",
+    "INT06_OLSON2015",
+    "OLD14",
+    "CN02",
+    "OLD16",
+    "OLD17"
+  ],
+  "links": 23,
+  "text_chars": [
+    1254,
+    1102,
+    1018,
+    1221,
+    1368,
+    2016,
+    2768,
+    585
+  ]
+}

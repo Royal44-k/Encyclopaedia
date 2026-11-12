@@ -1,0 +1,25 @@
+{
+  "checked_on": "2026-11-12",
+  "structural_checks": "passed",
+  "claim_records": 35,
+  "source_records": 19,
+  "outputs": [
+    {
+      "file": "学术观点论文.md",
+      "references": 18,
+      "han_characters": 5499
+    },
+    {
+      "file": "把健康放回日常生活.md",
+      "references": 16,
+      "han_characters": 3626
+    }
+  ],
+  "human_verification": "pending",
+  "submission_ready": false,
+  "limits": [
+    "结构检查不验证科学正确性",
+    "主文已进行AI证据核对，尚无人类作者或同行审阅",
+    "未开展系统检索或正式偏倚风险评价"
+  ]
+}

@@ -1,0 +1,4 @@
+# Preserve archived source bytes and binary assets across platforms.
+健康生活研究/** -text
+*.pdf binary
+*.png binary

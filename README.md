@@ -6,6 +6,7 @@
 |---|---|---|
 | AI 与组织变革 | 腾讯研究院报告精读、跨领域文献、选题、两篇双语论文、图稿与制作源文件 | [专题目录](collections/ai-organization/README.md) |
 | AI 与健康价值 | 理论与证据准备、中英文论文、数据表、图稿及历次版本 | [专题目录](collections/health-value-ai/README.md) |
+| 健康生活方式 | 中国权威依据、初稿与实践方案、三轮正式文稿、检索记录、图表与制作源码 | [专题目录](collections/health-lifestyle/README.md) |
 
 本次归档日期：2026-11-12。现有稿件属于研究准备材料或作者审阅稿；归档不代表投稿、发表或完成实证研究。
 

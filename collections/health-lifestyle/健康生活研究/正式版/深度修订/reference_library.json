@@ -1,0 +1,939 @@
+[
+  {
+    "number": 1,
+    "source_key": "CN03",
+    "id": "CN03",
+    "status": "usable_original_html",
+    "priority": "核心补充：中国队列证据综述与因果边界",
+    "language": "zh",
+    "authors": [
+      "庞元捷",
+      "余灿清",
+      "郭彧",
+      "吕筠",
+      "李立明"
+    ],
+    "title": "中国成年人行为生活方式与主要慢性病的关联——来自中国慢性病前瞻性研究的证据",
+    "year": 2021,
+    "journal": "中华流行病学杂志",
+    "volume": "42",
+    "issue": "3",
+    "pages": "369–375",
+    "doi": "10.3760/cma.j.cn112338-20210111-00024",
+    "citation": "庞元捷, 余灿清, 郭彧, 等. 中国成年人行为生活方式与主要慢性病的关联——来自中国慢性病前瞻性研究的证据[J]. 中华流行病学杂志, 2021, 42(3): 369-375. DOI: 10.3760/cma.j.cn112338-20210111-00024.",
+    "url": "https://html.rhhz.net/zhlxbx/20210301.htm",
+    "accessed": "2026-11-12",
+    "discovery_query_ids": [
+      "Q05",
+      "Q21"
+    ],
+    "retrieval": {
+      "entry": "站外网页检索 → 期刊HTML全文",
+      "mode": "站外索引发现，非CNKI站内检索",
+      "level": "HTML全文；直接阅读摘要、各专题段落及引用元数据",
+      "successful_urls": [
+        "https://html.rhhz.net/zhlxbx/20210301.htm"
+      ],
+      "metadata_verified": [
+        "全部作者",
+        "题名",
+        "年份",
+        "卷期页",
+        "DOI"
+      ],
+      "results_verified_at": "正文第2部分饮酒、第4部分体力活动、第6部分综合生活方式"
+    },
+    "study": {
+      "design": "中国慢性病前瞻性研究（CKB）成果的叙述性综述；不是新的独立试验",
+      "population": "所述CKB基线为中国5城市、5农村地区50余万名30–79岁成年人",
+      "study_family": "CKB；引用其中原始分析时应避免把同一队列报告当成多个独立样本"
+    },
+    "findings": [
+      "梳理吸烟、饮酒、饮食、体力活动和体脂等因素与主要慢性病的关联。",
+      "正文区分职业、家务和通勤活动，提示中国人群行为模式与西方人群存在差别。",
+      "饮酒部分说明：普通观察性分析呈U形关联，但基因工具分析不支持适量饮酒保护心血管；混杂与反向因果可造成不一致。"
+    ],
+    "safe_sentence": "中国大型队列证据支持从多种行为及其共同发生的情境理解慢病风险。对观察性分析中看似有利的行为仍需考察混杂与反向因果，例如适量饮酒的保护性关联并未得到该综述所述基因工具分析的支持。",
+    "limitations": [
+      "本条是二次综述，不应冒充CKB某一原始分析。",
+      "文中归因比例属于群体模型估计，不是某个人采取习惯后的确定获益。",
+      "部分HTML不等号被解析为异常汉字，未据此抄录阈值；具体数值建议回到原始研究或PDF。",
+      "其历史饮食及评分定义不替代2022年以后现行指南。"
+    ],
+    "suggested_use": "用于解释为何采用中国证据、为何区分关联与因果；对具体生活方式效应优先再引原始研究。"
+  },
+  {
+    "number": 2,
+    "source_key": "CN04",
+    "id": "CN04",
+    "status": "usable_cnki_hosted_original_abstract",
+    "priority": "补充：我国健康素养研究与政策实践背景",
+    "language": "zh",
+    "authors": [
+      "李英华",
+      "吴敬",
+      "李长宁"
+    ],
+    "title": "我国健康素养研究与实践",
+    "year": 2023,
+    "journal": "首都公共卫生",
+    "volume": "17",
+    "issue": "2",
+    "pages": "65–70",
+    "doi": "10.16760/j.cnki.sdggws.2023.02.002",
+    "citation": "李英华, 吴敬, 李长宁. 我国健康素养研究与实践[J]. 首都公共卫生, 2023, 17(2): 65-70. DOI: 10.16760/j.cnki.sdggws.2023.02.002.",
+    "url": "https://sdgw.cbpt.cnki.net/portal/journal/portal/client/paper/8db363b53be1c4448213a30962dc6c5d",
+    "accessed": "2026-11-12",
+    "discovery_query_ids": [
+      "Q03",
+      "Q23"
+    ],
+    "retrieval": {
+      "entry": "站外site:cnki.net索引 → CNKI托管的期刊公开文章页",
+      "mode": "站外索引发现；已打开CNKI域名期刊页面，未执行CNKI数据库站内检索",
+      "level": "原始摘要、参考文献、出版信息；全文未取得",
+      "successful_urls": [
+        "https://sdgw.cbpt.cnki.net/portal/journal/portal/client/paper/8db363b53be1c4448213a30962dc6c5d"
+      ],
+      "access_limitation": "页面明确提示如需获取全文请访问cnki.net；没有把该提示当成全文权限",
+      "metadata_verified": [
+        "全部作者",
+        "题名",
+        "年份",
+        "卷期页",
+        "DOI"
+      ],
+      "results_verified_at": "期刊公开原始摘要；页面引用信息"
+    },
+    "study": {
+      "design": "研究与实践综述/政策评论，不是干预效果试验"
+    },
+    "findings": [
+      "原摘要回顾我国健康素养研究与促进工作的演进。",
+      "报告2012—2021年监测水平上升，同时提示地区和人群不均衡；本次修订的现状数据仍应采用最近官方监测。"
+    ],
+    "safe_sentence": "我国健康素养研究已形成持续监测与促进实践，但水平提升并不意味着不同地区和人群之间的差距已经消失。",
+    "limitations": [
+      "不是验证健康素养导致行为改变的因果研究。",
+      "没有直接测量本论文所设计个人计划的有效性。",
+      "仅获得摘要及参考资料，不能引述未读正文中的具体机制。"
+    ],
+    "suggested_use": "用于健康素养背景；将健康知识、信息理解、实际行为和健康结局分别设置指标。"
+  },
+  {
+    "number": 3,
+    "source_key": "INT01_CKB_LE2022",
+    "id": "INT01_CKB_LE2022",
+    "authors": "Sun Q, Yu D, Fan J, et al.",
+    "title": "Healthy lifestyle and life expectancy at age 30 years in the Chinese population: an observational study",
+    "journal": "The Lancet Public Health",
+    "year": 2022,
+    "volume": "7",
+    "issue": "12",
+    "pages": "e994-e1004",
+    "doi": "10.1016/S2468-2667(22)00110-4",
+    "citation": "Sun Q, Yu D, Fan J, et al. Healthy lifestyle and life expectancy at age 30 years in the Chinese population: an observational study[J]. The Lancet Public Health, 2022, 7(12): e994-e1004. DOI: 10.1016/S2468-2667(22)00110-4.",
+    "urls": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC7615002/",
+      "https://pubmed.ncbi.nlm.nih.gov/35926549/",
+      "https://doi.org/10.1016/S2468-2667(22)00110-4"
+    ],
+    "access": "已取得PMC作者稿全文；题名在作者稿为at age 30，正式出版题名含years。",
+    "design": "前瞻性队列与寿命表建模；CKB分析487209人，基线30—79岁；中位随访11.1年，42496例死亡；另结合CNHS与GBD 2015数据。",
+    "exposure": "5项低风险指标：吸烟、饮酒、活动、膳食、体型；比较全部5项与0—1项。",
+    "estimates": [
+      {
+        "outcome": "全因死亡",
+        "measure": "调整HR",
+        "value": 0.38,
+        "ci95": [
+          0.34,
+          0.43
+        ],
+        "source_location": "PMC摘要Findings及正文结果"
+      },
+      {
+        "outcome": "30岁男性剩余预期寿命差",
+        "measure": "年",
+        "value": 8.8,
+        "ci95": [
+          6.8,
+          10.7
+        ],
+        "source_location": "PMC摘要Findings"
+      },
+      {
+        "outcome": "30岁女性剩余预期寿命差",
+        "measure": "年",
+        "value": 8.1,
+        "ci95": [
+          6.5,
+          9.9
+        ],
+        "source_location": "PMC摘要Findings"
+      }
+    ],
+    "support": "可为中国人群多因素生活方式与长期健康的关联提供本土依据。",
+    "limits": "观察性、基线暴露自报、残余混杂；寿命差是模型估计，不能写成干预保证延寿。体型并非行为本身；研究低风险分组不能转作饮酒或体重处方。",
+    "proposed_section": "2 证据基础：队列关联与干预效果分别论述",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7615002/"
+  },
+  {
+    "number": 4,
+    "source_key": "CN01",
+    "id": "CN01",
+    "status": "usable_original_abstract",
+    "priority": "核心补充：中国人群前瞻性关联",
+    "language": "zh",
+    "authors": [
+      "胡梦婕",
+      "邹雁秋",
+      "郑迪心"
+    ],
+    "authors_truncated": true,
+    "title": "中国中老年居民生活方式与全因死亡风险关联的前瞻性研究",
+    "year": 2025,
+    "journal": "中华流行病学杂志",
+    "volume": "46",
+    "issue": "5",
+    "pages": "761–767",
+    "doi": "10.3760/cma.j.cn112338-20241016-00638",
+    "pmid": "40494782",
+    "citation": "胡梦婕, 邹雁秋, 郑迪心, 等. 中国中老年居民生活方式与全因死亡风险关联的前瞻性研究[J]. 中华流行病学杂志, 2025, 46(5): 761-767. DOI: 10.3760/cma.j.cn112338-20241016-00638.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/40494782/",
+    "publisher_url": "https://cs.medjournals.cn/article/doi/full/10.3760/cma.j.cn112338-20241016-00638",
+    "accessed": "2026-11-12",
+    "discovery_query_ids": [
+      "Q07",
+      "Q13"
+    ],
+    "retrieval": {
+      "entry": "站外网页检索 → 中华医学会期刊目录原始摘要 → PubMed正式记录",
+      "mode": "站外索引发现，非CNKI站内检索",
+      "level": "原始中英文摘要与元数据；全文未取得",
+      "successful_urls": [
+        "https://cs.medjournals.cn/cn/toc/66022",
+        "https://pubmed.ncbi.nlm.nih.gov/40494782/"
+      ],
+      "failed_attempts": [
+        "期刊独立全文页多次超时",
+        "PubMed指向yiigle的全文入口仅返回loading页面"
+      ],
+      "metadata_verified": [
+        "作者前3位",
+        "中文题名",
+        "年份",
+        "卷期页",
+        "DOI",
+        "PMID"
+      ],
+      "results_verified_at": "期刊目录原始摘要；PubMed Abstract中文及英文"
+    },
+    "study": {
+      "design": "CHARLS数据的前瞻性队列分析；非随机试验",
+      "population": "中国中老年居民",
+      "baseline_year": 2011,
+      "n": 5436,
+      "follow_up": "平均8.2年",
+      "events": {
+        "all_cause_deaths": 695
+      },
+      "exposure": "由吸烟、饮酒、睡眠、BMI和体力活动构成的5项综合生活方式评分；摘要未给出各项全部操作定义"
+    },
+    "effect_estimates": [
+      {
+        "outcome": "全因死亡",
+        "comparison": "得分2分 vs 0–1分",
+        "measure": "调整后HR",
+        "estimate": 0.78,
+        "ci95": [
+          0.62,
+          0.98
+        ]
+      },
+      {
+        "outcome": "全因死亡",
+        "comparison": "得分3分 vs 0–1分",
+        "measure": "调整后HR",
+        "estimate": 0.56,
+        "ci95": [
+          0.44,
+          0.72
+        ]
+      },
+      {
+        "outcome": "全因死亡",
+        "comparison": "得分4分 vs 0–1分",
+        "measure": "调整后HR",
+        "estimate": 0.36,
+        "ci95": [
+          0.27,
+          0.48
+        ]
+      },
+      {
+        "outcome": "全因死亡",
+        "comparison": "得分5分 vs 0–1分",
+        "measure": "调整后HR",
+        "estimate": 0.33,
+        "ci95": [
+          0.21,
+          0.52
+        ]
+      }
+    ],
+    "safe_sentence": "一项纳入5 436名中国中老年人的队列分析在平均8.2年随访中观察到695例死亡，综合生活方式评分越高，全因死亡风险越低；这一结果支持关注多种行为的组合，但属于观察性关联。",
+    "limitations": [
+      "不能把HR解释为个人寿命增益或干预因果效应。",
+      "结果以中老年样本为主，不可无条件推广至所有青年人或特殊患者。",
+      "未取得全文，不对完整混杂调整、失访机制、评分阈值作确定陈述。",
+      "评分把适量饮酒列为有利项，不构成鼓励不饮酒者开始饮酒的依据；需结合更强的酒精因果证据。"
+    ],
+    "suggested_use": "用于中国人群证据段；与试验结果分开陈述，不制作统一的个人健康分数。"
+  },
+  {
+    "number": 5,
+    "source_key": "ALCOHOL_MR",
+    "authors": [
+      "Millwood IY",
+      "Walters RG",
+      "Mei XW"
+    ],
+    "title": "Conventional and genetic evidence on alcohol and vascular disease aetiology: a prospective study of 500 000 men and women in China",
+    "year": 2019,
+    "journal": "The Lancet",
+    "volume": "393",
+    "issue": "10183",
+    "pages": "1831-1842",
+    "doi": "10.1016/S0140-6736(18)31772-0",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6497989/",
+    "citation": "Millwood IY, Walters RG, Mei XW, et al. Conventional and genetic evidence on alcohol and vascular disease aetiology: a prospective study of 500 000 men and women in China[J]. The Lancet, 2019, 393(10183): 1831-1842. DOI: 10.1016/S0140-6736(18)31772-0.",
+    "access": "PMC全文；核验遗传分析与常规观察性分析的区别。"
+  },
+  {
+    "number": 6,
+    "source_key": "INT03_DAQING2019",
+    "id": "INT03_DAQING2019",
+    "authors": "Gong Q, Zhang P, Wang J, et al.; Da Qing Diabetes Prevention Study Group",
+    "title": "Morbidity and mortality after lifestyle intervention for people with impaired glucose tolerance: 30-year results of the Da Qing Diabetes Prevention Outcome Study",
+    "journal": "The Lancet Diabetes & Endocrinology",
+    "year": 2019,
+    "volume": "7",
+    "issue": "6",
+    "pages": "452-461",
+    "doi": "10.1016/S2213-8587(19)30093-2",
+    "citation": "Gong Q, Zhang P, Wang J, et al. Morbidity and mortality after lifestyle intervention for people with impaired glucose tolerance: 30-year results of the Da Qing Diabetes Prevention Outcome Study[J]. The Lancet Diabetes & Endocrinology, 2019, 7(6): 452-461. DOI: 10.1016/S2213-8587(19)30093-2.",
+    "urls": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC8172050/",
+      "https://pubmed.ncbi.nlm.nih.gov/31036503/",
+      "https://doi.org/10.1016/S2213-8587(19)30093-2"
+    ],
+    "access": "已取得PMC作者稿全文。",
+    "design": "1986年大庆33家诊所整群随机试验的长期随访；577名25—74岁糖耐量受损成人，1人拒绝基线检查；6年主动干预后常规医疗，30年时540/576（94%）获结局评估。",
+    "estimates": [
+      {
+        "outcome": "糖尿病起病推迟",
+        "measure": "中位年数",
+        "value": 3.96,
+        "ci95": [
+          1.25,
+          6.67
+        ],
+        "source_location": "Summary Findings"
+      },
+      {
+        "outcome": "心血管事件",
+        "measure": "HR",
+        "value": 0.74,
+        "ci95": [
+          0.59,
+          0.92
+        ],
+        "source_location": "Summary Findings"
+      },
+      {
+        "outcome": "全因死亡",
+        "measure": "HR",
+        "value": 0.74,
+        "ci95": [
+          0.61,
+          0.89
+        ],
+        "source_location": "Summary Findings"
+      },
+      {
+        "outcome": "平均预期寿命增益",
+        "measure": "年",
+        "value": 1.44,
+        "ci95": [
+          0.2,
+          2.68
+        ],
+        "source_location": "Summary Findings"
+      }
+    ],
+    "support": "支持对中国糖耐量受损高风险成人开展有组织的膳食、运动生活方式干预。",
+    "limits": "效应比较合并干预组与对照；不能拆分各行为独立贡献。不是持续干预30年；试验结束后的依从性未知，样本较小且并发症非原试验设计目标；不能直接外推一般健康成人。",
+    "proposed_section": "2 干预证据，优先补入中国本土随机证据",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8172050/"
+  },
+  {
+    "number": 6,
+    "source_key": "OLD06",
+    "authors": [
+      "Neal B",
+      "Wu Y",
+      "Feng X"
+    ],
+    "title": "Effect of salt substitution on cardiovascular events and death",
+    "year": 2021,
+    "type": "J",
+    "journal": "New England Journal of Medicine",
+    "volume": "385",
+    "issue": "12",
+    "pages": "1067–1077",
+    "article_number": null,
+    "doi": "10.1056/NEJMoa2105675",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/34459569/",
+    "accessed": "2026-11-12",
+    "authors_truncated": true,
+    "pmid": "34459569",
+    "citation": "Neal B, Wu Y, Feng X, et al. Effect of salt substitution on cardiovascular events and death[J]. New England Journal of Medicine, 2021, 385(12): 1067-1077. DOI: 10.1056/NEJMoa2105675.",
+    "identifiers": {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34459569/",
+      "doi": "10.1056/NEJMoa2105675"
+    }
+  },
+  {
+    "number": 4,
+    "source_key": "OLD04",
+    "authors": [
+      "Michie S",
+      "van Stralen MM",
+      "West R"
+    ],
+    "title": "The behaviour change wheel: a new method for characterising and designing behaviour change interventions",
+    "year": 2011,
+    "type": "J",
+    "journal": "Implementation Science",
+    "volume": "6",
+    "issue": null,
+    "pages": null,
+    "article_number": "42",
+    "doi": "10.1186/1748-5908-6-42",
+    "url": "https://link.springer.com/article/10.1186/1748-5908-6-42",
+    "accessed": "2026-11-12",
+    "citation": "Michie S, van Stralen MM, West R. The behaviour change wheel: a new method for characterising and designing behaviour change interventions[J]. Implementation Science, 2011, 6: 42. DOI: 10.1186/1748-5908-6-42.",
+    "identifiers": {
+      "url": "https://link.springer.com/article/10.1186/1748-5908-6-42",
+      "doi": "10.1186/1748-5908-6-42"
+    }
+  },
+  {
+    "number": 9,
+    "source_key": "INT05_MILNE2002",
+    "id": "INT05_MILNE2002",
+    "authors": "Milne S, Orbell S, Sheeran P",
+    "title": "Combining motivational and volitional interventions to promote exercise participation: Protection motivation theory and implementation intentions",
+    "journal": "British Journal of Health Psychology",
+    "year": 2002,
+    "volume": "7",
+    "issue": "Pt 2",
+    "pages": "163-184",
+    "doi": "10.1348/135910702169420",
+    "citation": "Milne S, Orbell S, Sheeran P. Combining motivational and volitional interventions to promote exercise participation: Protection motivation theory and implementation intentions[J]. British Journal of Health Psychology, 2002, 7(Pt 2): 163-184. DOI: 10.1348/135910702169420.",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/14596707/",
+      "https://bpspsychub.onlinelibrary.wiley.com/doi/pdf/10.1348/135910702169420"
+    ],
+    "access": "已打开PubMed摘要及Wiley原文PDF全文。",
+    "design": "英国大学生随机三组研究；最终分析248人（18—34岁、73%女性），两周三次测量；教育加时间地点计划79人、仅教育93人、对照76人。",
+    "estimates": [
+      {
+        "outcome": "第3次测量：此前一周至少一次20分钟锻炼",
+        "measure": "原文报告比例",
+        "combined_intervention": "91%",
+        "education_only": "35%",
+        "control": "38%",
+        "ci95": null,
+        "ci_note": "原文此结果未报告95%CI；不从四舍五入比例反推人数或置信区间。",
+        "test": "χ²(2)=71.28，p<0.001",
+        "source_location": "正文p173，Figure 1；方法p168"
+      }
+    ],
+    "support": "为在行为意向之外明确何时何地执行提供短期实验证据。",
+    "limits": "两周、小规模学生样本、行为自报、完成者分析；不能等同于长期习惯或健康结局改善，也不能把91%作为中国职工的预计依从率。",
+    "proposed_section": "3 意向到行动；4.1活动时段设计",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/14596707/"
+  },
+  {
+    "number": 10,
+    "source_key": "INT04_LALLY2010",
+    "id": "INT04_LALLY2010",
+    "authors": "Lally P, van Jaarsveld CHM, Potts HWW, Wardle J",
+    "title": "How are habits formed: Modelling habit formation in the real world",
+    "journal": "European Journal of Social Psychology",
+    "year": 2010,
+    "volume": "40",
+    "issue": "6",
+    "pages": "998-1009",
+    "doi": "10.1002/ejsp.674",
+    "citation": "Lally P, van Jaarsveld CHM, Potts HWW, Wardle J. How are habits formed: Modelling habit formation in the real world[J]. European Journal of Social Psychology, 2010, 40(6): 998-1009. DOI: 10.1002/ejsp.674.",
+    "urls": [
+      "https://onlinelibrary.wiley.com/doi/10.1002/ejsp.674",
+      "https://www.flexyourbrain.com/wp-content/uploads/2015/10/UL-STUDY-66-Days-IJSP_998-1009.pdf"
+    ],
+    "access": "期刊页核验题录和摘要；取得公开保存的原论文PDF全文（第三方托管，非期刊托管）。",
+    "design": "96名志愿者选择固定情境下每天重复饮食、饮水或活动行为，追踪84天；82人足够数据、62人能拟合、39人拟合良好。",
+    "estimates": [
+      {
+        "outcome": "达到个体自动化渐近值95%的模型估计天数（39人）",
+        "measure": "中位数",
+        "value": 66,
+        "quartiles": [
+          39,
+          102
+        ],
+        "range": [
+          18,
+          254
+        ],
+        "ci95": null,
+        "ci_note": "原文表2报告四分位数和范围，不是95%CI。",
+        "source_location": "正文p1002；表2，p1004"
+      }
+    ],
+    "support": "支持固定线索下重复行为及个体化维持评价，不能用固定21天或66天作为达标期限。",
+    "limits": "小样本自报、无随机对照；只有部分人拟合良好。254天超过84天观察期，属于外推而非实测随访；测量的是自动化，不等于疾病获益。",
+    "proposed_section": "3 行为机制；附录B周期与习惯形成",
+    "url": "https://onlinelibrary.wiley.com/doi/10.1002/ejsp.674"
+  },
+  {
+    "number": 7,
+    "source_key": "OLD07",
+    "authors": [
+      "World Health Organization"
+    ],
+    "title": "WHO guidelines on physical activity and sedentary behaviour",
+    "year": 2020,
+    "type": "M/OL",
+    "journal": null,
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "article_number": null,
+    "doi": null,
+    "url": "https://www.who.int/publications/i/item/9789240015128",
+    "accessed": "2026-11-12",
+    "publisher": "World Health Organization",
+    "publication_place": "Geneva",
+    "isbn": "9789240015128",
+    "fulltext_url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK566046/",
+    "citation": "World Health Organization. WHO guidelines on physical activity and sedentary behaviour[M/OL]. Geneva: World Health Organization, 2020[2026-11-12].",
+    "identifiers": {
+      "url": "https://www.who.int/publications/i/item/9789240015128"
+    }
+  },
+  {
+    "number": 18,
+    "source_key": "OLD18",
+    "authors": [
+      "Centers for Disease Control and Prevention"
+    ],
+    "title": "How to measure physical activity intensity",
+    "year": 2025,
+    "type": "EB/OL",
+    "journal": null,
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "article_number": null,
+    "doi": null,
+    "url": "https://www.cdc.gov/physical-activity-basics/measuring/",
+    "accessed": "2026-11-12",
+    "publication_date": "2025-12-04",
+    "citation": "Centers for Disease Control and Prevention. How to measure physical activity intensity[EB/OL]. (2025-12-04)[2026-11-12].",
+    "identifiers": {
+      "url": "https://www.cdc.gov/physical-activity-basics/measuring/"
+    }
+  },
+  {
+    "number": 10,
+    "source_key": "OLD10",
+    "authors": [
+      "中国营养学会"
+    ],
+    "title": "《中国居民膳食指南（2022）》平衡膳食八准则",
+    "year": 2022,
+    "type": "EB/OL",
+    "journal": null,
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "article_number": null,
+    "doi": null,
+    "url": "https://dg.cnsoc.org/article/04/J4-AsD_DR3OLQMnHG0-jZA.html",
+    "accessed": "2026-11-12",
+    "publication_date": "2022-04-26",
+    "citation": "中国营养学会. 《中国居民膳食指南（2022）》平衡膳食八准则[EB/OL]. (2022-04-26)[2026-11-12].",
+    "identifiers": {
+      "url": "https://dg.cnsoc.org/article/04/J4-AsD_DR3OLQMnHG0-jZA.html"
+    }
+  },
+  {
+    "number": 11,
+    "source_key": "OLD11",
+    "authors": [
+      "中华人民共和国卫生部"
+    ],
+    "title": "食品安全国家标准 预包装食品营养标签通则：GB 28050—2011",
+    "year": 2011,
+    "type": "S/OL",
+    "journal": null,
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "article_number": null,
+    "doi": null,
+    "url": "https://www.nhc.gov.cn/ewebeditor/uploadfile/2013/02/20130204161215710.pdf",
+    "accessed": "2026-11-12",
+    "standard_number": "GB 28050—2011",
+    "publication_date": "2011-10-12",
+    "implementation_date": "2013-01-01",
+    "citation": "中华人民共和国卫生部. 食品安全国家标准 预包装食品营养标签通则：GB 28050—2011[S/OL]. 2011[2026-11-12].",
+    "identifiers": {
+      "url": "https://www.nhc.gov.cn/ewebeditor/uploadfile/2013/02/20130204161215710.pdf"
+    }
+  },
+  {
+    "number": 19,
+    "source_key": "OLD19",
+    "authors": [
+      "World Health Organization"
+    ],
+    "title": "Sodium reduction",
+    "year": 2026,
+    "type": "EB/OL",
+    "journal": null,
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "article_number": null,
+    "doi": null,
+    "url": "https://www.who.int/news-room/fact-sheets/detail/sodium-reduction",
+    "accessed": "2026-11-12",
+    "publication_date": "2026-05-11",
+    "citation": "World Health Organization. Sodium reduction[EB/OL]. (2026-05-11)[2026-11-12].",
+    "identifiers": {
+      "url": "https://www.who.int/news-room/fact-sheets/detail/sodium-reduction"
+    }
+  },
+  {
+    "number": 12,
+    "source_key": "OLD12",
+    "authors": [
+      "中华人民共和国国家卫生健康委员会",
+      "国家市场监督管理总局"
+    ],
+    "title": "食品安全国家标准 预包装食品营养标签通则：GB 28050—2025",
+    "year": 2025,
+    "type": "S/OL",
+    "journal": null,
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "article_number": null,
+    "doi": null,
+    "url": "https://www.hhgj.gov.cn/info/13461/674071.htm",
+    "accessed": "2026-11-12",
+    "standard_number": "GB 28050—2025",
+    "publication_date": "2025-03-16",
+    "implementation_date": "2027-03-16",
+    "publisher": "中华人民共和国国家卫生健康委员会；国家市场监督管理总局",
+    "fulltext_url": "https://www.hhgj.gov.cn/virtual_attach_file.vsb?afc=9oRVA2o7n2nNWkU1NVVUN7inlnfLzQmfMmV2M4-iUzn2nR70gihFp2hmCIa0LYy8oSyiMSy4nzT7nlMkLNUaL8UaU4GYLz-ZMl7Ynl-YL7WFUNM2nmNsU4MFMmCZUzGJv2nto4xdU1GYoRGiLk8YLR-iEqH7bCYVEHoVEqoFbQofEWkTbCIeb/kdbED3ECkqbC1QgjfNQmOeQDX4vtiEQ1hXptQ0g474MRCPg4CsMRGsLSbw62N8c",
+    "canonical_release_url": "https://www.nhc.gov.cn/wjw/zcwjgg/202503/97802a2683b840dd8be0e1449982c6a5.shtml",
+    "citation": "中华人民共和国国家卫生健康委员会, 国家市场监督管理总局. 食品安全国家标准 预包装食品营养标签通则：GB 28050—2025[S/OL]. 2025[2026-11-12].",
+    "identifiers": {
+      "url": "https://www.hhgj.gov.cn/info/13461/674071.htm"
+    }
+  },
+  {
+    "number": 8,
+    "source_key": "OLD08",
+    "authors": [
+      "全国爱卫办"
+    ],
+    "title": "睡眠健康核心信息及释义",
+    "year": 2025,
+    "type": "EB/OL",
+    "journal": null,
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "article_number": null,
+    "doi": null,
+    "url": "https://wjw.fujian.gov.cn/ztzl/jkjy/jkzgxd/202504/t20250417_6901525.htm",
+    "accessed": "2026-11-12",
+    "citation": "全国爱卫办. 睡眠健康核心信息及释义[EB/OL]. 2025[2026-11-12].",
+    "identifiers": {
+      "url": "https://wjw.fujian.gov.cn/ztzl/jkjy/jkzgxd/202504/t20250417_6901525.htm"
+    }
+  },
+  {
+    "number": 9,
+    "source_key": "OLD09",
+    "authors": [
+      "Watson NF",
+      "Badr MS",
+      "Belenky G"
+    ],
+    "title": "Recommended amount of sleep for a healthy adult: a joint consensus statement of the American Academy of Sleep Medicine and Sleep Research Society",
+    "year": 2015,
+    "type": "J",
+    "journal": "Journal of Clinical Sleep Medicine",
+    "volume": "11",
+    "issue": "6",
+    "pages": "591–592",
+    "article_number": null,
+    "doi": "10.5664/jcsm.4758",
+    "url": "https://www.aasm.org/resources/pdf/adultsleepdurationconsensus.pdf",
+    "accessed": "2026-11-12",
+    "authors_truncated": true,
+    "citation": "Watson NF, Badr MS, Belenky G, et al. Recommended amount of sleep for a healthy adult: a joint consensus statement of the American Academy of Sleep Medicine and Sleep Research Society[J]. Journal of Clinical Sleep Medicine, 2015, 11(6): 591-592. DOI: 10.5664/jcsm.4758.",
+    "identifiers": {
+      "url": "https://www.aasm.org/resources/pdf/adultsleepdurationconsensus.pdf",
+      "doi": "10.5664/jcsm.4758"
+    }
+  },
+  {
+    "number": 19,
+    "source_key": "INT06_OLSON2015",
+    "id": "INT06_OLSON2015",
+    "authors": "Olson R, Crain TL, Bodner TE, King R, Hammer LB, Klein LC, Erickson L, Moen P, Berkman LF, Buxton OM",
+    "title": "A workplace intervention improves sleep: results from the randomized controlled Work, Family, and Health Study",
+    "journal": "Sleep Health",
+    "year": 2015,
+    "volume": "1",
+    "issue": "1",
+    "pages": "55-65",
+    "doi": "10.1016/j.sleh.2014.11.003",
+    "citation": "Olson R, Crain TL, Bodner TE, et al. A workplace intervention improves sleep: results from the randomized controlled Work, Family, and Health Study[J]. Sleep Health, 2015, 1(1): 55-65. DOI: 10.1016/j.sleh.2014.11.003.",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/29073416/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC9019820/",
+      "https://stacks.cdc.gov/view/cdc/203024/cdc_203024_DS1.pdf"
+    ],
+    "access": "已取得PMC作者稿和CDC保存的终版PDF全文；效应CI以终版PDF表3为准。",
+    "design": "美国IT企业整群随机试验；3个月组织干预提高工作时间控制和家庭支持型管理；12月访谈701人，595人完成活动记录，效果分析473—474人；基线及12月各约一周活动记录。",
+    "estimates": [
+      {
+        "outcome": "活动记录仪测得总睡眠时间",
+        "measure": "干预×时间交互系数（分钟/天）",
+        "value": 8.2,
+        "ci95": [
+          0.3,
+          16
+        ],
+        "p": 0.041,
+        "source_location": "终版表3 p61；正文更精确系数8.17"
+      },
+      {
+        "outcome": "入睡后觉醒时间",
+        "measure": "交互系数（分钟）",
+        "value": 1.3,
+        "ci95": [
+          -0.9,
+          3.5
+        ],
+        "p": 0.25,
+        "source_location": "终版表3 p61"
+      }
+    ],
+    "support": "工作安排和管理支持是可干预的睡眠机会条件，补强仅个人作息建议之外的实验证据。",
+    "limits": "睡眠时长改善幅度有限；失眠症状无显著组间改善，不能视为失眠治疗。IT岗位样本与中国轮班、照护岗位差异较大；未验证慢性病结局获益。",
+    "proposed_section": "4.3睡眠；4.4工作条件与家庭支持",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/29073416/"
+  },
+  {
+    "number": 14,
+    "source_key": "OLD14",
+    "authors": [
+      "World Health Organization"
+    ],
+    "title": "Social connection",
+    "year": 2025,
+    "type": "EB/OL",
+    "journal": null,
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "article_number": null,
+    "doi": null,
+    "url": "https://www.who.int/news-room/questions-and-answers/item/social-connection",
+    "accessed": "2026-11-12",
+    "publication_date": "2025-06-30",
+    "citation": "World Health Organization. Social connection[EB/OL]. (2025-06-30)[2026-11-12].",
+    "identifiers": {
+      "url": "https://www.who.int/news-room/questions-and-answers/item/social-connection"
+    }
+  },
+  {
+    "number": 21,
+    "source_key": "CN02",
+    "id": "CN02",
+    "status": "usable_original_abstract_and_tables",
+    "priority": "核心补充：社会经济条件与实施机会",
+    "language": "zh",
+    "authors": [
+      "安芹彧",
+      "王艺颖",
+      "张小丹",
+      "张畑霖",
+      "詹清清",
+      "张福艳",
+      "刘涛",
+      "吴延莉"
+    ],
+    "title": "社会经济地位、健康生活方式对心血管疾病影响的前瞻性队列研究",
+    "year": 2025,
+    "journal": "中国全科医学",
+    "volume": "28",
+    "issue": "16",
+    "pages": "2017–2024",
+    "doi": "10.12114/j.issn.1007-9572.2024.0279",
+    "citation": "安芹彧, 王艺颖, 张小丹, 等. 社会经济地位、健康生活方式对心血管疾病影响的前瞻性队列研究[J]. 中国全科医学, 2025, 28(16): 2017-2024. DOI: 10.12114/j.issn.1007-9572.2024.0279.",
+    "url": "https://www.chinagp.net/CN/10.12114/j.issn.1007-9572.2024.0279",
+    "accessed": "2026-11-12",
+    "discovery_query_ids": [
+      "Q19",
+      "Q22"
+    ],
+    "retrieval": {
+      "entry": "站外网页检索 → 期刊官网 DOI 页面",
+      "mode": "站外索引发现，非CNKI站内检索",
+      "level": "原始摘要、作者信息及表1—5；PDF未取得，完整正文未完成核验",
+      "successful_urls": [
+        "https://www.chinagp.net/CN/10.12114/j.issn.1007-9572.2024.0279"
+      ],
+      "failed_attempts": [
+        "https://www.chinagp.net/EN/article/downloadArticleFile.do?attachType=PDF&id=8430 返回403"
+      ],
+      "metadata_verified": [
+        "全部作者",
+        "题名",
+        "年份",
+        "卷期页",
+        "DOI"
+      ],
+      "results_verified_at": "期刊原始摘要、表2、表3、表4、表5"
+    },
+    "study": {
+      "design": "贵州省居民前瞻性队列分析；非随机试验",
+      "population": "2010年贵州省12县区18岁及以上常住居民",
+      "baseline_n": 9280,
+      "analysis_n": 4148,
+      "follow_up": "2016—2020年随访",
+      "events": {
+        "incident_cvd": 123
+      },
+      "incidence_density": {
+        "value": 4.13,
+        "unit": "每1000人年"
+      },
+      "exposure": "SES由收入、职业和教育构成；HL为该研究定义的多项生活方式组合，不能当作全国统一量表"
+    },
+    "effect_estimates": [
+      {
+        "outcome": "新发CVD",
+        "comparison": "SES高分组 vs 低分组",
+        "measure": "模型3 HR",
+        "estimate": 0.594,
+        "ci95": [
+          0.402,
+          0.878
+        ]
+      },
+      {
+        "outcome": "新发CVD",
+        "comparison": "8种HL vs ≤6种HL",
+        "measure": "模型3 HR",
+        "estimate": 0.556,
+        "ci95": [
+          0.32,
+          0.968
+        ]
+      },
+      {
+        "outcome": "新发CVD",
+        "comparison": "≥9种HL vs ≤6种HL",
+        "measure": "模型3 HR",
+        "estimate": 0.508,
+        "ci95": [
+          0.284,
+          0.912
+        ]
+      }
+    ],
+    "safe_sentence": "贵州一项队列分析将社会经济地位与生活方式共同纳入评估，在4 148名分析对象中观察到123例心血管病；这提示论文需要同时讨论个人行为与资源条件，不能把健康结果全部归于意志力。",
+    "limitations": [
+      "基线9 280人，分析4 148人；失访、基线患病和资料缺失均参与排除，存在选择偏倚的可能。",
+      "仅123例事件，分层估计区间较宽；低SES分层不显著不能解释为健康行为对低收入者无效。",
+      "关联不等于社会经济条件与行为的因果交互作用已被证明。",
+      "研究表格采用盐<6g/d等历史评分定义，不应替代当前指南阈值。",
+      "未对完整模型、比例风险假设和缺失机制完成全文审查。"
+    ],
+    "suggested_use": "支持经济与社会条件分析：工时、照护负担、食品可及性和休息资源应纳入生活方式实施框架；不要据此量化某项日常安排的收益。"
+  },
+  {
+    "number": 16,
+    "source_key": "OLD16",
+    "authors": [
+      "World Health Organization"
+    ],
+    "title": "WHO guidelines on mental health at work",
+    "year": 2022,
+    "type": "M/OL",
+    "journal": null,
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "article_number": null,
+    "doi": null,
+    "url": "https://www.who.int/publications/i/item/9789240053052",
+    "accessed": "2026-11-12",
+    "publisher": "World Health Organization",
+    "publication_place": "Geneva",
+    "publication_date": "2022-09-28",
+    "isbn": "9789240053052",
+    "citation": "World Health Organization. WHO guidelines on mental health at work[M/OL]. Geneva: World Health Organization, 2022[2026-11-12].",
+    "identifiers": {
+      "url": "https://www.who.int/publications/i/item/9789240053052"
+    }
+  },
+  {
+    "number": 17,
+    "source_key": "OLD17",
+    "authors": [
+      "Husereau D",
+      "Drummond M",
+      "Augustovski F"
+    ],
+    "title": "Consolidated Health Economic Evaluation Reporting Standards 2022 (CHEERS 2022) statement: updated reporting guidance for health economic evaluations",
+    "year": 2022,
+    "type": "J",
+    "journal": "BMJ",
+    "volume": "376",
+    "issue": null,
+    "pages": null,
+    "article_number": "e067975",
+    "doi": "10.1136/bmj-2021-067975",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8749494/",
+    "accessed": "2026-11-12",
+    "authors_truncated": true,
+    "citation": "Husereau D, Drummond M, Augustovski F, et al. Consolidated Health Economic Evaluation Reporting Standards 2022 (CHEERS 2022) statement: updated reporting guidance for health economic evaluations[J]. BMJ, 2022, 376: e067975. DOI: 10.1136/bmj-2021-067975.",
+    "identifiers": {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8749494/",
+      "doi": "10.1136/bmj-2021-067975"
+    }
+  }
+]

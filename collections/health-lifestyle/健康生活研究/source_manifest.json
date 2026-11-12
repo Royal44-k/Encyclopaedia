@@ -1,0 +1,486 @@
+{
+  "schema_version": "1.0",
+  "sources": [
+    {
+      "evidence_id": "E001",
+      "authors": [
+        "国家卫生健康委员会"
+      ],
+      "title": "2025年全国居民健康素养水平达到33.69%",
+      "year": 2026,
+      "identifiers": {
+        "url": "https://wjw.shanxi.gov.cn/xwzx/szyw/202601/t20260108_10035120.shtml"
+      },
+      "locator": "全文监测结果段；国家卫健委原报2026-01-07，山西卫健委2026-01-08转载",
+      "source_type": "official_report",
+      "confidentiality": "public",
+      "verification": {
+        "source_opened": true,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "ai_check": {
+        "checked_on": "2026-11-12",
+        "scope": "政府完整转载",
+        "human_review_complete": false
+      }
+    },
+    {
+      "evidence_id": "E002",
+      "authors": [
+        "国家卫生健康委办公厅"
+      ],
+      "title": "中国公民健康素养——基本知识与技能（2024年版）",
+      "year": 2024,
+      "identifiers": {
+        "url": "https://wjw.gz.gov.cn/zmhd/cjwt/zczy/content/post_9687151.html"
+      },
+      "locator": "第1、32—39、53—54条；国卫办宣传函〔2024〕191号",
+      "source_type": "guidance",
+      "confidentiality": "public",
+      "verification": {
+        "source_opened": true,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "ai_check": {
+        "checked_on": "2026-11-12",
+        "scope": "政府完整转载",
+        "human_review_complete": false
+      }
+    },
+    {
+      "evidence_id": "E003",
+      "authors": [
+        "健康中国行动推进委员会"
+      ],
+      "title": "健康中国行动（2019—2030年）",
+      "year": 2019,
+      "identifiers": {
+        "url": "https://gbc.ggj.gov.cn/shswgl/zcfg/201907/t20190729_28575.htm"
+      },
+      "locator": "总体要求、合理膳食、心理健康、职业健康保护行动",
+      "source_type": "policy",
+      "confidentiality": "public",
+      "verification": {
+        "source_opened": true,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "ai_check": {
+        "checked_on": "2026-11-12",
+        "scope": "政府完整转载",
+        "human_review_complete": false
+      }
+    },
+    {
+      "evidence_id": "E004",
+      "authors": [
+        "芜湖市市场监督管理局"
+      ],
+      "title": "鸠江区市场监管局沈巷市场监管所召开网络食品销售经营者落实食品安全主体责任培训会",
+      "year": 2026,
+      "identifiers": {
+        "url": "https://amr.wuhu.gov.cn/xwdt/xqdt/8960637.html"
+      },
+      "locator": "2026-10-09报告第2段，GB28050—2025实施日期",
+      "source_type": "official_report",
+      "confidentiality": "public",
+      "verification": {
+        "source_opened": true,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "ai_check": {
+        "checked_on": "2026-11-12",
+        "scope": "原始监管报告；仅核实施日期，未取得2025标准全文",
+        "human_review_complete": false
+      }
+    },
+    {
+      "evidence_id": "E005",
+      "authors": [
+        "全国标准信息公共服务平台"
+      ],
+      "title": "WS/T 428—2013 成人体重判定",
+      "year": 2013,
+      "identifiers": {
+        "url": "https://std.samr.gov.cn/hb/search/stdHBDetailed?id=8B1827F21596BB19E05397BE0A0AB44A"
+      },
+      "locator": "标准状态、性质、发布日期和实施日期",
+      "source_type": "standard_record",
+      "confidentiality": "public",
+      "verification": {
+        "source_opened": true,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "ai_check": {
+        "checked_on": "2026-11-12",
+        "scope": "标准状态页；非全文",
+        "human_review_complete": false
+      }
+    },
+    {
+      "evidence_id": "E006",
+      "authors": [
+        "中国营养学会"
+      ],
+      "title": "中国居民膳食指南（2022）",
+      "year": 2022,
+      "identifiers": {
+        "url": "https://wjw.beijing.gov.cn/xwzx_20031/xwfb/202610/t20261021_4913349.html"
+      },
+      "locator": "平衡膳食八准则；通过北京卫健委/疾控中心解读核对",
+      "source_type": "guideline",
+      "confidentiality": "public",
+      "verification": {
+        "source_opened": true,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "ai_check": {
+        "checked_on": "2026-11-12",
+        "scope": "官方解读全文；学会原网页直接读取失败",
+        "human_review_complete": false
+      }
+    },
+    {
+      "evidence_id": "E007",
+      "authors": [
+        "World Health Organization"
+      ],
+      "title": "WHO guidelines on physical activity and sedentary behaviour",
+      "year": 2020,
+      "identifiers": {
+        "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK566046/"
+      },
+      "locator": "Adults aged 18–64 years; good practice statements; sedentary behaviour",
+      "source_type": "guideline",
+      "confidentiality": "public",
+      "verification": {
+        "source_opened": true,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "ai_check": {
+        "checked_on": "2026-11-12",
+        "scope": "NCBI Bookshelf托管原文",
+        "human_review_complete": false
+      }
+    },
+    {
+      "evidence_id": "E008",
+      "authors": [
+        "Watson NF, Badr MS, Belenky G, et al."
+      ],
+      "title": "Recommended Amount of Sleep for a Healthy Adult: A Joint Consensus Statement of the American Academy of Sleep Medicine and Sleep Research Society",
+      "year": 2015,
+      "identifiers": {
+        "url": "https://www.aasm.org/resources/pdf/adultsleepdurationconsensus.pdf",
+        "doi": "10.5664/jcsm.4758"
+      },
+      "locator": "第1页Consensus statement和Methodology；第2页Discussion",
+      "source_type": "consensus",
+      "confidentiality": "public",
+      "verification": {
+        "source_opened": true,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "ai_check": {
+        "checked_on": "2026-11-12",
+        "scope": "学会原始PDF；J Clin Sleep Med.11(6):591–592",
+        "human_review_complete": false
+      }
+    },
+    {
+      "evidence_id": "E009",
+      "authors": [
+        "Diabetes Prevention Program Research Group"
+      ],
+      "title": "Reduction in the Incidence of Type 2 Diabetes with Lifestyle Intervention or Metformin",
+      "year": 2002,
+      "identifiers": {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1370926/",
+        "doi": "10.1056/NEJMoa012512"
+      },
+      "locator": "Abstract; Participants; Interventions",
+      "source_type": "randomized_trial",
+      "confidentiality": "public",
+      "verification": {
+        "source_opened": true,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "ai_check": {
+        "checked_on": "2026-11-12",
+        "scope": "PMC作者稿全文；N Engl J Med.346(6):393–403",
+        "human_review_complete": false
+      }
+    },
+    {
+      "evidence_id": "E010",
+      "authors": [
+        "Neal B, Wu Y, Feng X, et al."
+      ],
+      "title": "Effect of Salt Substitution on Cardiovascular Events and Death",
+      "year": 2021,
+      "identifiers": {
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34459569/",
+        "doi": "10.1056/NEJMoa2105675"
+      },
+      "locator": "PubMed Abstract Methods/Results/Conclusions",
+      "source_type": "randomized_trial",
+      "confidentiality": "public",
+      "verification": {
+        "source_opened": true,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "ai_check": {
+        "checked_on": "2026-11-12",
+        "scope": "PubMed原始摘要及元数据，未获得NEJM全文；N Engl J Med.385(12):1067–1077",
+        "human_review_complete": false
+      }
+    },
+    {
+      "evidence_id": "E011",
+      "authors": [
+        "Michie S, van Stralen MM, West R."
+      ],
+      "title": "The behaviour change wheel: A new method for characterising and designing behaviour change interventions",
+      "year": 2011,
+      "identifiers": {
+        "url": "https://link.springer.com/article/10.1186/1748-5908-6-42",
+        "doi": "10.1186/1748-5908-6-42"
+      },
+      "locator": "Abstract Results/Conclusions; COM-B system",
+      "source_type": "framework",
+      "confidentiality": "public",
+      "verification": {
+        "source_opened": true,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "ai_check": {
+        "checked_on": "2026-11-12",
+        "scope": "出版商全文；Implementation Science.6:42",
+        "human_review_complete": false
+      }
+    },
+    {
+      "evidence_id": "E012",
+      "authors": [
+        "Lally P, van Jaarsveld CHM, Potts HWW, Wardle J."
+      ],
+      "title": "How are habits formed: Modelling habit formation in the real world",
+      "year": 2010,
+      "identifiers": {
+        "url": "https://onlinelibrary.wiley.com/doi/10.1002/ejsp.674",
+        "doi": "10.1002/ejsp.674"
+      },
+      "locator": "出版商摘要与元数据",
+      "source_type": "observational_study",
+      "confidentiality": "public",
+      "verification": {
+        "source_opened": true,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "ai_check": {
+        "checked_on": "2026-11-12",
+        "scope": "摘要，未取得付费全文；Eur J Soc Psychol.40(6):998–1009；2009在线先发",
+        "human_review_complete": false
+      }
+    },
+    {
+      "evidence_id": "E013",
+      "authors": [
+        "World Health Organization"
+      ],
+      "title": "WHO guidelines on mental health at work",
+      "year": 2022,
+      "identifiers": {
+        "url": "https://www.who.int/publications/i/item/9789240053052"
+      },
+      "locator": "Overview",
+      "source_type": "guideline",
+      "confidentiality": "public",
+      "verification": {
+        "source_opened": true,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "ai_check": {
+        "checked_on": "2026-11-12",
+        "scope": "官方出版页概览，未逐条审读134页指南",
+        "human_review_complete": false
+      }
+    },
+    {
+      "evidence_id": "E014",
+      "authors": [
+        "World Health Organization"
+      ],
+      "title": "Social connection",
+      "year": 2025,
+      "identifiers": {
+        "url": "https://www.who.int/news-room/questions-and-answers/item/social-connection"
+      },
+      "locator": "What is social connection; What is loneliness; Solutions",
+      "source_type": "official_guidance",
+      "confidentiality": "public",
+      "verification": {
+        "source_opened": true,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "ai_check": {
+        "checked_on": "2026-11-12",
+        "scope": "2025-06-30官方问答全文",
+        "human_review_complete": false
+      }
+    },
+    {
+      "evidence_id": "E015",
+      "authors": [
+        "World Health Organization"
+      ],
+      "title": "Alcohol",
+      "year": 2024,
+      "identifiers": {
+        "url": "https://www.who.int/news-room/fact-sheets/detail/alcohol"
+      },
+      "locator": "Health risks of alcohol use; Factors affecting alcohol consumption and alcohol-related harm",
+      "source_type": "official_guidance",
+      "confidentiality": "public",
+      "verification": {
+        "source_opened": true,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "ai_check": {
+        "checked_on": "2026-11-12",
+        "scope": "2024-06-28事实表全文",
+        "human_review_complete": false
+      }
+    },
+    {
+      "evidence_id": "E016",
+      "authors": [
+        "Husereau D, Drummond M, Augustovski F, et al."
+      ],
+      "title": "Consolidated Health Economic Evaluation Reporting Standards 2022 (CHEERS 2022) statement: updated reporting guidance for health economic evaluations",
+      "year": 2022,
+      "identifiers": {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8749494/",
+        "doi": "10.1136/bmj-2021-067975"
+      },
+      "locator": "Scope; Table 1",
+      "source_type": "reporting_guideline",
+      "confidentiality": "public",
+      "verification": {
+        "source_opened": true,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "ai_check": {
+        "checked_on": "2026-11-12",
+        "scope": "PMC全文；BMJ.376:e067975",
+        "human_review_complete": false
+      }
+    },
+    {
+      "evidence_id": "E017",
+      "authors": [
+        "World Health Organization"
+      ],
+      "title": "Physical activity",
+      "year": 2026,
+      "identifiers": {
+        "url": "https://www.who.int/news-room/fact-sheets/detail/physical-activity"
+      },
+      "locator": "Levels of physical inactivity globally; 2026-11-04更新",
+      "source_type": "official_guidance",
+      "confidentiality": "public",
+      "verification": {
+        "source_opened": true,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "ai_check": {
+        "checked_on": "2026-11-12",
+        "scope": "全文；成人数据所对应年度为2022",
+        "human_review_complete": false
+      }
+    },
+    {
+      "evidence_id": "E018",
+      "authors": [
+        "中华人民共和国卫生部"
+      ],
+      "title": "GB 28050—2011 食品安全国家标准 预包装食品营养标签通则",
+      "year": 2011,
+      "identifiers": {
+        "url": "https://www.nhc.gov.cn/ewebeditor/uploadfile/2013/02/20130204161215710.pdf"
+      },
+      "locator": "封面；第1、4.1、6.1节",
+      "source_type": "standard",
+      "confidentiality": "public",
+      "verification": {
+        "source_opened": true,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "ai_check": {
+        "checked_on": "2026-11-12",
+        "scope": "官方14页PDF",
+        "human_review_complete": false
+      }
+    },
+    {
+      "evidence_id": "E019",
+      "authors": [
+        "全国爱卫办"
+      ],
+      "title": "睡眠健康核心信息及释义",
+      "year": 2025,
+      "identifiers": {
+        "url": "https://wjw.fujian.gov.cn/ztzl/jkjy/jkzgxd/202504/t20250417_6901525.htm"
+      },
+      "locator": "第二、四、五、八条",
+      "source_type": "official_guidance",
+      "confidentiality": "public",
+      "verification": {
+        "source_opened": true,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "ai_check": {
+        "checked_on": "2026-11-12",
+        "scope": "福建卫健委完整转载",
+        "human_review_complete": false
+      }
+    }
+  ]
+}

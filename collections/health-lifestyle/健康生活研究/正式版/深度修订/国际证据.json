@@ -1,0 +1,291 @@
+{
+  "检索日期": "2026-11-12",
+  "工作类型": "定向补充检索与原始研究核验；非系统综述",
+  "检索实施说明": "以web搜索定位，再打开期刊、PubMed、PMC及公开论文副本；未执行Web of Science站内检索，也未取得其结果计数。",
+  "提取说明": "效应值照原文报告；未报告置信区间者记为null，不自行补算。证据应用建议和外推限制含提取者的方法学判断。六篇报告涉及五个独立研究来源：两篇CKB报告有队列重叠。",
+  "文献": [
+    {
+      "id": "INT01_CKB_LE2022",
+      "authors": "Sun Q, Yu D, Fan J, et al.",
+      "title": "Healthy lifestyle and life expectancy at age 30 years in the Chinese population: an observational study",
+      "journal": "The Lancet Public Health",
+      "year": 2022,
+      "volume": "7",
+      "issue": "12",
+      "pages": "e994-e1004",
+      "doi": "10.1016/S2468-2667(22)00110-4",
+      "citation": "Sun Q, Yu D, Fan J, et al. Healthy lifestyle and life expectancy at age 30 years in the Chinese population: an observational study. Lancet Public Health. 2022;7(12):e994-e1004. doi:10.1016/S2468-2667(22)00110-4.",
+      "urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC7615002/",
+        "https://pubmed.ncbi.nlm.nih.gov/35926549/",
+        "https://doi.org/10.1016/S2468-2667(22)00110-4"
+      ],
+      "access": "已取得PMC作者稿全文；题名在作者稿为at age 30，正式出版题名含years。",
+      "design": "前瞻性队列与寿命表建模；CKB分析487209人，基线30—79岁；中位随访11.1年，42496例死亡；另结合CNHS与GBD 2015数据。",
+      "exposure": "5项低风险指标：吸烟、饮酒、活动、膳食、体型；比较全部5项与0—1项。",
+      "estimates": [
+        {
+          "outcome": "全因死亡",
+          "measure": "调整HR",
+          "value": 0.38,
+          "ci95": [
+            0.34,
+            0.43
+          ],
+          "source_location": "PMC摘要Findings及正文结果"
+        },
+        {
+          "outcome": "30岁男性剩余预期寿命差",
+          "measure": "年",
+          "value": 8.8,
+          "ci95": [
+            6.8,
+            10.7
+          ],
+          "source_location": "PMC摘要Findings"
+        },
+        {
+          "outcome": "30岁女性剩余预期寿命差",
+          "measure": "年",
+          "value": 8.1,
+          "ci95": [
+            6.5,
+            9.9
+          ],
+          "source_location": "PMC摘要Findings"
+        }
+      ],
+      "support": "可为中国人群多因素生活方式与长期健康的关联提供本土依据。",
+      "limits": "观察性、基线暴露自报、残余混杂；寿命差是模型估计，不能写成干预保证延寿。体型并非行为本身；研究低风险分组不能转作饮酒或体重处方。",
+      "proposed_section": "2 证据基础：队列关联与干预效果分别论述"
+    },
+    {
+      "id": "INT02_CKB_DFLE2023",
+      "authors": "The China Kadoorie Biobank Collaborative Group",
+      "title": "Healthy lifestyle and life expectancy free of major chronic diseases at age 40 in China",
+      "journal": "Nature Human Behaviour",
+      "year": 2023,
+      "volume": "7",
+      "issue": "9",
+      "pages": "1542-1550",
+      "doi": "10.1038/s41562-023-01624-7",
+      "citation": "The China Kadoorie Biobank Collaborative Group. Healthy lifestyle and life expectancy free of major chronic diseases at age 40 in China. Nat Hum Behav. 2023;7(9):1542-1550. doi:10.1038/s41562-023-01624-7.",
+      "urls": [
+        "https://www.nature.com/articles/s41562-023-01624-7",
+        "https://pubmed.ncbi.nlm.nih.gov/37430072/",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC7615116/",
+        "https://www.ckbiobank.org/publications/1494122"
+      ],
+      "access": "仅核验摘要及出版元数据（期刊、PubMed、研究项目原始页面的搜索索引）；直接打开期刊跳转失败，PubMed未返回正文，PMC显示浏览器检查，Oxford副本403。未获得终版全文，不据此声称完成全文评议。",
+      "design": "CKB队列451233名中国成年人，中位随访11.1年；5项低风险因素与0—1项比较。",
+      "estimates": [
+        {
+          "outcome": "40岁男性无指定慢性病预期寿命差",
+          "measure": "年",
+          "value": 6.3,
+          "ci95": [
+            5.1,
+            7.5
+          ],
+          "source_location": "终版摘要"
+        },
+        {
+          "outcome": "40岁女性无指定慢性病预期寿命差",
+          "measure": "年",
+          "value": 4.2,
+          "ci95": [
+            3.6,
+            5.4
+          ],
+          "source_location": "终版摘要"
+        }
+      ],
+      "support": "把生命长度与无主要慢性病的生存时间区分，补强健康目标论证。",
+      "limits": "指定疾病为心血管病、癌症、慢性呼吸系统疾病，不能简称没有任何疾病或完整健康寿命；与2022报告队列重叠，非独立重复验证；观察关联不能解释为因果效应。",
+      "proposed_section": "2 中国长期证据；5 结局评价"
+    },
+    {
+      "id": "INT03_DAQING2019",
+      "authors": "Gong Q, Zhang P, Wang J, et al.; Da Qing Diabetes Prevention Study Group",
+      "title": "Morbidity and mortality after lifestyle intervention for people with impaired glucose tolerance: 30-year results of the Da Qing Diabetes Prevention Outcome Study",
+      "journal": "The Lancet Diabetes & Endocrinology",
+      "year": 2019,
+      "volume": "7",
+      "issue": "6",
+      "pages": "452-461",
+      "doi": "10.1016/S2213-8587(19)30093-2",
+      "citation": "Gong Q, Zhang P, Wang J, et al. Morbidity and mortality after lifestyle intervention for people with impaired glucose tolerance: 30-year results of the Da Qing Diabetes Prevention Outcome Study. Lancet Diabetes Endocrinol. 2019;7(6):452-461. doi:10.1016/S2213-8587(19)30093-2.",
+      "urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC8172050/",
+        "https://pubmed.ncbi.nlm.nih.gov/31036503/",
+        "https://doi.org/10.1016/S2213-8587(19)30093-2"
+      ],
+      "access": "已取得PMC作者稿全文。",
+      "design": "1986年大庆33家诊所整群随机试验的长期随访；577名25—74岁糖耐量受损成人，1人拒绝基线检查；6年主动干预后常规医疗，30年时540/576（94%）获结局评估。",
+      "estimates": [
+        {
+          "outcome": "糖尿病起病推迟",
+          "measure": "中位年数",
+          "value": 3.96,
+          "ci95": [
+            1.25,
+            6.67
+          ],
+          "source_location": "Summary Findings"
+        },
+        {
+          "outcome": "心血管事件",
+          "measure": "HR",
+          "value": 0.74,
+          "ci95": [
+            0.59,
+            0.92
+          ],
+          "source_location": "Summary Findings"
+        },
+        {
+          "outcome": "全因死亡",
+          "measure": "HR",
+          "value": 0.74,
+          "ci95": [
+            0.61,
+            0.89
+          ],
+          "source_location": "Summary Findings"
+        },
+        {
+          "outcome": "平均预期寿命增益",
+          "measure": "年",
+          "value": 1.44,
+          "ci95": [
+            0.2,
+            2.68
+          ],
+          "source_location": "Summary Findings"
+        }
+      ],
+      "support": "支持对中国糖耐量受损高风险成人开展有组织的膳食、运动生活方式干预。",
+      "limits": "效应比较合并干预组与对照；不能拆分各行为独立贡献。不是持续干预30年；试验结束后的依从性未知，样本较小且并发症非原试验设计目标；不能直接外推一般健康成人。",
+      "proposed_section": "2 干预证据，优先补入中国本土随机证据"
+    },
+    {
+      "id": "INT04_LALLY2010",
+      "authors": "Lally P, van Jaarsveld CHM, Potts HWW, Wardle J",
+      "title": "How are habits formed: Modelling habit formation in the real world",
+      "journal": "European Journal of Social Psychology",
+      "year": 2010,
+      "volume": "40",
+      "issue": "6",
+      "pages": "998-1009",
+      "doi": "10.1002/ejsp.674",
+      "citation": "Lally P, van Jaarsveld CHM, Potts HWW, Wardle J. How are habits formed: Modelling habit formation in the real world. Eur J Soc Psychol. 2010;40(6):998-1009. doi:10.1002/ejsp.674.",
+      "urls": [
+        "https://onlinelibrary.wiley.com/doi/10.1002/ejsp.674",
+        "https://www.flexyourbrain.com/wp-content/uploads/2015/10/UL-STUDY-66-Days-IJSP_998-1009.pdf"
+      ],
+      "access": "期刊页核验题录和摘要；取得公开保存的原论文PDF全文（第三方托管，非期刊托管）。",
+      "design": "96名志愿者选择固定情境下每天重复饮食、饮水或活动行为，追踪84天；82人足够数据、62人能拟合、39人拟合良好。",
+      "estimates": [
+        {
+          "outcome": "达到个体自动化渐近值95%的模型估计天数（39人）",
+          "measure": "中位数",
+          "value": 66,
+          "quartiles": [
+            39,
+            102
+          ],
+          "range": [
+            18,
+            254
+          ],
+          "ci95": null,
+          "ci_note": "原文表2报告四分位数和范围，不是95%CI。",
+          "source_location": "正文p1002；表2，p1004"
+        }
+      ],
+      "support": "支持固定线索下重复行为及个体化维持评价，不能用固定21天或66天作为达标期限。",
+      "limits": "小样本自报、无随机对照；只有部分人拟合良好。254天超过84天观察期，属于外推而非实测随访；测量的是自动化，不等于疾病获益。",
+      "proposed_section": "3 行为机制；附录B周期与习惯形成"
+    },
+    {
+      "id": "INT05_MILNE2002",
+      "authors": "Milne S, Orbell S, Sheeran P",
+      "title": "Combining motivational and volitional interventions to promote exercise participation: Protection motivation theory and implementation intentions",
+      "journal": "British Journal of Health Psychology",
+      "year": 2002,
+      "volume": "7",
+      "issue": "Pt 2",
+      "pages": "163-184",
+      "doi": "10.1348/135910702169420",
+      "citation": "Milne S, Orbell S, Sheeran P. Combining motivational and volitional interventions to promote exercise participation: protection motivation theory and implementation intentions. Br J Health Psychol. 2002;7(Pt 2):163-184. doi:10.1348/135910702169420.",
+      "urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/14596707/",
+        "https://bpspsychub.onlinelibrary.wiley.com/doi/pdf/10.1348/135910702169420"
+      ],
+      "access": "已打开PubMed摘要及Wiley原文PDF全文。",
+      "design": "英国大学生随机三组研究；最终分析248人（18—34岁、73%女性），两周三次测量；教育加时间地点计划79人、仅教育93人、对照76人。",
+      "estimates": [
+        {
+          "outcome": "第3次测量：此前一周至少一次20分钟锻炼",
+          "measure": "原文报告比例",
+          "combined_intervention": "91%",
+          "education_only": "35%",
+          "control": "38%",
+          "ci95": null,
+          "ci_note": "原文此结果未报告95%CI；不从四舍五入比例反推人数或置信区间。",
+          "test": "χ²(2)=71.28，p<0.001",
+          "source_location": "正文p173，Figure 1；方法p168"
+        }
+      ],
+      "support": "为在行为意向之外明确何时何地执行提供短期实验证据。",
+      "limits": "两周、小规模学生样本、行为自报、完成者分析；不能等同于长期习惯或健康结局改善，也不能把91%作为中国职工的预计依从率。",
+      "proposed_section": "3 意向到行动；4.1活动时段设计"
+    },
+    {
+      "id": "INT06_OLSON2015",
+      "authors": "Olson R, Crain TL, Bodner TE, King R, Hammer LB, Klein LC, Erickson L, Moen P, Berkman LF, Buxton OM",
+      "title": "A workplace intervention improves sleep: results from the randomized controlled Work, Family, and Health Study",
+      "journal": "Sleep Health",
+      "year": 2015,
+      "volume": "1",
+      "issue": "1",
+      "pages": "55-65",
+      "doi": "10.1016/j.sleh.2014.11.003",
+      "citation": "Olson R, Crain TL, Bodner TE, et al. A workplace intervention improves sleep: results from the randomized controlled Work, Family, and Health Study. Sleep Health. 2015;1(1):55-65. doi:10.1016/j.sleh.2014.11.003.",
+      "urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/29073416/",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC9019820/",
+        "https://stacks.cdc.gov/view/cdc/203024/cdc_203024_DS1.pdf"
+      ],
+      "access": "已取得PMC作者稿和CDC保存的终版PDF全文；效应CI以终版PDF表3为准。",
+      "design": "美国IT企业整群随机试验；3个月组织干预提高工作时间控制和家庭支持型管理；12月访谈701人，595人完成活动记录，效果分析473—474人；基线及12月各约一周活动记录。",
+      "estimates": [
+        {
+          "outcome": "活动记录仪测得总睡眠时间",
+          "measure": "干预×时间交互系数（分钟/天）",
+          "value": 8.2,
+          "ci95": [
+            0.3,
+            16
+          ],
+          "p": 0.041,
+          "source_location": "终版表3 p61；正文更精确系数8.17"
+        },
+        {
+          "outcome": "入睡后觉醒时间",
+          "measure": "交互系数（分钟）",
+          "value": 1.3,
+          "ci95": [
+            -0.9,
+            3.5
+          ],
+          "p": 0.25,
+          "source_location": "终版表3 p61"
+        }
+      ],
+      "support": "工作安排和管理支持是可干预的睡眠机会条件，补强仅个人作息建议之外的实验证据。",
+      "limits": "睡眠时长改善幅度有限；失眠症状无显著组间改善，不能视为失眠治疗。IT岗位样本与中国轮班、照护岗位差异较大；未验证慢性病结局获益。",
+      "proposed_section": "4.3睡眠；4.4工作条件与家庭支持"
+    }
+  ]
+}
