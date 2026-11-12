@@ -1,0 +1,37 @@
+{
+  "en_PDF": {
+    "pages": 14,
+    "full_prose_preserved": 49,
+    "captions_preserved": 14,
+    "page_assignment": "passed",
+    "superscript_groups_docx": 37,
+    "abstract_and_keywords": true
+  },
+  "en_Word": {
+    "pages": 14,
+    "full_prose_preserved": 49,
+    "captions_preserved": 14,
+    "page_assignment": "passed",
+    "superscript_groups_docx": 37,
+    "abstract_and_keywords": true
+  },
+  "zh_PDF": {
+    "pages": 14,
+    "full_prose_preserved": 49,
+    "captions_preserved": 14,
+    "page_assignment": "passed",
+    "superscript_groups_docx": 37,
+    "abstract_and_keywords": true
+  },
+  "zh_Word": {
+    "pages": 14,
+    "full_prose_preserved": 49,
+    "captions_preserved": 14,
+    "page_assignment": "passed",
+    "superscript_groups_docx": 37,
+    "abstract_and_keywords": true
+  },
+  "base_content_preserved": true,
+  "citation_style": "Nature numbered superscript",
+  "human_scientific_signoff": false
+}

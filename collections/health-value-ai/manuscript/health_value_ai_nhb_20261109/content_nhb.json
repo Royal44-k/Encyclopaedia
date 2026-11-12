@@ -1,0 +1,518 @@
+{
+  "en": {
+    "title": "Health economic value and choice in the age of artificial intelligence",
+    "abstract": "Overtime pay, convenient meals and faster work with artificial intelligence (AI) offer visible gains in money or time. Changes in sleep, physical burden and recovery may receive less attention. Drawing on health capital, time allocation, health capability and decision analysis, this Perspective proposes a framework for comparing health-related consequences. It compares feasible options over a common horizon, recording resources and time, health and functioning, experience, and capabilities and agency before appraisal against personal priorities. Measurement, prediction and judgement remain distinct; outcomes retain their units, timing and uncertainty. Faster tasks need not create more rest, and better assisted performance need not improve independent ability. Cases involving overtime, food choices and digital leisure illustrate the comparison. Testable propositions concern time allocation, persistence of effects and decision quality. The framework clarifies choices and consequences while allowing priorities to differ across people and circumstances.",
+    "sections": [
+      {
+        "heading": "From economic returns to changes in daily life",
+        "paragraphs": [
+          "Whether overtime pay improves daily life depends on both the income gained and what it requires. Longer daytime work, repeated night shifts and greater efficiency with artificial intelligence (AI) may all increase income, with different implications for sleep, energy and family time. Comparison begins with concrete questions: how much money is gained, where time goes, and whether the person can work, study or care for family the next day. Fig. 1 separates measurement, prediction and appraisal; Extended Data Fig. 1 brings the comparison framework together.",
+          "Established theories offer different starting points. Grossman treats health as a stock with both consumption and production value; Becker brings non-market time into resource allocation. [@E001][@E002] Marx links the working day to bargaining and the reproduction of labour power. [@E003] These accounts address health, time and labour relations from distinct perspectives. Marx motivates questions about who receives production gains and who bears health burdens. Identifying a particular health loss still requires evidence about exposure and the feasible alternative; it cannot simply be added to surplus value as a measured quantity.",
+          "Health capability concerns both achieved health and the real opportunities people have to maintain it and pursue their goals. [@E004] A person who needs overtime pay for housing or care may have the right to refuse without the means to do so. Health-dependent utility also means that the same income increment need not yield the same welfare gain in every health state. [@E005] Appraisal should therefore consider which difficulties the income relieves and the time and health costs of obtaining it.",
+          "We use health economic value to describe the significance of health and functioning for resource allocation and personal choice, including the value of health itself and its support for daily activities. It is distinct from earning capacity, total welfare and human worth. The framework specifies feasible alternatives, traces their consequences over time, and makes evidence, uncertainty and personal priorities explicit. A comparison may yield a preference, identify the conditions under which a choice is justified, or leave a disagreement unresolved."
+        ],
+        "source_page": 2,
+        "level": 0
+      },
+      {
+        "heading": "From measurement to appraisal",
+        "paragraphs": [
+          "A laboratory report can describe a blood glucose level, but cannot by itself establish whether a choice is worthwhile. Measurement describes the current state; intervention research estimates possible consequences of changing diet; willingness to bear costs in money, time or taste depends on personal priorities. Measurement, prediction and appraisal therefore require different justifications. Reference ranges do not rank human worth, and average study results do not directly specify an individual future.",
+          "Monetary valuation can inform defined policy and resource-allocation questions, but payment does not establish that lost functioning has been restored. Even when a loss is irreversible, people still compare prevention, mitigation and feasible alternatives. Acceptance of compensation can reflect a considered trade-off or a lack of other ways to meet essential needs. Behavioural welfare analysis therefore examines the conditions under which observed choices reveal informed preferences. [@E006]",
+          "Cost–consequence analysis presents outcomes alongside one another, while multicriteria decision analysis (MCDA) makes criteria and weights explicit. [@E009][@E008] Established decision guides already elicit options, values and support needs. [@E010] Our proposal adds specific records of where saved time goes, how outcomes develop, how functioning differs with and without assistance, and who bears the consequences. Supplementary Table 1 organizes these fields. Their usefulness must be tested against existing tools.",
+          "Standardized health-status instruments can supply comparable information; preference-based measures such as EQ-5D can support health-economic evaluation when used with the appropriate valuation framework. [@E025] They do not exhaust autonomy, relationships or personally valued capability. Self-determination theory offers a complementary account of autonomy, competence and relatedness, without implying that every activity has the same meaning for every person. [@E007] Reading, gaming, exercise and companionship therefore enter as alternatives whose consequences require assessment, rather than predetermined categories of virtue or harm.",
+          "A common record should accommodate different priorities. When income, sleep and family time conflict, the comparison should show the trade-off and test whether changing priorities changes the choice. An overall score is interpretable only when scales, weights, uncertainty and double counting have been addressed. Outcomes without a defensible conversion can retain their own units and be reported separately."
+        ],
+        "source_page": 3,
+        "level": 1
+      },
+      {
+        "heading": "Intertemporal comparison and time constraints",
+        "paragraphs": [
+          "Let x_i(a;τ) denote person i's consequence profile under feasible option a at time τ. Components retain their own units: disposable resources, time allocation, health and functioning, experience and capabilities. For components with a meaningful numerical difference, define:",
+          "Δx_i(a,b;τ) = x_i(a;τ) − x_i(b;τ).  (1)",
+          "This is a contrast, not a causal prediction model. Categorical changes remain descriptive. Every estimated component requires a population, comparator, horizon, source and uncertainty statement. Timing may require a trajectory rather than an endpoint. Let z_j denote an appropriately oriented criterion, with larger values preferred within its applicable range. Conditional dominance requires:",
+          "Δz_j ≥ 0 (∀j); Δz_k > 0 (∃k).  (2)",
+          "This ordering applies only if the criteria cover the relevant consequences and uncertainty does not overturn it. Many biomarkers are not monotonic, and omitted consequences can reverse an apparent ranking. Where trade-offs remain, personal appraisal is necessary; no universal exchange rate follows from equations (1)–(2).",
+          "For AI-assisted work, let S = T_0 − T_1 be time saved on a fixed task; T_1 includes prompting, verification and rework. Let A be time added through additional tasks and B all other net changes in work time, defined to avoid overlap. Then:",
+          "ΔW = −S + A + B.  (3)",
+          "Extended Data Fig. 2 illustrates the identity. Saving four task hours produces four fewer work hours if A = B = 0, one fewer if A = 3 and B = 0, and one more if A = 5 and B = 0. These are hypothetical allocations, not estimated AI effects. Even a fall in total work does not determine health: the activities replacing work, discretion over them and their subsequent consequences remain to be measured."
+        ],
+        "source_page": 4,
+        "level": 1
+      },
+      {
+        "heading": "Three levels of AI benefit",
+        "paragraphs": [
+          "Task efficiency is the most direct outcome. Noy and Zhang found faster writing and better output in a randomized study of 453 professionals. [@E011] Brynjolfsson and colleagues examined a staggered rollout covering 5,172 customer-support agents; their main difference-in-differences estimate indicated about 15% more issues resolved per hour. [@E026] The latter study was quasi-experimental, measured throughput and lacked compensation data. These studies support productivity gains, but who controls the saved time, and whether income or health improves, require separate measurement. [@E026] Supplementary Table 2 summarizes study designs, outcomes and scope.",
+          "A second outcome is capability. Performance with assistance and performance after assistance is removed require separate measurement. Bastani and colleagues’ education experiment illustrates the need for an unaided assessment of learning. [@E012] Evaluation should cover immediate performance, independent performance and transfer to unfamiliar tasks; this experiment does not establish general cognitive harm from AI. Support itself also has value when it makes previously difficult activities accessible, even if unaided ability is unchanged.",
+          "A third outcome is how long a benefit lasts. In De Freitas and colleagues’ seven-day Study 3, loneliness relief appeared mainly in immediate post-interaction measures; persistent improvement before interaction was not demonstrated. [@E013] Differential attrition and an unmatched control duration limit interpretation. Evaluation should record immediate comfort and follow whether it lasts. For short-form content and virtual interaction, relevant outcomes also include enjoyment, sleep, relationships and the ability to stop. Activity labels or duration alone do not establish their value.",
+          "Medical advice also raises the question of how information becomes action. Bean and colleagues found that users handling hypothetical medical scenarios did not match the models’ standalone performance, with identification compared between control and pooled AI assistance. [@E014] This measures scenario judgement, not clinical disease. Facebook-deactivation research likewise examines life beyond platform use, although its findings cannot directly establish generative AI effects. [@E015] Health-literate AI emphasizes comprehension, agency, accountability and proportionality. [@E024] Separate measures of task performance, sustained capability and daily outcomes help put these requirements into practice."
+        ],
+        "source_page": 5,
+        "level": 1
+      },
+      {
+        "heading": "Choosing measures for the decision",
+        "paragraphs": [
+          "Measures should follow the decision. A dinner comparison may need price, preparation time and satiety; a month of night work also calls for sleep, daytime functioning and recovery measures. Establish feasible alternatives and a common horizon, then select measures relevant to baseline conditions and the person’s concerns. Fig. 2 distinguishes exposure, state and consequences for daily life.",
+          "Separate exposures, states and consequences. Sleep opportunity, sitting time, diet and screen use describe behaviours or environments. Symptoms, laboratory measures and task performance describe selected states. Their significance depends on daily functioning, experience and valued activities. The International Classification of Functioning, Disability and Health (ICF) helps situate functioning in context. [@E016] Adding sedentary time, a correlated biomarker and a downstream disease risk into a single score can count the same pathway repeatedly. Candidate causal links should therefore be specified before aggregation or mediation analysis.",
+          "Glucose, lipids, blood pressure, strength, vision and skin symptoms measure different aspects of health; “blood quality” is too vague to replace them. Changes need interpretation against baseline, measurement conditions and appropriate ranges. Skin discomfort and appearance can affect experience and social life, but complexion, hair or body shape cannot establish internal organ status. Relationships between physical and psychological health also require measurement. Differences in health must not become a ranking of dignity or human worth.",
+          "Experience and functioning should be observed at appropriate times. The World Health Organization-Five Well-Being Index (WHO-5) records mental well-being over the preceding two weeks; it is not a diagnostic test or an instantaneous response measure. [@E017] A brief attention task, an activity diary and a symptom report likewise capture different constructs. Selection should consider reliability, responsiveness, language, accessibility and burden. Repeated measurement may distinguish transient discomfort from a sustained trajectory, but collecting more data is not automatically better and can increase anxiety or exclusion.",
+          "Distinguish observations, predictions and unknowns. An unmeasured effect is not zero; relative effects cannot yield personal absolute risks without applicable baseline risks and models. Keep personal priorities alongside the evidence, and revisit the comparison when circumstances or outcomes change."
+        ],
+        "source_page": 6,
+        "level": 1
+      },
+      {
+        "heading": "Empirical estimates and their scope",
+        "paragraphs": [
+          "Fig. 3 preserves four different estimands. Long working hours were associated with stroke incidence in a cohort meta-analysis; this does not estimate the effect of one overtime week. [@E018] Hall and colleagues' 20-person inpatient crossover experiment found greater energy intake on the ultra-processed diet, whereas Tasali and colleagues' sleep-extension trial found lower estimated energy intake relative to control. [@E019][@E020] The former interval is one standard error, not a 95% confidence interval. Bean and colleagues' odds ratio concerns identification in medical scenarios, not the probability of illness. [@E014]",
+          "Applying these findings to personal choice requires checking the population, exposure, comparator, outcome and follow-up. They show that particular consequences of work, diet, sleep and digital tools can be measured. They do not validate the framework as a whole or supply a personal price for health. Fig. 3 retains each study’s units and uncertainty so that readers can judge its relevance."
+        ],
+        "source_page": 7,
+        "level": 1
+      },
+      {
+        "heading": "Trade-offs in everyday settings",
+        "paragraphs": [
+          "Suppose ordinary daily pay is CNY 200, with an additional CNY 400 for working until 02:00 or CNY 1,000 for working through the night. Assuming all amounts are net of tax and ordinary pay is unchanged, daily income is CNY 200, 600 or 1,200 (Fig. 4a). If CNY 400 and 1,000 instead denote total daily pay, the increments are CNY 200 and 800. Distinguishing base pay, supplements and total income prevents an initial accounting error.",
+          "The schedule must then be specified: when work starts, when the person must rise the next day, whether another shift follows, and whether commuting or care duties can change. Finishing at 02:00 with a day off is a different option from finishing at 02:00 before an early shift. An end time alone does not establish sleep duration, and comparison should extend beyond the work episode to subsequent functioning and recovery.",
+          "Whether the person gains also depends on what the money enables. Paying rent or care costs may relieve an immediate difficulty; fatigue, restricted activities and other burdens still belong in the comparison. Conversely, the absence of obvious discomfort does not establish an absence of effects. Confirmed income changes, functioning that needs observation and unknown longer-term consequences can be listed separately, allowing the person to identify losses they regard as unacceptable.",
+          "Work arrangements may also be negotiable. Fewer consecutive night shifts, time off the next day or the ability to stop can be included as further options. Comparison should examine whether they meet income needs while preserving rest and valued activities. Their effects still require evaluation."
+        ],
+        "source_page": 8,
+        "level": 1,
+        "case_heading": "Case 1  Daily pay and overnight supplements"
+      },
+      {
+        "heading": "Case 2  Comparing a week with a month",
+        "paragraphs": [
+          "Consider a hypothetical 28-day window. Option A offers a net supplement of CNY 10,000 for seven overtime days; option B offers CNY 100,000 for 28. Holding ordinary earnings equal, ΔY = 100,000 − 10,000 = 90,000 CNY, alongside 21 additional overtime days. Fig. 4b aligns the denominators. It does not assign the remaining days in option A a health value automatically. Their activities, recovery opportunities and effects on family members must be recorded; effects extending beyond day 28 require a longer outcome horizon.",
+          "Appraisal also needs shift duration and timing, baseline health, the ability to stop, essential financial needs and the next-best feasible option. Different constraints may lead to different choices, while health costs still belong in the record. Whether CNY 100,000 is worthwhile can only be judged under these conditions. A legal or contractual payment addresses responsibility and compensation; it does not show that lost functioning has been restored.",
+          "Sleep restriction also shows why subjective adaptation and objective function should be distinguished. In Van Dongen and colleagues' laboratory programme, 35 adults were randomized to 4, 6 or 8 hours in bed for 14 nights; a separate total-deprivation experiment involved 13 adults. Performance deficits accumulated in the 4- and 6-hour groups, while reported sleepiness did not track their full progression. [@E027] These functional findings do not establish permanent neuronal destruction after one late night. Recovery and persistence require their own evidence."
+        ],
+        "source_page": 9,
+        "level": 2
+      },
+      {
+        "heading": "Case 3  Beyond the price of dinner",
+        "paragraphs": [
+          "Comparing a convenient purchased dinner with a meal prepared at home requires more than ingredients or price. Suppose the alternatives are maintained for four weeks. Food expenditure, shopping, cooking and cleaning time, taste and feasibility all enter the comparison (Fig. 4c). A person with a kitchen and predictable hours faces different options from a shift worker with limited cooking facilities.",
+          "Junk food is an everyday label rather than a sufficiently defined research exposure. Food composition, processing category, intake and duration need specification: takeaway is not synonymous with ultra-processed food, nor home cooking with a balanced diet. Hall and colleagues observed an energy-intake difference, but no significant between-diet differences in short-term glucose tolerance or continuous glucose measures. This neither establishes long-term equivalence nor supports deterioration in every internal measure. [@E019]",
+          "Preparing a meal uses time and labour. Who shops, cooks and cleans should be recorded alongside food spending and the time saved by convenience. A practical comparison can begin with feasible changes to available meal combinations or preparation burden, then observe the eating experience and relevant outcomes. Requiring an ideal menu at the outset can overlook the person’s circumstances."
+        ],
+        "source_page": 10,
+        "level": 2
+      },
+      {
+        "heading": "Case 4  Screens, companionship and an evening",
+        "paragraphs": [
+          "Suppose two hours after dinner are discretionary. Short dramas or games, AI conversation, reading, walking and meeting friends are candidate activities (Fig. 4d). Appraisal first asks what each displaces. Gaming may displace intended sleep for one person and otherwise unstimulating time alone for another. Online and offline activities cannot be ranked by their labels alone, and leisure need not justify every minute through increased productivity.",
+          "Observation can extend from the evening to the next day and subsequent weeks: was the activity enjoyable, did satisfaction persist, could the person stop as planned, and could they carry out valued activities the next day? Attention needs a specified construct, such as sustained attention, switching or memory. Patience likewise needs a defined behaviour; viewing duration alone cannot diagnose cognitive decline. These questions organize observation rather than establish causal pathways.",
+          "AI companionship should be assessed for both immediate support and sustained change. Studies have observed loneliness relief after interaction, while follow-up and comparator design limit conclusions about persistence. [@E013] A personal comparison can track whether use adds to existing support, accompanies delayed sleep and can be ended as intended. Enjoyment and support have value in themselves; observing subsequent changes can inform decisions about future use.",
+          "The same principle applies to AI food or medical advice. A credible-sounding answer and an appropriate user decision are different outcomes; medical-scenario experiments have demonstrated a gap between models acting alone and human–AI interactions. [@E014] Evaluation should examine understanding, recognition of applicability and appropriate action, rather than treating verbal fluency as effectiveness."
+        ],
+        "source_page": 11,
+        "level": 2
+      },
+      {
+        "heading": "Testable propositions and evaluation",
+        "paragraphs": [
+          "Validation has two parts: identifying mechanisms that change health-related outcomes, and testing whether the comparison framework improves informed choice. The first supplies evidence for the record; the second tests the tool’s usefulness. Extended Data Fig. 3 separates these research paths, and Supplementary Table 3 lists propositions and findings that could weaken them.",
+          "Workplace studies could combine task logs, whole-day diaries and repeated outcomes with measures of control over workload and schedules. Randomized policies or credible natural experiments would strengthen causal inference. Simple user–non-user comparisons remain vulnerable to job selection, workload, prior health and reverse causation. Prespecified mechanism analyses should avoid obscuring total effects through mechanical adjustment for post-treatment time use.",
+          "Tool evaluation should use an active comparator: identical evidence and an established guide, with only the intervention group receiving the added record of time, consequences and uncertainty. Decision-quality research and the Cochrane review inform comparator and outcome selection. [@E021][@E022] Prespecify understanding as a potential primary outcome with independent scoring; transfer, values–choice concordance and calibrated uncertainty can be secondary outcomes.",
+          "Record completion time, attrition, anxiety, accessibility and withdrawals’ experiences. Repeated use may bring learning, fatigue or changed decisions. Preregister the population, target effect, sample-size basis, missing-data analysis and multiplicity handling. Interviews can explain understanding or disagreement, but cannot replace causal estimates. Simplify or discontinue a module without meaningful net benefit. Choices closer to the researchers’ preferred lifestyle alone do not establish success."
+        ],
+        "source_page": 12,
+        "level": 1
+      },
+      {
+        "heading": "Institutions and distribution",
+        "paragraphs": [
+          "Work rules, platform design, housing, food access and care responsibilities constrain personal choices (Extended Data Fig. 4). Income insecurity or workload demands may make rest difficult, so an emphasis on self-discipline alone misses the conditions limiting choice. The framework can reveal these constraints; expanding feasible options and changing bargaining conditions also require organizational and public-policy action.",
+          "The perspective of the comparison must also be explicit. Workers’ net income, firms’ output, unpaid family care and public spending are separate entries. Compensation is income to a recipient but may be a transfer between parties at the societal level. Time saved by one person may become another’s checking, correction or care work. Comparing individual, household and societal outcomes shows both aggregate change and who bears it.",
+          "Institutions can also use the framework to ask concrete questions: does a productivity policy return time to workers; does a platform permit meaningful disengagement; and does an intervention remain feasible for people with limited money, mobility or digital access? These are evaluative questions, not established effects of particular policies. The same information should not become a surveillance score used to penalize workers, deny opportunities or blame people for constrained choices. Purpose limitation and proportionate collection are part of making the proposed support usable."
+        ],
+        "source_page": 13,
+        "level": 1
+      },
+      {
+        "heading": "Conclusions and outlook",
+        "level": 1,
+        "paragraphs": [
+          "This Perspective brings health-related consequences, their timing and their distribution into one comparison. AI use makes these questions pressing because faster task performance need not improve independent capability or daily life. A shared record can make such differences explicit while allowing personal priorities to vary. Whether the framework improves explanation, prediction or decision quality beyond existing methods remains an empirical question.",
+          "This conceptual Perspective draws together economic theory, measurement approaches and selected empirical studies through narrative synthesis. The proposed framework remains unvalidated. Broader measurement may add burden, population effects may not apply to individuals, and priorities can change with circumstances. Context-specific feasibility studies should precede comparison with established decision support, with follow-up to assess whether gains in understanding and choice persist."
+        ],
+        "source_page": 13
+      }
+    ],
+    "captions": {
+      "1": "<b>Linking measurement, prediction and appraisal.</b> a, Three kinds of information address the same decision. b, Conditional dominance and trade-offs on qualitative axes without numerical units. Other relevant outcomes and uncertainty may change the ordering.",
+      "2": "<b>Measurement levels and their decision relevance.</b> The upper pathway separates exposure, state and consequences in daily life; arrows indicate relationships to investigate. Candidate measures below are selected for the decision and its timing. ICF links functioning to context; WHO-5 covers mental well-being over the preceding two weeks. [@E016][@E017]",
+      "3": "<b>Selected estimates with their original uncertainty.</b> <b>a,</b> Stroke incidence from seven cohorts, follow-up 1–20 years. [@E018] <b>b,</b> Energy intake in a 20-person inpatient crossover diet trial. [@E019] <b>c,</b> Energy intake change versus control in a sleep-extension trial; 81 randomized, 80 in the reported analysis set. [@E020] <b>d,</b> Relevant-condition identification in hypothetical medical scenarios: control versus pooled AI assistance. [@E014] Bars denote 95% CIs in a, c and d; ±1 SE in b. Ratio axes are logarithmic. RR and OR are distinct; neither is an absolute probability change. No effects are pooled or converted to a personal health price. RR, risk ratio; OR, odds ratio; CI, confidence interval; SE, standard error.",
+      "4": "<b>A common basis for everyday comparisons.</b>a, Hypothetical daily income: CNY 200 base pay plus supplements of CNY 400 or 1,000 yields totals of CNY 600 or 1,200. b, Within a common 28-day horizon, supplements of CNY 10,000 for seven overtime days and CNY 100,000 for 28 days differ by CNY 90,000 and 21 overtime days. c, Food comparisons include expenditure, preparation and cleaning time, experience and subsequent states. d, Two-hour leisure choices require recording displaced activities and outcomes that evening, the next day and later. Panels a and b show hypothetical arithmetic; c and d identify observations, not estimated effects."
+    },
+    "extended_captions": {
+      "1": "<b>A framework for comparing health-related consequences.</b> Feasible alternatives and a common horizon define the comparison. Resources and time, health and functioning, experience, and capabilities and agency remain distinct. Priorities inform appraisal. Connections represent analytical steps, not estimated causal effects.",
+      "2": "<b>Task savings and the allocation of a day.</b> <b>a,</b> The accounting identity includes prompting, verification and rework in T1, additional tasks in A and other work-time changes in B. <b>b,</b> Hypothetical 24-hour budgets with an 8-hour baseline workday, a 4-hour task saving and B = 0. Non-work time is not assigned a health effect.",
+      "3": "<b>Two research questions and their evaluation paths.</b> Mechanism research explains how outcomes arise; tool evaluation tests the added comparison module. An active comparator gives both groups the same facts and established guide. The proposed design is not a completed trial.",
+      "4": "<b>Conditions of choice and distribution of consequences.</b> Workplace, platform and household conditions shape feasible options. Income, time and care burdens may accrue to different people. Arrows organize evaluation questions rather than depict estimated causal effects."
+    },
+    "tables": {
+      "1": {
+        "caption": "<b>Minimum comparison record.</b> Proposed fields, not a validated scale. Health capability, ICF, WHO-5, MCDA and decision-quality research inform the distinctions. [@E004][@E016][@E017][@E009][@E021]",
+        "rows": [
+          [
+            "Domain",
+            "Record",
+            "Interpretation"
+          ],
+          [
+            "Decision",
+            "Feasible options; ability to refuse; common horizon",
+            "Distinguish nominal options from real opportunities"
+          ],
+          [
+            "Resources and time",
+            "Net income change; total work; displaced activities",
+            "Record where saved time is used"
+          ],
+          [
+            "Health and functioning",
+            "Relevant symptoms, function or clinical outcomes",
+            "Interpret against baseline and clinical context"
+          ],
+          [
+            "Experience",
+            "Enjoyment, relief or distress; during and after",
+            "Separate immediate responses from sustained change"
+          ],
+          [
+            "Capabilities and agency",
+            "Independent performance; valued activities; discretion",
+            "Include accessibility gains from assistance"
+          ],
+          [
+            "Evidence and appraisal",
+            "Population; comparator; horizon; uncertainty; goals",
+            "Retain unknowns and differences in priorities"
+          ]
+        ]
+      },
+      "2": {
+        "caption": "<b>Different levels of AI outcomes.</b> Studies illustrate task efficiency, experience and judgement; their designs and endpoints differ.",
+        "rows": [
+          [
+            "Setting and design",
+            "Main finding",
+            "Interpretive scope"
+          ],
+          [
+            "Professional writing [@E011]\nRandomized; n = 453",
+            "Faster task completion and better output quality",
+            "Full-day allocation and health not measured"
+          ],
+          [
+            "Customer support [@E026]\nStaggered rollout; n = 5,172",
+            "About 15% higher resolutions per hour; outcome availability varies",
+            "Causal assumptions; allocation of saved time not measured"
+          ],
+          [
+            "AI companionship [@E013]\nSeven-day Study 3",
+            "Immediate loneliness relief; persistent pre-interaction benefit not demonstrated",
+            "Differential attrition; control not time-matched"
+          ],
+          [
+            "Medical scenarios [@E014]\nn = 1,298",
+            "Control versus pooled AI: identification OR 1.76 (95% CI 1.45–2.13)",
+            "Scenario performance, not clinical morbidity"
+          ]
+        ]
+      },
+      "3": {
+        "caption": "<b>Testable propositions and disconfirming observations.</b> Each comparison requires prespecified estimands and outcomes.",
+        "rows": [
+          [
+            "Proposition",
+            "Key comparison",
+            "Potentially disconfirming result"
+          ],
+          [
+            "Discretion affects allocation of AI time savings",
+            "Similar task gains; credible differences in control over workload",
+            "No meaningful allocation difference, with sufficiently precise estimates"
+          ],
+          [
+            "Immediate relief and sustained benefit may diverge",
+            "Matched comparator; repeated pre-use, post-use and follow-up measures",
+            "Stable pre-use improvement comparable to immediate relief"
+          ],
+          [
+            "The module improves decision quality",
+            "Same guide, with or without the added module",
+            "No gain in understanding or transfer, or burden exceeds benefit"
+          ]
+        ]
+      }
+    }
+  },
+  "zh": {
+    "title": "人工智能时代的健康经济价值与跨期选择",
+    "abstract": "加班收入、便利饮食和人工智能（AI）提高的任务效率容易计入收益，相伴的睡眠变化、身体负担和恢复时间却常被遗漏。本文结合健康资本、时间配置、健康可行能力与决策分析，提出健康后果比较框架。在共同期限内，框架比较现实可行的方案，分别记录资源与时间、健康与功能、主观体验、能力与自主性，并依据个人目标评价取舍。测量、预测和评价各有依据，各项结果保留原有单位、发生时点及不确定性。任务提速未必增加休息，辅助表现改善也未必提高独立能力。本文以加班、饮食和数字休闲为例，说明比较方法，并提出关于时间收益分配、效果持续性和决策质量的可检验命题。框架旨在帮助人们理解选择的条件与后果，允许不同处境下的个人保留不同偏好。",
+    "sections": [
+      {
+        "heading": "经济收益如何转化为生活改善",
+        "paragraphs": [
+          "一笔加班费能否改善生活，要看收入增加了多少，也要看付出了什么。延长白天工作、连续上夜班和借助人工智能（AI） 提高效率，都可能增加收入，却可能给睡眠、精力和家庭时间带来不同影响。比较从具体问题开始：钱增加了多少，时间花在何处，第二天还能否正常工作、学习或照顾家人。图 1 区分测量、预测与评价，扩展数据图 1 汇总比较框架。",
+          "既有理论为这一问题提供了不同切入点。Grossman 将健康视为兼具消费与生产作用的资本存量，Becker 将非市场时间纳入资源配置分析。[@E001][@E002] 马克思对工作日的讨论，则将劳动时间、议价关系与劳动力再生产联系起来。[@E003] 这些理论分别关注健康、时间和劳动关系，不能彼此替代。沿着马克思的思路，可以追问生产收益与健康负担由谁承担；具体的健康损失仍须依据劳动暴露及其替代方案来识别，不能直接作为剩余价值的一项实测数量。",
+          "健康可行能力理论同时关注已经实现的健康状态，以及人们维护健康、追求自身目标的实际机会。[@E004] 对依赖加班收入支付住房或照护费用的人来说，有权拒绝加班，并不意味着有条件拒绝。健康状态也会改变收入对生活的意义，同额收入增量未必带来相同的福利改善。[@E005] 评价收入时，需要同时考察它缓解了哪些困难，以及为此付出的时间和健康代价。",
+          "本文所称健康经济价值，是健康与功能变化对资源配置和个人选择的意义，包括健康本身的价值及其对日常活动的支持。它不等同于赚钱能力、总体福利或人的价值。比较框架据此列出可行方案，追踪后果随时间的变化，并结合证据、不确定性和个人目标作出判断。比较可以得到明确的选择，也可以说明某项选择在什么条件下成立，或哪些分歧暂时无法消解。"
+        ],
+        "source_page": 2,
+        "level": 0
+      },
+      {
+        "heading": "从状态测量到价值评价",
+        "paragraphs": [
+          "体检单可以告诉人们血糖处在什么范围，却不能直接回答一项选择是否值得。检测描述当前状态，干预研究估计改变饮食后可能出现的结果，而是否愿意为此付出金钱、时间或口味上的代价，还取决于个人目标。测量、预测和评价因此各有依据。参考区间不是人的价值尺度，群体研究的平均结果也不能直接当作个人的未来。",
+          "货币估值可用于特定的政策和资源配置问题，补偿支付却不能证明身体功能已经恢复。即使某项损失难以逆转，人们仍需比较预防、缓解和其他可行安排。接受补偿也有不同原因：有人认为收益足以抵偿风险，有人则缺少维持生计的其他选择。行为福利分析因此要求关注选择发生的条件，不能把所有实际选择都视为充分知情的价值判断。[@E006]",
+          "成本—后果分析将不同结果并列呈现，多准则决策分析（MCDA）则明确评价标准及其权重。[@E009][@E008] 成熟的决策指南也会询问备选方案、价值取向和支持需求。[@E010] 本文在这些方法上增加具体记录：节约的时间用在何处，结果能持续多久，有无辅助时的功能有何差别，以及收益和负担由谁承担。这些项目构成补充表 1 的比较记录，其实际作用仍需与既有工具比较验证。",
+          "采用统一工具有利于不同研究之间的比较。EQ-5D 等基于偏好的健康状态测量工具，可在合适的赋值体系下用于卫生经济评价。[@E025] 不过，日常决策还涉及人际关系、自主安排和个人重视的能力。自我决定理论对自主、胜任和关系需要的讨论，为理解这些方面提供了补充。[@E007] 因而，阅读、游戏、运动或虚拟陪伴的意义，应结合具体体验与功能变化分析，而不宜仅凭活动名称判断。",
+          "比较需要统一记录规则，也需要容纳不同偏好。收入、睡眠与家庭时间发生冲突时，应先列明得失，再考察改变优先顺序是否会改变选择。只有在量尺、权重、不确定性和重复计量问题得到合理处理后，汇总评分才有解释力。缺少可靠换算关系的结果，可保留各自单位，分别报告。"
+        ],
+        "source_page": 3,
+        "level": 1
+      },
+      {
+        "heading": "跨期比较与时间约束",
+        "paragraphs": [
+          "设 x_i(a;τ) 为个体 i 选择方案 a 后，在时点 τ 的结果向量，分别记录资源、时间、健康与功能、体验及能力等信息，各分量保留原有单位。对可以计算数值差异的指标，方案 a 与 b 的比较为：",
+          "Δx_i(a,b;τ) = x_i(a;τ) − x_i(b;τ).  (1)",
+          "式（1）用于表达比较对象；各分量的数值仍需来自观测资料或具有依据的预测。类别变化可用文字记录。若疲劳、恢复或能力变化随时间累积，则应比较变化轨迹，而非只看某个终点。进一步令 z_j 表示在适用范围内数值越大越受偏好的评价准则；若满足下式，则方案 a 在所列准则上占优：",
+          "Δz_j ≥ 0 (∀j); Δz_k > 0 (∃k).  (2)",
+          "这一判定以准则足够完整、估计不确定性不足以改变排序为前提。许多生物指标存在适宜范围，不能简单按高低确定优劣。实际决策中更常见的是不同结果相互牵制，此时仍须依据个人目标权衡，无法由式（1）或式（2）推出统一的健康兑换率。",
+          "AI 的时间收益可进一步拆分。令 S = T_0 − T_1 表示完成固定任务所节约的时间，其中 T_1 包含提示输入、核验和返工；令 A 表示新增任务耗时，B 表示其余工作时间的净变化。各项互不重复时，总工作时间变化为：",
+          "ΔW = −S + A + B.  (3)",
+          "扩展数据图 2 给出固定任务节约 4 小时的假设情境。当 B = 0 时，若没有新增任务，总工时减少 4 小时；新增任务占用 3 小时，总工时只减少 1 小时；新增任务占用 5 小时，总工时反而增加 1 小时。即便总工时减少，节约的时间仍可能用于睡眠、照护或其他活动，其健康意义需要结合实际用途判断。"
+        ],
+        "source_page": 4,
+        "level": 1
+      },
+      {
+        "heading": "人工智能收益的三个评价层次",
+        "paragraphs": [
+          "任务效率是最直接的评价结果。Noy 和 Zhang 对 453 名专业人士开展的随机研究发现，AI 辅助提高了写作速度与产出质量。[@E011] Brynjolfsson 等研究了涉及 5,172 名客服人员的分阶段部署，双重差分主分析显示每小时解决问题数约提高 15%。[@E026] 后者属于准实验研究，测量的是工作效率，且未掌握薪酬数据。两项研究支持生产率收益，但节约的时间由谁支配、劳动者收入和健康是否改善，仍需另行测量。[@E026] 补充表 2 汇总不同研究的设计、结局与适用范围。",
+          "第二个层次是能力变化。辅助条件下完成任务，与撤去辅助后独立完成任务，需要分别测量。Bastani 等的教育实验说明，判断学习效果还需安排无辅助测评。[@E012] 评价应同时关注即时表现、独立表现和向陌生任务的迁移，不能据一项实验推断 AI 普遍损害认知。工具支持本身也有价值：即使独立能力未变，原本难以完成的活动变得可及，仍可能改善日常生活。",
+          "第三个层次是收益的持续时间。De Freitas 等持续 7 天的第三项研究中，AI 陪伴带来的孤独缓解主要出现在互动后的即时测量，尚未证明互动前的孤独水平持续下降。[@E013] 组间退出差异和对照时长不匹配限制了结果解释。评价既应记录即时安慰，也应随访效果是否持续。对于短内容和虚拟互动，还可观察愉悦、睡眠、人际联系和能否自主结束使用；活动名称或使用时长本身不足以确定其价值。",
+          "医疗建议还涉及信息如何转化为行动。Bean 等发现，使用者处理假设医疗场景时，未达到模型单独作答的表现，研究比较了对照组与 AI 辅助组的病情识别结果。[@E014] 测量的是场景判断，并非实际患病结局。停用 Facebook 的研究同样关注平台使用之外的生活变化，但不能直接用于推断生成式 AI 的效应。[@E015] 健康素养导向 AI 强调理解、自主性、责任和相称性。[@E024] 将任务表现、持续能力和生活结果分别测量，可使这些要求落实为具体评价。"
+        ],
+        "source_page": 5,
+        "level": 1
+      },
+      {
+        "heading": "指标选择与测量层次",
+        "paragraphs": [
+          "指标应随决策问题选择。比较一顿晚餐，可记录价格、准备时间和饱腹感；比较一个月的夜班，还需观察睡眠、白天功能和恢复安排。先确认方案可行、期限一致，再依据基线状况和主要关切选择指标，比罗列全部体检项目更有针对性。图 2 展示了从暴露到生活影响的测量层次。",
+          "暴露、状态与生活影响需要区分。睡眠机会、久坐时长和饮食结构描述行为或环境；症状、实验室结果和任务表现描述状态；活动受限、痛苦或参与机会则说明这些状态为何重要。国际功能、残疾和健康分类（ICF）将功能置于具体环境之中，为这种区分提供了依据。[@E016] 若把久坐、相关代谢指标和下游疾病风险直接相加，就可能重复计算同一条路径上的影响。",
+          "血糖、血脂、血压、肌力、视力和皮肤症状各有测量对象，笼统的“血液质量”无法代替具体指标。数值变化需要结合基线、测量条件和适宜范围解释。皮肤不适和外观变化可以影响感受与交往，但不能仅凭肤色、头发或体形判断内部器官状态。身体与心理的联系也需要具体测量。健康差异反映人的处境，不应成为衡量其尊严与价值的尺度。",
+          "心理体验和功能表现也各有测量时点。世界卫生组织五项心理福祉指数（WHO-5）反映此前两周的心理福祉，适合观察一段时期的状态，而不适合测量一次互动后的即时反应。[@E017] 注意任务、症状报告与活动日记回答的同样是不同问题。工具选择需兼顾信度、反应性、语言适用性和使用负担；重复测量有助于区分短暂波动与持续变化，但频繁记录也可能增加焦虑和退出。",
+          "每项比较都应分清观察结果、预测和未知项。未测量不等于没有影响；没有适用的基线风险，也不能把相对效应换算为个人的绝对风险。证据、处境或个人目标改变后，应重新审视原有判断。"
+        ],
+        "source_page": 6,
+        "level": 1
+      },
+      {
+        "heading": "实证结果及其适用范围",
+        "paragraphs": [
+          "图 3 将四项研究结果分别绘制，以保留各自的结局、单位和不确定性。长工时与卒中发生的关联来自队列研究荟萃分析，不能据此估算加班一周的个人风险。[@E018] Hall 等的 20 人住院交叉试验发现，超加工饮食条件下能量摄入更高；Tasali 等的延长睡眠试验则发现，相对对照组，估计能量摄入下降。[@E019][@E020] 饮食试验图中的区间为正负一个标准误，其余三项为 95% 置信区间。医疗信息试验的比值比描述病情识别表现，并非患病概率。[@E014]",
+          "将这些结果用于个人选择，须逐项核对研究人群、暴露、比较对象、结局和随访期限。它们说明劳动安排、饮食、睡眠及数字工具的某些后果可以测量；既不能据此验证整个框架，也不能把不同结局合并为个人的健康价格。图 3 保留各研究的单位和不确定性，供判断证据是否适用。"
+        ],
+        "source_page": 7,
+        "level": 1
+      },
+      {
+        "heading": "典型情境中的权衡",
+        "paragraphs": [
+          "设普通日薪为 200 元；工作到凌晨两点另补 400 元，通宵另补 1,000 元。为便于比较，设金额均已扣税费，普通日薪不变，则当天净收入分别为 200、600 和 1,200 元（图 4a）。若 400 元和 1,000 元实际指当天总收入，增量就分别是 200 元和 800 元。先分清日薪、补贴与总收入，才能避免在起点上算错账。",
+          "钱款明确以后，还需把时间安排写完整：几点开始工作，次日几点起床，是否仍要上班，通勤和照护能否调整。同样在凌晨两点结束工作，次日可休息与清晨必须到岗，是两个不同的方案。不能仅凭结束时刻推定睡眠时长，也不能只比较加班当晚，而遗漏次日的功能与恢复。",
+          "“是否赚了”的判断还取决于收入用途。补贴若用于支付房租或照护费用，可能解除眼前困难；即便如此，也仍应记录疲劳、活动受限和其他负担。反过来，未出现明显不适，也不足以确认没有影响。可先将确定的收入增量、需要观察的功能变化和仍未知的长期后果并列，允许当事人说明哪些损失不可接受。",
+          "加班安排也可能协商：减少连续夜班、安排次日休息，或允许中途退出，都可作为新的备选方案。比较时既要考察能否满足收入需要，也要观察能否保留休息和重视的活动。这些安排的实际效果仍需评估。"
+        ],
+        "source_page": 8,
+        "level": 1,
+        "case_heading": "案例一　日薪与夜间加班补贴"
+      },
+      {
+        "heading": "案例二　把一周与一个月放在同一期限内比较",
+        "paragraphs": [
+          "以 28 天为共同期限，设方案 A 加班 7 天，获得税费后补贴 1 万元；方案 B 加班 28 天，获得补贴 10 万元。若普通工资相同，则 ΔY = 100,000 − 10,000 = 90,000 元，同时多出 21 个加班日（图 4b）。这一步使收入比较具有相同的时间基准。健康比较还需知道具体班次、其余日子的活动与恢复机会；若影响持续至第 28 天以后，观察期也应相应延长。",
+          "判断两方案的得失，还需知道每天加班多久、是否跨夜、原有健康状况、能否中止，以及收入是否用于必要支出。经济约束不同，选择可能不同，健康代价却仍应记录。因此，“10 万元是否值得”只能在这些条件下判断。法律或合同规定的支付处理责任与补偿问题，不能证明失去的身体功能已经恢复。",
+          "睡眠研究说明，仅凭自我感觉也可能低估功能变化。Van Dongen 等的实验中，35 名成人被随机分配到连续 14 晚卧床 4、6 或 8 小时的条件，另有 13 人参加完全睡眠剥夺实验。4 小时和 6 小时组的表现损害逐渐累积，报告的困倦程度却未充分反映这种变化。[@E027] 这提示评价应同时记录主观体验与客观表现。该结果涉及功能损害，不能进一步推断一次熬夜会造成永久性神经元损伤。"
+        ],
+        "source_page": 9,
+        "level": 2
+      },
+      {
+        "heading": "案例三　晚餐的价格之外",
+        "paragraphs": [
+          "比较一份方便购买的晚餐与一顿自己准备的饭，不能只看食材或标价。假设两种安排分别持续四周，应把食材和外卖费用、采购与烹调时间、清理负担、口味及可持续性一并列出（图 4c）。有厨房、下班时间固定的人，与轮班工作、缺少做饭条件的人，面对的可行选项并不相同。",
+          "“垃圾食品”是日常用语，不是足够明确的研究暴露。研究需要说明食品组成、加工分类、摄入量和持续时间，不能将外卖一概视为超加工食品，也不能将家庭烹饪等同于营养均衡。Hall 等的供餐试验观察到能量摄入差异，但短期葡萄糖耐量和连续血糖监测结果未见显著组间差异；这既不证明长期无影响，也不支持“每项内部指标必然更差”。[@E019]",
+          "准备一餐饭需要时间和劳动，家庭中由谁采购、烹调和清洗，应与食物开支一并记录。便利食品节约的时间也有价值。实际比较可从做得到的调整开始，例如改变可获得的菜品组合，或减轻准备负担，再观察饮食体验和相关结果。要求当事人先接受一种理想菜单，反而容易忽略其生活条件。"
+        ],
+        "source_page": 10,
+        "level": 2
+      },
+      {
+        "heading": "案例四　屏幕、陪伴与一个晚上的去向",
+        "paragraphs": [
+          "假设晚饭后有两小时可自由安排：看短剧或玩游戏、与 AI 交谈、读书、散步或见朋友，都是候选活动（图 4d）。评价首先要弄清它们替代了什么。对一个人而言，游戏可能挤占原定睡眠；对另一个人而言，同样的活动可能替代独处时的无聊。不能只按“线上”或“线下”为活动排序，也不能把每一分钟闲暇都要求为提高生产率服务。",
+          "比较可以从当晚延伸到次日及随后数周，分别询问：活动当时是否愉快，结束后是否仍感到满足，能否按原计划停止，第二天能否完成自己重视的事情。若关注注意力，应明确测量持续注意、任务切换还是记忆；“耐心值”也需要转化为具体行为，不能凭看了多久短视频就判定认知能力下降。上述问题用于组织观察，并非已经确立的因果路径。",
+          "评价 AI 陪伴时，也应分别记录即时支持和持续变化。已有研究观察到互动后的孤独缓解，但随访和对照设计仍限制了对长期效果的判断。[@E013] 在个人比较中，可以观察使用是否补充了原有支持、是否伴随推迟睡眠，以及能否按意愿结束互动。愉悦和支持本身有价值；记录后续变化，则有助于决定是否调整使用方式。",
+          "同一原则适用于 AI 饮食或医疗建议。一次回答听起来可信，和使用者据此作出恰当决定，是不同的结果；医疗场景实验已经显示模型单独作答与人机互动表现之间的差距。[@E014] 研究应检验使用者能否理解建议、识别适用范围并采取恰当行动，而不能用回答的流畅程度代替效果。"
+        ],
+        "source_page": 11,
+        "level": 2
+      },
+      {
+        "heading": "可检验命题与验证设计",
+        "paragraphs": [
+          "验证分为两部分：一是识别哪些机制改变了健康相关结果，二是检验比较框架是否帮助人们作出更充分知情的选择。前者为记录内容提供依据，后者检验工具的实际作用。扩展数据图 3 展示两条研究路径，补充表 3 列出待检验命题及可能削弱它们的结果。",
+          "工作场所研究可结合任务日志、全天时间日记和重复测量，记录节约时间的去向及工作量、日程的决定权。组织政策随机试验或可信的自然实验有助于识别因果关系；单纯比较 AI 使用者与非使用者，仍受岗位选择、工作负荷、原有健康和反向因果影响。机制分析应预先设定，避免机械控制干预后的时间变量而遮蔽总效应。",
+          "工具评价宜采用主动对照：两组获得相同事实和成熟决策指南，干预组另加时间、后果与不确定性记录。决策质量研究和 Cochrane 综述可为对照及结局选择提供依据。[@E021][@E022] 主要结局应在招募前确定，由独立评分者评价理解程度；陌生情境中的运用、选择与个人价值的一致性，以及对不确定性的把握，可作为次要结局。",
+          "还需记录完成时间、退出、焦虑、可及性和停止使用者的体验。重复使用可能带来学习、疲劳或决策变化。预注册方案应说明目标人群、目标效应、样本量依据、缺失数据和多重比较处理。访谈可以解释理解或分歧，不能替代因果估计。若新增记录未带来实质收益，或负担超过收益，应简化或停止使用；选择更符合研究者的生活偏好，不能作为成功标准。"
+        ],
+        "source_page": 12,
+        "level": 1
+      },
+      {
+        "heading": "制度条件与分配",
+        "paragraphs": [
+          "个人选择受到工作规则、平台设计、住房、食物可获得性和照护责任的约束（扩展数据图 4）。收入不稳定或工作量要求可能使休息难以实现，此时只强调自律，会遗漏限制选择的条件。比较框架可以揭示这些约束；扩大可行选项、改变议价关系，仍需要组织和公共政策的参与。",
+          "评价还需明确站在谁的角度。劳动者净收入、企业产出、家庭无偿照护和公共支出应分别记录。一笔补偿对个人是收入，对社会则可能只是主体之间的转移；一个人节约的时间，也可能成为他人的核验、纠错或照护负担。比较个人、家庭与社会层面的结果，才能看清总量变化和实际承担者。",
+          "由此可以提出具体的制度评价问题：生产率提升是否增加劳动者可自主安排的时间，平台是否支持自主退出，某项安排是否对资金、行动能力或数字接入受限者同样可行。信息收集应限于决策需要，避免将健康比较转化为监控劳动者或限制机会的评分工具。"
+        ],
+        "source_page": 13,
+        "level": 1
+      },
+      {
+        "heading": "结语与展望",
+        "level": 1,
+        "paragraphs": [
+          "本文将健康相关后果、发生时间和承担者纳入同一比较过程。AI 使用使这些问题更为突出：任务做得更快，未必意味着独立能力增强或生活改善。共同的记录规则有助于讨论这些差异，同时允许人们保留不同偏好。框架能否在既有方法基础上改善解释、预测或决策质量，仍须通过研究检验。",
+          "本文通过叙述性整合，联系经济理论、测量工具与代表性实证研究，提出一个仍待验证的框架。测量范围扩大可能增加负担，群体结果未必适用于个人，偏好也可能随处境改变。后续研究应先检验具体场景中的可行性，再与既有决策支持工具比较，观察理解和选择是否获得持续改善。"
+        ],
+        "source_page": 13
+      }
+    ],
+    "captions": {
+      "1": "<b>测量、预测与评价的衔接。</b> a，同一问题需要三类信息。b，二维图展示条件性占优与结果冲突；坐标无数值单位，结论还须考虑其他重要结果与不确定性。",
+      "2": "<b>指标的测量层次与决策含义。</b> 上部区分暴露、状态和生活影响；箭头表示待检验的联系。下部列出候选指标及测量时点，按具体问题选取。ICF 强调功能与环境的联系；WHO-5 测量此前两周的心理福祉。[@E016][@E017]",
+      "3": "<b>四项研究的估计结果。</b> a，7 项队列的卒中发生，随访 1–20 年。[@E018] b，20 人住院交叉饮食试验的能量摄入。[@E019] c，延长睡眠试验：随机分配 81 人，分析集 80 人。[@E020] d，假设医疗场景的病情识别，对照组相对合并 AI 组。[@E014] a、c、d 为 95% 置信区间，b 为正负一个标准误。比率轴为对数刻度；RR 与 OR 均非绝对概率变化，四项效应不作合并。 RR，风险比；OR，比值比；CI，置信区间；SE，标准误。",
+      "4": "<b>日常选择的共同比较基准。</b>a，单日收入假设：普通日薪 200 元，额外补贴 400 元或 1,000 元，对应总收入 600 元或 1,200 元。b，以 28 天为共同期限，加班 7 天与 28 天的补贴分别为 1 万元与 10 万元；差额为 9 万元，并多出 21 个加班日。c，饮食比较同时记录钱款、准备与清理时间、体验及后续状态。d，比较两小时闲暇活动时，记录活动替代了什么，以及当晚、次日和后续的结果。a、b 为假设情境的算术比较；c、d 为观察项目，不代表实测效应。"
+    },
+    "extended_captions": {
+      "1": "<b>健康后果比较框架。</b> 以可行方案和共同观察期限为起点，分别记录资源与时间、健康与功能、主观体验、能力与自主性，再结合个人目标比较。图中为分析环节，非估计所得的因果效应。",
+      "2": "<b>任务节时如何改变一天的安排。</b> a，T1 包含提示输入、核验及返工；A 为新增任务，B 为其余工作时间净变化。b，假设每天 24 小时，原工作 8 小时，固定任务节约 4 小时，B = 0。非工作时间的健康意义取决于实际用途。",
+      "3": "<b>两类研究问题及其验证路径。</b> 机制研究解释结果如何产生；工具评价检验新增比较模块的作用。主动对照使两组共享事实与成熟指南，差异在于是否增加比较模块。所列为研究设计，非已获得的试验结果。",
+      "4": "<b>选择条件与后果分配。</b> 工作场所、平台和家庭条件影响方案可行性；同一安排的收入、时间与照护负担可能分布于不同主体。图示组织评价问题，箭头不代表已估计的因果效应。"
+    },
+    "tables": {
+      "1": {
+        "caption": "<b>比较记录的基本项目。</b> 结合健康可行能力、ICF、WHO-5、多准则决策分析与决策质量研究组织信息，尚未构成经验证的量表。[@E004][@E016][@E017][@E009][@E021]",
+        "rows": [
+          [
+            "维度",
+            "记录内容",
+            "比较时的要点"
+          ],
+          [
+            "备选方案",
+            "具体安排；能否拒绝；共同期限",
+            "区分名义选项与实际机会"
+          ],
+          [
+            "资源与时间",
+            "净收入变化；总工时；替代的活动",
+            "记录节约时间的实际用途"
+          ],
+          [
+            "健康与功能",
+            "相关症状、功能表现或临床结局",
+            "结合基线及临床情境解释"
+          ],
+          [
+            "主观体验",
+            "愉悦、缓解或痛苦；活动中与活动后",
+            "区分即时反应与持续变化"
+          ],
+          [
+            "能力与自主性",
+            "独立表现；重视的活动；决定权",
+            "同时考虑辅助的可及性收益"
+          ],
+          [
+            "证据与评价",
+            "适用人群；对照；期限；不确定性；目标",
+            "保留未知项及偏好差异"
+          ]
+        ]
+      },
+      "2": {
+        "caption": "<b>AI 研究的不同结局层次。</b> 所列研究的设计与结局各异，分别用于说明任务效率、体验及判断表现。",
+        "rows": [
+          [
+            "场景与研究设计",
+            "主要结果",
+            "解释范围"
+          ],
+          [
+            "专业写作 [@E011]\n随机研究；453 人",
+            "任务完成更快，产出质量改善",
+            "未测量全天时间配置与健康"
+          ],
+          [
+            "客户服务 [@E026]\n分阶段部署；5,172 人",
+            "每小时解决问题数约提高 15%；不同结局的数据可得性不同",
+            "依赖因果识别假设；未测量时间收益归属"
+          ],
+          [
+            "AI 陪伴 [@E013]\n持续 7 天的研究 3",
+            "即时孤独缓解；尚未证明互动前状态持续改善",
+            "组间退出差异；对照未匹配时长"
+          ],
+          [
+            "医疗场景 [@E014]\n1,298 人",
+            "对照组相对合并 AI 组的识别 OR 为 1.76（95% CI 1.45–2.13）",
+            "场景表现，而非临床患病结局"
+          ]
+        ]
+      },
+      "3": {
+        "caption": "<b>待检验命题及反证条件。</b> 每项比较均需预先确定目标效应与结局。",
+        "rows": [
+          [
+            "研究命题",
+            "关键比较",
+            "可能削弱命题的结果"
+          ],
+          [
+            "决定权影响 AI 节时分配",
+            "任务收益相近、工作量决定权有可信差异的群体",
+            "未见有意义的配置差异，且估计足够精确"
+          ],
+          [
+            "即时缓解与持续收益可能不同",
+            "匹配对照，重复测量使用前后及随访状态",
+            "使用前状态获得与即时缓解相当的稳定改善"
+          ],
+          [
+            "比较模块提高决策质量",
+            "同一指南，比较有无新增模块",
+            "理解或迁移未改善，或负担超过收益"
+          ]
+        ]
+      }
+    }
+  }
+}

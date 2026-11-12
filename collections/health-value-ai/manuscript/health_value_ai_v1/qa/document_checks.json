@@ -1,0 +1,214 @@
+{
+  "pages": 16,
+  "page_metrics": [
+    {
+      "page": 1,
+      "characters": 618,
+      "last_lines": [
+        "Hangzhou Normal University 5 ",
+        "Proposed corresponding author: Richard T. Millian; author email to be supplied. Administrative ",
+        "contact: Mason Matthew, assistant (not an author), e1237966@outlook.com. ",
+        "Conceptual framework and research agenda. No original participant data or empirical validation of the ",
+        "proposed framework are reported. Scientific content and declarations require author review. "
+      ]
+    },
+    {
+      "page": 2,
+      "characters": 2560,
+      "last_lines": [
+        "Economic theory already provides substantial foundations for this question. Grossman's health 35 ",
+        "capital model treats health as both consumption and investment, while Becker's time allocation ",
+        "framework incorporates time alongside market goods.[1, 2] The present argument therefore does ",
+        "not rest on a supposed absence of health or non-market activity from economics. Marx's ",
+        "discussion of the working day provides a complementary political-economic motivation: the "
+      ]
+    },
+    {
+      "page": 3,
+      "characters": 2738,
+      "last_lines": [
+        "Observed choice alone is also an incomplete basis for deciding which information or options 65 ",
+        "should count in welfare evaluation. Behavioural welfare analysis makes the relation between ",
+        "choice conditions and welfare an explicit theoretical problem.[6] Our proposed response is to ",
+        "record whether an option can actually be refused, what the person understands, and which goals ",
+        "the decision serves. Autonomy should not be equated with self-sufficiency: self-determination "
+      ]
+    },
+    {
+      "page": 4,
+      "characters": 2638,
+      "last_lines": [
+        "different activity mix, depending on constraints and preferences. 95 ",
+        "For matched tasks with comparable quality, let T0 denote time without AI and T1 all time with ",
+        "AI, including prompting, checking and rework. Let S = T0 − T1, A denote time for additional ",
+        "tasks, and B other changes in work time within the same calendar window. Then: ",
+        "𝛥𝑊 =  −𝑆 +  𝐴 +  𝐵     (1) "
+      ]
+    },
+    {
+      "page": 5,
+      "characters": 2882,
+      "last_lines": [
+        "Recent work on health-literate AI already emphasizes comprehension, agency, accountability ",
+        "and proportionality.[17] This closely related argument reinforces the need to define a narrower ",
+        "contribution. The proposed profile focuses on the economic comparison of feasible activities ",
+        "over time and on whether an additional comparison module improves decisions. Supporting ",
+        "understanding or invoking agency alone would not distinguish it from existing work. 130 "
+      ]
+    },
+    {
+      "page": 6,
+      "characters": 2710,
+      "last_lines": [
+        "immediate enjoyment require their own interpretation. A person can value an activity's pleasure ",
+        "without claiming that it improves long-term health. Equally, a short-term functional change ",
+        "should not be described as permanent damage without evidence of persistence and mechanism. ",
+        "The fourth step is to make uncertainty visible. Each predicted consequence should specify its ",
+        "source population, comparison, outcome, horizon and uncertainty, and distinguish an observed 160 "
+      ]
+    },
+    {
+      "page": 7,
+      "characters": 2726,
+      "last_lines": [
+        "28-day window, the second option adds CNY 90,000 and 21 overtime days. The financial 185 ",
+        "increment is calculable under those assumptions; neither its health cost nor its welfare advantage ",
+        "is supplied by the arithmetic. The comparison should record daily exposure, recovery ",
+        "opportunities and later consequences, extending follow-up beyond the payment period when ",
+        "necessary. No amount is labelled adequate compensation without those additional judgements. "
+      ]
+    },
+    {
+      "page": 8,
+      "characters": 2709,
+      "last_lines": [
+        "assumptions required for mediation. Recording task quality and activities outside the software 215 ",
+        "prevents platform telemetry from being mistaken for a complete account of life. ",
+        "A decision-support study addresses a different question: whether the proposed comparison ",
+        "procedure adds value. We propose an active-control comparison between an established guide ",
+        "with a common factual information pack and the same guide and facts supplemented by a "
+      ]
+    },
+    {
+      "page": 9,
+      "characters": 2549,
+      "last_lines": [
+        "irrelevant to welfare. These distinctions make the programme capable of yielding informative 245 ",
+        "negative findings. ",
+        "Structural implications and boundaries ",
+        "Individual decision support has a limited remit. Recording that someone cannot refuse overtime ",
+        "identifies a constraint; it does not remove it. Studying how employers, platforms, households and "
+      ]
+    },
+    {
+      "page": 10,
+      "characters": 2480,
+      "last_lines": [
+        "AI assistance ",
+        "OpenAI Codex was used to assist public-source retrieval, evidence organization, drafting, 275 ",
+        "language revision and document preparation. Scientific Agent Skills workflows informed the ",
+        "process.[25] No AI system is listed as an author. Author review of the scientific content, source ",
+        "accuracy and declarations remains pending in this draft. "
+      ]
+    },
+    {
+      "page": 11,
+      "characters": 1198,
+      "last_lines": [
+        "Ethics and consent ",
+        "This manuscript develops a conceptual framework using public literature and hypothetical ",
+        "illustrations. It reports no new human-participant study, participant-level reanalysis or clinical ",
+        "intervention. No ethics approval or trial registration is claimed. Any future empirical study ",
+        "would require its own ethics and registration assessment. 295 "
+      ]
+    },
+    {
+      "page": 12,
+      "characters": 726,
+      "last_lines": [
+        "health and functioning, experience, and capabilities and agency, with provenance and uncertainty 300 ",
+        "retained. Personal goals and constraints enter appraisal; an explained trade-off or unresolved ",
+        "ordering can be the result. Subsequent evaluation tests understanding, transfer and burden. ",
+        "Connectors indicate the sequence of the proposed assessment, not empirically identified causal ",
+        "effects. The figure is an original schematic and contains no participant data. "
+      ]
+    },
+    {
+      "page": 13,
+      "characters": 1499,
+      "last_lines": [
+        "Evidence and appraisal Population, comparator, horizon, ",
+        "uncertainty; personal goals; rationale ",
+        "and unresolved questions ",
+        "Unknown is not zero; preferences and ",
+        "evidence must remain distinguishable "
+      ]
+    },
+    {
+      "page": 14,
+      "characters": 2553,
+      "last_lines": [
+        "intake result is retained. Bean et al. has a figure-axis correction (doi:10.1038/s41591-026-04404-",
+        "8), without revision of the quoted OR. Tasali et al.'s analysis set excludes one participant after ",
+        "randomization and does not imply complete data for every outcome. The Noy and Zhang entry ",
+        "uses the published record, not the earlier working paper with a different sample size. Full 320 ",
+        "reading-depth and version notes accompany the manuscript. "
+      ]
+    },
+    {
+      "page": 15,
+      "characters": 3629,
+      "last_lines": [
+        "preregistered study. Nature Medicine 32, 609–615 (2026). https://doi.org/10.1038/s41591-025-04074-y. ",
+        "16. Allcott, H., Braghieri, L., Eichmeyer, S. & Gentzkow, M. The welfare effects of social media. American 360 ",
+        "Economic Review 110, 629–676 (2020). https://doi.org/10.1257/aer.20190658. ",
+        "17. Ivic, R. K., Ratzan, S. C. & Parker, R. M. Building health-literate artificial intelligence. Nature Human ",
+        "Behaviour, Advance online publication (2026). https://doi.org/10.1038/s41562-026-02595-1. "
+      ]
+    },
+    {
+      "page": 16,
+      "characters": 2028,
+      "last_lines": [
+        "24. Stacey, D. et al. Decision aids for people facing health treatment or screening decisions. Cochrane ",
+        "Database of Systematic Reviews 1, CD001431 (2024). https://doi.org/10.1002/14651858.CD001431.pub6. ",
+        "25. Kassis, T., Agarwal, V., He, Y., Patel, D. & Brueckner, A. M. Scientific Agent Skills: A Library of ",
+        "Procedural Knowledge for Research Agents. arXiv, 2609.00065 (2026). 385 ",
+        "https://doi.org/10.48550/arXiv.2609.00065. "
+      ]
+    }
+  ],
+  "machine_checks": "passed",
+  "visual_review": {
+    "status": "completed",
+    "reviewer": "AI assistant visual inspection",
+    "date": "2026-11-06",
+    "pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "final_changed_pages_reinspected": [
+      13,
+      15,
+      16
+    ],
+    "remaining_pages": "identical image hashes to the inspected preceding render",
+    "scientific_author_approval": "not inferred"
+  },
+  "renderer": "Microsoft Word PDF export; pypdfium2 page rasterization",
+  "scope": "No scientific verification or journal acceptance is inferred from document checks."
+}

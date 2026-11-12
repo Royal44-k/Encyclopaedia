@@ -1,0 +1,32 @@
+Health economic value in the AI era | Author review draft 
+3 
+reproduction of labour-power and the physical and social limits of work make control over time 40 
+and the distribution of burdens central questions.[3] We use that motivation without treating a 
+measured health decrement as a unit of surplus value. 
+A second foundation concerns what individuals are able to do. Ruger's health capability 
+approach combines health functioning with health agency and explicitly considers personal and 
+contextual conditions; it already proposes a multidimensional profile.[4] Health-state-dependent 45 
+utility research also examines how health can alter the value derived from consumption.[5] These 
+contributions rule out a claim that multidimensional assessment, or the interaction of money and 
+health, is new. The narrower contribution proposed here is a procedure connecting AI-related 
+changes in tasks and information to feasible options, time allocation and consequences, with an 
+explicit test of whether this procedure improves decisions. 50 
+Valuation without a universal price 
+We define health economic value as the contribution of health states and their changes to a 
+person's experiences, feasible activities and welfare over a specified horizon, evaluated relative 
+to an alternative. This is an organizing definition, not a newly identified physical quantity. 
+Health, welfare and the worth of a person are distinct. Equal human dignity and respect for 55 
+informed choice are normative commitments of the framework; neither productivity nor health 
+status measures a person's moral standing. 
+Measurement, prediction and appraisal must be separated. Measurement describes a state or 
+resource use. Prediction estimates what would occur under an alternative, with uncertainty. 
+Appraisal concerns how those consequences matter to the person. Receiving compensation does 60 
+not establish biological restoration. Conversely, limited reversibility does not logically prevent 
+risk comparison or preference elicitation. Any monetary valuation would be conditional on 
+information, resources, baseline circumstances and the decision being evaluated. This framework 
+neither requires such a valuation nor prohibits it when its assumptions are justified. 
+Observed choice alone is also an incomplete basis for deciding which information or options 65 
+should count in welfare evaluation. Behavioural welfare analysis makes the relation between 
+choice conditions and welfare an explicit theoretical problem.[6] Our proposed response is to 
+record whether an option can actually be refused, what the person understands, and which goals 
+the decision serves. Autonomy should not be equated with self-sufficiency: self-determination 

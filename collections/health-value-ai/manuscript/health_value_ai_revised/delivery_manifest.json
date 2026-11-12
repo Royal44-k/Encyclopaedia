@@ -1,0 +1,22 @@
+{
+  "Health_value_AI_ZH.pdf": {
+    "bytes": 443241,
+    "sha256": "a7a6559b3896821ed02e843e9215bf43b7d7c07fb9f98888ed4925a31e311767"
+  },
+  "Health_value_AI_ZH.docx": {
+    "bytes": 1601608,
+    "sha256": "5b6659cb4df745eb3dbff2d6ba169a387d3e5cde9dc1b7ce38bf03e8a2681361"
+  },
+  "Health_value_AI_EN.pdf": {
+    "bytes": 212997,
+    "sha256": "a33ccfec0420b1710f71f50c47d0220d6243b35d8f9107ffd029ebc6e02dc47f"
+  },
+  "Health_value_AI_EN.docx": {
+    "bytes": 1415583,
+    "sha256": "501ee42ccd204d9614c1235f94139bfb25c21854b4b9db456ad5a5036ce8390f"
+  },
+  "Figures_and_editable_sources.zip": {
+    "bytes": 3981041,
+    "sha256": "4d8b643f32381c931ef64d2fb708d334c0518cdf67a087fc378aaf05da9a6f59"
+  }
+}

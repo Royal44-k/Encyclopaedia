@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="467.7165354330709" height="232.96225902796635" preserveAspectRatio="xMinYMin meet" viewBox="0 0 467 232" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="467.7165354330709" height="232.96225902796635"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-232)" style="clip-path: url(#clip)">
+		<g transform="">
+			<g transform=" matrix(0.896009,0,0,0.896009,0,0)">
+				<g transform="">
+					<text x="0" y="244" style="font-family: SansBold; font-size: 8.928484848484848px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,488) scale(1,-1)">a</text>
+					<text x="18" y="244" style="font-family: SansBold; font-size: 7.812424242424242px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,488) scale(1,-1)">Define the comparison</text>
+					<text x="18" y="224" style="font-family: SansBold; font-size: 7.812424242424242px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,448) scale(1,-1)">Feasible options A / B</text>
+					<text x="292" y="224" style="font-family: Sans; font-size: 7.812424242424242px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,448) scale(1,-1)">Same horizon · Relevant baseline</text>
+					<path d="M 18,211 L 504,211 Z" style="stroke: rgb(80%,84%,85%); stroke-linecap: butt; stroke-width: 0.7;"/>
+					<text x="0" y="189" style="font-family: SansBold; font-size: 8.928484848484848px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,378) scale(1,-1)">b</text>
+					<text x="18" y="189" style="font-family: SansBold; font-size: 7.812424242424242px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,378) scale(1,-1)">Keep consequences visible in their own units</text>
+					<path d="M 4,170 L 120,170 Z" style="stroke: rgb(8%,49%,50%); stroke-linecap: butt; stroke-width: 2;"/>
+					<text x="4" y="150" style="font-family: SansBold; font-size: 7.812424242424242px;fill: rgb(8%,49%,50%); stroke:none;" transform="translate(0,300) scale(1,-1)">Resources + time</text>
+					<text x="4" y="132" style="font-family: Sans; font-size: 7.812424242424242px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,264) scale(1,-1)">Net income</text>
+					<text x="4" y="118" style="font-family: Sans; font-size: 7.812424242424242px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,236) scale(1,-1)">Hours and activities</text>
+					<path d="M 138,170 L 254,170 Z" style="stroke: rgb(22%,39%,62%); stroke-linecap: butt; stroke-width: 2;"/>
+					<text x="138" y="150" style="font-family: SansBold; font-size: 7.812424242424242px;fill: rgb(22%,39%,62%); stroke:none;" transform="translate(0,300) scale(1,-1)">Health + function</text>
+					<text x="138" y="132" style="font-family: Sans; font-size: 7.812424242424242px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,264) scale(1,-1)">Symptoms</text>
+					<text x="138" y="118" style="font-family: Sans; font-size: 7.812424242424242px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,236) scale(1,-1)">Daily functioning</text>
+					<path d="M 272,170 L 388,170 Z" style="stroke: rgb(71%,37%,25%); stroke-linecap: butt; stroke-width: 2;"/>
+					<text x="272" y="150" style="font-family: SansBold; font-size: 7.812424242424242px;fill: rgb(71%,37%,25%); stroke:none;" transform="translate(0,300) scale(1,-1)">Experience</text>
+					<text x="272" y="132" style="font-family: Sans; font-size: 7.812424242424242px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,264) scale(1,-1)">Enjoyment or distress</text>
+					<text x="272" y="118" style="font-family: Sans; font-size: 7.812424242424242px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,236) scale(1,-1)">During and after use</text>
+					<path d="M 406,170 L 522,170 Z" style="stroke: rgb(50%,40%,60%); stroke-linecap: butt; stroke-width: 2;"/>
+					<text x="406" y="150" style="font-family: SansBold; font-size: 7.812424242424242px;fill: rgb(50%,40%,60%); stroke:none;" transform="translate(0,300) scale(1,-1)">Capability + agency</text>
+					<text x="406" y="132" style="font-family: Sans; font-size: 7.812424242424242px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,264) scale(1,-1)">Independent ability</text>
+					<text x="406" y="118" style="font-family: Sans; font-size: 7.812424242424242px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,236) scale(1,-1)">Goals and discretion</text>
+					<path d="M 62,101 L 62,89 Z" style="stroke: rgb(80%,84%,85%); stroke-linecap: butt; stroke-width: 0.8;"/>
+					<path d="M 196,101 L 196,89 Z" style="stroke: rgb(80%,84%,85%); stroke-linecap: butt; stroke-width: 0.8;"/>
+					<path d="M 330,101 L 330,89 Z" style="stroke: rgb(80%,84%,85%); stroke-linecap: butt; stroke-width: 0.8;"/>
+					<path d="M 464,101 L 464,89 Z" style="stroke: rgb(80%,84%,85%); stroke-linecap: butt; stroke-width: 0.8;"/>
+					<path d="M 62,89 L 464,89 Z" style="stroke: rgb(80%,84%,85%); stroke-linecap: butt; stroke-width: 0.8;"/>
+					<path d="M 263,89 L 263,74 Z" style="stroke: rgb(8%,49%,50%); stroke-linecap: butt; stroke-width: 1;"/>
+					<polygon points="263 74, 260.5 79, 265.5 79" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(8%,49%,50%); fill-rule: evenodd;"/>
+					<text x="0" y="58" style="font-family: SansBold; font-size: 8.928484848484848px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,116) scale(1,-1)">c</text>
+					<text x="18" y="58" style="font-family: SansBold; font-size: 7.812424242424242px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,116) scale(1,-1)">Appraise differences against personal priorities</text>
+					<text x="18" y="37" style="font-family: Sans; font-size: 7.812424242424242px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,74) scale(1,-1)">Which gains?  Which burdens?  When?  For whom?</text>
+					<text x="18" y="16" style="font-family: Sans; font-size: 7.812424242424242px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,32) scale(1,-1)">Evidence and uncertainty accompany every comparison.</text>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

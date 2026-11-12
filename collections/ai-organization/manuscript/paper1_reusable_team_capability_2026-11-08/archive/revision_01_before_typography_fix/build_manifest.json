@@ -1,0 +1,34 @@
+{
+  "references": {
+    "S09": 1,
+    "A01": 2,
+    "A03": 3,
+    "S01": 4,
+    "S02": 5,
+    "S05": 6,
+    "S03": 7,
+    "S04": 8,
+    "A04": 9,
+    "A02": 10
+  },
+  "builds": [
+    {
+      "lang": "zh",
+      "title": "个人 AI 经验怎样成为团队可复用的能力",
+      "figures": 3,
+      "references": 10,
+      "paragraphs": 42,
+      "source_sha256": "aa37e106d893868b4996636cf93ba39d5a42f2665a2a431c34574cabcf92ce21"
+    },
+    {
+      "lang": "en",
+      "title": "Making personal AI know-how work across a team",
+      "figures": 3,
+      "references": 10,
+      "paragraphs": 42,
+      "source_sha256": "beb738fa4d10e8a67e312f4b369fa056789ed4a7803c20c66edf2412f7ba04d7"
+    }
+  ],
+  "human_verification": "pending",
+  "submission_ready": false
+}

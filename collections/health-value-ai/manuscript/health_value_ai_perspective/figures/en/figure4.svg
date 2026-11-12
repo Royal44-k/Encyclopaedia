@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="522" height="302" preserveAspectRatio="xMinYMin meet" viewBox="0 0 522 302" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="522" height="302"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-302)" style="clip-path: url(#clip)">
+		<g transform="">
+			<text x="0" y="286" style="font-family: SansBold; font-size: 11px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,572) scale(1,-1)">a</text>
+			<text x="18" y="286" style="font-family: SansBold; font-size: 10.2px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,572) scale(1,-1)">Locate each measure in the proposed pathway</text>
+			<text x="3" y="263" style="font-family: SansBold; font-size: 8.7px;fill: rgb(8%,49%,50%); stroke:none;" transform="translate(0,526) scale(1,-1)">EXPOSURE</text>
+			<text x="3" y="246" style="font-family: Sans; font-size: 8.2px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,492) scale(1,-1)">Sleep opportunity, sitting, diet</text>
+			<text x="185" y="263" style="font-family: SansBold; font-size: 8.7px;fill: rgb(22%,39%,62%); stroke:none;" transform="translate(0,526) scale(1,-1)">STATE</text>
+			<text x="185" y="246" style="font-family: Sans; font-size: 8.2px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,492) scale(1,-1)">Symptoms, tests, task performance</text>
+			<text x="368" y="263" style="font-family: SansBold; font-size: 8.7px;fill: rgb(71%,37%,25%); stroke:none;" transform="translate(0,526) scale(1,-1)">DAILY-LIFE CONSEQUENCES</text>
+			<text x="368" y="246" style="font-family: Sans; font-size: 8.2px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,492) scale(1,-1)">Activity, distress, participation</text>
+			<path d="M 158,263 L 175,263 Z" style="stroke: rgb(34%,41%,45%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="175 263, 170 260.5, 170 265.5" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(34%,41%,45%); fill-rule: evenodd;"/>
+			<path d="M 341,263 L 358,263 Z" style="stroke: rgb(34%,41%,45%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="358 263, 353 260.5, 353 265.5" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(34%,41%,45%); fill-rule: evenodd;"/>
+			<path d="M 0,229 L 522,229 Z" style="stroke: rgb(80%,84%,85%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<text x="0" y="212" style="font-family: SansBold; font-size: 11px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,424) scale(1,-1)">b</text>
+			<text x="18" y="212" style="font-family: SansBold; font-size: 10.2px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,424) scale(1,-1)">Select measures by construct and timing</text>
+			<text x="4" y="191" style="font-family: SansBold; font-size: 9px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,382) scale(1,-1)">Domain</text>
+			<text x="150" y="191" style="font-family: SansBold; font-size: 9px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,382) scale(1,-1)">Candidate measure</text>
+			<text x="345" y="191" style="font-family: SansBold; font-size: 9px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,382) scale(1,-1)">Interpretation</text>
+			<path d="M 0,183 L 522,183 Z" style="stroke: rgb(9%,16%,20%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<text x="4" y="166" style="font-family: Sans; font-size: 8.8px;fill: rgb(22%,39%,62%); stroke:none;" transform="translate(0,332) scale(1,-1)">Metabolic state</text>
+			<text x="150" y="166" style="font-family: Sans; font-size: 8.8px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,332) scale(1,-1)">Glucose or lipids</text>
+			<text x="345" y="166" style="font-family: Sans; font-size: 8.8px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,332) scale(1,-1)">Clinical role and baseline</text>
+			<path d="M 0,157 L 522,157 Z" style="stroke: rgb(80%,84%,85%); stroke-linecap: butt; stroke-width: 0.45;"/>
+			<text x="4" y="140" style="font-family: Sans; font-size: 8.8px;fill: rgb(22%,39%,62%); stroke:none;" transform="translate(0,280) scale(1,-1)">Physical function</text>
+			<text x="150" y="140" style="font-family: Sans; font-size: 8.8px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,280) scale(1,-1)">Strength; activity limitations</text>
+			<text x="345" y="140" style="font-family: Sans; font-size: 8.8px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,280) scale(1,-1)">Ability to perform daily activities</text>
+			<path d="M 0,131 L 522,131 Z" style="stroke: rgb(80%,84%,85%); stroke-linecap: butt; stroke-width: 0.45;"/>
+			<text x="4" y="114" style="font-family: Sans; font-size: 8.8px;fill: rgb(22%,39%,62%); stroke:none;" transform="translate(0,228) scale(1,-1)">Vision and skin</text>
+			<text x="150" y="114" style="font-family: Sans; font-size: 8.8px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,228) scale(1,-1)">Symptoms; discomfort</text>
+			<text x="345" y="114" style="font-family: Sans; font-size: 8.8px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,228) scale(1,-1)">Functional and experiential impact</text>
+			<path d="M 0,105 L 522,105 Z" style="stroke: rgb(80%,84%,85%); stroke-linecap: butt; stroke-width: 0.45;"/>
+			<text x="4" y="88" style="font-family: Sans; font-size: 8.8px;fill: rgb(50%,40%,60%); stroke:none;" transform="translate(0,176) scale(1,-1)">Cognition</text>
+			<text x="150" y="88" style="font-family: Sans; font-size: 8.8px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,176) scale(1,-1)">Assisted / unaided task</text>
+			<text x="345" y="88" style="font-family: Sans; font-size: 8.8px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,176) scale(1,-1)">Performance and task transfer</text>
+			<path d="M 0,79 L 522,79 Z" style="stroke: rgb(80%,84%,85%); stroke-linecap: butt; stroke-width: 0.45;"/>
+			<text x="4" y="62" style="font-family: Sans; font-size: 8.8px;fill: rgb(50%,40%,60%); stroke:none;" transform="translate(0,124) scale(1,-1)">Mental well-being</text>
+			<text x="150" y="62" style="font-family: Sans; font-size: 8.8px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,124) scale(1,-1)">WHO-5</text>
+			<text x="345" y="62" style="font-family: Sans; font-size: 8.8px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,124) scale(1,-1)">Preceding two weeks</text>
+			<path d="M 0,53 L 522,53 Z" style="stroke: rgb(80%,84%,85%); stroke-linecap: butt; stroke-width: 0.45;"/>
+			<text x="4" y="36" style="font-family: Sans; font-size: 8.8px;fill: rgb(50%,40%,60%); stroke:none;" transform="translate(0,72) scale(1,-1)">Experience and agency</text>
+			<text x="150" y="36" style="font-family: Sans; font-size: 8.8px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,72) scale(1,-1)">Enjoyment; distress; discretion</text>
+			<text x="345" y="36" style="font-family: Sans; font-size: 8.8px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,72) scale(1,-1)">During use and subsequent follow-up</text>
+			<path d="M 0,27 L 522,27 Z" style="stroke: rgb(80%,84%,85%); stroke-linecap: butt; stroke-width: 0.45;"/>
+			<text x="4" y="8" style="font-family: Sans; font-size: 8.3px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,16) scale(1,-1)">Choose a small relevant set; do not sum different points on the same pathway.</text>
+		</g>
+	</g>
+</svg>

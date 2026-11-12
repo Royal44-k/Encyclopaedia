@@ -1,0 +1,34 @@
+{
+  "issues": [
+    {
+      "code": "NO_IDENTIFIER_TO_CHECK",
+      "item_id": "E900",
+      "severity": "warning"
+    },
+    {
+      "code": "NO_IDENTIFIER_TO_CHECK",
+      "item_id": "E901",
+      "severity": "warning"
+    },
+    {
+      "code": "NO_SOURCE_IDENTIFIER",
+      "item_id": "E900",
+      "location": "sources[25]",
+      "severity": "warning"
+    },
+    {
+      "code": "NO_SOURCE_IDENTIFIER",
+      "item_id": "E901",
+      "location": "sources[26]",
+      "severity": "warning"
+    }
+  ],
+  "status": "pass",
+  "summary": {
+    "errors": 0,
+    "network_used": false,
+    "sources_checked": 27,
+    "warnings": 4
+  },
+  "tool": "check_references"
+}

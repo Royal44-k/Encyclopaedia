@@ -1,0 +1,487 @@
+[
+  {
+    "figure": 3,
+    "en": "a",
+    "zh": "a"
+  },
+  {
+    "figure": 3,
+    "en": "Account for all work time",
+    "zh": "计入全部工作时间"
+  },
+  {
+    "figure": 3,
+    "en": "T0",
+    "zh": "T0"
+  },
+  {
+    "figure": 3,
+    "en": "Without AI",
+    "zh": "无 AI 辅助"
+  },
+  {
+    "figure": 3,
+    "en": "T1",
+    "zh": "T1"
+  },
+  {
+    "figure": 3,
+    "en": "Prompt + check + rework",
+    "zh": "提示输入、核验与返工"
+  },
+  {
+    "figure": 3,
+    "en": "S = T0 − T1",
+    "zh": "S = T0 − T1"
+  },
+  {
+    "figure": 3,
+    "en": "Task saving",
+    "zh": "任务节约时间"
+  },
+  {
+    "figure": 3,
+    "en": "ΔW = −S + A + B",
+    "zh": "ΔW = −S + A + B"
+  },
+  {
+    "figure": 3,
+    "en": "Total work change",
+    "zh": "总工作时间变化"
+  },
+  {
+    "figure": 3,
+    "en": "b",
+    "zh": "b"
+  },
+  {
+    "figure": 3,
+    "en": "The same task saving can lead to different days",
+    "zh": "相同任务节时可产生不同的一天"
+  },
+  {
+    "figure": 3,
+    "en": "Hypothetical 24-hour budgets; 4 hours saved; other work-time change B = 0",
+    "zh": "假设 24 小时预算；任务节约 4 小时；其他工作时间变化 B = 0"
+  },
+  {
+    "figure": 3,
+    "en": "Without AI",
+    "zh": "无 AI 辅助"
+  },
+  {
+    "figure": 3,
+    "en": "8 h",
+    "zh": "8 小时"
+  },
+  {
+    "figure": 3,
+    "en": "16 h",
+    "zh": "16 小时"
+  },
+  {
+    "figure": 3,
+    "en": "No added tasks",
+    "zh": "没有新增任务"
+  },
+  {
+    "figure": 3,
+    "en": "4 h",
+    "zh": "4 小时"
+  },
+  {
+    "figure": 3,
+    "en": "20 h",
+    "zh": "20 小时"
+  },
+  {
+    "figure": 3,
+    "en": "−4 h",
+    "zh": "−4 小时"
+  },
+  {
+    "figure": 3,
+    "en": "3 added hours",
+    "zh": "新增任务 3 小时"
+  },
+  {
+    "figure": 3,
+    "en": "7 h",
+    "zh": "7 小时"
+  },
+  {
+    "figure": 3,
+    "en": "17 h",
+    "zh": "17 小时"
+  },
+  {
+    "figure": 3,
+    "en": "−1 h",
+    "zh": "−1 小时"
+  },
+  {
+    "figure": 3,
+    "en": "5 added hours",
+    "zh": "新增任务 5 小时"
+  },
+  {
+    "figure": 3,
+    "en": "9 h",
+    "zh": "9 小时"
+  },
+  {
+    "figure": 3,
+    "en": "15 h",
+    "zh": "15 小时"
+  },
+  {
+    "figure": 3,
+    "en": "+1 h",
+    "zh": "+1 小时"
+  },
+  {
+    "figure": 3,
+    "en": "Work",
+    "zh": "工作"
+  },
+  {
+    "figure": 3,
+    "en": "All non-work activities",
+    "zh": "全部非工作活动"
+  },
+  {
+    "figure": 3,
+    "en": "Δ work",
+    "zh": "工作变化"
+  },
+  {
+    "figure": 3,
+    "en": "Non-work time still needs to be allocated among sleep, care, activity, social contact and leisure.",
+    "zh": "非工作时间仍需在睡眠、照护、活动、社交和休闲之间配置。"
+  },
+  {
+    "figure": 5,
+    "en": "a",
+    "zh": "a"
+  },
+  {
+    "figure": 5,
+    "en": "Long working hours",
+    "zh": "长工作时间"
+  },
+  {
+    "figure": 5,
+    "en": "7 cohorts • 162,644 participants",
+    "zh": "7 项队列 • 162,644 人"
+  },
+  {
+    "figure": 5,
+    "en": "RR 1.35",
+    "zh": "RR 1.35"
+  },
+  {
+    "figure": 5,
+    "en": "95% CI 1.13–1.61",
+    "zh": "95% 置信区间 1.13–1.61"
+  },
+  {
+    "figure": 5,
+    "en": "1",
+    "zh": "1"
+  },
+  {
+    "figure": 5,
+    "en": "1.2",
+    "zh": "1.2"
+  },
+  {
+    "figure": 5,
+    "en": "1.5",
+    "zh": "1.5"
+  },
+  {
+    "figure": 5,
+    "en": "1.8",
+    "zh": "1.8"
+  },
+  {
+    "figure": 5,
+    "en": "Stroke incidence; log ratio scale",
+    "zh": "卒中发生；对数比率刻度"
+  },
+  {
+    "figure": 5,
+    "en": "≥55 versus 35–40 hours/week",
+    "zh": "每周 ≥55 与 35–40 小时比较"
+  },
+  {
+    "figure": 5,
+    "en": "b",
+    "zh": "b"
+  },
+  {
+    "figure": 5,
+    "en": "Diet composition",
+    "zh": "饮食构成"
+  },
+  {
+    "figure": 5,
+    "en": "Randomized crossover • 20 adults",
+    "zh": "随机交叉试验 • 20 名成人"
+  },
+  {
+    "figure": 5,
+    "en": "+508 kcal/day",
+    "zh": "+508 千卡/天"
+  },
+  {
+    "figure": 5,
+    "en": "±1 SE (106 kcal/day)",
+    "zh": "±1 标准误（106 千卡/天）"
+  },
+  {
+    "figure": 5,
+    "en": "−500",
+    "zh": "−500"
+  },
+  {
+    "figure": 5,
+    "en": "0",
+    "zh": "0"
+  },
+  {
+    "figure": 5,
+    "en": "500",
+    "zh": "500"
+  },
+  {
+    "figure": 5,
+    "en": "Energy intake difference",
+    "zh": "能量摄入差异"
+  },
+  {
+    "figure": 5,
+    "en": "Ultra-processed versus unprocessed",
+    "zh": "超加工与未加工饮食比较"
+  },
+  {
+    "figure": 5,
+    "en": "c",
+    "zh": "c"
+  },
+  {
+    "figure": 5,
+    "en": "Sleep extension",
+    "zh": "延长睡眠"
+  },
+  {
+    "figure": 5,
+    "en": "81 randomized • 80 in analysis set",
+    "zh": "随机分配 81 人 • 分析集 80 人"
+  },
+  {
+    "figure": 5,
+    "en": "−270 kcal/day",
+    "zh": "−270 千卡/天"
+  },
+  {
+    "figure": 5,
+    "en": "95% CI −393 to −147",
+    "zh": "95% 置信区间 −393 至 −147"
+  },
+  {
+    "figure": 5,
+    "en": "−500",
+    "zh": "−500"
+  },
+  {
+    "figure": 5,
+    "en": "0",
+    "zh": "0"
+  },
+  {
+    "figure": 5,
+    "en": "500",
+    "zh": "500"
+  },
+  {
+    "figure": 5,
+    "en": "Energy intake change versus control",
+    "zh": "相对对照组的能量摄入变化"
+  },
+  {
+    "figure": 5,
+    "en": "Short-sleeping adults with overweight",
+    "zh": "超重且睡眠较短的成人"
+  },
+  {
+    "figure": 5,
+    "en": "d",
+    "zh": "d"
+  },
+  {
+    "figure": 5,
+    "en": "AI medical information",
+    "zh": "AI 医疗信息"
+  },
+  {
+    "figure": 5,
+    "en": "Randomized study • 1,298 people",
+    "zh": "随机研究 • 1,298 人"
+  },
+  {
+    "figure": 5,
+    "en": "OR 1.76",
+    "zh": "OR 1.76"
+  },
+  {
+    "figure": 5,
+    "en": "95% CI 1.45–2.13",
+    "zh": "95% 置信区间 1.45–2.13"
+  },
+  {
+    "figure": 5,
+    "en": "1",
+    "zh": "1"
+  },
+  {
+    "figure": 5,
+    "en": "1.5",
+    "zh": "1.5"
+  },
+  {
+    "figure": 5,
+    "en": "2",
+    "zh": "2"
+  },
+  {
+    "figure": 5,
+    "en": "Relevant-condition identification",
+    "zh": "相关病情识别"
+  },
+  {
+    "figure": 5,
+    "en": "Control versus pooled AI; log ratio scale",
+    "zh": "对照与合并 AI 组比较；对数刻度"
+  },
+  {
+    "figure": 6,
+    "en": "a",
+    "zh": "a"
+  },
+  {
+    "figure": 6,
+    "en": "Use the same 28-day comparison window",
+    "zh": "使用共同的 28 天比较窗口"
+  },
+  {
+    "figure": 6,
+    "en": "Option A",
+    "zh": "方案 A"
+  },
+  {
+    "figure": 6,
+    "en": "CNY 10,000",
+    "zh": "1 万元"
+  },
+  {
+    "figure": 6,
+    "en": "Option B",
+    "zh": "方案 B"
+  },
+  {
+    "figure": 6,
+    "en": "CNY 100,000",
+    "zh": "10 万元"
+  },
+  {
+    "figure": 6,
+    "en": "1",
+    "zh": "1"
+  },
+  {
+    "figure": 6,
+    "en": "7",
+    "zh": "7"
+  },
+  {
+    "figure": 6,
+    "en": "14",
+    "zh": "14"
+  },
+  {
+    "figure": 6,
+    "en": "21",
+    "zh": "21"
+  },
+  {
+    "figure": 6,
+    "en": "28",
+    "zh": "28"
+  },
+  {
+    "figure": 6,
+    "en": "day",
+    "zh": "天"
+  },
+  {
+    "figure": 6,
+    "en": "Overtime",
+    "zh": "加班"
+  },
+  {
+    "figure": 6,
+    "en": "No overtime",
+    "zh": "不加班"
+  },
+  {
+    "figure": 6,
+    "en": "b",
+    "zh": "b"
+  },
+  {
+    "figure": 6,
+    "en": "The financial difference is computable",
+    "zh": "财务差异可以计算"
+  },
+  {
+    "figure": 6,
+    "en": "¥",
+    "zh": "¥"
+  },
+  {
+    "figure": 6,
+    "en": "ΔY = 100,000 − 10,000 = 90,000 CNY",
+    "zh": "ΔY = 100,000 − 10,000 = 90,000 元"
+  },
+  {
+    "figure": 6,
+    "en": "Net supplements; ordinary earnings held equal; 21 more overtime days",
+    "zh": "补贴为净额；普通工资相同；增加 21 个加班日"
+  },
+  {
+    "figure": 6,
+    "en": "c",
+    "zh": "c"
+  },
+  {
+    "figure": 6,
+    "en": "The health comparison requires an additional evidential step",
+    "zh": "健康比较还需要额外证据"
+  },
+  {
+    "figure": 6,
+    "en": "Exposure and baseline state",
+    "zh": "暴露与基线状态"
+  },
+  {
+    "figure": 6,
+    "en": "Recovery and later outcomes",
+    "zh": "恢复与后续结局"
+  },
+  {
+    "figure": 6,
+    "en": "Appraisal",
+    "zh": "价值判断"
+  }
+]

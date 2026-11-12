@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="522" height="220" preserveAspectRatio="xMinYMin meet" viewBox="0 0 522 220" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="522" height="220"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-220)" style="clip-path: url(#clip)">
+		<g transform="">
+			<text x="0" y="205" style="font-family: SansBold; font-size: 11px;fill: rgb(6%,9%,12%); stroke:none;" transform="translate(0,410) scale(1,-1)">a</text>
+			<text x="18" y="205" style="font-family: SansBold; font-size: 10.5px;fill: rgb(6%,9%,12%); stroke:none;" transform="translate(0,410) scale(1,-1)">Define feasible alternatives</text>
+			<text x="18" y="187" style="font-family: Sans; font-size: 9px;fill: rgb(6%,9%,12%); stroke:none;" transform="translate(0,374) scale(1,-1)">Common horizon  ·  Actual ability to refuse  ·  Relevant perspective</text>
+			<path d="M 0,175 L 522,175 Z" style="stroke: rgb(85%,87%,89%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<text x="0" y="158" style="font-family: SansBold; font-size: 11px;fill: rgb(6%,9%,12%); stroke:none;" transform="translate(0,316) scale(1,-1)">b</text>
+			<text x="18" y="158" style="font-family: SansBold; font-size: 10.5px;fill: rgb(6%,9%,12%); stroke:none;" transform="translate(0,316) scale(1,-1)">Keep distinct consequences visible</text>
+			<circle cx="65" cy="125" r="13" style="stroke: rgb(9%,49%,53%); stroke-linecap: butt; stroke-width: 1.7; fill: none; fill-rule: evenodd;"/>
+			<path d="M 65,125 L 65,133 Z" style="stroke: rgb(9%,49%,53%); stroke-linecap: butt; stroke-width: 1.7;"/>
+			<path d="M 65,125 L 72,121 Z" style="stroke: rgb(9%,49%,53%); stroke-linecap: butt; stroke-width: 1.7;"/>
+			<text x="21.759448242187496" y="95" style="font-family: SansBold; font-size: 9.1px;fill: rgb(6%,9%,12%); stroke:none;" transform="translate(0,190) scale(1,-1)">Resources and time</text>
+			<text x="17.59975585937501" y="79" style="font-family: Sans; font-size: 8.2px;fill: rgb(6%,9%,12%); stroke:none;" transform="translate(0,158) scale(1,-1)">Net income and total work</text>
+			<text x="9.846191406250007" y="67" style="font-family: Sans; font-size: 8.2px;fill: rgb(6%,9%,12%); stroke:none;" transform="translate(0,134) scale(1,-1)">Activities enabled or displaced</text>
+			<polyline points="179 125, 187 125, 191 135, 197 115, 203 131, 207 125, 213 125" style="stroke: rgb(23%,37%,57%); stroke-linecap: butt; stroke-width: 1.9; fill: None; fill-rule: evenodd;"/>
+			<text x="146.7120361328125" y="95" style="font-family: SansBold; font-size: 9.1px;fill: rgb(6%,9%,12%); stroke:none;" transform="translate(0,190) scale(1,-1)">Health and functioning</text>
+			<text x="143.58486328125002" y="79" style="font-family: Sans; font-size: 8.2px;fill: rgb(6%,9%,12%); stroke:none;" transform="translate(0,158) scale(1,-1)">Symptoms and daily function</text>
+			<text x="147.46064453125" y="67" style="font-family: Sans; font-size: 8.2px;fill: rgb(6%,9%,12%); stroke:none;" transform="translate(0,134) scale(1,-1)">Relevant clinical outcomes</text>
+			<rect x="312" y="117" width="30" height="22" style="stroke: rgb(77%,38%,24%); stroke-linecap: butt; stroke-width: 1.5; fill: none; fill-rule: evenodd;"/>
+			<polyline points="318 117, 318 110, 326 117" style="stroke: rgb(77%,38%,24%); stroke-linecap: butt; stroke-width: 1.5; fill: None; fill-rule: evenodd;"/>
+			<circle cx="319" cy="128" r="1.5" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(77%,38%,24%); fill-rule: evenodd;"/>
+			<circle cx="327" cy="128" r="1.5" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(77%,38%,24%); fill-rule: evenodd;"/>
+			<circle cx="335" cy="128" r="1.5" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(77%,38%,24%); fill-rule: evenodd;"/>
+			<text x="302.7192626953125" y="95" style="font-family: SansBold; font-size: 9.1px;fill: rgb(6%,9%,12%); stroke:none;" transform="translate(0,190) scale(1,-1)">Experience</text>
+			<text x="276.4146484375" y="79" style="font-family: Sans; font-size: 8.2px;fill: rgb(6%,9%,12%); stroke:none;" transform="translate(0,158) scale(1,-1)">Enjoyment, relief or distress</text>
+			<text x="277.09130859375" y="67" style="font-family: Sans; font-size: 8.2px;fill: rgb(6%,9%,12%); stroke:none;" transform="translate(0,134) scale(1,-1)">During and after the activity</text>
+			<circle cx="458" cy="132" r="6" style="stroke: rgb(48%,40%,56%); stroke-linecap: butt; stroke-width: 1.5; fill: none; fill-rule: evenodd;"/>
+			<path d="M 458,126 L 458,111 Z" style="stroke: rgb(48%,40%,56%); stroke-linecap: butt; stroke-width: 1.5;"/>
+			<path d="M 444,123 L 472,123 Z" style="stroke: rgb(48%,40%,56%); stroke-linecap: butt; stroke-width: 1.5;"/>
+			<path d="M 458,111 L 450,104 Z" style="stroke: rgb(48%,40%,56%); stroke-linecap: butt; stroke-width: 1.5;"/>
+			<path d="M 458,111 L 466,104 Z" style="stroke: rgb(48%,40%,56%); stroke-linecap: butt; stroke-width: 1.5;"/>
+			<text x="406.16376953125" y="95" style="font-family: SansBold; font-size: 9.1px;fill: rgb(6%,9%,12%); stroke:none;" transform="translate(0,190) scale(1,-1)">Capabilities and agency</text>
+			<text x="407.172412109375" y="79" style="font-family: Sans; font-size: 8.2px;fill: rgb(6%,9%,12%); stroke:none;" transform="translate(0,158) scale(1,-1)">Assisted and unaided ability</text>
+			<text x="408.54375" y="67" style="font-family: Sans; font-size: 8.2px;fill: rgb(6%,9%,12%); stroke:none;" transform="translate(0,134) scale(1,-1)">Goals and actual discretion</text>
+			<path d="M 0,52 L 522,52 Z" style="stroke: rgb(85%,87%,89%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<text x="0" y="32" style="font-family: SansBold; font-size: 11px;fill: rgb(6%,9%,12%); stroke:none;" transform="translate(0,64) scale(1,-1)">c</text>
+			<text x="18" y="32" style="font-family: SansBold; font-size: 10.5px;fill: rgb(6%,9%,12%); stroke:none;" transform="translate(0,64) scale(1,-1)">Appraise the trade-off</text>
+			<text x="18" y="15" style="font-family: Sans; font-size: 9px;fill: rgb(6%,9%,12%); stroke:none;" transform="translate(0,30) scale(1,-1)">Personal goals + constraints</text>
+			<path d="M 205,24 L 244,24 Z" style="stroke: rgb(34%,39%,41%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="244 24, 238 21, 238 27" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(34%,39%,41%); fill-rule: evenodd;"/>
+			<text x="258" y="32" style="font-family: SansBold; font-size: 10px;fill: rgb(6%,9%,12%); stroke:none;" transform="translate(0,64) scale(1,-1)">Evidence, uncertainty and explanation</text>
+			<text x="258" y="15" style="font-family: Sans; font-size: 9px;fill: rgb(6%,9%,12%); stroke:none;" transform="translate(0,30) scale(1,-1)">An unresolved ordering is an admissible result</text>
+		</g>
+	</g>
+</svg>

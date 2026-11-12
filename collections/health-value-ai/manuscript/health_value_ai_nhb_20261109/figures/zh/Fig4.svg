@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="467.7165354330709" height="369.1555796904697" preserveAspectRatio="xMinYMin meet" viewBox="0 0 467 369" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="467.7165354330709" height="369.1555796904697"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-369)" style="clip-path: url(#clip)">
+		<g transform="">
+			<g transform=" matrix(0.896009,0,0,0.896009,0,0)">
+				<g transform="">
+					<text x="0" y="397" style="font-family: CNHei; font-size: 8.928484848484848px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,794) scale(1,-1)">a</text>
+					<text x="17" y="397" style="font-family: CNHei; font-size: 7.812424242424242px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,794) scale(1,-1)">单日比较：区分日薪、补贴与总收入</text>
+					<text x="8" y="377" style="font-family: CNHei; font-size: 7.8px;fill: rgb(19%,38%,63%); stroke:none;" transform="translate(0,754) scale(1,-1)">正常工作</text>
+					<text x="8" y="359" style="font-family: CNHei; font-size: 7.7px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,718) scale(1,-1)">200 元 ＋ 0 元</text>
+					<text x="8" y="341" style="font-family: CNHei; font-size: 7.812424242424242px;fill: rgb(9%,42%,43%); stroke:none;" transform="translate(0,682) scale(1,-1)">＝ 200 元</text>
+					<rect x="8" y="325" width="23.833333333333332" height="5" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,42%,43%); fill-rule: evenodd;"/>
+					<text x="181" y="377" style="font-family: CNHei; font-size: 7.8px;fill: rgb(19%,38%,63%); stroke:none;" transform="translate(0,754) scale(1,-1)">工作至凌晨两点</text>
+					<text x="181" y="359" style="font-family: CNHei; font-size: 7.7px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,718) scale(1,-1)">200 元 ＋ 400 元</text>
+					<text x="181" y="341" style="font-family: CNHei; font-size: 7.812424242424242px;fill: rgb(9%,42%,43%); stroke:none;" transform="translate(0,682) scale(1,-1)">＝ 600 元</text>
+					<rect x="181" y="325" width="71.5" height="5" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,42%,43%); fill-rule: evenodd;"/>
+					<text x="354" y="377" style="font-family: CNHei; font-size: 7.8px;fill: rgb(19%,38%,63%); stroke:none;" transform="translate(0,754) scale(1,-1)">通宵工作</text>
+					<text x="354" y="359" style="font-family: CNHei; font-size: 7.7px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,718) scale(1,-1)">200 元 ＋ 1,000 元</text>
+					<text x="354" y="341" style="font-family: CNHei; font-size: 7.812424242424242px;fill: rgb(9%,42%,43%); stroke:none;" transform="translate(0,682) scale(1,-1)">＝ 1,200 元</text>
+					<rect x="354" y="325" width="143.0" height="5" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,42%,43%); fill-rule: evenodd;"/>
+					<text x="8" y="308" style="font-family: CNHei; font-size: 7.7px;fill: rgb(32%,40%,45%); stroke:none;" transform="translate(0,616) scale(1,-1)">继续记录次日安排、睡眠机会与恢复过程。</text>
+					<path d="M 0,296 L 522,296 Z" style="stroke: rgb(78%,83%,84%); stroke-linecap: butt; stroke-width: 0.65;"/>
+					<text x="0" y="279" style="font-family: CNHei; font-size: 8.928484848484848px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,558) scale(1,-1)">b</text>
+					<text x="17" y="279" style="font-family: CNHei; font-size: 7.812424242424242px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,558) scale(1,-1)">共同观察期限：28 天</text>
+					<text x="8" y="250" style="font-family: CNHei; font-size: 7.812424242424242px;fill: rgb(19%,38%,63%); stroke:none;" transform="translate(0,500) scale(1,-1)">A</text>
+					<rect x="35" y="247" width="8" height="8" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(19%,38%,63%); fill-rule: evenodd;"/>
+					<rect x="46" y="247" width="8" height="8" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(19%,38%,63%); fill-rule: evenodd;"/>
+					<rect x="57" y="247" width="8" height="8" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(19%,38%,63%); fill-rule: evenodd;"/>
+					<rect x="68" y="247" width="8" height="8" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(19%,38%,63%); fill-rule: evenodd;"/>
+					<rect x="79" y="247" width="8" height="8" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(19%,38%,63%); fill-rule: evenodd;"/>
+					<rect x="90" y="247" width="8" height="8" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(19%,38%,63%); fill-rule: evenodd;"/>
+					<rect x="101" y="247" width="8" height="8" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(19%,38%,63%); fill-rule: evenodd;"/>
+					<rect x="112" y="247" width="8" height="8" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,92%,94%); fill-rule: evenodd;"/>
+					<rect x="123" y="247" width="8" height="8" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,92%,94%); fill-rule: evenodd;"/>
+					<rect x="134" y="247" width="8" height="8" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,92%,94%); fill-rule: evenodd;"/>
+					<rect x="145" y="247" width="8" height="8" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,92%,94%); fill-rule: evenodd;"/>
+					<rect x="156" y="247" width="8" height="8" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,92%,94%); fill-rule: evenodd;"/>
+					<rect x="167" y="247" width="8" height="8" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,92%,94%); fill-rule: evenodd;"/>
+					<rect x="178" y="247" width="8" height="8" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,92%,94%); fill-rule: evenodd;"/>
+					<rect x="189" y="247" width="8" height="8" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,92%,94%); fill-rule: evenodd;"/>
+					<rect x="200" y="247" width="8" height="8" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,92%,94%); fill-rule: evenodd;"/>
+					<rect x="211" y="247" width="8" height="8" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,92%,94%); fill-rule: evenodd;"/>
+					<rect x="222" y="247" width="8" height="8" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,92%,94%); fill-rule: evenodd;"/>
+					<rect x="233" y="247" width="8" height="8" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,92%,94%); fill-rule: evenodd;"/>
+					<rect x="244" y="247" width="8" height="8" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,92%,94%); fill-rule: evenodd;"/>
+					<rect x="255" y="247" width="8" height="8" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,92%,94%); fill-rule: evenodd;"/>
+					<rect x="266" y="247" width="8" height="8" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,92%,94%); fill-rule: evenodd;"/>
+					<rect x="277" y="247" width="8" height="8" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,92%,94%); fill-rule: evenodd;"/>
+					<rect x="288" y="247" width="8" height="8" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,92%,94%); fill-rule: evenodd;"/>
+					<rect x="299" y="247" width="8" height="8" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,92%,94%); fill-rule: evenodd;"/>
+					<rect x="310" y="247" width="8" height="8" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,92%,94%); fill-rule: evenodd;"/>
+					<rect x="321" y="247" width="8" height="8" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,92%,94%); fill-rule: evenodd;"/>
+					<rect x="332" y="247" width="8" height="8" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,92%,94%); fill-rule: evenodd;"/>
+					<text x="355" y="250" style="font-family: CNHei; font-size: 7.7px;fill: rgb(19%,38%,63%); stroke:none;" transform="translate(0,500) scale(1,-1)">7 天／10,000 元</text>
+					<text x="8" y="219" style="font-family: CNHei; font-size: 7.812424242424242px;fill: rgb(72%,34%,20%); stroke:none;" transform="translate(0,438) scale(1,-1)">B</text>
+					<rect x="35" y="216" width="8" height="8" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(72%,34%,20%); fill-rule: evenodd;"/>
+					<rect x="46" y="216" width="8" height="8" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(72%,34%,20%); fill-rule: evenodd;"/>
+					<rect x="57" y="216" width="8" height="8" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(72%,34%,20%); fill-rule: evenodd;"/>
+					<rect x="68" y="216" width="8" height="8" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(72%,34%,20%); fill-rule: evenodd;"/>
+					<rect x="79" y="216" width="8" height="8" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(72%,34%,20%); fill-rule: evenodd;"/>
+					<rect x="90" y="216" width="8" height="8" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(72%,34%,20%); fill-rule: evenodd;"/>
+					<rect x="101" y="216" width="8" height="8" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(72%,34%,20%); fill-rule: evenodd;"/>
+					<rect x="112" y="216" width="8" height="8" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(72%,34%,20%); fill-rule: evenodd;"/>
+					<rect x="123" y="216" width="8" height="8" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(72%,34%,20%); fill-rule: evenodd;"/>
+					<rect x="134" y="216" width="8" height="8" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(72%,34%,20%); fill-rule: evenodd;"/>
+					<rect x="145" y="216" width="8" height="8" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(72%,34%,20%); fill-rule: evenodd;"/>
+					<rect x="156" y="216" width="8" height="8" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(72%,34%,20%); fill-rule: evenodd;"/>
+					<rect x="167" y="216" width="8" height="8" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(72%,34%,20%); fill-rule: evenodd;"/>
+					<rect x="178" y="216" width="8" height="8" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(72%,34%,20%); fill-rule: evenodd;"/>
+					<rect x="189" y="216" width="8" height="8" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(72%,34%,20%); fill-rule: evenodd;"/>
+					<rect x="200" y="216" width="8" height="8" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(72%,34%,20%); fill-rule: evenodd;"/>
+					<rect x="211" y="216" width="8" height="8" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(72%,34%,20%); fill-rule: evenodd;"/>
+					<rect x="222" y="216" width="8" height="8" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(72%,34%,20%); fill-rule: evenodd;"/>
+					<rect x="233" y="216" width="8" height="8" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(72%,34%,20%); fill-rule: evenodd;"/>
+					<rect x="244" y="216" width="8" height="8" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(72%,34%,20%); fill-rule: evenodd;"/>
+					<rect x="255" y="216" width="8" height="8" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(72%,34%,20%); fill-rule: evenodd;"/>
+					<rect x="266" y="216" width="8" height="8" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(72%,34%,20%); fill-rule: evenodd;"/>
+					<rect x="277" y="216" width="8" height="8" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(72%,34%,20%); fill-rule: evenodd;"/>
+					<rect x="288" y="216" width="8" height="8" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(72%,34%,20%); fill-rule: evenodd;"/>
+					<rect x="299" y="216" width="8" height="8" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(72%,34%,20%); fill-rule: evenodd;"/>
+					<rect x="310" y="216" width="8" height="8" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(72%,34%,20%); fill-rule: evenodd;"/>
+					<rect x="321" y="216" width="8" height="8" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(72%,34%,20%); fill-rule: evenodd;"/>
+					<rect x="332" y="216" width="8" height="8" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(72%,34%,20%); fill-rule: evenodd;"/>
+					<text x="355" y="219" style="font-family: CNHei; font-size: 7.7px;fill: rgb(72%,34%,20%); stroke:none;" transform="translate(0,438) scale(1,-1)">28 天／100,000 元</text>
+					<text x="35" y="195" style="font-family: CNHei; font-size: 7.7px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,390) scale(1,-1)">补贴多 90,000 元；加班日多 21 天。</text>
+					<text x="35" y="178" style="font-family: CNHei; font-size: 7.7px;fill: rgb(32%,40%,45%); stroke:none;" transform="translate(0,356) scale(1,-1)">若影响持续，观察应延伸至第 28 天之后。</text>
+					<path d="M 0,166 L 522,166 Z" style="stroke: rgb(78%,83%,84%); stroke-linecap: butt; stroke-width: 0.65;"/>
+					<text x="0" y="148" style="font-family: CNHei; font-size: 8.928484848484848px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,296) scale(1,-1)">c</text>
+					<text x="17" y="148" style="font-family: CNHei; font-size: 7.812424242424242px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,296) scale(1,-1)">四周饮食选择</text>
+					<text x="278" y="148" style="font-family: CNHei; font-size: 8.928484848484848px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,296) scale(1,-1)">d</text>
+					<text x="295" y="148" style="font-family: CNHei; font-size: 7.812424242424242px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,296) scale(1,-1)">两小时闲暇安排</text>
+					<path d="M 260,12 L 260,152 Z" style="stroke: rgb(78%,83%,84%); stroke-linecap: butt; stroke-width: 0.65;"/>
+					<text x="17" y="124" style="font-family: CNHei; font-size: 7.7px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,248) scale(1,-1)">购买或自行准备</text>
+					<text x="295" y="124" style="font-family: CNHei; font-size: 7.7px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,248) scale(1,-1)">替代了原本哪项活动？</text>
+					<text x="17" y="103" style="font-family: CNHei; font-size: 7.7px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,206) scale(1,-1)">钱款＋采购与清理时间</text>
+					<text x="295" y="103" style="font-family: CNHei; font-size: 7.7px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,206) scale(1,-1)">愉悦感与自主停止</text>
+					<text x="17" y="82" style="font-family: CNHei; font-size: 7.7px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,164) scale(1,-1)">口味、饱腹感及相关结果</text>
+					<text x="295" y="82" style="font-family: CNHei; font-size: 7.7px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,164) scale(1,-1)">睡眠与次日功能</text>
+					<text x="17" y="61" style="font-family: CNHei; font-size: 7.7px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,122) scale(1,-1)">无偿劳动由谁承担？</text>
+					<text x="295" y="61" style="font-family: CNHei; font-size: 7.7px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,122) scale(1,-1)">支持效果能否持续？</text>
+					<text x="17" y="28" style="font-family: CNHei; font-size: 7.7px;fill: rgb(9%,42%,43%); stroke:none;" transform="translate(0,56) scale(1,-1)">先确认方案现实可行</text>
+					<text x="295" y="28" style="font-family: CNHei; font-size: 7.7px;fill: rgb(49%,37%,64%); stroke:none;" transform="translate(0,56) scale(1,-1)">明确保留个人偏好</text>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

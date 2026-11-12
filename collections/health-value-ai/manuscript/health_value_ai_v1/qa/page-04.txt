@@ -1,0 +1,32 @@
+Health economic value in the AI era | Author review draft 
+4 
+theory distinguishes a sense of volition from independence.[7] Assistance from AI, another 70 
+person or a clinical service can therefore be compatible with autonomy; its effects require 
+assessment rather than classification by the presence of assistance. 
+The assessment methods are likewise established. Cost-consequence analysis presents different 
+costs and effects separately, including effects outside health.[8] Multicriteria decision analysis 
+can support aggregation, but criterion overlap, preference assumptions and the meaning of 75 
+weights require attention.[9] The Ottawa Personal Decision Guide already helps people consider 
+options, benefits, harms, values and support for health or social decisions.[10] Our profile is 
+intended as a candidate extension for AI-related time and information problems. Merely adding 
+columns or asking people what matters to them would not demonstrate an advance. 
+Preference-based health measurement also provides an established route to aggregation. EQ-5D 80 
+distinguishes a descriptive health profile, a person's own health rating and an index based on 
+population preferences; the latter can support quality-adjusted life-year calculations.[11] These 
+quantities answer different questions. A self-rating should not be substituted for a preference-
+weighted index, and a predicted QALY change requires defensible health trajectories over time. 
+Our proposal retains such measures where appropriate while recording other consequences 85 
+separately. It does not claim to replace them or to infer a QALY loss from a single night of lost 
+sleep. 
+Why AI changes the comparison 
+Three distinctions organize the proposed AI application. First, task efficiency differs from 
+control over the resulting time. Noy and Zhang's randomized study of professional writing found 90 
+improved task productivity with ChatGPT.[12] Such evidence establishes a task-level benefit in 
+a defined setting; it does not establish the destination of any saved time or a subsequent health 
+gain. Verification, corrections, learning to use the tool and additional assignments must enter the 
+accounting. The same technical gain could be followed by more rest, more production or a 
+different activity mix, depending on constraints and preferences. 95 
+For matched tasks with comparable quality, let T0 denote time without AI and T1 all time with 
+AI, including prompting, checking and rework. Let S = T0 − T1, A denote time for additional 
+tasks, and B other changes in work time within the same calendar window. Then: 
+𝛥𝑊 =  −𝑆 +  𝐴 +  𝐵     (1) 

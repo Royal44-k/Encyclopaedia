@@ -1,0 +1,711 @@
+Perspective  |  Health economic value in the AI era 
+Richard T. Millian    1 
+Health economic value in the AI era: a 
+framework for intertemporal choice  
+Richard T. Millian 
+Hangzhou Normal University 
+Overtime pay, time saved on meals and faster AI-assisted work offer readily visible gains. Changes in sleep, physical burden and 
+recovery time may be less visible in the same decision. Drawing on health capital, time allocation, health capability and dec ision 
+analysis, we propose a framework for comparing health-related consequences. Feasible alternatives are compared over a common 
+horizon across resources and time, health and functioning, experience, and capability and agency, before differences are appr aised 
+against personal priorities. The framework separates measurement, prediction and appraisal while retaining units, timing and 
+uncertainty. This distinction matters in the AI era: faster tasks need not create more rest, and better assisted performance need not 
+imply improved independent ability. Cases involving single-day and repeated overtime, everyday food choices and digital leisure 
+illustrate the approach. We develop testable propositions concerning the allocation of time gains, persistence of effects  and 
+decision quality. The purpose is to clarify the conditions and consequences of choices, rather than assign health a universal  price 
+or prescribe a common way of life. 
+ 
+Fig. 1 | A framework for comparing health-related consequences. Feasible alternatives and a common horizon define the comparison. 
+Resources and time, health and functioning, experience, and capabilities and agency remain distinct. Priorities inform appraisal. 
+Connections represent analytical steps, not estimated causal effects. 
+
+
+Perspective  |  Health economic value in the AI era 
+Richard T. Millian    2 
+ 
+Fig. 2 | Linking measurement, prediction and appraisal. a, Three kinds of information address the same decision. b, Conditional 
+dominance and trade-offs on qualitative axes without numerical units. Other relevant outcomes and uncertainty may change the ordering. 
+From economic returns to changes in daily 
+life 
+Whether overtime pay improves life cannot be judged from 
+the payment alone. Extra income may come from longer 
+daytime work, repeated night shifts or greater efficiency with 
+AI. These arrangements may differ in their implications for 
+sleep, energy and family time. Comparison starts with 
+concrete questions: how much money is gained, where time 
+goes, and whether the person can work, study or care for 
+family the next day. Figure 1 organizes these questions into a 
+common framework; Figure 2 separates measurement, 
+prediction and appraisal. 
+The starting point is established economics. Grossman's 
+health-capital approach treats health as a stock relevant to 
+both well-being and productive time; Becker's allocation-of-
+time framework makes non-market time part of economic 
+choice. [1, 2] Marx's discussion of the working day directs 
+attention to bargaining, limits on labour and the reproduction 
+of labour power. [3] These traditions motivate different 
+questions rather than a single interchangeable theory. In 
+particular, health losses cannot simply be appended to 
+Marxian surplus value as an empirically measured quantity 
+without a separate account of exposure, counterfactual 
+outcomes and incidence. 
+Health capability approaches further distinguish achieved 
+states from the real opportunities people have to maintain 
+health and act on their goals. [4] This matters when an 
+apparent choice cannot be refused without losing housing or 
+essential care. Evidence on health-dependent utility also 
+cautions against assuming that a given monetary increment 
+has the same welfare significance in every health state. [5] 
+Neither point makes income irrelevant. Resources can enable 
+care, security and participation; the question is which 
+consequences a particular increment enables or displaces 
+under actual constraints. 
+We use health economic value to mean the decision-relevant 
+significance of health and functioning within these trade-offs. 
+It is not synonymous with total welfare, earning capacity or a 
+person's worth. Money, time, experience and agency enter the 
+comparison because they interact with health and carry value 
+of their own. The proposed contribution is an integrative 
+accounting procedure: specify a feasible counterfactual, trace 
+consequences over time, attach evidence and uncertainty, and 
+make the evaluative judgement explicit. A legitimate result 
+can be a preference, a conditional choice or an unresolved 
+comparison. 
+
+
+Perspective  |  Health economic value in the AI era 
+Richard T. Millian    3 
+Table 1 | Minimum comparison record. Proposed fields, not a validated scale. Health capability, ICF, WHO-5, MCDA and decision-
+quality research inform the distinctions. [4, 6, 7, 8, 9] 
+Domain Record Interpretation 
+Decision Feasible options; ability to refuse; common horizon Distinguish nominal options from real opportunities 
+Resources and time Net income change; total work; displaced activities Record where saved time is used 
+Health and functioning Relevant symptoms, function or clinical outcomes Interpret against baseline and clinical context 
+Experience Enjoyment, relief or distress; during and after Separate immediate responses from sustained 
+change 
+Capabilities and agency Independent performance; valued activities; discretion Include accessibility gains from assistance 
+Evidence and appraisal Population; comparator; horizon; uncertainty; goals Retain unknowns and differences in priorities 
+ 
+From measurement to appraisal 
+A laboratory report can describe a blood glucose level, but 
+cannot by itself establish whether a choice is worthwhile. 
+Measurement describes the current state; intervention research 
+estimates possible consequences of changing diet; willingness 
+to bear costs in money, time or taste depends on personal 
+priorities. Measurement, prediction and appraisal therefore 
+require different justifications. Reference ranges do not rank 
+human worth, and average study results do not directly 
+specify an individual future. 
+Monetary valuation can answer defined policy questions, but 
+compensation is not biological restoration. Conversely, 
+irreversibility does not logically make valuation impossible: 
+people still compare prevention, mitigation and foregone 
+opportunities. What fails is the inference that a payment 
+necessarily neutralizes a loss. A stated minimum payment 
+depends on income, alternatives and understanding; accepting 
+dangerous work under severe deprivation does not establish 
+that the health loss is trivial. Behavioural welfare analysis 
+provides reasons to examine the conditions under which 
+choices reveal evaluative preferences. [10] 
+The framework adapts the transparency of cost–consequence 
+analysis and the explicit criteria of multicriteria decision 
+analysis, while retaining their limitations. [8, 11] It adds no 
+validated universal scale. An established decision guide 
+already elicits options, uncertainty, values and support needs. 
+[12] Our narrower proposal makes time reallocation, outcome 
+trajectories, assisted versus unaided functioning and the 
+distribution of consequences explicit within such support. Any 
+advantage over existing tools must be demonstrated, not 
+inferred from a new label. 
+Standardized health-status instruments can supply comparable 
+information; preference-based measures such as EQ-5D can 
+support health-economic evaluation when used with the 
+appropriate valuation framework. [13] They do not exhaust 
+autonomy, relationships or personally valued capability. Self-
+determination theory offers a complementary account of 
+autonomy, competence and relatedness, without implying that 
+every activity has the same meaning for every person. [14] 
+Reading, gaming, exercise and companionship therefore enter 
+as alternatives whose consequences require assessment, rather 
+than predetermined categories of virtue or harm. 
+Table 1 provides a minimum record. Its purpose is 
+comparability of the decision process, not uniformity of 
+preferences. When meaningful consequences diverge, the 
+analyst should show the conflict and examine sensitivity to 
+priorities. A single index is optional only when its scales, 
+weights, uncertainty and double-counting risks are defensible; 
+declining to aggregate is often the more informative result. 
+
+Perspective  |  Health economic value in the AI era 
+Richard T. Millian    4 
+ 
+Figure 3 | Task savings and the allocation of a day. a, The accounting identity includes prompting, verification and rework in T1, 
+additional tasks in A and other work-time changes in B. b, Hypothetical 24-hour budgets with an 8-hour baseline workday, a 4-hour task 
+saving and B = 0. Non-work time is not assigned a health effect. 
+Intertemporal comparison and time 
+constraints 
+Let xi(a;τ) denote person i's consequence profile under 
+feasible option a at time τ. Components retain their own units: 
+disposable resources, time allocation, health and functioning, 
+experience and capabilities. For components with a 
+meaningful numerical difference, define: 
+𝛥𝑥𝑖(𝑎, 𝑏; 𝜏)  =  𝑥𝑖(𝑎; 𝜏)  − 𝑥𝑖(𝑏; 𝜏).  (1) 
+This is a contrast, not a causal prediction model. Categorical 
+changes remain descriptive. Every estimated component 
+requires a population, comparator, horizon, source and 
+uncertainty statement. Timing may require a trajectory rather 
+than an endpoint. Let zj denote an appropriately oriented 
+criterion, with larger values preferred within its applicable 
+range. Conditional dominance requires: 
+𝛥𝑧𝑗  ≥  0 (∀𝑗);  𝛥𝑧𝑘  >  0 (∃𝑘).  (2) 
+This ordering applies only if the criteria cover the relevant 
+consequences and uncertainty does not overturn it. Many 
+biomarkers are not monotonic, and omitted consequences can 
+reverse an apparent ranking. Where trade-offs remain, 
+personal appraisal is necessary; no universal exchange rate 
+follows from equations (1)–(2). 
+For AI-assisted work, let S = T0 − T1 be time saved on a fixed 
+task; T1 includes prompting, verification and rework. Let A 
+be time added through additional tasks and B all other net 
+changes in work time, defined to avoid overlap. Then: 
+𝛥𝑊 =  −𝑆 +  𝐴 +  𝐵.  (3) 
+Figure 3 illustrates the identity. Saving four task hours 
+produces four fewer work hours if A = B = 0, one fewer if A = 
+3 and B = 0, and one more if A = 5 and B = 0. These are 
+hypothetical allocations, not estimated AI effects. Even a fall 
+in total work does not determine health: the activities 
+replacing work, discretion over them and their subsequent 
+consequences remain to be measured. 
+
+
+Perspective  |  Health economic value in the AI era 
+Richard T. Millian    5 
+Table 2 | Different levels of AI outcomes. Studies illustrate task efficiency, experience and judgement; their designs and endpoints differ. 
+Setting and design Main finding Interpretive scope 
+Professional writing 
+Randomized; 453 [15] 
+Faster task completion and better output quality Full-day allocation and health not 
+measured 
+Customer support 
+Staggered rollout; 5,172 [16] 
+About 15% higher resolutions per hour; outcome 
+availability varies 
+Causal assumptions; who receives saved 
+time 
+Companionship 
+Seven-day Study 3 [17] 
+Immediate loneliness relief; persistent pre-interaction 
+benefit not demonstrated 
+Differential attrition; control not time-
+matched 
+Medical scenarios 
+1,298 people [18] 
+Control versus pooled AI: identification OR 1.76 (95% 
+CI 1.45–2.13) 
+Scenario performance, not clinical 
+morbidity 
+ 
+Three levels of AI benefit 
+AI can expand productive capacity. In a randomized study of 
+453 professionals, Noy and Zhang found improvements in 
+writing-task speed and quality. [15] In a field study covering 
+5,172 customer-support agents, Brynjolfsson and colleagues 
+used staggered deployment and difference-in-differences 
+analysis; their preferred estimate implied about a 15% 
+increase in issues resolved per hour. [16] This was not a 
+randomized trial, and the field outcome was throughput, not 
+health. Together these studies support productivity gains 
+while leaving open who receives the time or income dividend. 
+The study lacked compensation data, so productivity gains 
+cannot directly be interpreted as increased worker income. [16]  
+The relevant distinction is also between performance with 
+assistance and capability retained without it. Bastani and 
+colleagues' educational experiment illustrates why an 
+evaluation should include an unaided assessment rather than 
+infer learning from assisted practice alone. [19] This does not 
+establish that AI generally erodes cognition. It specifies a 
+measurement requirement: immediate performance, transfer to 
+unfamiliar tasks and independent performance answer 
+different questions. Accessibility and supported functioning 
+can be valuable even where unaided performance is 
+unchanged. 
+AI companionship raises a temporal distinction. In the seven-
+day third study reported by De Freitas and colleagues, 
+loneliness relief was most clearly immediate; a persistent 
+improvement in pre-interaction loneliness was not 
+demonstrated. [17] Differential attrition and a non-time-
+matched control limit interpretation. This is evidence for 
+examining when benefit occurs, not grounds for dismissing 
+companionship or diagnosing dependence. For short-form 
+content and virtual interaction, useful records would include 
+sleep displacement, enjoyment, relationships and the ability to 
+disengage; content type or duration alone does not establish 
+harm. 
+Information accuracy and user benefit also differ. Bean and 
+colleagues found that people working through hypothetical 
+medical scenarios did not reproduce the models' standalone 
+performance; Figure 5d retains the reported control-versus-AI 
+contrast. [18] The outcome was scenario interpretation, not 
+clinical disease. Earlier Facebook-deactivation research 
+likewise shows the value of measuring consequences beyond 
+platform use, although social-media findings cannot simply be 
+transferred to generative AI. [20] Health-literate AI already 
+emphasizes comprehension, agency, accountability and 
+proportionality. [21] Our proposal complements that agenda 
+by specifying the consequences and time horizons to compare, 
+rather than claiming these concerns as new. 
+
+Perspective  |  Health economic value in the AI era 
+Richard T. Millian    6 
+ 
+Fig. 4 | Measurement levels and their decision relevance.  The upper pathway separates exposure, state and consequences in daily life; 
+arrows indicate relationships to investigate. Candidate measures below are selected for the decision and its timing. ICF links functioning to 
+context; WHO-5 covers mental well-being over the preceding two weeks. [6, 7] 
+Choosing measures for the decision 
+Measures should follow the decision. A dinner comparison 
+may require price, preparation time and satiety; night-work 
+comparisons also need sleep, functioning and recovery. Select 
+relevant measures rather than every available test, after 
+establishing feasible alternatives, a common horizon and 
+baseline conditions. Figure 4 organizes these measurement 
+levels. 
+Separate exposures, states and consequences. Sleep 
+opportunity, sitting time, diet and screen use describe 
+behaviours or environments. Symptoms, laboratory measures 
+and task performance describe selected states. Their 
+significance depends on daily functioning, experience and 
+valued activities. The ICF helps situate functioning in context. 
+[6] Adding sedentary time, a correlated biomarker and a 
+downstream disease risk into a single score can count the 
+same pathway repeatedly. Candidate causal links should 
+therefore be specified before aggregation or mediation 
+analysis. 
+Glucose, lipids, blood pressure, strength, vision and skin 
+symptoms answer different questions; blood quality is too 
+vague. Changes require interpretation against baseline, 
+measurement conditions and appropriate ranges. Appearance 
+may affect experience but cannot establish internal organ 
+status. Physical–psychological relationships require 
+measurement, and differences in health must not become a 
+ranking of human dignity or worth. 
+Experience and functioning should be observed at appropriate 
+times. WHO-5 records mental well-being over the preceding 
+two weeks; it is not a diagnostic test or an instantaneous 
+response measure. [7] A brief attention task, an activity diary 
+and a symptom report likewise capture different constructs. 
+Selection should consider reliability, responsiveness, language, 
+accessibility and burden. Repeated measurement may 
+distinguish transient discomfort from a sustained trajectory, 
+but collecting more data is not automatically better and can 
+increase anxiety or exclusion. 
+Finally, attach uncertainty to each consequential claim. 
+Distinguish observed findings from projections and unknowns; 
+an unmeasured effect is not zero. Report absolute risks when 
+defensible baseline estimates and applicable models exist, 
+rather than translating relative effects into unsupported 
+personal forecasts. Preserve the person's priorities alongside 
+the evidence, and revisit the comparison if circumstances or 
+outcomes change. 
+
+
+Perspective  |  Health economic value in the AI era 
+Richard T. Millian    7 
+ 
+Figure 5 | Selected estimates with their original uncertainty. a, Stroke incidence from seven cohorts, follow-up 1–20 years. [22] b, 
+Energy intake in a 20-person inpatient crossover diet trial. [23] c, Energy intake change versus control in a sleep-extension trial; 81 
+randomized, 80 in the reported analysis set. [24] d, Relevant-condition identification in hypothetical medical scenarios: control versus 
+pooled AI assistance. [18] Bars denote 95% CIs in a, c and d; ± 1 SE in b. Ratio axes are logarithmic. RR and OR are distinct; neither is an 
+absolute probability change. No effects are pooled or converted to a personal health price. 
+Empirical estimates and their scope 
+Figure 5 preserves four different estimands. Long working 
+hours were associated with stroke incidence in a cohort meta-
+analysis; this does not estimate the effect of one overtime 
+week. [22] Hall and colleagues' 20-person inpatient crossover 
+experiment found greater energy intake on the ultra-processed 
+diet, whereas Tasali and colleagues' sleep-extension trial 
+found lower estimated energy intake relative to control. [23, 
+24] The former interval is one standard error, not a 95% 
+confidence interval. Bean and colleagues' odds ratio concerns 
+identification in medical scenarios, not the probability of 
+illness. [18] 
+These findings make particular consequences credible enough 
+to investigate. They do not validate the entire framework, 
+establish a universal lifestyle hierarchy or provide coefficients 
+for pricing an individual's health. Transporting an effect 
+requires attention to population, exposure, comparator, 
+outcome and follow-up. The figure therefore keeps study 
+designs, units and uncertainty visible instead of pooling unlike 
+outcomes. 
+
+
+Perspective  |  Health economic value in the AI era 
+Richard T. Millian    8 
+Trade-offs in everyday settings 
+ 
+Fig. 6 | Daily income and overnight schedules. Conceptual illustration. With CNY 200 base pay and additional net supplements of CNY 
+400 or 1,000, totals are CNY 600 or 1,200. The image does not depict study participants or measured health outcomes. 
+Case 1: daily pay and overnight supplements. Suppose 
+ordinary daily pay is CNY 200, with an additional CNY 400 
+for working until 02:00 or CNY 1,000 for working through 
+the night. Assuming all amounts are net of tax and ordinary 
+pay is unchanged, daily income is CNY 200, 600 or 1,200 
+(Fig. 6). If CNY 400 and 1,000 instead denote total daily pay, 
+the increments are CNY 200 and 800. Distinguishing base pay, 
+supplements and total income prevents an initial accounting 
+error. 
+The schedule must then be specified: when work starts, when 
+the person must rise the next day, whether another shift 
+follows, and whether commuting or care duties can change. 
+Finishing at 02:00 with a day off is a different option from 
+finishing at 02:00 before an early shift. An end time alone 
+does not establish sleep duration, and comparison should 
+extend beyond the work episode to subsequent functioning 
+and recovery. 
+Whether the person gains also depends on what the money 
+enables. Paying rent or care costs may relieve an immediate 
+difficulty; fatigue, restricted activities and other burdens still 
+belong in the comparison. Conversely, the absence of obvious 
+discomfort does not establish an absence of effects. 
+Confirmed income changes, functioning that needs 
+observation and unknown longer-term consequences can be 
+listed separately, allowing the person to identify losses they 
+regard as unacceptable. 
+Negotiable arrangements may enlarge the choice set: fewer 
+consecutive night shifts, protected time off or the ability to 
+stop. Including them turns a question about the price of health 
+into a comparison of ways to meet income needs while 
+preserving health and valued activities. These are options to 
+evaluate; their effects require evidence. 
+
+
+Perspective  |  Health economic value in the AI era 
+Richard T. Millian    9 
+Case 2  Comparing a week with a month 
+ 
+Figure 7 | Align the overtime alternatives. Both options cover 28 days; supplements are assumed net and ordinary earnings equal. 
+Option B adds CNY 90,000 and 21 overtime days. The timeline and arithmetic are hypothetical. Exposure, baseline state, recovery and 
+later outcomes require additional evidence before an overall appraisal. 
+Consider a hypothetical 28-day window. Option A offers a net 
+supplement of CNY 10,000 for seven overtime days; option B 
+offers CNY 100,000 for 28. Holding ordinary earnings equal, 
+ΔY = 100,000 − 10,000 = 90,000 CNY, alongside 21 
+additional overtime days. Figure 7 aligns the denominators. It 
+does not assign the remaining days in option A a health value 
+automatically. Their activities, recovery opportunities and 
+effects on family members must be recorded; effects 
+extending beyond day 28 require a longer outcome horizon. 
+A disciplined appraisal asks about shift duration and timing, 
+baseline symptoms, the ability to stop, essential financial 
+needs and the next-best feasible option. The same schedule 
+may be evaluated differently under different constraints 
+without making its health consequences unreal. The 
+framework cannot determine that CNY 100,000 is sufficient 
+compensation. It can identify what is known, what remains 
+uncertain and which conflicts drive the decision. A legally or 
+contractually specified payment is an allocation of 
+responsibility; it is not evidence that lost functioning has been 
+restored. 
+Sleep restriction also shows why subjective adaptation and 
+objective function should be distinguished. In Van Dongen 
+and colleagues' laboratory programme, 35 adults were 
+randomized to 4, 6 or 8 hours in bed for 14 nights; a separate 
+total-deprivation experiment involved 13 adults. Performance 
+deficits accumulated in the 4- and 6-hour groups, while 
+reported sleepiness did not track their full progression. [25] 
+These functional findings do not establish permanent neuronal 
+destruction after one late night. Recovery and persistence 
+require their own evidence. 
+
+
+Perspective  |  Health economic value in the AI era 
+Richard T. Millian    10 
+Case 3  Beyond the price of dinner 
+ 
+Fig. 8 | Resources and circumstances behind a meal. Conceptual illustration. Purchased and home-prepared meals require appraisal 
+of the actual food, time, labour and availability; health outcomes are not assigned by the image. 
+Comparing a convenient purchased dinner with a meal 
+prepared at home requires more than ingredients or price. 
+Suppose the alternatives are maintained for four weeks. Food 
+expenditure, shopping, cooking and cleaning time, taste and 
+feasibility all enter the comparison (Fig. 8). A person with a 
+kitchen and predictable hours faces different options from a 
+shift worker with limited cooking facilities. 
+Junk food is an everyday label rather than a sufficiently 
+defined research exposure. Food composition, processing 
+category, intake and duration need specification: takeaway is 
+not synonymous with ultra-processed food, nor home cooking 
+with a balanced diet. Hall and colleagues observed an energy-
+intake difference, but no significant between-diet differences 
+in short-term glucose tolerance or continuous glucose 
+measures. This neither establishes long-term equivalence nor 
+supports deterioration in every internal measure. [23] 
+The economic point is that preparing a meal also uses time 
+and labour. Who shops, cooks and cleans within the 
+household belongs in the account, alongside the time gained 
+from convenience. A practical comparison can begin with 
+feasible changes in available meal combinations or 
+preparation burden, followed by observation of eating 
+experience and relevant outcomes, rather than requiring an 
+idealized menu in advance. 
+
+
+Perspective  |  Health economic value in the AI era 
+Richard T. Millian    11 
+Case 4  Screens, companionship and an evening 
+ 
+Fig. 9 | Leisure activities and what follows. Conceptual illustration. Digital interaction, reading, movement and social contact are 
+alternatives to compare in terms of displacement, persistence of experience and agency. 
+Suppose two hours after dinner are discretionary. Short 
+dramas or games, AI conversation, reading, walking and 
+meeting friends are candidate activities (Fig. 9). Appraisal 
+first asks what each displaces. Gaming may displace intended 
+sleep for one person and otherwise unstimulating time alone 
+for another. Online and offline activities cannot be ranked by 
+their labels alone, and leisure need not justify every minute 
+through increased productivity. 
+Observation can extend from the evening to the next day and 
+subsequent weeks: was the activity enjoyable, did satisfaction 
+persist, could the person stop as planned, and could they carry 
+out valued activities the next day? Attention needs a specified 
+construct, such as sustained attention, switching or memory. 
+Patience likewise needs a defined behaviour; viewing duration 
+alone cannot diagnose cognitive decline. These questions 
+organize observation rather than establish causal pathways. 
+AI companionship also calls for separating immediate support 
+from persistent change. Research has recorded post-
+interaction loneliness relief, while follow-up and comparator 
+design constrain conclusions about persistence. [17] A case 
+comparison can examine whether use supplements existing 
+support, accompanies later sleep, and remains under the user’s 
+control. Appraisal can recognize enjoyment and support as 
+valuable while preserving scope to change use. 
+The same principle applies to AI food or medical advice. A 
+credible-sounding answer and an appropriate user decision are 
+different outcomes; medical-scenario experiments have 
+demonstrated a gap between models acting alone and human–
+AI interactions. [18] Evaluation should examine 
+understanding, recognition of applicability and appropriate 
+action, rather than treating verbal fluency as effectiveness. 
+
+
+Perspective  |  Health economic value in the AI era 
+Richard T. Millian    12 
+ 
+Fig. 10 | Two research questions and their evaluation paths. Mechanism research explains how outcomes arise; tool evaluation tests 
+the added comparison module. An active comparator gives both groups the same facts and established guide. The proposed design is not 
+a completed trial. 
+Table 3 | Testable propositions and disconfirming observations. Each comparison requires prespecified estimands and outcomes. 
+Proposition Key comparison Potentially disconfirming result 
+Discretion affects allocation of AI 
+time savings 
+Similar task gains; credible differences in control 
+over workload 
+No meaningful allocation difference, with 
+sufficiently precise estimates 
+Immediate relief and sustained 
+benefit may diverge 
+Matched comparator; repeated pre-use, post-use 
+and follow-up measures 
+Stable pre-use improvement comparable to 
+immediate relief 
+The module improves decision 
+quality 
+Same guide, with or without the added module No gain in understanding or transfer, or 
+burden exceeds benefit 
+ 
+Testable propositions and evaluation 
+Validation involves two questions: which mechanisms change 
+health-related outcomes, and whether the framework improves 
+informed choice. The first provides evidence for its content; 
+the second determines its practical value. Figure 10 separates 
+these research questions, and Table 3 specifies three 
+propositions and observations that could weaken them. 
+An AI workplace study could combine task logs with whole-
+day time diaries and repeated outcomes, while measuring 
+authority over workload and schedules. A randomized 
+organizational policy or a credible natural experiment would 
+strengthen causal inference about who captures saved time. A 
+simple association between AI use and well-being would 
+remain vulnerable to job selection, workload, prior health and 
+reverse causation. Mechanism analysis should be prespecified; 
+controlling mechanically for post-treatment time use can 
+obscure the total effect it seeks to explain. 
+For the decision tool, an active comparator is essential. Both 
+groups should receive the same factual evidence and an 
+established guide; the intervention adds the explicit time, 
+consequence and uncertainty module (Fig. 10). Decision-
+quality research and the Cochrane review of patient decision 
+aids inform the comparator and outcome selection. [9, 26] The 
+primary outcome should be specified before recruitment, with 
+independent scoring of understanding rather than agreement 
+with the author's preferred lifestyle. Transfer to an unfamiliar 
+decision, values–choice concordance and calibrated 
+uncertainty can be secondary outcomes. 
+Evaluation must also capture completion time, attrition, 
+anxiety, accessibility and the experience of people who stop 
+using the tool. Repeated use may introduce learning, fatigue 
+or changes in the decision itself. A preregistered protocol 
+should specify the target population, effect of interest, 
+analysis of missingness, multiplicity and sample-size 
+justification. Interviews can explain comprehension or 
+disagreement but cannot replace causal estimates. If the added 
+module offers no meaningful benefit over the guide, or its 
+burden outweighs benefit, it should be simplified or 
+abandoned; a shift toward supposedly healthier choices alone 
+would not demonstrate success. 
+
+
+Perspective  |  Health economic value in the AI era 
+Richard T. Millian    13 
+ 
+Fig. 11 | Conditions of choice and distribution of consequences. Workplace, platform and household conditions shape feasible 
+options. Income, time and care burdens may accrue to different people. Arrows organize evaluation questions rather than depict estimated 
+causal effects. 
+Institutions, distribution and research 
+priorities 
+A consequence profile would be incomplete if it treated 
+constrained behaviour as a failure of individual discipline. 
+Workplace rules, platform design, housing, food access and 
+caring responsibilities shape both available options and the 
+capacity to act on a preference. Figure 11 places these 
+conditions upstream of appraisal. Recording that someone 
+would prefer rest is insufficient if income insecurity or 
+workload rules prevent it. Decision support can reveal such a 
+conflict; it cannot itself redistribute bargaining power or 
+provide the missing option. 
+The perspective of the account must be stated. A worker's net 
+payment, an employer's productivity, a family's unpaid care 
+and public expenditure are distinct entries. A payment can 
+compensate a recipient while representing a transfer between 
+parties rather than a net social resource gain. Time saved for 
+one person may be shifted to another through monitoring, 
+correction or care. Comparing individual, household and 
+societal accounts can expose these differences without 
+assuming that their interests can be aggregated by a single 
+unexamined weight. 
+Institutions can also use the framework to ask concrete 
+questions: does a productivity policy return time to workers; 
+does a platform permit meaningful disengagement; and does 
+an intervention remain feasible for people with limited money, 
+mobility or digital access? These are evaluative questions, not 
+established effects of particular policies. The same 
+information should not become a surveillance score used to 
+penalize workers, deny opportunities or blame people for 
+constrained choices. Purpose limitation and proportionate 
+collection are part of making the proposed support usable. 
+The central claim is modest in form but consequential in 
+practice: a gain is not fully characterized until the health-
+relevant consequences, their timing and their distribution are 
+visible. AI strengthens the need for this accounting because 
+task performance, independent capability and lived benefit 
+can move differently. A common comparison procedure can 
+make these divergences discussable without imposing a 
+common preference. Its scientific value will depend on 
+whether it improves explanation, prediction or decision 
+quality beyond the methods on which it builds. 
+This conceptual Perspective integrates economic theory, 
+measurement approaches and selected empirical studies 
+through narrative synthesis. The framework remains to be 
+validated. Its breadth may increase burden, population effects 
+may not transfer to individuals, and preferences may change 
+with circumstances. The next step is context-specific 
+feasibility research followed by comparison with established 
+decision support, assessing whether any gains in 
+understanding and choice persist. 
+
+
+Perspective  |  Health economic value in the AI era 
+Richard T. Millian    14 
+References 
+1. Grossman, M. On the concept of health capital and the demand for 
+health. Journal of Political Economy 80, 223–255 (1972). 
+https://doi.org/10.1086/259880 
+2. Becker, G. S. A theory of the allocation of time. The Economic 
+Journal 75, 493–517 (1965). https://doi.org/10.2307/2228949 
+3. Marx, K. The working-day. Capital, Vol. I, ch. 10. Marxists Internet 
+Archive (n.d.). https://www.marxists.org/archive/marx/works/1867-
+c1/ch10.htm 
+4. Ruger, J. P. Health capability: conceptualization and operationalization. 
+American Journal of Public Health 100, 41–49 (2010). 
+https://doi.org/10.2105/AJPH.2008.143651 
+5. Finkelstein, A., Luttmer, E. F. P. & Notowidigdo, M. J. What good is 
+wealth without health? The effect of health on the marginal utility of 
+consumption. Journal of the European Economic Association 11 (Suppl. 
+1), 221–258 (2013). https://doi.org/10.1111/j.1542-4774.2012.01101.x 
+6. World Health Organization. International Classification of Functioning, 
+Disability and Health. WHO (n.d.). 
+https://www.who.int/standards/classifications/international-classification-
+of-functioning-disability-and-health 
+7. World Health Organization. The World Health Organization-Five 
+Well-Being Index (WHO-5). WHO, WHO/UCN/MSD/MHE/2024.01 
+(2024). https://www.who.int/publications/m/item/who-ucn-msd-mhe-
+2024.01 
+8. Thokala, P. et al. Multiple criteria decision analysis for health care 
+decision making—an introduction: Report 1 of the ISPOR MCDA 
+Emerging Good Practices Task Force. Value in Health 19, 1–13 (2016). 
+https://doi.org/10.1016/j.jval.2015.12.003 
+9. Sepucha, K. R. et al. Establishing the effectiveness of patient decision 
+aids: key constructs and measurement instruments. BMC Medical 
+Informatics and Decision Making 13 (Suppl. 2), S12 (2013). 
+https://doi.org/10.1186/1472-6947-13-S2-S12 
+10. Bernheim, B. D. & Rangel, A. Beyond revealed preference: choice-
+theoretic foundations for behavioral welfare economics. The Quarterly 
+Journal of Economics 124, 51–104 (2009). 
+https://doi.org/10.1162/qjec.2009.124.1.51 
+11. Office for Health Improvement and Disparities. Cost consequence 
+analysis: health economic studies. GOV.UK (2020). 
+https://www.gov.uk/guidance/cost-consequence-analysis-health-
+economic-studies 
+12. Ottawa Hospital Research Institute. Ottawa Personal Decision Guide. 
+Patient Decision Aids (2025). https://decisionaid.ohri.ca/decguide.html 
+13. EuroQol Research Foundation. What is the difference between the 
+EQ-5D descriptive system, the EQ VAS and the EQ-5D index values? 
+EuroQol (2023). https://euroqol.org/faq/what-is-the-difference-between-
+the-eq-5d-5l-descriptive-system-the-eq-vas-and-the-eq-5d-index-values/ 
+14. Ryan, R. M. & Deci, E. L. Self-determination theory and the 
+facilitation of intrinsic motivation, social development, and well-being. 
+American Psychologist 55, 68–78 (2000). https://doi.org/10.1037/0003-
+066X.55.1.68 
+15. Noy, S. & Zhang, W. Experimental evidence on the productivity 
+effects of generative artificial intelligence. Science 381, 187–192 (2023). 
+https://doi.org/10.1126/science.adh2586 
+16. Brynjolfsson, E., Li, D. & Raymond, L. Generative AI at work. The 
+Quarterly Journal of Economics 140, 889–942 (2025). 
+https://doi.org/10.1093/qje/qjae044 
+17. De Freitas, J., Oğuz-Uğuralp, Z., Uğuralp, A. K. & Puntoni, S. AI 
+companions reduce loneliness. Journal of Consumer Research 52, 1126–
+1148 (2026). https://doi.org/10.1093/jcr/ucaf040 
+18. Bean, A. M. et al. Reliability of LLMs as medical assistants for the 
+general public: a randomized preregistered study. Nature Medicine 32, 
+609–615 (2026). https://doi.org/10.1038/s41591-025-04074-y 
+19. Bastani, H. et al. Generative AI without guardrails can harm learning: 
+Evidence from high school mathematics. Proceedings of the National 
+Academy of Sciences 122, e2422633122 (2025). 
+https://doi.org/10.1073/pnas.2422633122 
+20. Allcott, H., Braghieri, L., Eichmeyer, S. & Gentzkow, M. The 
+welfare effects of social media. American Economic Review 110, 629–
+676 (2020). https://doi.org/10.1257/aer.20190658 
+21. Ivic, R. K., Ratzan, S. C. & Parker, R. M. Building health-literate 
+artificial intelligence. Nature Human Behaviour, Advance online 
+publication (2026). https://doi.org/10.1038/s41562-026-02595-1 
+22. Descatha, A. et al. The effect of exposure to long working hours on 
+stroke: A systematic review and meta-analysis from the WHO/ILO Joint 
+Estimates of the Work-related Burden of Disease and Injury. 
+Environment International 142, 105746 (2020). 
+https://doi.org/10.1016/j.envint.2020.105746 
+23. Hall, K. D. et al. Ultra-processed diets cause excess calorie intake and 
+weight gain: An inpatient randomized controlled trial of ad libitum food 
+intake. Cell Metabolism 30, 67–77.e3 (2019). 
+https://doi.org/10.1016/j.cmet.2019.05.008 
+24. Tasali, E. et al. Effect of sleep extension on objectively assessed 
+energy intake among adults with overweight in real-life settings: A 
+randomized clinical trial. JAMA Internal Medicine 182, 365–374 (2022). 
+https://doi.org/10.1001/jamainternmed.2021.8098 
+25. Van Dongen, H. P. A., Maislin, G., Mullington, J. M. & Dinges, D. F. 
+The cumulative cost of additional wakefulness: dose-response effects on 
+neurobehavioral functions and sleep physiology from chronic sleep 
+restriction and total sleep deprivation. Sleep 26, 117–126 (2003). 
+https://doi.org/10.1093/sleep/26.2.117 
+26. Stacey, D. et al. Decision aids for people facing health treatment or 
+screening decisions. Cochrane Database of Systematic Reviews 1, 
+CD001431 (2024). https://doi.org/10.1002/14651858.CD001431.pub6 

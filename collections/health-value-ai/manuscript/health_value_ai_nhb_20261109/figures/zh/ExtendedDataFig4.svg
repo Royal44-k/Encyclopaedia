@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="467.7165354330709" height="167.55362476242195" preserveAspectRatio="xMinYMin meet" viewBox="0 0 467 167" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="467.7165354330709" height="167.55362476242195"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-167)" style="clip-path: url(#clip)">
+		<g transform="">
+			<g transform=" matrix(0.896009,0,0,0.896009,0,0)">
+				<g transform="">
+					<text x="0" y="171" style="font-family: CNHei; font-size: 8.928484848484848px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,342) scale(1,-1)">a</text>
+					<text x="18" y="171" style="font-family: CNHei; font-size: 7.812424242424242px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,342) scale(1,-1)">现实条件影响方案的可行性</text>
+					<text x="4" y="147" style="font-family: CNHei; font-size: 7.812424242424242px;fill: rgb(22%,39%,62%); stroke:none;" transform="translate(0,294) scale(1,-1)">工作场所</text>
+					<text x="4" y="130" style="font-family: CNHei; font-size: 7.812424242424242px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,260) scale(1,-1)">工作负荷、拒绝安排的可能</text>
+					<path d="M 4,120 L 154,120 Z" style="stroke: rgb(22%,39%,62%); stroke-linecap: butt; stroke-width: 1;"/>
+					<text x="183" y="147" style="font-family: CNHei; font-size: 7.812424242424242px;fill: rgb(50%,40%,60%); stroke:none;" transform="translate(0,294) scale(1,-1)">平台</text>
+					<text x="183" y="130" style="font-family: CNHei; font-size: 7.812424242424242px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,260) scale(1,-1)">界面、激励、自主退出</text>
+					<path d="M 183,120 L 333,120 Z" style="stroke: rgb(50%,40%,60%); stroke-linecap: butt; stroke-width: 1;"/>
+					<text x="362" y="147" style="font-family: CNHei; font-size: 7.812424242424242px;fill: rgb(8%,49%,50%); stroke:none;" transform="translate(0,294) scale(1,-1)">家庭与服务</text>
+					<text x="362" y="130" style="font-family: CNHei; font-size: 7.812424242424242px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,260) scale(1,-1)">照护、饮食、住房与可及性</text>
+					<path d="M 362,120 L 512,120 Z" style="stroke: rgb(8%,49%,50%); stroke-linecap: butt; stroke-width: 1;"/>
+					<path d="M 261,116 L 261,97 Z" style="stroke: rgb(9%,16%,20%); stroke-linecap: butt; stroke-width: 1;"/>
+					<polygon points="261 97, 258.5 102, 263.5 102" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,16%,20%); fill-rule: evenodd;"/>
+					<text x="206.3130303030303" y="80" style="font-family: CNHei; font-size: 7.812424242424242px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,160) scale(1,-1)">比较当事人真正能够选择的方案</text>
+					<path d="M 0,64 L 522,64 Z" style="stroke: rgb(80%,84%,85%); stroke-linecap: butt; stroke-width: 0.7;"/>
+					<text x="0" y="47" style="font-family: CNHei; font-size: 8.928484848484848px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,94) scale(1,-1)">b</text>
+					<text x="18" y="47" style="font-family: CNHei; font-size: 7.812424242424242px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,94) scale(1,-1)">既考察总量变化，也追踪承担者</text>
+					<text x="18" y="25" style="font-family: CNHei; font-size: 7.812424242424242px;fill: rgb(22%,39%,62%); stroke:none;" transform="translate(0,50) scale(1,-1)">个人</text>
+					<text x="150" y="25" style="font-family: CNHei; font-size: 7.812424242424242px;fill: rgb(8%,49%,50%); stroke:none;" transform="translate(0,50) scale(1,-1)">家庭</text>
+					<text x="290" y="25" style="font-family: CNHei; font-size: 7.812424242424242px;fill: rgb(50%,40%,60%); stroke:none;" transform="translate(0,50) scale(1,-1)">组织／社会</text>
+					<text x="18" y="7" style="font-family: CNHei; font-size: 7.812424242424242px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,14) scale(1,-1)">收入与时间</text>
+					<text x="150" y="7" style="font-family: CNHei; font-size: 7.812424242424242px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,14) scale(1,-1)">照护与被替代的活动</text>
+					<text x="290" y="7" style="font-family: CNHei; font-size: 7.812424242424242px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,14) scale(1,-1)">产出、转移支付与公共成本</text>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

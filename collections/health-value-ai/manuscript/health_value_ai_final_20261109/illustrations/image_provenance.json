@@ -1,0 +1,29 @@
+{
+  "date": "2026-11-07",
+  "assets": [
+    {
+      "key": "work",
+      "prompt": "Use case: illustration-story. Create an original editorial illustration for a scholarly article about choices around paid overtime, sleep and daily life. Wide landscape 3:2. Show a single connected room transitioning from dusk at the left through late night in the centre to first dawn on the right. Three small vignettes of ordinary East Asian adults: left a person closes a laptop and gathers belongings to leave; centre a person quietly working at a desk under a warm lamp with a dark blue window; right a person at a laptop as pale dawn enters, with an empty chair and a jacket. Include subtle ordinary details such as a cup, indoor plant and wall clock without legible numbers. Thoughtful, neutral atmosphere, no moral judgement, no exaggerated distress or medical symptoms. Sophisticated hand-drawn editorial art, fine charcoal contours, restrained watercolour texture, ivory paper, midnight blue, muted teal and ochre. Lots of breathing space. Absolutely no text, numbers, labels, charts, currency signs, logos or watermark. Not a photograph and not a medical image.",
+      "generation_tool": "built-in image_gen",
+      "source_path": "C:\\Users\\lenovo\\.codex\\generated_images\\01a1abe6-920e-7fc0-b337-d75246c1fb76\\exec-9df54d4f-8434-4702-b569-27d11698cca7.png",
+      "destination": "illustrations/work.png",
+      "role": "Conceptual illustration, not empirical or biomedical image"
+    },
+    {
+      "key": "food",
+      "prompt": "Use case: illustration-story. Create an original editorial illustration for a scholarly article about food choice, preparation time and everyday health. Wide landscape 3:2. A coherent apartment kitchen and dining table with two ordinary East Asian adults arranging an evening meal, one unpacking a convenient takeaway container with rice and vegetables while the other prepares ingredients beside a chopping board. Include a bowl, eggs or tofu, vegetables, a grocery bag and a plain clock with no legible numerals. Both approaches are practical human choices, no good-versus-bad symbolism, no body-size comparison, no claims that appearance reveals internal health. Sophisticated hand-drawn editorial art, fine charcoal contours, restrained watercolour texture on ivory paper, muted teal, midnight blue, rust and ochre. Clear composition with generous negative space, warm and human. Absolutely no text, numbers, labels, nutrient charts, logos or watermark. Not a photograph and not a medical image.",
+      "generation_tool": "built-in image_gen",
+      "source_path": "C:\\Users\\lenovo\\.codex\\generated_images\\01a1abe6-920e-7fc0-b337-d75246c1fb76\\exec-467adceb-8db2-4322-b17a-fc463b2e2f9c.png",
+      "destination": "illustrations/food.png",
+      "role": "Conceptual illustration, not empirical or biomedical image"
+    },
+    {
+      "key": "leisure",
+      "prompt": "Use case: illustration-story. Create an original editorial illustration for a scholarly article about AI-era leisure, attention, companionship and freedom to choose. Wide landscape 3:2. Show a calm connected scene: indoors on left an ordinary East Asian adult sits comfortably with a tablet displaying only simple abstract speech shapes, another reads a physical book near a window; through a large opening on right two adults walk and talk on an accessible park path. A small desk and plant visually connect interior and exterior. Represent digital companionship, reading, movement and social contact as different options with equal dignity, no addiction stereotypes, no distressed person, no dehumanising robot. Sophisticated hand-drawn editorial art with fine charcoal contours and restrained watercolour texture on ivory paper; muted teal, midnight blue, ochre, light terracotta. Spacious thoughtful composition. Absolutely no text, numbers, labels, diagrams, branded interface, logos or watermark. Not a photograph.",
+      "generation_tool": "built-in image_gen",
+      "source_path": "C:\\Users\\lenovo\\.codex\\generated_images\\01a1abe6-920e-7fc0-b337-d75246c1fb76\\exec-1d9db712-8ed4-41d6-b092-ba51bc9cb827.png",
+      "destination": "illustrations/leisure.png",
+      "role": "Conceptual illustration, not empirical or biomedical image"
+    }
+  ]
+}

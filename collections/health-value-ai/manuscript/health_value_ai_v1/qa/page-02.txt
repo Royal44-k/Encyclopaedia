@@ -1,0 +1,32 @@
+Health economic value in the AI era | Author review draft 
+2 
+Abstract 10 
+Generative artificial intelligence changes how people produce, obtain information and spend 
+time. Its value for individuals cannot be inferred from task efficiency or immediate satisfaction 
+alone. We develop a conceptual framework for evaluating health-related trade-offs across work 
+and everyday life, drawing on health capital, time allocation, health capability and decision 
+science. The framework compares feasible alternatives over a common horizon, separates 15 
+resources, health, experience and capabilities, and records uncertainty without imposing a 
+universal monetary conversion. Its distinctive emphasis is the connection between task savings, 
+control over time and subsequent activities, together with the distinction between assisted 
+performance and independent capability. Examples from overtime compensation, food choices 
+and digital companionship illustrate its boundaries. We propose evaluation against established 20 
+decision support, using understanding, transfer and burden rather than a prescribed lifestyle as 
+success criteria. This is a research agenda for informed choice, not a validated health valuation 
+instrument. 
+Keywords: health economics; artificial intelligence; health capability; time allocation; 
+intertemporal choice; decision support 25 
+From market rewards to personal welfare 
+Consider a person offered additional pay for working late. The payment is visible, whereas the 
+consequences for sleep, relationships and subsequent functioning require a different assessment. 
+A larger payment can relieve material constraints while the work imposes burdens. Neither its 
+size nor the presence of a health risk determines the person's overall welfare without information 30 
+about alternatives, preferences and circumstances. AI-assisted work makes this comparison more 
+complex: completing a task faster may change earnings, workload, discretionary time or the 
+kinds of activity that remain. The relevant question is how these changes enter a person's life 
+over time. 
+Economic theory already provides substantial foundations for this question. Grossman's health 35 
+capital model treats health as both consumption and investment, while Becker's time allocation 
+framework incorporates time alongside market goods.[1, 2] The present argument therefore does 
+not rest on a supposed absence of health or non-market activity from economics. Marx's 
+discussion of the working day provides a complementary political-economic motivation: the 

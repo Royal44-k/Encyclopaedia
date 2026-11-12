@@ -1,0 +1,106 @@
+{
+  "Health_value_NHB_EN": {
+    "pages": 17,
+    "equations": 3,
+    "tables": 0,
+    "figures": 4,
+    "superscript_groups": 28,
+    "first_line_indent_twips": "360",
+    "all_paragraphs_preserved": true,
+    "page_text_lengths": [
+      2517,
+      2464,
+      1926,
+      2167,
+      2525,
+      2549,
+      2322,
+      2391,
+      2458,
+      2159,
+      2416,
+      3270,
+      1294,
+      314,
+      401,
+      759,
+      702
+    ]
+  },
+  "Supporting_information_EN": {
+    "pages": 9,
+    "equations": 0,
+    "tables": 3,
+    "figures": 4,
+    "superscript_groups": 5,
+    "first_line_indent_twips": "360",
+    "all_paragraphs_preserved": true,
+    "page_text_lengths": [
+      270,
+      1264,
+      965,
+      780,
+      395,
+      395,
+      347,
+      342,
+      1546
+    ]
+  },
+  "Health_value_NHB_ZH": {
+    "pages": 14,
+    "equations": 3,
+    "tables": 0,
+    "figures": 4,
+    "superscript_groups": 28,
+    "first_line_indent_twips": "480",
+    "all_paragraphs_preserved": true,
+    "page_text_lengths": [
+      1080,
+      1180,
+      980,
+      1112,
+      1030,
+      1053,
+      1014,
+      1037,
+      2577,
+      2091,
+      112,
+      140,
+      262,
+      283
+    ]
+  },
+  "Supporting_information_ZH": {
+    "pages": 9,
+    "equations": 0,
+    "tables": 3,
+    "figures": 4,
+    "superscript_groups": 5,
+    "first_line_indent_twips": "480",
+    "all_paragraphs_preserved": true,
+    "page_text_lengths": [
+      108,
+      499,
+      389,
+      252,
+      126,
+      155,
+      134,
+      122,
+      1510
+    ]
+  },
+  "checks": {
+    "paired_evidence_ids": true,
+    "no_bracketed_numeric_citations": true,
+    "native_superscripts": true,
+    "all_main_figures_cited_in_sequence": true,
+    "references_main": 21,
+    "website_sources_main": 5,
+    "abstract_words_en": 140,
+    "arithmetic": "passed",
+    "scientific_author_signoff": false
+  }
+}

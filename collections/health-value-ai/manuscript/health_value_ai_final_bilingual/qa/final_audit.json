@@ -1,0 +1,99 @@
+{
+  "date": "2026-11-06",
+  "this_round_primary_sources_checked": [
+    {
+      "id": "E026",
+      "url": "https://academic.oup.com/qje/article/140/2/889/7990658",
+      "sections": "Abstract, sample construction IV.B, empirical strategy IV.C, results V.A, Table II",
+      "checks": [
+        "5172 overall workers",
+        "staggered rollout is not random assignment",
+        "preferred productivity estimate 15.2%, abstract rounds to 15%",
+        "different outcome availability"
+      ]
+    },
+    {
+      "id": "E027",
+      "url": "https://www.med.upenn.edu/uep/assets/user-content/documents/VanDongen2003CumulativeCost.pdf",
+      "sections": "Original PDF pp.117–118 abstract and Methods",
+      "checks": [
+        "48 total across two experiments, not 48 randomized to restriction",
+        "35 restriction participants (9+13+13)",
+        "13 total-deprivation participants",
+        "time in bed differs from actual sleep duration",
+        "cognitive performance is not direct neuronal destruction measurement"
+      ]
+    },
+    {
+      "id": "E024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42745006/",
+      "sections": "Metadata and abstract only",
+      "checks": [
+        "comprehension, agency, accountability and proportionality",
+        "no claim of full-text inspection"
+      ]
+    },
+    {
+      "id": "E023",
+      "url": "https://arxiv.org/abs/2609.00065",
+      "sections": "Metadata and abstract",
+      "checks": [
+        "title, five authors, DOI",
+        "workflow disclosure only, not substantive health evidence"
+      ]
+    }
+  ],
+  "inherited_evidence_register": "references.json retains source-specific access and caveats from v3; this round does not assert all 27 originals were fully reread",
+  "human_verification_complete": false,
+  "conceptual_framework_empirically_validated": false,
+  "renderer": "Bundled render_docx.py attempted for both documents; missing packaged soffice.exe. Word COM export and PDFium rasterization used for actual DOCX page inspection.",
+  "visual_repairs": [
+    "CJK mathematical minus and bullet font fallback",
+    "Chinese line-start punctuation exclusions",
+    "automatic paragraph height for inline Word illustrations"
+  ],
+  "semantic_checks": {
+    "en_pdf": {
+      "complete_prose_paragraphs": 40,
+      "expected": 40,
+      "missing": []
+    },
+    "en_word": {
+      "complete_prose_paragraphs": 40,
+      "expected": 40,
+      "missing": []
+    },
+    "zh_pdf": {
+      "complete_prose_paragraphs": 40,
+      "expected": 40,
+      "missing": []
+    },
+    "zh_word": {
+      "complete_prose_paragraphs": 40,
+      "expected": 40,
+      "missing": []
+    }
+  },
+  "visual_inspection": {
+    "EN PDF": {
+      "pages": 12,
+      "all_pages_inspected": true,
+      "final_reference_page_rechecked": true
+    },
+    "ZH PDF": {
+      "pages": 12,
+      "all_pages_inspected": true,
+      "final_reference_page_rechecked": true
+    },
+    "EN Word render": {
+      "pages": 12,
+      "all_pages_inspected": true,
+      "final_reference_page_rechecked": true
+    },
+    "ZH Word render": {
+      "pages": 12,
+      "all_pages_inspected": true,
+      "final_reference_page_rechecked": true
+    }
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "date": "2026-11-08",
+  "revision": 3,
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 4346,
+      "sha256": "d2864705904757fd0322ea65fd738744eada724fd9fb0a72c1421d0eee5d8f3b"
+    },
+    {
+      "path": "author_work_record.md",
+      "bytes": 6106,
+      "sha256": "758cdfcb0d04cc9516ce014a6ba08dde6b88ef84385ce2f7b19ff674b437c2e5"
+    },
+    {
+      "path": "argument_plan.md",
+      "bytes": 4002,
+      "sha256": "72159743ab4da83b8c2a4e00b17047f7a5a7be99089f0ed9c45dbd0119e2da46"
+    },
+    {
+      "path": "report_casebook.md",
+      "bytes": 18847,
+      "sha256": "7cf5900182592860aa26b8f815e31f6427e47aaf3e360badf819d1aef7a05122"
+    },
+    {
+      "path": "report_cases.json",
+      "bytes": 10511,
+      "sha256": "31ff9b44a54a0a1975b1f59a1c36c252033045060283650046a0f72777a5ee1c"
+    },
+    {
+      "path": "sources.json",
+      "bytes": 20052,
+      "sha256": "3504a8677eb318c7de7ed8e4928ca413e5bcc15a4e0b3016a05c5a6a826001d0"
+    },
+    {
+      "path": "additional_sources.json",
+      "bytes": 3942,
+      "sha256": "212a81b55c5d39659df885047cd9508907bc479874b8f4214ffa8d3e59eec5c3"
+    },
+    {
+      "path": "literature_review.md",
+      "bytes": 8315,
+      "sha256": "8bcdaad30ea0291728a3681804cfa1e6748592c60d8cd7825ec081e1b12ed102"
+    },
+    {
+      "path": "editorial_design_brief.md",
+      "bytes": 15327,
+      "sha256": "79b93467d62b2451f82dfe71b863a66f69bc0391c7411600e0c31853ea0808ed"
+    },
+    {
+      "path": "claim_evidence_map.csv",
+      "bytes": 11544,
+      "sha256": "f5889cfc4999cae3fc52a8c008510b25431dc13c5a8a51b270dbc43eaaf38d08"
+    },
+    {
+      "path": "build_manifest.json",
+      "bytes": 1024,
+      "sha256": "09a64b9f2e7e3aab4e1f72248159ff9f23735a6598b34c15f615f04ba3838a48"
+    },
+    {
+      "path": "qa/delivery_checks.json",
+      "bytes": 2689,
+      "sha256": "ed9e2e7de083612734691d9c565bc5f0e300fdeba23f523757c1389b41bc0d80"
+    },
+    {
+      "path": "qa/final_quality_record.md",
+      "bytes": 3110,
+      "sha256": "df327733d53a581aabf0ad0cd0ad9f6370aaa9a24b82430d43b42f18f64c61d9"
+    },
+    {
+      "path": "deliverables/paper1_en.docx",
+      "bytes": 7536522,
+      "sha256": "2e0499265113d3d4a737b26c082b688428318feded127c53d1c677f70d842f69"
+    },
+    {
+      "path": "deliverables/paper1_zh.docx",
+      "bytes": 7411051,
+      "sha256": "319dcd33562088c63015794708696619b8d757b14aad7ccea6a7949620703e3a"
+    },
+    {
+      "path": "deliverables/paper1_en.pdf",
+      "bytes": 1223501,
+      "sha256": "5a20f881577a5867f0b94c59594e8fe9c4b6d943b1a5ac088f50e43ab73f9ba3"
+    },
+    {
+      "path": "deliverables/paper1_zh.pdf",
+      "bytes": 1370159,
+      "sha256": "6c1cb56564a3d8663a44fbb6b6c8e11f28c0cadfec4ed1587e2630a185c05713"
+    },
+    {
+      "path": "deliverables/illustrated_reader.html",
+      "bytes": 17009544,
+      "sha256": "8a10dc0d0460f16add5cec57e59a1b7b7d7618519c98c2d61fe21d2ae8f2a576"
+    },
+    {
+      "path": "deliverables/paper1_en.md",
+      "bytes": 28115,
+      "sha256": "b56bb0c33b2cf60a2de09181738a46ab960d73e02cac4119d092bc61bb16df1f"
+    },
+    {
+      "path": "deliverables/paper1_zh.md",
+      "bytes": 24686,
+      "sha256": "7e8e35ee7f0c67b2f078278552fc70c4f87a34a31a87c91c3c92a6fde7be8f18"
+    },
+    {
+      "path": "manuscript_zh.md",
+      "bytes": 22091,
+      "sha256": "49bf0e8dae7f26cc369060250891dcfbeb400475ac03d53525fc5b8258e09e12"
+    },
+    {
+      "path": "manuscript_en.md",
+      "bytes": 25342,
+      "sha256": "3d5e28b274348b2a842f0db8b05c42ff20f29a6c4540b984a7d0c07e008aa2fa"
+    },
+    {
+      "path": "figures/figure1_en.svg",
+      "bytes": 4638,
+      "sha256": "fd12115aeb71347a459f6ec3c9462470725548b34bdf4b4bc0d2ac16a0a4bca4"
+    },
+    {
+      "path": "figures/figure1_zh.svg",
+      "bytes": 4614,
+      "sha256": "09d72bd87373db0f502a98c1873583ac1f9dde21a7ae709a168c4c485bd10eca"
+    },
+    {
+      "path": "figures/figure2_en.svg",
+      "bytes": 5634,
+      "sha256": "4b4df16aa253833481b72c182c4ccbb98063ce9c3658492ef8aa9914cca4fdd7"
+    },
+    {
+      "path": "figures/figure2_zh.svg",
+      "bytes": 5483,
+      "sha256": "148067e93e78bcb4ae86c69a7c73147ce5762a42aecc2f68c10287aa85414aad"
+    },
+    {
+      "path": "figures/figure3_en.svg",
+      "bytes": 5719,
+      "sha256": "1bc56728c681c6bd5bf8788daa357de418d20a66548e39dc103f8872ce76d6c7"
+    },
+    {
+      "path": "figures/figure3_zh.svg",
+      "bytes": 5561,
+      "sha256": "ae341cd35a8ed2e2a99b8840274e38fa0e0cc8abac65cc931d8afc70441e8ce2"
+    },
+    {
+      "path": "figures/figure1_en.png",
+      "bytes": 284742,
+      "sha256": "3405628935b9ad403ce068c45d805a064c7e6931cf91b09101d973c45a83be93"
+    },
+    {
+      "path": "figures/figure1_zh.png",
+      "bytes": 260465,
+      "sha256": "b1be86932064d158fcb0b11b5d43a758c6176bf24ba46274d9a9c555f6a3f148"
+    },
+    {
+      "path": "figures/figure2_en.png",
+      "bytes": 566244,
+      "sha256": "2170bf90ce1c8599a4c80cff791b4b44deb4e3f164a798d09be6898b889c0aee"
+    },
+    {
+      "path": "figures/figure2_zh.png",
+      "bytes": 541960,
+      "sha256": "1cab72ba1f4efb6b621f2903c24d47d5bc31d7106734ba169546a1b51defc9ea"
+    },
+    {
+      "path": "figures/figure3_en.png",
+      "bytes": 612699,
+      "sha256": "b859f75740cbb3bced9f17e4418657f4e2cd71b08d10bb657cd863ab10aa16d1"
+    },
+    {
+      "path": "figures/figure3_zh.png",
+      "bytes": 536942,
+      "sha256": "da11077a159a85a4683619f2b9c0f6a40f3ced56b4f39ee8eb325e74825795da"
+    },
+    {
+      "path": "illustrations/scenario_handover.png",
+      "bytes": 2861638,
+      "sha256": "75027ba1b7ea8622b1273f6cca3ff5f57a2e92a7c1d814f2c7bc4a695c0727e8"
+    },
+    {
+      "path": "illustrations/scenario_revision.png",
+      "bytes": 3471867,
+      "sha256": "b0716875e9841115b2aedf1e95b32c38b44b2fe25f3c0d08f30b05fb54a236ca"
+    },
+    {
+      "path": "editorial_metadata.json",
+      "bytes": 1678,
+      "sha256": "a9b251ca603bb2929f31a511d71399627ac347b86136e2a89084440a32158a0b"
+    },
+    {
+      "path": "reader.css",
+      "bytes": 7866,
+      "sha256": "1124bf8d35807614c2d31bc6be30849cdff46e30136ef9b645f160d550ac30d3"
+    },
+    {
+      "path": "illustration_provenance.json",
+      "bytes": 3932,
+      "sha256": "132a918596d71398bfb38dded3d915d8e3e2841db953cf305324bfbbdf1b4374"
+    },
+    {
+      "path": "revision03_language_changes.json",
+      "bytes": 55201,
+      "sha256": "a26df9420459c7390973730539806952d986ece5afea5e25fb789bce7413fb32"
+    },
+    {
+      "path": "revision03_design_brief.md",
+      "bytes": 2570,
+      "sha256": "ec91e9f9b8045cc50ce72008f7fd66e5841c58a296e9c452d87bbede45fb40a0"
+    },
+    {
+      "path": "qa/typography_verification.json",
+      "bytes": 17397,
+      "sha256": "47b6c74ad802a8fc25b75e177cc099ab6776fe3a1e4f7848746a60767e4153e6"
+    },
+    {
+      "path": "qa/revision03_visual.md",
+      "bytes": 1977,
+      "sha256": "26c0f274829c27a5884da69c8152a71c0e26b2b50d1e1bb734802c1516137c04"
+    },
+    {
+      "path": "qa/reader/platform_fonts.json",
+      "bytes": 1717,
+      "sha256": "3457f0f2f4f2db07a250db83dbc3989b5700fac402bf2ffa6701b514f7fab9d7"
+    },
+    {
+      "path": "qa/reader/checks.json",
+      "bytes": 484,
+      "sha256": "6f7095aca2db010393937046b7dcd035a873df7b3627b1b6fe089a6bd8d4b28d"
+    },
+    {
+      "path": "build_figures.py",
+      "bytes": 9822,
+      "sha256": "017f16ffccf361b9957101567292ce357d7b6889300181fda2c214a3e5e8b857"
+    },
+    {
+      "path": "render_figures.cjs",
+      "bytes": 501,
+      "sha256": "b263ab6205ef5d929186fbbfc2717a7a646ed2946d4d9c2dad78b237a0ef8545"
+    },
+    {
+      "path": "build_documents.py",
+      "bytes": 12666,
+      "sha256": "cab80e06a2d9d43c866a547b456250f239913112b58c85bce7cd3e28e8a28586"
+    },
+    {
+      "path": "build_reader.py",
+      "bytes": 9985,
+      "sha256": "c21caade5d6349ea9829b180b73105c0434da0c7d7a8c7abdccde8d572bcd66c"
+    },
+    {
+      "path": "export_word_pdf.ps1",
+      "bytes": 1039,
+      "sha256": "1fc3cb7a5e5b719e770573584c553e5bd93109988ef288ba41c9681854aa472f"
+    },
+    {
+      "path": "render_qa.py",
+      "bytes": 1440,
+      "sha256": "b8cd6761a33f09cebc9771aa9eb8aedde361f4fb84e252faf5455cb1a61bc884"
+    },
+    {
+      "path": "check_reader.cjs",
+      "bytes": 5223,
+      "sha256": "4094f1a18b83b35f013069a31a0501805b4104deda53e8b6e03d8cbf89cfb339"
+    },
+    {
+      "path": "validate_delivery.py",
+      "bytes": 5545,
+      "sha256": "cadf819db927fa54758a6657dafb6c9ab4be186d76c585e700f917b406d62855"
+    },
+    {
+      "path": "verify_typography.py",
+      "bytes": 4152,
+      "sha256": "2bb42ebadf0a72876050ec614254ea5ac5eb57640993a859195f46135f937530"
+    },
+    {
+      "path": "package_delivery.py",
+      "bytes": 3538,
+      "sha256": "c2679f09056979a4b911531525f41a65f9631b023e5cc3d58c30d1e6d42b4d30"
+    }
+  ],
+  "status": "bilingual illustrated Perspective review manuscript; scenes embedded in all reading formats; current typography and page checks passed; human source verification pending"
+}

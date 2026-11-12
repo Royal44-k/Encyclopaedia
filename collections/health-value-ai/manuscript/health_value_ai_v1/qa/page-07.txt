@@ -1,0 +1,31 @@
+Health economic value in the AI era | Author review draft 
+7 
+finding from an extrapolation. Unknown is an admissible entry, distinct from zero. Where 
+probabilities cannot be defended, transparent scenarios are preferable to invented precision. 
+Recovery should be described by the outcome actually observed and the time needed to observe 
+it; irreversibility is an empirical property to investigate, not a default label for every burden. 
+Finally, appraisal belongs to the person within the stated normative and institutional boundaries. 165 
+Dominance may resolve a comparison only when relevant dimensions are sufficiently complete, 
+directions of preference are defensible and uncertainty does not overturn the ordering. Otherwise, 
+the profile supports an explained trade-off or an explicitly unresolved choice. It does not force 
+complete rankings. If aggregation is requested, the value functions, ranges and preference 
+assumptions must be elicited and tested; weights cannot be justified merely because they sum to 170 
+one.[9] Population policy decisions additionally require a stated distributional perspective rather 
+than extrapolation from one person's willingness to accept a risk. 
+Applications and limits of inference 
+The overtime example shows why a decision can be important without having an immediately 
+computable answer. A WHO/ILO systematic review reported a relative risk of stroke incidence 175 
+of 1.35 (95% confidence interval 1.13–1.61) for working at least 55 rather than 35–40 hours per 
+week in the selected cohort synthesis.[20] The evidence warrants attention to long working hours, 
+but the estimate does not quantify an individual's risk from a particular month of late nights. 
+Applying it to that problem would require a defensible exposure model, baseline risk and 
+appropriate time horizon. Income can be compared under stated assumptions; overall welfare 180 
+remains conditional on health consequences, alternatives and the person's goals. 
+Suppose, purely illustratively, that an extra CNY 10,000 is offered for seven days of overtime 
+and CNY 100,000 for 28 days. Assume that these are net supplements, ordinary earnings are 
+otherwise equal, and the first option is followed by 21 days without overtime. Over the shared 
+28-day window, the second option adds CNY 90,000 and 21 overtime days. The financial 185 
+increment is calculable under those assumptions; neither its health cost nor its welfare advantage 
+is supplied by the arithmetic. The comparison should record daily exposure, recovery 
+opportunities and later consequences, extending follow-up beyond the payment period when 
+necessary. No amount is labelled adequate compensation without those additional judgements. 

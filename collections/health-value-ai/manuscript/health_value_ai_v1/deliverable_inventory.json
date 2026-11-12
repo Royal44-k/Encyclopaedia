@@ -1,0 +1,77 @@
+[
+  {
+    "file": "Health_value_AI_Perspective.docx",
+    "bytes": 226683,
+    "sha256": "7e06b9ca777da646276a86a48242238bcc638e28dd4a0cb40f213f07f50d2eea"
+  },
+  {
+    "file": "Health_value_AI_Perspective.pdf",
+    "bytes": 453813,
+    "sha256": "e5db30f74a1a3a7e0550ffc351c5fe6b2ce1c8711f547dc7f7e6a27a138b7854"
+  },
+  {
+    "file": "manuscript_en.md",
+    "bytes": 34927,
+    "sha256": "7897527e59ce4be1f8dc6981ce8dee638c8e96bfafdc239218ac4c6538492a7f"
+  },
+  {
+    "file": "中文导读与修改说明.md",
+    "bytes": 8202,
+    "sha256": "6d59276046479d4aea9ae7b5d9a154839c84eae0ff33f26868cea3dbc73dcaff"
+  },
+  {
+    "file": "目标期刊建议.md",
+    "bytes": 5749,
+    "sha256": "415378d0a3bebd933e04cd5311d259f4bf95d2cdfda954829b9b50d36ddccfea"
+  },
+  {
+    "file": "Supplementary_notes.md",
+    "bytes": 10247,
+    "sha256": "7826d40a858d91753e7ac3635ec14beecda81d40215a58f6520549d65961dbaa"
+  },
+  {
+    "file": "README.md",
+    "bytes": 2961,
+    "sha256": "a03282c85a05ed7ff3c1cf755c7070d121d416385a9ec30217efe1a555ef533a"
+  },
+  {
+    "file": "质量检查记录.md",
+    "bytes": 3528,
+    "sha256": "9d56b4a25f5d15fcc3fa7669e015c62bd00fb338c29c49eda42acd96d392376e"
+  },
+  {
+    "file": "references.json",
+    "bytes": 17213,
+    "sha256": "fc46cc7018e97ebaade0efee165563f54e1ce8c1feb38e5b9c96a4403f4d2af0"
+  },
+  {
+    "file": "reference_mapping.csv",
+    "bytes": 7903,
+    "sha256": "84e9651c18bcce1ff2ded6056cf5f63269b4146e19f5d700734def179dd849d2"
+  },
+  {
+    "file": "claims.csv",
+    "bytes": 34716,
+    "sha256": "63653c57951d569e8582c8166d20f8f8d998cc3b60dd252e59873b1467d73215"
+  },
+  {
+    "file": "source_manifest.json",
+    "bytes": 20195,
+    "sha256": "8cbe1ee54ee353e1d7a508a46a4289710ff88dd686e5ae3e96c076e0bccfd1c2"
+  },
+  {
+    "file": "scenario_arithmetic.json",
+    "bytes": 821,
+    "sha256": "1fcc6abfbd92bef862ac4afe6b56da308066853fe0584425c376b74c94cf6ad1"
+  },
+  {
+    "file": "figure1_workflow.svg",
+    "bytes": 5167,
+    "sha256": "ce29ec597d9bfb2148b30f3beb16f2f72684effe6b34feffd839cd16eb2573cc"
+  },
+  {
+    "file": "figure1_workflow.png",
+    "bytes": 196786,
+    "sha256": "ba8dc7554880b833663b2c4ae9c6222e30ac5728825b5135cfcfe16c36a5b22a"
+  }
+]

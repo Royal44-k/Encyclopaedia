@@ -1,0 +1,69 @@
+Health economic value in the AI era | Author review draft 
+14 
+Table 2 310 
+Selected empirical anchors and their inference limits. This is a purposive selection, not a 
+systematic review or a pooled analysis. Numbers are source-reported; no participant-level 
+reanalysis was performed. CI, confidence interval; RR, relative risk; OR, odds ratio; SE, standard 
+error. 
+Study and design Source-reported finding Boundary for this framework 
+Descatha et al.; selected 
+synthesis of 7 cohorts, 
+162,644 participants [20] 
+Stroke incidence RR 1.35, 95% CI 
+1.13–1.61; ≥55 versus 35–40 work 
+hours/week; follow-up 1–20 years 
+Observational exposure; not an 
+individual risk estimate for one month 
+Hall et al.; 20-person 
+inpatient crossover, two 
+weeks per diet [21] 
+Ultra-processed diet energy intake 
+higher by 508 kcal/day, SE 106 
+Provided diet packages; small sample, 
+no washout; not household cost-
+effectiveness 
+Tasali et al.; 81 
+randomized, 80 in reported 
+analysis set; two-week 
+intervention [22] 
+Energy-intake change versus control 
+−270 kcal/day, 95% CI −393 to −147 
+Selected adults with overweight and 
+short sleep; outcome missingness 
+remains; intake estimated from energy 
+balance 
+Noy and Zhang; 
+randomized professional 
+writing experiment, 453 
+participants [12] 
+Published abstract reports shorter 
+task time and improved output 
+quality 
+Task productivity; no inference here 
+about full-day time allocation or health 
+De Freitas et al.; published 
+Study 3, seven-day 
+companion interaction [14] 
+Immediate loneliness relief; no 
+demonstrated persistent pre-
+interaction improvement 
+Differential attrition and non-time-
+matched control; no established long-
+term social recovery 
+Bean et al.; 1,298 people, 
+up to two hypothetical 
+medical scenarios per 
+person [15] 
+Relevant-condition identification: 
+control versus pooled AI OR 1.76, 
+95% CI 1.45–2.13 
+Responses are not independent people; 
+OR is not a probability increase; no 
+clinical morbidity outcome 
+Table 2 source notes 315 
+Hall et al. has a meal-level correction (doi:10.1016/j.cmet.2019.05.020); the quoted total energy-
+intake result is retained. Bean et al. has a figure-axis correction (doi:10.1038/s41591-026-04404-
+8), without revision of the quoted OR. Tasali et al.'s analysis set excludes one participant after 
+randomization and does not imply complete data for every outcome. The Noy and Zhang entry 
+uses the published record, not the earlier working paper with a different sample size. Full 320 
+reading-depth and version notes accompany the manuscript. 

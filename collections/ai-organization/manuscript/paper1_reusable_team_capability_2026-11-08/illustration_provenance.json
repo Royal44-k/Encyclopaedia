@@ -1,0 +1,20 @@
+{
+  "date": "2026-11-08",
+  "purpose": "Fictional editorial scenarios for the bilingual review manuscript and illustrated reader; not observed research evidence.",
+  "mode": "built-in image_gen tool",
+  "model": "not exposed by tool response",
+  "placement": "Revision 3: embedded in illustrated_reader.html and both paper1_zh/en.docx; present on pages 3 and 6 of both corresponding PDFs. Original PNG hashes were matched against DOCX media entries.",
+  "review": "Both outputs inspected visually; no documentary identity, numeric results or embedded text asserted.",
+  "files": [
+    {
+      "path": "illustrations/scenario_handover.png",
+      "prompt": "Use case: illustration-story. Asset type: one wide 3:2 editorial illustration for an academic reading edition about how ordinary employees share AI-assisted work methods. Primary request: depict a concrete everyday handover of a daily industry-news brief in a modest contemporary office. Two adult colleagues sit beside each other at a desk; one shows a working news digest on a laptop, the recipient compares a paper checklist and points to a different item she needs for her role. On the desk are a small stack of printed news pages, a pen and a coffee mug. The screens and papers contain abstract rows, small document symbols, dates as simple blank blocks, no readable words and no charts. Scene must show careful practical discussion, not celebration and not a futuristic technology demo. Style: refined editorial gouache and pencil illustration, restrained warm off-white, deep teal, muted sage and small terracotta accents, textured paper, convincing human gestures and anatomy, generous negative space around the people, clean professional composition, not a stock corporate cartoon. No robots, glowing brains, holograms, logos, brand names, text, speech bubbles, numbers, company identities or real named people. This is a fictional illustrative scene, not documentary evidence. Do not put any caption within the image. Opaque background."
+    },
+    {
+      "path": "illustrations/scenario_revision.png",
+      "prompt": "Use case: illustration-story. Asset type: a wide 3:2 editorial illustration for an academic reading edition about returning a useful change to a team's shared work method. Scene: three adult colleagues in a modest contemporary office, viewed in a balanced medium-wide composition. In the foreground at left, a woman who has corrected a missing source link in a daily news brief shows her marked-up printout and laptop to a designated colleague at the middle desk; he is updating a shared instruction sheet. At right a third colleague sits at a separate nearby desk with a laptop, about to use that revised sheet. Convey practical careful maintenance, review and onward use through gestures, matching terracotta square markers on the printout and the central screen, and the third person's attentive look; not a celebration. Screen contents are simple abstract document rows and a link symbol, no readable text, no invented graphs. The office has simple furniture, a shared corkboard with a few papers, a small plant. Style: refined editorial gouache and pencil illustration with textured paper, warm off-white, deep teal, muted sage, restrained terracotta accents; calm everyday working life, professional and aesthetically refined. Convincing human hands and anatomy. No robots, holograms, glowing brains, logos, brand names, numbers, speech bubbles, arrows or text. No real people or real company identities; fictional illustrative scene, not documentary evidence. Opaque background. Do not include captions in the image."
+    }
+  ],
+  "policy_checked": "https://www.springernature.com/gp/policies/editorial-policies/ai-manuscript-preparation",
+  "submission": "Author review, applicable journal policy and any required disclosure remain necessary before submission. This file is a production record, separate from the reading manuscript."
+}

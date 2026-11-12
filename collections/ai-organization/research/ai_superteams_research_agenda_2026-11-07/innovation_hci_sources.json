@@ -1,0 +1,318 @@
+[
+  {
+    "id": "IH01",
+    "title": "Evidence for a collective intelligence factor in the performance of human groups",
+    "authors": [
+      "Anita Williams Woolley",
+      "Christopher F. Chabris",
+      "Alex Pentland",
+      "Nada Hashmi",
+      "Thomas W. Malone"
+    ],
+    "year": 2010,
+    "venue": "Science",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/20929725/",
+    "doi": "10.1126/science.1193147",
+    "reading_level": "原始论文摘要（PubMed）；未通读全文",
+    "evidence_design": "两项群体任务研究；699人组成2–5人小组；相关及因子分析。",
+    "key_finding": "群体任务表现存在共同因子；与社会敏感性、发言轮替平等相关，和成员平均或最大个体智力的相关较弱。",
+    "limitations": "相关不是机制因果；小规模短时任务；不能直接套用AI组织或宣称个体能力无关。",
+    "data_status": "未确认公开原始数据；本轮未读取数据文件。",
+    "topic_ids": [
+      "I1"
+    ]
+  },
+  {
+    "id": "IH02",
+    "title": "Collaborative learning in networks",
+    "authors": [
+      "Winter Mason",
+      "Duncan J. Watts"
+    ],
+    "year": 2012,
+    "venue": "Proceedings of the National Academy of Sciences",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3271930/",
+    "doi": "10.1073/pnas.1110069108",
+    "reading_level": "原始全文定向阅读：摘要、方法、网络构建、结果、讨论、补充材料目录",
+    "evidence_design": "256场网络搜索实验，每组16个位置；比较8类网络与独立搜索，并用模拟解释差异。",
+    "key_finding": "联网搜索优于独立搜索；在该任务中高效网络优于低效网络，反驳信息传播越慢越利于探索的普遍假设。",
+    "limitations": "特定奖励地形与短周期；256场不是256个互不重叠的人群；模拟假定和人类策略不同。",
+    "data_status": "实物页面有补充方法PDF入口；未确认可下载逐轮原始数据，本轮未读取数据表。",
+    "topic_ids": [
+      "I1",
+      "I2"
+    ]
+  },
+  {
+    "id": "IH03",
+    "title": "Generative AI enhances individual creativity but reduces the collective diversity of novel content",
+    "authors": [
+      "Anil R. Doshi",
+      "Oliver P. Hauser"
+    ],
+    "year": 2024,
+    "venue": "Science Advances",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11244532/",
+    "doi": "10.1126/sciadv.adn5290",
+    "reading_level": "原始全文定向阅读：设计、随机条件、主要结果、数据声明",
+    "evidence_design": "预注册在线实验，293名写作者随机分配无AI建议/最多1条/最多5条GPT-4建议；600名评价者。",
+    "key_finding": "AI想法提高短篇故事评价，低基线创造力者受益较多；不同作者的AI辅助作品更相似。",
+    "limitations": "短篇创作与一次性暴露；不能据此推出长期团队网络必然同质化；AI可用性随机，实际使用量自选。",
+    "data_status": "作者声明Dryad开放数据与代码：https://doi.org/10.5061/dryad.qfttdz0pm；本轮尝试仓库访问受工具重定向限制，未读取文件。",
+    "topic_ids": [
+      "I1",
+      "I3"
+    ]
+  },
+  {
+    "id": "IH04",
+    "title": "The Crowdless Future? Generative AI and Creative Problem-Solving",
+    "authors": [
+      "Léonard Boussioux",
+      "Jacqueline N. Lane",
+      "Miaomiao Zhang",
+      "Vladimir Jacimovic",
+      "Karim R. Lakhani"
+    ],
+    "year": 2024,
+    "venue": "Organization Science",
+    "url": "https://dash.harvard.edu/entities/publication/2366e45c-863a-470c-bacd-831b3b9938ba",
+    "doi": "10.1287/orsc.2023.18430",
+    "reading_level": "作者机构存档的原始摘要与完整书目；全文下载遇429，未宣称全文阅读",
+    "evidence_design": "循环经济商业想法众包；125名人类解题者；234个方案，由300名评价者形成3900个评价-方案对。",
+    "key_finding": "人类方案更新颖，人机方案在可行性和价值评价上更好；明确要求与前次不同的差异化搜索优于独立生成。",
+    "limitations": "比较的是具体搜索安排与早期方案评价，非商业化成效；提示策略差异不可当作AI单一效应。",
+    "data_status": "未核实公开数据；机构存档确认论文PDF存在但本轮未成功下载。",
+    "topic_ids": [
+      "I1",
+      "I3"
+    ]
+  },
+  {
+    "id": "IH05",
+    "title": "Generative artificial intelligence, human creativity, and art",
+    "authors": [
+      "Eric Zhou",
+      "Dokyun Lee"
+    ],
+    "year": 2024,
+    "venue": "PNAS Nexus",
+    "url": "https://academic.oup.com/pnasnexus/article/3/3/pgae052/7618478",
+    "doi": "10.1093/pnasnexus/pgae052",
+    "reading_level": "原始期刊全文定向阅读：摘要、引言、生产率/价值/新颖性结果；PMC数据声明",
+    "evidence_design": "超过400万作品、5万名创作者的平台观察数据；AI采用事件研究及双重差分。",
+    "key_finding": "AI采用伴随更多产出与收藏/浏览比提高；平均新颖性下降而最大内容新颖性可上升。",
+    "limitations": "采用并非随机；平台收藏不等于社会价值；观测到的采用标签有漏报；与IH08来自相关艺术平台研究，不能假设样本完全独立。",
+    "data_status": "作者声明匿名复制资料和代码在https://osf.io/jfzyp/；本轮未读取该数据仓库。",
+    "topic_ids": [
+      "I3"
+    ]
+  },
+  {
+    "id": "IH06",
+    "title": "The consequences of generative AI for online knowledge communities",
+    "authors": [
+      "Gordon Burtch",
+      "Dokyun Lee",
+      "Zhichen Chen"
+    ],
+    "year": 2024,
+    "venue": "Scientific Reports",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11074245/",
+    "doi": "10.1038/s41598-024-61221-0",
+    "reading_level": "原始全文定向阅读：引言、讨论、结论、数据声明",
+    "evidence_design": "2021-10至2023-03 Stack Overflow及Reddit开发者社区观察；围绕ChatGPT发布分析参与活动。",
+    "key_finding": "Stack Overflow流量及提问下降而Reddit未出现同样下降；新用户流失更明显，提示社会关系可能影响替代程度。",
+    "limitations": "短期、同期冲击、平台可比性与粗糙文本复杂度代理限制因果解释；不能推出工作场所也同样变化。",
+    "data_status": "作者声明Stack Overflow/Reddit分析数据与代码在https://osf.io/qs6b3/（本轮403，未读取）；SimilarWeb流量明确不公开，需购买，不能称整项可免费复现。",
+    "topic_ids": [
+      "I4"
+    ]
+  },
+  {
+    "id": "IH07",
+    "title": "How AI Ideas Affect the Creativity, Diversity, and Evolution of Human Ideas: Evidence From a Large, Dynamic Experiment",
+    "authors": [
+      "Joshua Ashkinaze",
+      "Julia Mendelsohn",
+      "Li Qiwei",
+      "Ceren Budak",
+      "Eric Gilbert"
+    ],
+    "year": 2025,
+    "venue": "ACM Collective Intelligence Conference",
+    "url": "https://arxiv.org/html/2401.13481v3",
+    "doi": "10.1145/3715928.3737481",
+    "reading_level": "作者公开全文v3定向阅读：摘要、实验链条、刺激构造、测量、实现限制；正式会议DOI已核对",
+    "evidence_design": "800余人、40余国动态想法传播实验；前人的想法成为后人刺激，改变AI曝光比例与来源披露。",
+    "key_finding": "高AI曝光提高群体想法多样性及变化速度，但未提高单个想法创造力；与静态短篇实验不能简单合并为同一效应。",
+    "limitations": "替代用途任务、自动创造力评分、互联网便利样本；条件之间的调节发生于研究特定传播规则；不是复杂组织绩效。",
+    "data_status": "本轮未确认该实验的公开参与者级数据；正文链接的其他AUT训练数据不是本实验数据，不能混算。",
+    "topic_ids": [
+      "I1",
+      "I2"
+    ]
+  },
+  {
+    "id": "IH08",
+    "title": "Who expands the human creative frontier with generative AI: Hive minds or masterminds?",
+    "authors": [
+      "Eric B. Zhou",
+      "Dokyun Lee",
+      "Bin Gu"
+    ],
+    "year": 2025,
+    "venue": "Science Advances",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12407059/",
+    "doi": "10.1126/sciadv.adu5800",
+    "reading_level": "原始全文定向阅读：摘要、设计、前沿指标、生产量控制、局限、数据声明",
+    "evidence_design": "31076名创作者、27个月平台数据；匹配事件研究与双重差分，使用概念空间凸包并做等产量比较。",
+    "key_finding": "AI采用者带来更多新颖边缘作品主要由增产解释；没有超出增产效应的人机协同证据；贡献者从少数向更广群体扩散。",
+    "limitations": "凸包极端点不代表有价值创新，可能漏掉内部重组；作者明确未检验跨用户学习，仍可能存在未观测混杂。",
+    "data_status": "作者声明匿名复制代码在https://doi.org/10.5061/dryad.xpnvx0ksf；本轮仓库访问受工具限制，未读取文件，不保证关系网络和作品可回链。",
+    "topic_ids": [
+      "I1",
+      "I3"
+    ]
+  },
+  {
+    "id": "IH09",
+    "title": "Propagation and preservation of AI-discovered problem-solving strategies in human culture",
+    "authors": [
+      "Levin Brinkmann",
+      "Thomas F. Eisenmann",
+      "Anne-Marie Nussberger",
+      "Maxime Derex",
+      "Sara Bonati",
+      "Valerii Chirkov",
+      "Iyad Rahwan"
+    ],
+    "year": 2026,
+    "venue": "Nature Communications",
+    "url": "https://www.nature.com/articles/s41467-026-76113-2",
+    "doi": "10.1038/s41467-026-76113-2",
+    "reading_level": "正式期刊索引摘要/结果已读取；详细方法来自作者2025预印本https://arxiv.org/html/2506.17741v1；正式全文访问失败，版本差异未全核",
+    "evidence_design": "文化传递实验和强化学习/群体模拟；预印本设计为30个群体、5代、每代8个位置，部分群体首代含3个机器位置。",
+    "key_finding": "机器发现的非直观高收益策略能经人类社会学习传播，在机器退出后的多代中保留；AI作为文化创新来源已有直接实验。",
+    "limitations": "奖励网络、明确优劣和示范学习；并非LLM或自然团队；保存策略不等于能够跨任务迁移或灵活重组。",
+    "data_status": "确认预印本有可体验的实验静态界面https://center-for-humans-and-machines.github.io/reward-network-iii；本轮未核实原始行为数据仓库，不把界面当数据。",
+    "topic_ids": [
+      "I2"
+    ]
+  },
+  {
+    "id": "IH10",
+    "title": "Bridging Instead of Replacing Online Coding Communities with AI through Community-Enriched Chatbot Designs",
+    "authors": [
+      "Junling Wang",
+      "Lahari Goswami",
+      "Gustavo Kreia Umbelino",
+      "Kiara Garcia Chau",
+      "Mrinmaya Sachan",
+      "April Yi Wang"
+    ],
+    "year": 2026,
+    "venue": "Proceedings of the ACM on Human-Computer Interaction (CSCW)",
+    "url": "https://arxiv.org/html/2601.18697v1",
+    "doi": "10.1145/3788044",
+    "reading_level": "作者全文定向阅读：摘要、系统设计、研究1方法、研究2摘要、讨论、局限；正式期刊元数据已核",
+    "evidence_design": "ChatCommunity RAG原型；28名学习者组内比较4种辅助方式；另12名参与者设计探索。",
+    "key_finding": "展示社区内容来源和社会线索能提高感知可靠性与社区接触；作者明确未测实际学习成效。",
+    "limitations": "单一Kaggle竞赛、小样本、感知信任不等于答案准确或长期贡献；并未证明公共知识供给恢复。",
+    "data_status": "实物核实GitHub代码仓库https://github.com/ETH-PEACH-Lab/ChatCommunity存在且可读取页面；代码公开不等于受试者数据公开，本轮未读取行为原始表。",
+    "topic_ids": [
+      "I4"
+    ]
+  },
+  {
+    "id": "IH11",
+    "title": "From Registry to Repository: How AI Agent Skills Are Written, Adapted, and Maintained",
+    "authors": [
+      "Haoyu Gao",
+      "Jai Lal Lulla",
+      "Hong Yi Lin",
+      "Sebastian Baltes",
+      "Christoph Treude",
+      "Mansooreh Zahedi"
+    ],
+    "year": 2026,
+    "venue": "arXiv preprint (not verified as peer-reviewed)",
+    "url": "https://arxiv.org/html/2607.00911v2",
+    "doi": "10.48550/arXiv.2607.00911",
+    "reading_level": "作者原始摘要、全文结论与复制包声明；未通读所有方法",
+    "evidence_design": "18463个注册技能、23199个个人技能、5876个仓库及3709条复用关联；内容与变更编码。",
+    "key_finding": "复用多为一次性复制，53%采用后未修改；定制多用于环境适配，演化多为增加知识。",
+    "limitations": "版本与链接恢复不等于执行和学习；尚未经本轮确认同行评审；不能再把首次研究Skills复用作为创新点。",
+    "data_status": "作者声明复制包https://zenodo.org/records/21032973；本轮未读取包内数据，需审计其时间戳、上游URL和复用边字段。",
+    "topic_ids": [
+      "I2"
+    ]
+  },
+  {
+    "id": "IH12",
+    "title": "An Empirical Study of Agent Skills' Downstream Utility",
+    "authors": [
+      "Yu Cheng",
+      "Dehai Zhao",
+      "Zhongxin Liu",
+      "Qing Huang",
+      "Zhenchang Xing",
+      "Xiaoxue Ren"
+    ],
+    "year": 2026,
+    "venue": "arXiv preprint (not verified as peer-reviewed)",
+    "url": "https://arxiv.org/abs/2610.08875",
+    "doi": "10.48550/arXiv.2610.08875",
+    "reading_level": "原始摘要及书目；未通读全文",
+    "evidence_design": "87项SkillsBench任务、9个模型/运行环境配置；比较技能候选和多技能组织方式。",
+    "key_finding": "同一技能在不同配置可帮助也可伤害任务表现；程序建议可能增加执行负担；支持操作和依赖结构影响效用。",
+    "limitations": "基准任务不等于人的知识吸收；未完成全文审计；不能再泛称技能有用性/可移植性无人研究。",
+    "data_status": "仅确认摘要报告语料与实验；公开原始数据状态未确认。",
+    "topic_ids": [
+      "I2"
+    ]
+  },
+  {
+    "id": "IH13",
+    "title": "How Agent Skills Evolve: A Large-Scale Empirical Study of Skills on GitHub",
+    "authors": [
+      "Jinjun Huang",
+      "Jialun Cao",
+      "Junxiao Han",
+      "Zhonghao Jiang",
+      "Shing-Chi Cheung",
+      "Zhongxin Liu"
+    ],
+    "year": 2026,
+    "venue": "arXiv preprint (submitted 2026-11-03; peer review not verified)",
+    "url": "https://arxiv.org/html/2611.04456v1",
+    "doi": "10.48550/arXiv.2611.04456",
+    "reading_level": "作者摘要、结论、数据声明；DOI在arXiv标注pending registration",
+    "evidence_design": "84200项技能、750898次相关提交；人工分类及自动变更注释。",
+    "key_finding": "改动集中于部分项目绑定技能，增补和精炼常见；安全动机未必转为可见风险下降。",
+    "limitations": "极新预印本；自动注释有效性需全文复审；未测跨组织修复传播的社会机制。",
+    "data_status": "作者声明数据/代码/附录在https://github.com/ZJU-CTAG/SkillEMP；本轮未读取仓库文件。",
+    "topic_ids": [
+      "I2"
+    ]
+  },
+  {
+    "id": "IH14",
+    "title": "Coding Alone? AI-Assisted Software Work and the Decoupling of Productivity from Public Knowledge-Infrastructure Participation",
+    "authors": [
+      "Tianhe Jiang"
+    ],
+    "year": 2026,
+    "venue": "Journal of Intelligence",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13207591/",
+    "doi": "10.3390/jintelligence14050089",
+    "reading_level": "原始全文摘要、局限、数据声明；未重算模型或独立验证原始样本",
+    "evidence_design": "作者报告约3.8万GitHub自由职业开发者2019–2025面板和237人关联问卷；固定效应及异质性分析。",
+    "key_finding": "生产活动与可见公共知识交流之间的关联减弱，和AI采用解释相容；不识别完整认知机制。",
+    "limitations": "私域交流不可见、采用自报、生产率代理变化与同期冲击；只在合理请求条件下提供资料，降低可独立复核性。",
+    "data_status": "明确非现成开放数据：去标识聚合与复制材料需向作者合理请求；原始问卷及用户标识不公开。",
+    "topic_ids": [
+      "I4"
+    ]
+  }
+]

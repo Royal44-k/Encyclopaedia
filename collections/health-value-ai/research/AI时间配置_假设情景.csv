@@ -1,0 +1,4 @@
+"data_type","task_minutes_without_ai","task_minutes_with_ai_all_costs","saved_task_minutes","added_task_minutes","change_in_work_minutes","change_in_nonwork_minutes","quality_matched","other_work_unchanged","health_effect"
+"hypothetical_not_empirical","600","360","240","0","-240","240","assumed_not_measured","assumed_not_measured","not_estimated"
+"hypothetical_not_empirical","600","360","240","180","-60","60","assumed_not_measured","assumed_not_measured","not_estimated"
+"hypothetical_not_empirical","600","360","240","300","60","-60","assumed_not_measured","assumed_not_measured","not_estimated"

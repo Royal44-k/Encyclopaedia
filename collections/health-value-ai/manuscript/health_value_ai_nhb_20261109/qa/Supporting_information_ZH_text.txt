@@ -1,0 +1,129 @@
+Perspective 补充材料 
+1 / 9 
+人工智能时代的健康经济价值与跨期选择 
+Richard T. Millian 
+杭州师范大学 
+补充材料 
+含补充表 1–3、扩展数据图 1–4及补充参考文献。 
+ 
+
+Perspective 补充材料 
+2 / 9 
+补充表 1 | 比较记录的基本项目。 结合健康可行能力、ICF、WHO-5、多准则决策分析与决策质量研究组
+织信息，尚未构成经验证的量表 1–4（https://www.who.int/standards/classifications/international-
+classification-of-functioning-disability-and-health）。 
+维度 记录内容 比较时的要点 
+备选方案 具体安排；能否拒绝；共同期限 区分名义选项与实际机会 
+资源与时间 净收入变化；总工时；替代的活动 记录节约时间的实际用途 
+健康与功能 相关症状、功能表现或临床结局 结合基线及临床情境解释 
+主观体验 愉悦、缓解或痛苦；活动中与活动后 区分即时反应与持续变化 
+能力与自主性 独立表现；重视的活动；决定权 同时考虑辅助的可及性收益 
+证据与评价 适用人群；对照；期限；不确定性；目
+标 
+保留未知项及偏好差异 
+ICF，国际功能、残疾和健康分类； WHO-5，世界卫生组织五项心理福祉指数； MCDA，多准则决策分析。  
+ 
+
+Perspective 补充材料 
+3 / 9 
+补充表 2 | AI 研究的不同结局层次。 所列研究的设计与结局各异，分别用于说明任务效率、体验及判断表
+现。 
+场景与研究设计 主要结果 解释范围 
+专业写作 5 
+随机研究；453 人 
+任务完成更快，产出质量改善 未测量全天时间配置与健康 
+客户服务 6 
+分阶段部署；5,172 人 
+每小时解决问题数约提高 15%；不同结
+局的数据可得性不同 
+依赖因果识别假设；未测量时间收益
+归属 
+AI 陪伴 7 
+持续 7 天的研究 3 
+即时孤独缓解；尚未证明互动前状态持
+续改善 
+组间退出差异；对照未匹配时长 
+医疗场景 8 
+1,298 人 
+对照组相对合并 AI 组的识别 OR 为 
+1.76（95% CI 1.45–2.13） 
+场景表现，而非临床患病结局 
+AI，人工智能；OR，比值比；CI，置信区间。 
+ 
+
+Perspective 补充材料 
+4 / 9 
+补充表 3 | 待检验命题及反证条件。 每项比较均需预先确定目标效应与结局。 
+研究命题 关键比较 可能削弱命题的结果 
+决定权影响 AI 节时分
+配 
+任务收益相近、工作量决定权有可信差
+异的群体 
+未见有意义的配置差异，且估计足够
+精确 
+即时缓解与持续收益
+可能不同 
+匹配对照，重复测量使用前后及随访状
+态 
+使用前状态获得与即时缓解相当的稳
+定改善 
+比较模块提高决策质
+量 
+同一指南，比较有无新增模块 理解或迁移未改善，或负担超过收益 
+ 
+
+Perspective 补充材料 
+5 / 9 
+ 
+扩展数据图 1 | 健康后果比较框架。 以可行方案和共同观察期限为起点，分别记录资源与时间、健康与功
+能、主观体验、能力与自主性，再结合个人目标比较。图中为分析环节，非估计所得的因果效应。  
+ 
+
+
+Perspective 补充材料 
+6 / 9 
+ 
+扩展数据图 2 | 任务节时如何改变一天的安排。 a，T1 包含提示输入、核验及返工；A 为新增任务，B 为
+其余工作时间净变化。b，假设每天 24 小时，原工作 8 小时，固定任务节约 4 小时，B = 0。非工作时间
+的健康意义取决于实际用途。 
+ 
+
+
+Perspective 补充材料 
+7 / 9 
+ 
+扩展数据图 3 | 两类研究问题及其验证路径。 机制研究解释结果如何产生；工具评价检验新增比较模块的
+作用。主动对照使两组共享事实与成熟指南，差异在于是否增加比较模块。所列为研究设计，非已获得的
+试验结果。 
+ 
+
+
+Perspective 补充材料 
+8 / 9 
+ 
+扩展数据图 4 | 选择条件与后果分配。 工作场所、平台和家庭条件影响方案可行性；同一安排的收入、时
+间与照护负担可能分布于不同主体。图示组织评价问题，箭头不代表已估计的因果效应。  
+ 
+
+
+Perspective 补充材料 
+9 / 9 
+补充参考文献 
+1. Ruger, J. P. Health capability: conceptualization and operationalization. Am. J. Public Health 100, 41–49 
+(2010). https://doi.org/10.2105/AJPH.2008.143651 
+2. World Health Organization. The World Health Organization-Five Well-Being Index (WHO-5) (World 
+Health Organization, 2024). WHO/UCN/MSD/MHE/2024.01. 
+3. Thokala, P. et al. Multiple criteria decision analysis for health care decision making—an introduction: 
+Report 1 of the ISPOR MCDA Emerging Good Practices Task Force. Value Health 19, 1–13 (2016). 
+https://doi.org/10.1016/j.jval.2015.12.003 
+4. Sepucha, K. R. et al. Establishing the effectiveness of patient decision aids: key constructs and measurement 
+instruments. BMC Med. Inform. Decis. Mak. 13 (Suppl. 2), S12 (2013). https://doi.org/10.1186/1472-
+6947-13-S2-S12 
+5. Noy, S. & Zhang, W. Experimental evidence on the productivity effects of generative artificial intelligence. 
+Science 381, 187–192 (2023). https://doi.org/10.1126/science.adh2586 
+6. Brynjolfsson, E., Li, D. & Raymond, L. Generative AI at work. Q. J. Econ. 140, 889–942 (2025). 
+https://doi.org/10.1093/qje/qjae044 
+7. De Freitas, J., Oğuz-Uğuralp, Z., Uğuralp, A. K. & Puntoni, S. AI companions reduce loneliness. J. Consum. 
+Res. 52, 1126–1148 (2026). https://doi.org/10.1093/jcr/ucaf040 
+8. Bean, A. M. et al. Reliability of LLMs as medical assistants for the general public: a randomized 
+preregistered study. Nat. Med. 32, 609–615 (2026). https://doi.org/10.1038/s41591-025-04074-y 

@@ -1,0 +1,23 @@
+﻿figure,panel,evidence_id,quantity,estimate,lower,upper,interval,unit,status
+5,d,E014,relevant_condition_identification_OR,1.76,1.45,2.13,95% CI,odds ratio,source_reported; control versus pooled AI
+5,a,E018,stroke_incidence_RR,1.35,1.13,1.61,95% CI,relative risk,source_reported
+5,b,E019,energy_intake_difference,508,402,614,estimate +/- one SE; SE=106,kcal/day,endpoints derived from source-reported estimate and SE
+5,c,E020,energy_intake_change_vs_control,-270,-393,-147,95% CI,kcal/day,source_reported
+3,b,E900,work_change_no_added_tasks,-240,,,none,minutes,hypothetical
+3,b,E900,work_change_180_added,-60,,,none,minutes,hypothetical
+3,b,E900,work_change_300_added,60,,,none,minutes,hypothetical
+6,a,E900,extra_supplement,90000,,,none,CNY,hypothetical
+6,a,E900,extra_overtime_days,21,,,none,days,hypothetical
+3,b,E900,baseline_work,8,,,none,hours,hypothetical
+3,b,E900,baseline_nonwork,16,,,none,hours,hypothetical
+3,b,E900,no_added_tasks_work,4,,,none,hours,hypothetical
+3,b,E900,no_added_tasks_nonwork,20,,,none,hours,hypothetical
+3,b,E900,three_added_hours_work,7,,,none,hours,hypothetical
+3,b,E900,three_added_hours_nonwork,17,,,none,hours,hypothetical
+3,b,E900,five_added_hours_work,9,,,none,hours,hypothetical
+3,b,E900,five_added_hours_nonwork,15,,,none,hours,hypothetical
+6,a,E900,common_horizon,28,,,none,days,hypothetical
+6,a,E900,option_A_overtime,7,,,none,days,hypothetical
+6,a,E900,option_B_overtime,28,,,none,days,hypothetical
+6,a,E900,option_A_supplement,10000,,,none,CNY,hypothetical
+6,a,E900,option_B_supplement,100000,,,none,CNY,hypothetical

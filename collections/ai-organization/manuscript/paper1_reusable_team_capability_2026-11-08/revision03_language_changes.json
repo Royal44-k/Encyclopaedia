@@ -1,0 +1,252 @@
+[
+  {
+    "language": "zh",
+    "before": "员工用 AI 做成一项工作之后，同事能否接着用，是个人经验成为团队能力的关键问题。腾讯研究院报告记载，一项 AI 动态追踪 Skill 经团队共同使用和修改，在假期结束后仍继续使用。这为研究持续复用提供了线索，但未追踪个人方法转为团队实践的完整过程。本文结合知识转移与组织惯例研究，提出分别观察方法执行、适用范围判断和改动回传，以后续任务质量、异常处置及双方总投入评价复用。交接和维护支持是待检验的解释条件。我们讨论岗位差异与维护劳动，并提出公开材料分析和受控比较的研究路线。核心问题是：谁能用、何时还能用，以及谁为继续使用付出时间。",
+    "after": "一项 AI 方法能否成为团队可以依靠的工作资源，需要在交接之后判断。本文从共享新闻跟踪实践出发，结合知识转移与组织惯例研究，区分方法执行、适用范围判断和修订回传三个环节。接收者能够生成结果，未必意味着结果适合其岗位；个人完成了修改，也未必意味着下一位同事能够获得更新。本文据此提出，以延后使用的质量、异常处置和全部参与者的投入评价复用，考察交接支持、岗位差异及维护安排的作用，并设计公开材料分析与受控行为比较相衔接的研究路线。个人经验的组织价值，应体现在同事能否持续完成工作，以及维持这种能力需要付出多少劳动。"
+  },
+  {
+    "language": "zh",
+    "before": "春节期间，一个研究团队需要持续跟进 AI 动态。腾讯研究院报告第 37 页记载，2026 年春节，研究院 AI 原生小组共享了一个用于跟踪最新进展的 Skill。成员每天调用它，根据结果继续修改。假期结束，这个工具继续承担日常跟踪 AI 进展的工作。[S09]",
+    "after": "2026 年春节，腾讯研究院 AI 原生小组共享了一项跟踪 AI 动态的 Skill。成员每天调用，依据结果继续修改；假期结束后，这项工具仍被用于日常跟踪。[S09] 值得关注的是，一次假期任务留下的方法进入了后续工作。"
+  },
+  {
+    "language": "zh",
+    "before": "CAPTION1：报告中的新闻跟踪实践。腾讯研究院报告第 37 页记载共同任务、共享 Skill、成员调用与迭代，以及节后继续使用。图示概括报告记载的动作，不预设该工具起初由一名员工独立发明。报告没有公开质量评估、维护工时和使用日志；图中持续使用不代表已经证明净收益。[S09]",
+    "after": "CAPTION1：新闻跟踪方法的持续使用。图示概括报告记载的共享、调用、迭代和节后使用过程。持续使用不等于已经证明净收益；报告未提供质量对照、维护工时或完整使用日志。[S09]"
+  },
+  {
+    "language": "zh",
+    "before": "这个故事的吸引力在于工作的延续。团队仍然需要了解行业进展，工具在反复使用中得到调整，过去一次任务中投入的劳动可以服务后来的任务。报告第 73 页还以新同事加入小组的假设情景，说明他如何接到可运行的 Skill，使用、修改，再将改动送回。[S09]",
+    "after": "这类延续使一次任务中的投入有机会服务后来的工作。报告还以新成员加入团队的假设情境，说明同事如何交出可运行的 Skill，接收者如何使用、修改，再将改动送回。[S09] 从交出方法到接回修订，经验不再只由最初的制作者掌握。"
+  },
+  {
+    "language": "zh",
+    "before": "这项实践已经是团队共享活动。报告没有说明最初由谁提出方法、谁独立完成第一版，也没有提供从个人尝试到集体采用的连续记录。因此，它提供了一个值得解释的终点：一项方法如何进入共同工作，并在初次任务结束后继续存在。由此才产生本文的问题：普通员工在自己的工作中积累的 AI 经验，需要经过怎样的交接，才能成为同事可以反复使用的能力？",
+    "after": "这一案例呈现的是共同使用，尚未追踪方法最初由谁提出、怎样从个人尝试转为集体采用。它留下的问题是：员工在自己的工作中摸索出的 AI 方法，怎样才能让同事接得住，并在后续任务中继续用下去？"
+  },
+  {
+    "language": "zh",
+    "before": "把个人经验做成工具已经有相当具体的日常表现。同一报告第 17 页记载，安克的一名非程序员用三个月搭建供应链运营系统，另一人用两个月搭建亚马逊 Case 自动提交、监控和回复系统。任务对象和完成的工具都很明确，但报告没有接着说明谁使用了这些系统、遇到问题时找谁，以及它们多久以后仍能运行。报告第 35–36 页介绍的安克火箭班则安排获选员工集中处理真实业务问题，再回到原团队，体现了组织对经验回流的重视。这是同一公司的另一项安排；报告没有证明上述系统的制作者参加过火箭班，也没有测量返岗后同事的实际复用。[S09]",
+    "after": "报告中的安克案例提供了另一种起点：一名非程序员用三个月搭建供应链运营系统，另一名员工用两个月搭建亚马逊 Case 自动提交、监控和回复系统。安克另设“火箭班”，让获选员工集中解决真实业务问题，再回到原团队。这些记录展示了个人制作工具及组织推动经验回流的尝试，但未追踪同事后续使用，也未说明上述制作者是否参加火箭班。[S09]"
+  },
+  {
+    "language": "zh",
+    "before": "这几处记录共同指出一个可以贴近工作现场研究的问题。制作者完成任务，说明方法在原场景中可能有用；接收者借助该方法完成自己的任务，提供了复用的直接证据；它能否适用于后续任务和变化的条件，仍需继续观察。组织若将三者合并为“推广成功”，很容易只看见展示会、工具数量和培训参与，却看不见接收者反复询问、重新配置或最终放弃的过程。本文以知识转移与组织惯例研究为基础，将这些过程放到可观察的交接事件中，讨论个人方法成为团队共同工作条件的可能路径。",
+    "after": "做出工具、交给同事和持续复用，需要不同的证据。制作者完成任务，说明方法在原场景中可能有用；同事借助它完成自己的工作，才提供了直接的复用证据；条件变化后能否继续使用，还需追踪。如果把这些过程一并算作“推广成功”，工具数量、演示和培训容易遮住反复求助、重新配置与最终放弃。本文将交接及其后续使用作为观察单位，讨论个人方法何时能够支持团队的共同工作。"
+  },
+  {
+    "language": "zh",
+    "before": "一个人做出的 AI 简报可能适合自己的阅读习惯。他知道哪些来源值得追踪，哪些消息已经在上周讨论过，也知道某个略含糊的名称指的是哪项产品。把提示词交给同事时，这些条件未必一起转移。接收者可能缺少原有文件的访问权限，面向不同的读者，或需要的是产品上线信息而非模型能力消息。同一份提示词成功运行，产生的内容仍可能无法进入对方当天的工作。",
+    "after": "一份 AI 简报通常带着制作者的工作习惯：哪些来源值得追踪，哪些消息上周已经讨论过，某个含糊的名称指的是哪项产品。提示词传给同事时，这些判断未必随之传递。接收者可能没有原文件的访问权限，也可能面向另一类读者，需要产品何时上线，而非模型能力如何变化。同一份提示词虽然成功运行，结果仍可能用不到当天的工作中。"
+  },
+  {
+    "language": "zh",
+    "before": "本文将团队可复用能力界定为：原制作者之外的成员在既定任务范围内，能够在后续任务中继续完成工作，并对超出范围或无法完成的情况作出适当处置。评价结果包括延后使用的质量、异常处置及所有参与者的总投入；交接材料、适配帮助和维护安排则是可能解释这些结果的条件。这一界定允许 AI 持续参与，也允许同事求助。需要制作者每次陪同运行的系统可能仍有价值，但必须如实记录其劳动依赖，不能仅凭接收者点了一次运行就称其能够自行复用。",
+    "after": "本文把团队可复用能力界定为：原制作者之外的成员能够在既定任务范围内持续完成工作，并恰当地处理超出范围或无法完成的情况。方法及其材料是可共享的资源；成员后续的表现才体现团队是否具备相应能力。评价因此涵盖延后使用的质量、异常处置和所有参与者的投入，而交接说明、适配帮助与维护安排是可能解释这些结果的条件。求助并不意味着复用失败，但若每次运行都要制作者陪同，就应把这部分劳动计入，而不能仅凭一次点击认定交接已经完成。"
+  },
+  {
+    "language": "zh",
+    "before": "研究因而需要区分三个事件：制作者在原有环境中完成任务，另一个人在自己的环境中首次完成任务，以及后者在后续任务中再次完成。它们不是预设人人经过的成长阶段，也未必按固定顺序发生。工具可能一开始就是多人共同制作；接收者也可能跳过运行，直接改变方法。观察可以从一次具体交接及后续使用开始。但一次双人交接只是团队能力的局部证据；要讨论团队层面的稳定复用，还需观察不同成员、相关任务和不同时间的表现。",
+    "after": "观察需要区分制作者完成原任务、接收者首次完成自己的任务，以及接收者在后续任务中再次使用。它们不构成固定的成长阶段：方法可能由多人共同制作，接收者也可能先修改再运行。一次双人交接可以揭示困难及其解决过程，却只是团队能力的局部证据；判断稳定复用，还需覆盖不同成员、相关任务和不同时间。"
+  },
+  {
+    "language": "zh",
+    "before": "生成式 AI 使这一老问题呈现出值得细查的组合。自然语言说明可以同时成为给同事看的解释和驱动系统执行的指令；接收者因此可能在尚未充分理解方法时就得到一个可用结果。与此同时，执行依赖模型、连接工具和上下文，复制文本未必复制这些条件。这与封装改变组织活动可见性的理论讨论有关。[S03] 方法中的一部分劳动被交给系统后，决定任务目的、设定适用范围和安排更新的人也可能发生变化，需要作为人机分工问题考察。[S04] 我们因此分别考察三个问题：同事能否运行这套方法，能否判断它何时适用，以及有用的修改能否进入其他同事随后使用的版本。",
+    "after": "生成式 AI 为这一既有问题增加了新的研究条件。自然语言既能向同事解释方法，也能指挥系统执行；接收者可能在尚未充分理解方法时，就得到看似可用的结果。但复制指令并不会自动复制模型、连接工具与上下文。这与封装改变组织活动可见性的理论讨论有关。[S03] 当部分执行交给系统，谁决定任务目的、界定适用范围并负责更新，也需要重新考察。[S04] 关键在于：同事能否运行，能否判断何时适用，以及有用的修订能否到达后续使用者。"
+  },
+  {
+    "language": "zh",
+    "before": "例如，同事已经能用共享方法生成一份简报，最初的制作者便可能认为交接结束。接收者却可能把它发送给不同岗位的同事，调整关注范围，再持续要求制作者补充信息。表面上共享的是同一个工具，实际承担的工作已经改变。可执行性可能降低尝试的门槛，却不能单独说明方法适合新的用途。这一问题在自动化软件中也存在；对生成式 AI，可以进一步考察以日常语言制作和修改的工作方法如何在不同岗位间被使用和调整。",
+    "after": "例如，同事能用共享方法生成简报后，制作者可能认为交接已经结束。接收者却开始面向另一岗位发送简报，改变关注范围，并反复请求补充信息。文件看似相同，承担的工作却已变化。能够运行降低了尝试门槛，并不足以保证适合新用途。传统自动化同样面临这一问题；生成式 AI 值得进一步研究之处，在于以日常语言制作和修改的方法如何被不同岗位的人理解、采用和调整。"
+  },
+  {
+    "language": "zh",
+    "before": "沿用新闻跟踪任务，可以把交接对象说明得更具体。以下“每日 AI 简报方法页”是本文提出的设计示意；报告并未公开该 Skill 的原始材料。它首先说明服务对象和任务范围，例如跟踪与某个团队工作有关的产品更新，并列出不承担的任务。接着给出可使用的来源、所需文件和访问条件，让接收者知道从哪里开始，而不必在运行失败后逐个猜测缺少什么。",
+    "after": "以每日 AI 简报为例，一份可交接的方法应先让同事弄清楚：为谁整理、关注什么，以及哪些问题不在处理范围内。随后列出可用来源、所需材料和访问条件，让接收者能开始工作，而不是等运行失败后再逐项猜测。图 2 是据此提出的方法页示意，并非报告中的原始 Skill。"
+  },
+  {
+    "language": "zh",
+    "before": "把这些条件带到交接现场，并不意味着要求员工先写出一份完整手册。材料过多也会增加负担。对只使用一次的简单任务，一条提示词加一个示例可能已经足够；对每周重复、多人参与并依赖共享数据的任务，缺少操作条件和维护入口可能让每次使用都变成一次重新开发。频率也不能单独决定是否值得把方法写下来：能力形成理论提示，低频任务难以通过反复实践积累经验，也可能从知识编码中受益。[A04] 研究应比较任务的重复性、差异和持续时间，而不是根据文档长度判断交接是否充分。",
+    "after": "交接材料应与任务相称。一次性的简单任务，提示词加一个示例可能足够；每周重复、多人参与且依赖共享数据的任务，则可能需要明确的操作条件与维护安排，否则每次使用都要重新摸索。任务频率也不是唯一依据。能力形成理论提示，低频任务难以通过反复实践积累经验，也可能从知识编码中受益。[A04] 判断交接是否充分，应结合任务差异、重复性及持续时间，不能以文档长短代替。"
+  },
+  {
+    "language": "zh",
+    "before": "同样，默会经验不会因为有了方法页就全部变成可编码知识。接收者可能只有处理自己的任务之后，才知道需要问什么。例如，工具给出的行业新闻对另一业务团队并无用处，这可能来自关注范围差异，并非执行故障。允许接收者先试一次、再提出具体调整，是交接过程的一部分。原制作者解释自己为何这样选择来源，接收者指出新用途需要哪些信息，双方才可能形成适用于后续工作的版本。这一讨论承接了把知识转移视为持续过程的研究。[A03]",
+    "after": "方法页也无法容纳全部默会经验。有些问题要到同事处理自己的任务时才会显现：简报运行正常，选出的新闻却对另一个业务团队没有用。这可能是关注范围不同，并非执行故障。让接收者先试用，再讨论具体调整，能把原先没有说清的判断带入交接。制作者解释来源选择，接收者说明新用途需要的信息，双方才有机会形成适合后续工作的版本。这一过程与将知识转移视为持续活动的研究相呼应。[A03]"
+  },
+  {
+    "language": "zh",
+    "before": "一个需要检验的问题由此产生：输入要求或工具条件变化后，接收者可能仍能启动方法并得到输出，却没有相应调整其使用范围；即使自己完成了调整，改动也未必进入同事下次使用的材料。运行、适用范围判断与修改回传是否出现不同变化，必须分别观察。若三者在没有额外支持时仍能同步维持，或执行状况已经足以解释后续任务表现，分别考察它们就未必增加解释力。",
+    "after": "由此可以检验一种可能的脱节：条件变化后，方法仍能生成结果，接收者却没有重新判断它是否适用；接收者即便完成了修改，同事拿到的也可能仍是旧版。运行、判断和回传需要分别记录。反过来，如果三者无需额外支持也能协调维持，或者执行情况已足以解释后续表现，进一步区分它们的解释价值就会受到限制。"
+  },
+  {
+    "language": "zh",
+    "before": "工具交到第二个人手里以后，新的劳动才开始显现。以简报为例，一位同事调整了关注主题，另一位同事更需要原始来源，第三位同事发现某个链接不再可用。这些问题可以由原制作者逐个处理，也可以在共同材料中得到解决，还可以形成适合不同岗位的版本。三种做法各有成本。个人经验进入团队之后，组织需要决定哪些改动值得共同维护，以及谁有时间承担这项工作。",
+    "after": "交接之后，同事会带来新的需求：有人调整关注主题，有人需要原始来源，也有人发现链接已经失效。这些问题可以逐个交回制作者，也可以更新共享材料，或保留服务于不同岗位的版本。每一种选择都涉及时间。团队需要判断哪些修改值得共同维护，并为承担这项工作的人留出时间。"
+  },
+  {
+    "language": "zh",
+    "before": "报告中“改完再扔回去”的场景提示了接收者参与改进的可能，但回传只是开始。一个适合销售团队的摘要长度，未必适合研发团队；扩大新闻来源可能增加信息，也可能让另一岗位需要更长时间筛选。把所有改动并入统一版本，会消除某些重复劳动，也可能损害原有用途。共同版本可以保留稳定部分，让岗位差异通过明确的选项或独立变体处理。何时统一、何时分开，应由任务之间的相似程度和维护成本决定，而不是由团队拥有多少份工具来判断。",
+    "after": "报告所描述的修订回传提示了接收者参与改进的可能，但回传之后仍需取舍。销售团队偏好的摘要长度，未必适合研发团队；增加来源可以扩充信息，也可能延长另一岗位的筛选时间。把所有修改合并到一版，可能消除重复劳动，也可能破坏原有用途。共享版本可以保留稳定部分，通过明确选项或独立变体处理岗位差异。版本应怎样划分，取决于任务的相似程度与维护成本。"
+  },
+  {
+    "language": "zh",
+    "before": "这与组织惯例研究关于共同模式和具体执行之间关系的讨论相连。共享方法能够约束工作，也会在实际使用中被重新解释。团队能力因此不能只从文档是否一致观察，还要看不同成员如何把方法用于各自任务，以及变化怎样进入下一次执行。[S01] 对生成式工具而言，修改可能发生在提示词、输入资料、模型选择或外部连接的不同位置。研究若只统计提示词版本，会遗漏其他层面的实际变化。",
+    "after": "组织惯例研究关注共同模式与实际执行的关系：共享方法约束工作，也在使用中被重新解释。因此，文档一致并不足以说明团队形成了共同能力，还需观察成员怎样运用方法，以及修改怎样进入下一次执行。[S01] 对生成式工具，变化可能发生在提示词、输入材料、模型选择或外部连接中；仅统计提示词版本会遗漏这些差别。"
+  },
+  {
+    "language": "zh",
+    "before": "维护还涉及时间与贡献归属。最初制作工具的员工可能因此得到认可，后来回答问题、解释限制和更新依赖的人却未必留下同样醒目的成果。若支持全由制作者在本职工作之外承担，一个广受欢迎的工具可能增加他的负担。接收者也可能为了尽快完成任务，私下修好自己的副本而没有时间回传。这些是需要观察的竞争性过程：复用可以节约重复劳动，也可能将劳动集中到少数人，或者把维护分散到许多彼此不可见的副本中。",
+    "after": "维护劳动往往不如首次演示醒目。制作工具的人可能得到认可，之后解释限制、回答问题、更新依赖的人却未必获得同等关注。支持需求如果持续叠加在制作者的本职工作上，工具越受欢迎，个人负担反而可能越重。接收者也可能只修好自己的副本，来不及把改动送回。复用究竟节省了劳动，还是将劳动集中到少数人、分散到互不相通的副本，需要实际记录才能判断。"
+  },
+  {
+    "language": "zh",
+    "before": "因此，一次分享获得多少赞并不足以评价组织投入。更有用的问题是，接收者第一次运行前需要哪些准备，第一次遇到变化时谁来帮助，以及解决方法能否让下一位同事少付出一次重复劳动。公司可以为适配和支持安排明确时间，记录有用的修改来自谁，并让使用者知道何处提出需求。这些安排应随工具的重要性和使用频率变化。频繁改变但很少再用的工具，不一定值得维持一个共同版本。",
+    "after": "比分享获得多少赞更有用的信息，是同事第一次运行前做了什么准备，遇到变化时向谁求助，以及一次修复能否减少后来者的重复劳动。组织可以为适配和支持安排时间，记录修订贡献，并明确问题由谁接收。共同维护也有成本：一个频繁变化、很少再用的工具，未必值得长期保留统一版本。"
+  },
+  {
+    "language": "zh",
+    "before": "腾讯报告将组织变化的一部分动力放在员工实际使用 AI 的过程中。共享 Skill 的例子尤其有价值，因为它把视线从某个人一次做出惊人成果，移到一项普通任务怎样被反复处理。沿着这一方向，组织可以将关注点放到接收者：他拿到方法后能否进入自己的工作，遇到变化时有没有调整办法，以及提供支持的人是否有时间继续支持。[S09]",
+    "after": "共享 Skill 的实践把组织变革落在了一项普通任务上：员工共同使用、持续修改，方法得以留在日常工作中。[S09] 对管理者而言，这意味着评价不能止于工具是否做出来，还要追踪同事接手后的表现，以及维护是否有人承担。"
+  },
+  {
+    "language": "zh",
+    "before": "这不要求每位员工都成为开发者。有人擅长发现重复任务，有人能把方法做成工具，有人会提供有用样例，也有人承担更新与答疑。一项共同工作可以由这些不同贡献维持。评价时承认交接和维护劳动，才有可能避免把所有认可集中在首次演示上。把资源投入这些环节是否有效，仍应由任务结果和实际投入说明，而不是由使用 AI 的时长说明。",
+    "after": "团队的共同积累可以来自不同贡献。有人识别重复任务，有人把方法做成工具，有人提供判断质量所需的样例，也有人持续更新和答疑。承认这些劳动，才能让奖励与实际协作相对应。投入交接与维护是否值得，应由任务结果和总体投入判断，而非使用 AI 的时长。"
+  },
+  {
+    "language": "zh",
+    "before": "这种做法也有边界。很少重复的任务可能适合直接完成；岗位间目的差异过大的方法可能只值得借鉴思路；依赖特殊权限或专业责任的工作，需要限定能够接收和使用的人。共同能力不意味着每种方法都应无限扩散。一个明确说明不适用于何种任务的工具，可能比宣称人人可用的工具更容易被稳定地纳入工作。",
+    "after": "并非每种方法都值得推广。很少重复的任务可能直接完成更合适；岗位目标差异较大时，借鉴思路可能比复制工具更有用；涉及特殊权限或专业责任的工作，则需要限定接收者与使用范围。清楚说明何时不应使用，也是共同方法的一部分。"
+  },
+  {
+    "language": "zh",
+    "before": "个人 AI 经验成为团队能力，因而是一项需要研究的转化，而非把文件放进共享空间后自动发生的结果。判断这项转化，可以从三个日常问题开始：第二个人有没有完成自己的工作，过一段时间能不能继续使用，以及谁付出了让它继续可用的劳动。这样的观察既保留了员工主动尝试的价值，也使团队复用成为能够被检验、被改进和被限定范围的组织实践。",
+    "after": "个人 AI 经验的价值，最终要在同事的工作中得到检验：接手者能否完成任务，过一段时间能否继续使用，以及谁承担了让方法保持可用的劳动。以这些问题追踪交接，既能保留员工自主探索的空间，也能识别哪些经验值得沉淀、怎样维护，以及何时应当停止复用。"
+  },
+  {
+    "language": "en",
+    "before": "After an employee uses AI to complete a task, can a colleague carry on using the method? This question is central to turning personal know-how into team capability. A Tencent Research Institute report describes a team using and revising an AI news-tracking Skill and continuing to use it after the holiday. This account provides a starting point for studying sustained reuse, but does not trace the full transition from personal method to team practice. Drawing on knowledge transfer and organizational routines, we propose observing execution, judgments of applicability, and the return of revisions separately. Subsequent task quality, responses to exceptions, and total effort on both sides provide criteria for evaluating reuse; handover and maintenance support are possible explanations to be tested. We examine differences between roles and the work of maintenance, and outline research using public materials and controlled comparisons. The central questions are who can use a method, when it remains usable, and whose time makes continued use possible.",
+    "after": "An AI method becomes a resource that a team can rely on only if colleagues can use it beyond the original task. Drawing on shared news-tracking practice, knowledge transfer and organizational routines, this Perspective distinguishes execution, judgments of applicability and the return of revisions. A recipient may generate an output without recognizing that it does not fit a new role; a useful local change may never reach the next user. Reuse should therefore be assessed through delayed task quality, responses to exceptions and effort across participants. The proposed research links analysis of public materials with controlled behavioral comparisons to examine handover support, differences between roles and maintenance arrangements. The organizational value of personal know-how lies in colleagues' continued ability to complete work, considered alongside the labor needed to sustain it."
+  },
+  {
+    "language": "en",
+    "before": "During the Spring Festival holiday, a research team needed to keep following developments in AI. According to page 37 of Tencent Research Institute's report, its AI-native group shared a Skill for tracking developments during the 2026 holiday. Members invoked it daily and revised it in response to the results. After the holiday, the tool continued to support their everyday monitoring of AI developments.[S09]",
+    "after": "During the 2026 Spring Festival holiday, Tencent Research Institute's AI-native group shared a Skill for tracking AI developments. Members used it daily and revised it in response to the output. The tool remained in everyday use after the holiday.[S09] A method developed around a temporary task had become part of subsequent work."
+  },
+  {
+    "language": "en",
+    "before": "CAPTION1: The reported news-tracking practice. Page 37 of the Tencent Research Institute report describes a shared task, a shared Skill, daily use and revision, and continued use after the holiday. The figure summarizes the reported actions without assuming that one employee independently invented the tool. Quality assessments, maintenance hours, and usage logs were not disclosed; continued use does not establish a net benefit.[S09]",
+    "after": "CAPTION1: Continued use of a news-tracking method. The figure summarizes the reported sequence of sharing, use, revision and continued use after the holiday. Continued use does not establish a net benefit: the report provides no comparative quality assessment, maintenance hours or complete usage logs.[S09]"
+  },
+  {
+    "language": "en",
+    "before": "What makes this account interesting is the continuity of the work. The team still needed to follow developments, the tool was adjusted through repeated use, and effort invested in one task could serve later tasks. Page 73 also uses a hypothetical newcomer scenario to illustrate receiving a runnable Skill from a colleague, using and modifying it, and returning the changes.[S09]",
+    "after": "Such continuity allows effort invested in one task to serve later work. The report also uses a hypothetical newcomer scenario to describe a colleague handing over a runnable Skill, the recipient using and modifying it, and the changes being returned.[S09] Receiving revisions as well as sharing a method gives recipients a part in its further development."
+  },
+  {
+    "language": "en",
+    "before": "The reported practice was already a shared activity. The report does not identify who first proposed the method or independently built its first version, nor does it trace a continuous path from individual experimentation to collective adoption. It therefore presents an outcome that warrants explanation: how a method enters shared work and persists beyond its initial task. This prompts our question: what handover is needed for the AI know-how that ordinary employees develop in their work to become something their colleagues can use repeatedly?",
+    "after": "The case describes collective use, without tracing who first proposed the method or how individual experimentation became collective adoption. It leaves a practical question: how can employees hand over the AI methods they develop so that colleagues can use them in their own work and keep doing so?"
+  },
+  {
+    "language": "en",
+    "before": "Page 17 of the same report gives concrete examples of employees turning experience into tools. At Anker, one employee without a programming background reportedly built a supply-chain operations system in three months; another built a system for automatically submitting, monitoring, and responding to Amazon Cases in two months. The tasks and resulting tools are identifiable, but the account does not follow who used them, whom users approached when problems arose, or how long they remained operational. Anker's Rocket Class, a separate initiative described on pages 35–36, gives selected employees time to address real business problems before returning to their original teams. This reflects organizational attention to bringing experience back into teams. The report neither establishes that the two system builders participated in that initiative nor measures colleagues' subsequent reuse.[S09]",
+    "after": "The report's Anker cases offer a different starting point. One employee without a programming background built a supply-chain operations system in three months; another built a system for automatically submitting, monitoring and responding to Amazon Cases in two months. A separate initiative, Rocket Class, gave selected employees time to solve real business problems before returning to their original teams. These accounts describe tool creation and efforts to bring experience back into teams. They do not track colleagues' subsequent use or establish whether the system builders participated in Rocket Class.[S09]"
+  },
+  {
+    "language": "en",
+    "before": "Together, these accounts identify a question that can be studied close to everyday work. A maker's task completion suggests that the method may be useful in its original setting. A recipient completing their own task with the method provides direct evidence of reuse. Whether it remains usable on subsequent tasks and under changed conditions requires further observation. Treating all three as successful adoption can draw attention to demonstrations, tool counts, and training attendance while obscuring repeated questions, reconfiguration, and abandonment. We bring knowledge transfer and organizational routines research to observable handover events to examine how personal methods might become resources for shared work.",
+    "after": "Building, handing over and sustaining use require different evidence. Completion by the maker suggests that a method may be useful in its original setting. A colleague completing their own task with it provides direct evidence of reuse; continued use under changed conditions requires follow-up. Treating all three as successful adoption allows tool counts, demonstrations and training attendance to obscure repeated help-seeking, reconfiguration and abandonment. This Perspective takes the handover and subsequent use as its unit of observation, asking when personal methods can support shared work."
+  },
+  {
+    "language": "en",
+    "before": "An AI briefing may suit its maker's reading habits. They know which sources matter, which stories were discussed last week, and which product an ambiguous name denotes. Passing a prompt to a colleague does not necessarily transfer these conditions. The recipient may lack access to the original files, serve a different audience, or need information about product launches rather than model capabilities. The same prompt can run successfully while producing material that does not fit the recipient's work that day.",
+    "after": "An AI briefing carries its maker's working habits: which sources deserve attention, which stories were discussed last week, and which product an ambiguous name denotes. Passing on a prompt need not pass on these judgments. A recipient may lack access to the original files or serve readers who need to know when a product launches, rather than how model capabilities have changed. The same prompt can run successfully while producing little that the recipient can use that day."
+  },
+  {
+    "language": "en",
+    "before": "We define a team's capability for reuse as members other than the original maker being able to continue completing work within a specified task domain and to respond appropriately when work falls outside that domain or cannot be completed. Outcomes include quality at delayed use, responses to exceptions, and total effort across participants. Handover materials, adaptation assistance, and maintenance arrangements are conditions that may explain those outcomes. This definition permits continued AI assistance and requests for help. A system requiring its maker's presence on every occasion may still be valuable, but that dependence on their labor must be recorded. A recipient clicking “run” once does not establish independent reuse.",
+    "after": "A team's capability for reuse is defined here as members other than the original maker being able to complete work repeatedly within a specified task domain and respond appropriately to out-of-scope or uncompleted tasks. Methods and materials are shareable resources; subsequent performance indicates whether the team has the corresponding capability. Outcomes therefore include delayed task quality, responses to exceptions and effort across participants. Instructions, adaptation assistance and maintenance arrangements may explain these outcomes. Seeking help is compatible with reuse, but if every run requires the maker's presence, that labor must be counted. One successful click does not establish a completed handover."
+  },
+  {
+    "language": "en",
+    "before": "Research should consequently distinguish three events: a maker completing a task in the original setting, another person first completing a task in their own setting, and that recipient completing subsequent tasks. These are neither developmental stages through which everyone must pass nor a fixed sequence. Tools may be jointly developed from the outset; recipients may alter a method before running it. Observation can begin with a particular handover and subsequent use. A single two-person handover, however, supplies only partial evidence about team capability. Stable reuse at team level requires observations across members, relevant tasks, and time.",
+    "after": "Observation needs to distinguish the maker completing the original task, a recipient first completing their own task, and that recipient using the method again. These are not fixed developmental stages: methods may be jointly developed, and recipients may modify them before first use. A two-person handover can reveal difficulties and how they are resolved, but offers only partial evidence of team capability. Stable reuse requires observations across members, relevant tasks and time."
+  },
+  {
+    "language": "en",
+    "before": "Generative AI brings together features that warrant closer attention to this established problem. Natural-language descriptions can both explain a method to colleagues and instruct a system to execute it. Recipients may thus obtain usable results before understanding the method fully. Yet execution depends on models, connected tools, and context; copying the text need not reproduce those conditions. This relates to theoretical work on how encapsulation changes the visibility of organizational activities.[S03] As some work passes to the system, responsibility for setting the purpose, defining applicability, and arranging updates may also change, raising questions about the organization of human–AI work.[S04] We therefore distinguish three questions: can a colleague run the method, judge when it applies, and return useful revisions to the version others subsequently use?",
+    "after": "Generative AI introduces distinctive conditions into this established problem. Natural language can explain a method to colleagues and instruct a system to execute it, allowing recipients to obtain apparently usable results before understanding the method fully. Yet copying instructions does not reproduce the model, connected tools or context. This relates to theoretical accounts of how encapsulation changes the visibility of organizational activities.[S03] When execution passes partly to a system, responsibility for setting purposes, judging scope and arranging updates also warrants examination.[S04] The questions are whether a colleague can run the method, judge when it applies, and return useful revisions to subsequent users."
+  },
+  {
+    "language": "en",
+    "before": "For example, a colleague may already be able to generate a briefing with the shared method, leading its maker to regard the handover as complete. The recipient may nevertheless circulate it to colleagues in other roles, change its focus, and repeatedly ask the maker for additional information. Ostensibly the same tool is shared, but the work it performs has changed. Executability may lower the threshold for trying a method without establishing fitness for a new purpose. This issue also occurs in conventional automation. In generative AI settings, research can examine how methods created and modified in everyday language are used and adapted across roles.",
+    "after": "Once a colleague can generate a briefing, its maker may regard the handover as complete. The recipient may nevertheless begin circulating it to a different role, change its focus and repeatedly request additional information. The file appears unchanged, but the work it serves has shifted. Being able to run a method lowers the threshold for trying it without ensuring fitness for a new purpose. Conventional automation faces this difficulty too. Generative AI offers an opportunity to examine how people in different roles understand, adopt and adapt methods created and modified in everyday language."
+  },
+  {
+    "language": "en",
+    "before": "The news-tracking task makes the handover tangible. The “daily AI briefing method sheet” below is an illustrative design; the report does not provide the original Skill. It first identifies the audience and task domain, such as tracking product updates relevant to a team's work, and states which tasks it does not undertake. It then specifies available sources, required files, and access conditions, so recipients know where to begin instead of discovering missing requirements one failed run at a time.",
+    "after": "For a daily AI brief, a usable handover should first establish whom it serves, what it covers and which questions fall outside its scope. Available sources, required materials and access conditions should follow, allowing the recipient to start work without discovering each missing requirement through a failed run. Figure 2 illustrates a method sheet built around these needs; it is not the original Skill from the report."
+  },
+  {
+    "language": "en",
+    "before": "Bringing these conditions into a handover does not require employees to write a complete manual first. More material can itself impose a burden. For a simple, one-off task, a prompt and an example may suffice. For work repeated weekly by several people using shared data, missing operating conditions or maintenance routes may turn every use into redevelopment. Frequency alone cannot determine whether a method is worth documenting. Theory on capability development suggests that codification may also benefit infrequent tasks, for which experience is difficult to accumulate through repetition.[A04] Research should compare task repetition, differences, and duration rather than equating documentation length with adequate handover.",
+    "after": "Handover materials should fit the task. A prompt and an example may suffice for a simple, one-off activity. Weekly work involving several people and shared data may need explicit operating conditions and maintenance arrangements; without them, each use can become a fresh attempt to work out the method. Frequency is not the only consideration. Theory on capability development suggests that codification may also benefit infrequent tasks, for which experience is difficult to accumulate through repetition.[A04] Adequacy should be judged against task differences, repetition and duration, rather than documentation length."
+  },
+  {
+    "language": "en",
+    "before": "Nor does a method sheet turn all tacit experience into codifiable knowledge. Recipients may discover what they need to ask only through their own tasks. Industry news of little use to another business team, for example, may reflect a difference in priorities rather than an execution failure. Allowing recipients to try a method and then request specific adjustments is part of the handover. By explaining source choices and identifying what a new use requires, makers and recipients may develop a version suitable for subsequent work. This account builds on research that treats knowledge transfer as a continuing process.[A03]",
+    "after": "A method sheet cannot capture all tacit experience. Some questions emerge when colleagues encounter their own tasks: a briefing runs correctly, but its news is of little use to another business team. The problem may be scope rather than execution. Trying the method and discussing specific adjustments can bring previously unstated judgments into the handover. As makers explain source choices and recipients specify what a new use requires, they may develop a version suited to subsequent work. This process accords with research treating knowledge transfer as a continuing activity.[A03]"
+  },
+  {
+    "language": "en",
+    "before": "This raises a question for investigation. After input requirements or operating conditions change, recipients may still launch a method and obtain output without adjusting their understanding of its scope. Even when they adapt it, their revisions may not reach the materials colleagues use next. Execution, applicability judgments, and the return of revisions therefore require separate observation. If all three remain aligned without additional support, or execution alone adequately explains later task performance, examining them separately may add little explanatory value.",
+    "after": "One possible disconnect can therefore be tested: after conditions change, the method still produces output, but the recipient does not reconsider its applicability. Even a successful local revision may leave colleagues using an older version. Execution, judgment and the return of revisions need separate records. Conversely, if these activities remain coordinated without extra support, or execution alone explains subsequent performance adequately, the value of distinguishing them would be limited."
+  },
+  {
+    "language": "en",
+    "before": "Further work becomes visible after the tool reaches a second person. One briefing user changes the topic, another needs original sources, and a third discovers a broken link. The maker could handle these problems individually, they could be addressed in shared materials, or separate versions could serve different roles. Each approach has costs. Once personal know-how enters a team, the organization must decide which changes warrant collective maintenance and who has time to undertake it.",
+    "after": "After the handover, colleagues bring new requirements: one changes the topic, another needs original sources, and a third finds a broken link. Each problem might return to the maker, prompt a shared update or lead to a version for a particular role. Every option takes time. Teams need to decide which changes warrant collective maintenance and allocate time to those doing the work."
+  },
+  {
+    "language": "en",
+    "before": "The report's scenario of modifying and returning a Skill suggests how recipients might contribute, but returning a change is only a beginning. A summary length suitable for sales may not suit research and development. Adding sources can increase information while making another user's screening take longer. Combining every change in a single version may remove duplicated effort while impairing existing uses. A shared version can preserve stable components, with explicit options or separate variants accommodating role differences. Choices about consolidation should reflect task similarities and maintenance costs, not simply the number of tools a team holds.",
+    "after": "The report's account of returning revisions suggests a role for recipients in improving the method, but returned changes still require decisions. A summary length preferred by sales may not suit research and development; adding sources may broaden coverage while extending another user's screening time. Merging all changes may remove duplicated effort while impairing existing uses. Shared versions can preserve stable components, with options or separate variants accommodating role differences. The choice depends on task similarity and maintenance costs."
+  },
+  {
+    "language": "en",
+    "before": "This connects to the relationship between shared patterns and particular performances in organizational routines. Shared methods can constrain work and be reinterpreted through use. Team capability cannot therefore be inferred from document consistency alone; it also concerns how members apply methods and how changes enter subsequent performances.[S01] For generative tools, modifications may affect prompts, input materials, model selection, or external connections. Counting prompt versions alone would miss changes elsewhere.",
+    "after": "Organizational routines research examines the relationship between shared patterns and particular performances: methods constrain work while being reinterpreted in use. Consistent documents therefore do not establish shared capability; observation must also follow how members use methods and how revisions enter subsequent work.[S01] For generative tools, changes can occur in prompts, input materials, model choices or external connections. Counting prompt versions alone would miss these differences."
+  },
+  {
+    "language": "en",
+    "before": "Maintenance also raises questions about time and credit. The initial maker may receive recognition, while those who later answer questions, explain limitations, and update dependencies produce less conspicuous contributions. A popular tool may burden its maker if support is added to their existing duties. Recipients may repair their own copies to finish work quickly, without time to return those changes. These competing processes require observation: reuse may reduce duplicated work, concentrate labor among a few people, or disperse maintenance across copies that remain invisible to one another.",
+    "after": "Maintenance is often less visible than an initial demonstration. A tool maker may receive recognition, while those explaining limitations, answering questions and updating dependencies receive less attention. If support accumulates alongside the maker's existing duties, popularity may increase their burden. Recipients may also repair personal copies without finding time to return changes. Whether reuse saves labor, concentrates it among a few people or disperses it across disconnected copies is an empirical question."
+  },
+  {
+    "language": "en",
+    "before": "Reactions to a shared tool are consequently an inadequate measure of organizational investment. More informative questions concern what recipients must prepare before first use, who helps them when conditions change, and whether a solution saves the next colleague from repeating that effort. Organizations can allocate time for adaptation and support, acknowledge useful revisions, and make request routes visible. Such arrangements should vary with a tool's importance and frequency of use. A frequently changing but rarely reused tool may not warrant a maintained common version.",
+    "after": "More useful than reactions to a shared tool are accounts of what colleagues prepare before first use, whom they approach when conditions change, and whether a repair saves later users from repeating the work. Organizations can allocate time for adaptation and support, recognize revisions and clarify who receives requests. Collective maintenance also costs time: a frequently changing, rarely reused tool may not warrant a common version."
+  },
+  {
+    "language": "en",
+    "before": "Tencent's report locates part of the impetus for organizational change in employees' actual AI use. The shared Skill is valuable as an example because it shifts attention from one person's exceptional achievement to repeated handling of an ordinary task. Following this direction means asking whether recipients can bring a method into their work, adapt it when conditions change, and obtain support from people who have time to continue providing it.[S09]",
+    "after": "The shared Skill brings organizational change into an ordinary task: employees use a method together, revise it and retain it in everyday work.[S09] For managers, evaluation should therefore extend beyond tool creation to colleagues' subsequent performance and the allocation of maintenance work."
+  },
+  {
+    "language": "en",
+    "before": "This does not require every employee to become a developer. Some identify recurring tasks, others turn methods into tools, others supply useful examples, and still others update and answer questions. These contributions can jointly sustain shared work. Recognizing handover and maintenance labor helps avoid concentrating all credit on the initial demonstration. Whether resources devoted to these activities help should be judged by outcomes and effort, not hours spent using AI.",
+    "after": "A team can build shared resources through different contributions. Some employees identify recurring tasks, others turn methods into tools, others provide examples needed to judge quality, and others maintain the method and answer questions. Recognizing these contributions aligns credit with the work of collaboration. Whether handover and maintenance deserve further investment depends on task outcomes and total effort, rather than hours spent using AI."
+  },
+  {
+    "language": "en",
+    "before": "There are limits. Rarely repeated tasks may be better completed directly. Methods serving substantially different purposes may offer ideas without warranting reuse. Work involving restricted access or professional responsibilities requires limits on who receives and uses it. Shared capability does not entail unrestricted diffusion. A tool specifying which tasks it does not serve may be easier to incorporate reliably into work than one advertised as suitable for everyone.",
+    "after": "Not every method warrants wider use. Rarely repeated tasks may be better completed directly; where roles serve different purposes, borrowing an idea may be more useful than copying a tool. Work involving restricted access or professional responsibility requires limits on recipients and uses. Knowing when not to use a method is part of making it shareable."
+  },
+  {
+    "language": "en",
+    "before": "Turning personal AI know-how into team capability is thus a transition to investigate, rather than an automatic consequence of placing files in shared storage. Three everyday questions provide a starting point: did the second person complete their own work, could they use the method again later, and who supplied the labor that kept it usable? These observations preserve the value of employees' initiative while making team reuse an organizational practice whose effects can be tested, improved, and bounded.",
+    "after": "The value of personal AI know-how is ultimately tested in colleagues' work: whether recipients complete their tasks, whether they can use the method again later, and who supplies the labor that keeps it usable. Following these questions preserves room for employees' own experimentation while identifying which methods merit retention, how they should be maintained and when reuse should stop."
+  }
+]

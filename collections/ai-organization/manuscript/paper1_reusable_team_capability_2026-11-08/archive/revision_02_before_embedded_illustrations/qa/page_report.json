@@ -1,0 +1,120 @@
+{
+  "en": {
+    "pages": 9,
+    "page_details": [
+      {
+        "page": 1,
+        "text_chars": 2343,
+        "first": "Personal AI know-how and team reuse \n1 \nMaking personal AI know-how \nwork across a team \nPerspective  ·   From a shared method to everyday teamwork \nAbstract \nA",
+        "last": " a set of working instructions and associated materials that AI can invoke. \nAnthropic's implementation, for example, organizes instructions and optional scripts and resources in \n"
+      },
+      {
+        "page": 2,
+        "text_chars": 4182,
+        "first": "Personal AI know-how and team reuse \n2 \nfolders. The Tencent case does not make the original artifact available, so its specific format cannot be \nestablished f",
+        "last": "nes LLMs in knowledge search, creation, transfer, and forgetting, together with \nrelated organizational arrangements.[5] A field experiment has also directly tested how AI changes "
+      },
+      {
+        "page": 3,
+        "text_chars": 3866,
+        "first": "Personal AI know-how and team reuse \n3 \nindividual and team performance on product innovation tasks.[6] These studies provide a basis for \nunderstanding AI in o",
+        "last": "t then specifies available sources, required files, and access conditions, so recipients know \nwhere to begin instead of discovering missing requirements one failed run at a time. "
+      },
+      {
+        "page": 4,
+        "text_chars": 2254,
+        "first": "Personal AI know-how and team reuse \n4 \n \nFigure 2  A working method that can be handed over. The daily AI briefing example specifies scope, sources and access,",
+        "last": "g. Theory on capability development suggests that codification may also \nbenefit infrequent tasks, for which experience is difficult to accumulate through repetition.[9] Research \n"
+      },
+      {
+        "page": 5,
+        "text_chars": 4026,
+        "first": "Personal AI know-how and team reuse \n5 \nshould compare task repetition, differences, and duration rather than equating documentation length with \nadequate hando",
+        "last": " explain limitations, and update dependencies produce less conspicuous \ncontributions. A popular tool may burden its maker if support is added to their existing duties. Recipients "
+      },
+      {
+        "page": 6,
+        "text_chars": 4040,
+        "first": "Personal AI know-how and team reuse \n6 \nmay repair their own copies to finish work quickly, without time to return those changes. These competing \nprocesses req",
+        "last": "roups use the same AI model, underlying working method, and set of tasks, \nwith equal support-budget ceilings. The B–C comparison is especially informative because it asks whether "
+      },
+      {
+        "page": 7,
+        "text_chars": 2143,
+        "first": "Personal AI know-how and team reuse \n7 \nadded handover support changes recipients' performance with a method that already runs. The A–B \ndifference also include",
+        "last": "ween groups in a shared workplace changes the comparison. Assignment should \nfollow the actual handover unit, and such exchanges should be documented. Public materials can supply \n"
+      },
+      {
+        "page": 8,
+        "text_chars": 3896,
+        "first": "Personal AI know-how and team reuse \n8 \nshareable task packages, but generalization from public tasks to everyday company work still requires \ntesting. \nAssessm",
+        "last": "luable as an example because it shifts attention from one person's exceptional \nachievement to repeated handling of an ordinary task. Following this direction means asking whether "
+      },
+      {
+        "page": 9,
+        "text_chars": 3703,
+        "first": "Personal AI know-how and team reuse \n9 \nrecipients can bring a method into their work, adapt it when conditions change, and obtain support from \npeople who have",
+        "last": "3.3.339.2780 \n10. Li, X. et al. SkillsBench: Benchmarking How Well Agent Skills Work Across Diverse Tasks. Preprint (13 February 2026). \nhttps://www.skillsbench.ai/skillsbench.pdf "
+      }
+    ]
+  },
+  "zh": {
+    "pages": 9,
+    "page_details": [
+      {
+        "page": 1,
+        "text_chars": 725,
+        "first": "个人 AI经验与团队复用 \n1 \n个人 AI 经验怎样成为团队可复用的能力 \n观点论文  ·   从共享方法到日常协作 \n摘要 \n员工用 AI 做成一项工作之后，同事能否接着用，是个人经验成为团队能力的关键问题。腾讯研究\n院报告记载，一项 AI 动态追踪 Skill 经团队共同使用和修改，在假期结束后仍继续使用。这为研",
+        "last": "节后继续使用。图\n示概括报告记载的动作，不预设该工具起初由一名员工独立发明。报告没有公开质量评估、维护工时和使用日志；图中持续\n使用不代表已经证明净收益。[1] \nSkill 可以理解为供 AI 调用的一套工作指令和相关材料。例如，Anthropic 的实现把指令及可选的\n脚本、资源组织在文件夹中；腾讯案例未公开原件，不能据此确定它采用的具体格式。[2] \n"
+      },
+      {
+        "page": 2,
+        "text_chars": 1343,
+        "first": "个人 AI经验与团队复用 \n2 \n这个故事的吸引力在于工作的延续。团队仍然需要了解行业进展，工具在反复使用中得到调整，\n过去一次任务中投入的劳动可以服务后来的任务。报告第 73 页还以新同事加入小组的假设情景，\n说明他如何接到可运行的 Skill，使用、修改，再将改动送回。[1] \n这项实践已经是团队共享活动。报告没有",
+        "last": " 和 Kellogg 的质性研究讨论了 LLM 如何参与\n知识搜索、创造、转移和遗忘，以及相关的组织安排。[5] 一项现场实验也已直接检验 AI 如何改\n变个体与团队的产品创新任务表现。[6] 这些研究为理解 AI 的组织作用提供了基础，但后一项工\n作坊实验没有检验某位员工的方法交给第二个人后，能否延后复用及如何维护。本文将这一后续\n过程作为具体研究对象。 "
+      },
+      {
+        "page": 3,
+        "text_chars": 1375,
+        "first": "个人 AI经验与团队复用 \n3 \n本文将团队可复用能力界定为：原制作者之外的成员在既定任务范围内，能够在后续任务中继续\n完成工作，并对超出范围或无法完成的情况作出适当处置。评价结果包括延后使用的质量、异常\n处置及所有参与者的总投入；交接材料、适配帮助和维护安排则是可能解释这些结果的条件。这\n一界定允许 AI 持续参与，",
+        "last": "是让双\n方对任务完成有共同参照。不同工作应有不同参照，不能把一套简报格式当成适用于所有岗位的\n标准。 \n方法页还应说明哪些部分可以修改，以及同事可以向谁提出修改需求。更换关注主题、缩短篇幅\n与改变来源范围，可能涉及不同程度的修改；应说明哪些选项可以自行改变，哪些改动会影响其\n他使用者。对于运行依赖特定工具的部分，还应标明当前可用条件与负责更新的人。接收者不必"
+      },
+      {
+        "page": 4,
+        "text_chars": 720,
+        "first": "个人 AI经验与团队复用 \n4 \n先理解全部实现细节，便可以知道一次调整究竟只影响自己的副本，还是会改变同事下一次运行\n的结果。 \n \n图 2  一页可交接的工作方法。以每日 AI 简报为例，展示任务范围、来源与访问条件、运行步骤、输出样例、可调整部分及\n更新入口。这是作者提出的设计示意，不是腾讯案例的原始文件，也不表",
+        "last": "具体调整，是交接过程的一部分。原制\n作者解释自己为何这样选择来源，接收者指出新用途需要哪些信息，双方才可能形成适用于后续\n工作的版本。这一讨论承接了把知识转移视为持续过程的研究。[3] \n一个需要检验的问题由此产生：输入要求或工具条件变化后，接收者可能仍能启动方法并得到输\n出，却没有相应调整其使用范围；即使自己完成了调整，改动也未必进入同事下次使用的材料。\n"
+      },
+      {
+        "page": 5,
+        "text_chars": 1334,
+        "first": "个人 AI经验与团队复用 \n5 \n运行、适用范围判断与修改回传是否出现不同变化，必须分别观察。若三者在没有额外支持时仍\n能同步维持，或执行状况已经足以解释后续任务表现，分别考察它们就未必增加解释力。 \n交接支持的预测可以在此基础上进一步限定：在同一核心工具、相近任务和相同资源上限下，任\n务示例及调整入口可能改善后续适配",
+        "last": "这些安排应随工具的重要性和使用频率变化。频繁改变但很少再用的工具，不一定值得维持一个\n共同版本。 \n这里提出第二个预测：接收者任务差异较大时，强制所有人使用同一版本未必带来更多持续复用；\n允许有说明、可维护的岗位变体，可能提高适配，但也增加更新负担。若所谓变体只是在解决同\n一类问题，统一修订反而可能更节省劳动。检验时需要同时记录变体服务的任务差异与后续维护，"
+      },
+      {
+        "page": 6,
+        "text_chars": 943,
+        "first": "个人 AI经验与团队复用 \n6 \n避免把版本数量的增加直接解释为能力扩散。第三个预测则关注劳动分配：当支持需求集中在一\n个制作者身上时，使用人数增长可能伴随服务等待和维护投入上升，直到继续分发的收益下降。\n若更新足够稳定、支持能够自助完成，这种趋势也可能不出现。 \n从公开材料到行为检验 \n研究可以从公开工作流、工具说明",
+        "last": "得到提示词和基本任务说明，B 组得到\n可运行的方法，C 组得到同一可运行方法及交接、适配和维护支持。三组使用相同的 AI 模型、原\n始工作方法和任务集合，并设置相同的支持预算上限。B 与 C 的比较尤其重要：它让研究聚焦于\n一个已经能够运行的方法，增加交接支持后是否改变接收者的工作表现。A 与 B 的差异还包含自\n动执行的便利，不能全部解释为知识转移改善。 "
+      },
+      {
+        "page": 7,
+        "text_chars": 777,
+        "first": "个人 AI经验与团队复用 \n7 \n \n图 3  拟议的交接比较。A 为提示词和基本任务说明，B 为可运行方法，C 为同一可运行方法加交接、适配与维护支持。AI 模\n型、原始工作方法和任务集合保持相同，各组设置相同的支持预算上限。观察涵盖首次使用、延后再用，以及分别改变输入\n或工具版本时的表现。成果质量、失败与放弃、制作",
+        "last": "流。公开材料可用于构造可共享的任务包，但在公开任务上得\n到的效果仍需检验能否推广到企业日常工作。 \n评价需要覆盖首次使用、延后再用和遇到变化三类情况。延后任务可以与初次任务范围相同，但\n更换具体内容，避免把记住答案误认为方法能够复用。变化任务应分别改变输入要求或工具版本，\n保留其他条件，并与同时点的未变化任务比较，随机或平衡任务顺序。否则，阶段差异会混入时\n"
+      },
+      {
+        "page": 8,
+        "text_chars": 1336,
+        "first": "个人 AI经验与团队复用 \n8 \n间与熟悉度影响，不能归因于条件变化。若同时改动模型、来源与任务目标，失败的原因也无法\n区分。研究须在观察结果前说明适用任务范围、最低可接受质量及主要比较。 \n过程记录应与本文区分的三个环节对应：能否启动并产出结果，对预设适用与不适用任务作何判\n断和处置，修订是否通过事先约定的核查并进入",
+        "last": "作可以由这些不同贡献维持。评价时承认交接和\n维护劳动，才有可能避免把所有认可集中在首次演示上。把资源投入这些环节是否有效，仍应由\n任务结果和实际投入说明，而不是由使用 AI 的时长说明。 \n这种做法也有边界。很少重复的任务可能适合直接完成；岗位间目的差异过大的方法可能只值得\n借鉴思路；依赖特殊权限或专业责任的工作，需要限定能够接收和使用的人。共同能力不意味着"
+      },
+      {
+        "page": 9,
+        "text_chars": 2139,
+        "first": "个人 AI经验与团队复用 \n9 \n每种方法都应无限扩散。一个明确说明不适用于何种任务的工具，可能比宣称人人可用的工具更\n容易被稳定地纳入工作。 \n个人 AI 经验成为团队能力，因而是一项需要研究的转化，而非把文件放进共享空间后自动发生的\n结果。判断这项转化，可以从三个日常问题开始：第二个人有没有完成自己的工作，过一段时",
+        "last": "3.3.339.2780 \n10. Li, X. et al. SkillsBench: Benchmarking How Well Agent Skills Work Across Diverse Tasks. Preprint (13 February 2026). \nhttps://www.skillsbench.ai/skillsbench.pdf "
+      }
+    ]
+  }
+}

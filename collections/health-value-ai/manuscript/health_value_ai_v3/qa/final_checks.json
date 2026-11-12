@@ -1,0 +1,21 @@
+{
+  "pdf_pages": 11,
+  "word_export_pages": 11,
+  "figures": 8,
+  "tables": 2,
+  "references": 25,
+  "numbered_mathematical_expressions": 4,
+  "editable_display_equations": 3,
+  "body_paragraphs_verified": 48,
+  "numeric_records": 22,
+  "content_presence": "pass",
+  "embedded_figure_integrity": "pass",
+  "scenario_arithmetic": "pass",
+  "visual_review": "All 11 reading-PDF pages and all 11 Word-export pages inspected. Final figure-4 revision inspected in both; the other ten pages were pixel-identical to the reviewed versions.",
+  "scope": "Formatting and internal consistency; does not establish empirical validation of the framework.",
+  "sha256": {
+    "Health_value_AI_Illustrated.pdf": "335658f32dbb05c6ff8aea69c55ce9a97c48db71553325926bc9d9c80409400e",
+    "Health_value_AI_Illustrated.docx": "9e0ec02d416b6f52f82ebd7a48d3d46d11914a985385c16cfba16b19d0737503",
+    "figure_data.csv": "d4587a499f60828c21324cac674c0aab4cb6c2bba986b1deb9b1588bf38cdc9a"
+  }
+}

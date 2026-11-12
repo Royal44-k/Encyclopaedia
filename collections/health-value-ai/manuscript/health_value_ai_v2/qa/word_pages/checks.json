@@ -1,0 +1,43 @@
+{
+  "pages": 9,
+  "page_metrics": [
+    {
+      "page": 1,
+      "characters": 2357
+    },
+    {
+      "page": 2,
+      "characters": 4862
+    },
+    {
+      "page": 3,
+      "characters": 2618
+    },
+    {
+      "page": 4,
+      "characters": 3679
+    },
+    {
+      "page": 5,
+      "characters": 3553
+    },
+    {
+      "page": 6,
+      "characters": 2803
+    },
+    {
+      "page": 7,
+      "characters": 3293
+    },
+    {
+      "page": 8,
+      "characters": 4086
+    },
+    {
+      "page": 9,
+      "characters": 5789
+    }
+  ],
+  "placeholder_and_numeric_checks": "pass",
+  "visual_review": "not recorded by this script"
+}

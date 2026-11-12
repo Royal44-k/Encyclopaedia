@@ -1,0 +1,25 @@
+Health economic value in the AI era | Author review draft 
+16 
+18. World Health Organization. International Classification of Functioning, Disability and Health. WHO (n.d.). 
+https://www.who.int/standards/classifications/international-classification-of-functioning-disability-and-365 
+health. Accessed 6 November 2026. 
+19. World Health Organization. The World Health Organization-Five Well-Being Index (WHO-5). WHO, 
+WHO/UCN/MSD/MHE/2024.01 (2024). https://www.who.int/publications/m/item/who-ucn-msd-mhe-
+2024.01. Accessed 6 November 2026. 
+20. Descatha, A. et al. The effect of exposure to long working hours on stroke: A systematic review and meta-370 
+analysis from the WHO/ILO Joint Estimates of the Work-related Burden of Disease and Injury. 
+Environment International 142, 105746 (2020). https://doi.org/10.1016/j.envint.2020.105746. 
+21. Hall, K. D. et al. Ultra-processed diets cause excess calorie intake and weight gain: An inpatient 
+randomized controlled trial of ad libitum food intake. Cell Metabolism 30, 67–77.e3 (2019). 
+https://doi.org/10.1016/j.cmet.2019.05.008. 375 
+22. Tasali, E. et al. Effect of sleep extension on objectively assessed energy intake among adults with 
+overweight in real-life settings: A randomized clinical trial. JAMA Internal Medicine 182, 365–374 
+(2022). https://doi.org/10.1001/jamainternmed.2021.8098. 
+23. Sepucha, K. R. et al. Establishing the effectiveness of patient decision aids: key constructs and 
+measurement instruments. BMC Medical Informatics and Decision Making 13 (Suppl. 2), S12 (2013). 380 
+https://doi.org/10.1186/1472-6947-13-S2-S12. 
+24. Stacey, D. et al. Decision aids for people facing health treatment or screening decisions. Cochrane 
+Database of Systematic Reviews 1, CD001431 (2024). https://doi.org/10.1002/14651858.CD001431.pub6. 
+25. Kassis, T., Agarwal, V., He, Y., Patel, D. & Brueckner, A. M. Scientific Agent Skills: A Library of 
+Procedural Knowledge for Research Agents. arXiv, 2609.00065 (2026). 385 
+https://doi.org/10.48550/arXiv.2609.00065. 

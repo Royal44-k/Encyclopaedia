@@ -1,0 +1,6 @@
+﻿location,evidence_id,quantity,value,unit,status,source_locator
+Supplementary Table 2,E026,overall_sample,5172,workers,source reported; outcome availability varies,Abstract and section IV.B
+Supplementary Table 2,E026,rounded_productivity_gain,15,percent,source reported abstract rounding; preferred estimate 15.2%,Abstract; section V.A and Table II column 3
+Overtime case,E027,sleep_restriction_randomized,35,participants,"9 + 13 + 13, original group counts",Methods p.118
+Overtime case,E027,total_deprivation_experiment,13,participants,source reported,Methods p.118
+Overtime case,E027,restriction_duration,14,nights,source reported,Abstract and Methods

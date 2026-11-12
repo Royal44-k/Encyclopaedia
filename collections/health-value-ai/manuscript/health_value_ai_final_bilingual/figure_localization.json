@@ -1,0 +1,1077 @@
+[
+  {
+    "figure": 1,
+    "en": "a",
+    "zh": "a"
+  },
+  {
+    "figure": 1,
+    "en": "Everyday decisions in an AI-mediated environment",
+    "zh": "AI 介入环境中的日常决策"
+  },
+  {
+    "figure": 1,
+    "en": "Work",
+    "zh": "工作"
+  },
+  {
+    "figure": 1,
+    "en": "Tasks and pay",
+    "zh": "任务与报酬"
+  },
+  {
+    "figure": 1,
+    "en": "Food",
+    "zh": "饮食"
+  },
+  {
+    "figure": 1,
+    "en": "Cost and preparation",
+    "zh": "费用与准备"
+  },
+  {
+    "figure": 1,
+    "en": "Digital life",
+    "zh": "数字生活"
+  },
+  {
+    "figure": 1,
+    "en": "Information and leisure",
+    "zh": "信息与休闲"
+  },
+  {
+    "figure": 1,
+    "en": "Time use",
+    "zh": "时间使用"
+  },
+  {
+    "figure": 1,
+    "en": "Rest, movement and care",
+    "zh": "休息、活动与照护"
+  },
+  {
+    "figure": 1,
+    "en": "b",
+    "zh": "b"
+  },
+  {
+    "figure": 1,
+    "en": "Follow consequences for the person",
+    "zh": "追踪个体的实际后果"
+  },
+  {
+    "figure": 1,
+    "en": "Resources and time",
+    "zh": "资源与时间"
+  },
+  {
+    "figure": 1,
+    "en": "Disposable resources",
+    "zh": "可支配资源"
+  },
+  {
+    "figure": 1,
+    "en": "Activities displaced",
+    "zh": "被替代的活动"
+  },
+  {
+    "figure": 1,
+    "en": "Health and functioning",
+    "zh": "健康与功能"
+  },
+  {
+    "figure": 1,
+    "en": "Physical and mental",
+    "zh": "身体与心理"
+  },
+  {
+    "figure": 1,
+    "en": "Daily functioning",
+    "zh": "日常功能"
+  },
+  {
+    "figure": 1,
+    "en": "Experience",
+    "zh": "体验"
+  },
+  {
+    "figure": 1,
+    "en": "Enjoyment and relief",
+    "zh": "愉悦与缓解"
+  },
+  {
+    "figure": 1,
+    "en": "Distress and burden",
+    "zh": "痛苦与负担"
+  },
+  {
+    "figure": 1,
+    "en": "Capabilities and agency",
+    "zh": "可行能力与能动性"
+  },
+  {
+    "figure": 1,
+    "en": "Unaided ability",
+    "zh": "无辅助能力"
+  },
+  {
+    "figure": 1,
+    "en": "Goals and discretion",
+    "zh": "目标与决定权"
+  },
+  {
+    "figure": 1,
+    "en": "c",
+    "zh": "c"
+  },
+  {
+    "figure": 1,
+    "en": "Compare feasible alternatives over a shared horizon",
+    "zh": "在共同时间范围内比较可行方案"
+  },
+  {
+    "figure": 1,
+    "en": "Personal priorities • Constraints • Evidence and uncertainty • Effects on others",
+    "zh": "个人优先目标 • 约束 • 证据与不确定性 • 对他人的影响"
+  },
+  {
+    "figure": 2,
+    "en": "a",
+    "zh": "a"
+  },
+  {
+    "figure": 2,
+    "en": "Three distinct operations",
+    "zh": "三种不同的操作"
+  },
+  {
+    "figure": 2,
+    "en": "MEASURE",
+    "zh": "测量"
+  },
+  {
+    "figure": 2,
+    "en": "What is observed?",
+    "zh": "观察到了什么？"
+  },
+  {
+    "figure": 2,
+    "en": "Symptoms, time, income",
+    "zh": "症状、时间、收入"
+  },
+  {
+    "figure": 2,
+    "en": "PREDICT",
+    "zh": "预测"
+  },
+  {
+    "figure": 2,
+    "en": "What changes under each option?",
+    "zh": "各方案下会发生什么变化？"
+  },
+  {
+    "figure": 2,
+    "en": "Population, comparator, horizon",
+    "zh": "人群、对照、时间范围"
+  },
+  {
+    "figure": 2,
+    "en": "APPRAISE",
+    "zh": "价值判断"
+  },
+  {
+    "figure": 2,
+    "en": "How does the difference matter?",
+    "zh": "这些差异为什么重要？"
+  },
+  {
+    "figure": 2,
+    "en": "Goals, constraints, preferences",
+    "zh": "目标、约束、偏好"
+  },
+  {
+    "figure": 2,
+    "en": "b",
+    "zh": "b"
+  },
+  {
+    "figure": 2,
+    "en": "What the profile can and cannot order",
+    "zh": "后果剖面能够及不能够作出的排序"
+  },
+  {
+    "figure": 2,
+    "en": "More disposable resources",
+    "zh": "更多可支配资源"
+  },
+  {
+    "figure": 2,
+    "en": "More of a valued functioning",
+    "zh": "更多被重视的功能"
+  },
+  {
+    "figure": 2,
+    "en": "A",
+    "zh": "A"
+  },
+  {
+    "figure": 2,
+    "en": "B",
+    "zh": "B"
+  },
+  {
+    "figure": 2,
+    "en": "C",
+    "zh": "C"
+  },
+  {
+    "figure": 2,
+    "en": "B versus A",
+    "zh": "B 与 A 比较"
+  },
+  {
+    "figure": 2,
+    "en": "A dominance comparison is possible only when",
+    "zh": "只有相关维度完整且不确定性允许时，"
+  },
+  {
+    "figure": 2,
+    "en": "all relevant dimensions and uncertainty allow it.",
+    "zh": "才可能作出占优判断。"
+  },
+  {
+    "figure": 2,
+    "en": "B versus C",
+    "zh": "B 与 C 比较"
+  },
+  {
+    "figure": 2,
+    "en": "More resources and more functioning diverge.",
+    "zh": "资源增加与功能改善发生冲突。"
+  },
+  {
+    "figure": 2,
+    "en": "The graph alone cannot supply a preference.",
+    "zh": "图示本身无法决定个人偏好。"
+  },
+  {
+    "figure": 3,
+    "en": "a",
+    "zh": "a"
+  },
+  {
+    "figure": 3,
+    "en": "Account for all work time",
+    "zh": "计入全部工作时间"
+  },
+  {
+    "figure": 3,
+    "en": "T0",
+    "zh": "T0"
+  },
+  {
+    "figure": 3,
+    "en": "Without AI",
+    "zh": "无 AI 辅助"
+  },
+  {
+    "figure": 3,
+    "en": "T1",
+    "zh": "T1"
+  },
+  {
+    "figure": 3,
+    "en": "Prompt + check + rework",
+    "zh": "提示输入、核验与返工"
+  },
+  {
+    "figure": 3,
+    "en": "S = T0 − T1",
+    "zh": "S = T0 − T1"
+  },
+  {
+    "figure": 3,
+    "en": "Task saving",
+    "zh": "任务节约时间"
+  },
+  {
+    "figure": 3,
+    "en": "ΔW = −S + A + B",
+    "zh": "ΔW = −S + A + B"
+  },
+  {
+    "figure": 3,
+    "en": "Total work change",
+    "zh": "总工作时间变化"
+  },
+  {
+    "figure": 3,
+    "en": "b",
+    "zh": "b"
+  },
+  {
+    "figure": 3,
+    "en": "The same task saving can lead to different days",
+    "zh": "相同任务节时可产生不同的一天"
+  },
+  {
+    "figure": 3,
+    "en": "Hypothetical 24-hour budgets; 4 hours saved; other work-time change B = 0",
+    "zh": "假设 24 小时预算；任务节约 4 小时；其他工作时间变化 B = 0"
+  },
+  {
+    "figure": 3,
+    "en": "Without AI",
+    "zh": "无 AI 辅助"
+  },
+  {
+    "figure": 3,
+    "en": "8 h",
+    "zh": "8 小时"
+  },
+  {
+    "figure": 3,
+    "en": "16 h",
+    "zh": "16 小时"
+  },
+  {
+    "figure": 3,
+    "en": "No added tasks",
+    "zh": "没有新增任务"
+  },
+  {
+    "figure": 3,
+    "en": "4 h",
+    "zh": "4 小时"
+  },
+  {
+    "figure": 3,
+    "en": "20 h",
+    "zh": "20 小时"
+  },
+  {
+    "figure": 3,
+    "en": "−4 h",
+    "zh": "−4 小时"
+  },
+  {
+    "figure": 3,
+    "en": "3 added hours",
+    "zh": "新增任务 3 小时"
+  },
+  {
+    "figure": 3,
+    "en": "7 h",
+    "zh": "7 小时"
+  },
+  {
+    "figure": 3,
+    "en": "17 h",
+    "zh": "17 小时"
+  },
+  {
+    "figure": 3,
+    "en": "−1 h",
+    "zh": "−1 小时"
+  },
+  {
+    "figure": 3,
+    "en": "5 added hours",
+    "zh": "新增任务 5 小时"
+  },
+  {
+    "figure": 3,
+    "en": "9 h",
+    "zh": "9 小时"
+  },
+  {
+    "figure": 3,
+    "en": "15 h",
+    "zh": "15 小时"
+  },
+  {
+    "figure": 3,
+    "en": "+1 h",
+    "zh": "+1 小时"
+  },
+  {
+    "figure": 3,
+    "en": "Work",
+    "zh": "工作"
+  },
+  {
+    "figure": 3,
+    "en": "All non-work activities",
+    "zh": "全部非工作活动"
+  },
+  {
+    "figure": 3,
+    "en": "Δ work",
+    "zh": "工作变化"
+  },
+  {
+    "figure": 3,
+    "en": "Non-work time still needs to be allocated among sleep, care, activity, social contact and leisure.",
+    "zh": "非工作时间仍需在睡眠、照护、活动、社交和休闲之间配置。"
+  },
+  {
+    "figure": 4,
+    "en": "a",
+    "zh": "a"
+  },
+  {
+    "figure": 4,
+    "en": "Match the measure to the construct",
+    "zh": "使测量与构念相匹配"
+  },
+  {
+    "figure": 4,
+    "en": "Cognition and attention",
+    "zh": "认知与注意"
+  },
+  {
+    "figure": 4,
+    "en": "Independent task performance",
+    "zh": "独立任务表现"
+  },
+  {
+    "figure": 4,
+    "en": "Perceived difficulty",
+    "zh": "自觉困难程度"
+  },
+  {
+    "figure": 4,
+    "en": "Mental well-being",
+    "zh": "心理福祉"
+  },
+  {
+    "figure": 4,
+    "en": "WHO-5: preceding two weeks",
+    "zh": "WHO-5：此前两周"
+  },
+  {
+    "figure": 4,
+    "en": "Not a diagnostic test",
+    "zh": "并非诊断工具"
+  },
+  {
+    "figure": 4,
+    "en": "Vision and skin",
+    "zh": "视力与皮肤"
+  },
+  {
+    "figure": 4,
+    "en": "Relevant symptoms",
+    "zh": "相关症状"
+  },
+  {
+    "figure": 4,
+    "en": "Effects on daily activities",
+    "zh": "对日常活动的影响"
+  },
+  {
+    "figure": 4,
+    "en": "Metabolic indicators",
+    "zh": "代谢指标"
+  },
+  {
+    "figure": 4,
+    "en": "Glucose or lipid measures",
+    "zh": "血糖或血脂指标"
+  },
+  {
+    "figure": 4,
+    "en": "Only with a defined clinical role",
+    "zh": "需有明确临床作用"
+  },
+  {
+    "figure": 4,
+    "en": "Physical capacity",
+    "zh": "身体能力"
+  },
+  {
+    "figure": 4,
+    "en": "Muscle function or strength",
+    "zh": "肌肉功能或力量"
+  },
+  {
+    "figure": 4,
+    "en": "Activity limitations",
+    "zh": "活动受限"
+  },
+  {
+    "figure": 4,
+    "en": "Experience and agency",
+    "zh": "体验与能动性"
+  },
+  {
+    "figure": 4,
+    "en": "Enjoyment, distress, choice",
+    "zh": "愉悦、痛苦与选择"
+  },
+  {
+    "figure": 4,
+    "en": "Goals and actual discretion",
+    "zh": "目标与真实决定权"
+  },
+  {
+    "figure": 4,
+    "en": "b",
+    "zh": "b"
+  },
+  {
+    "figure": 4,
+    "en": "Keep causes, measurements and consequences separate",
+    "zh": "区分原因、测量与后果"
+  },
+  {
+    "figure": 4,
+    "en": "Exposure",
+    "zh": "暴露"
+  },
+  {
+    "figure": 4,
+    "en": "Sleep schedule • diet • sitting",
+    "zh": "睡眠安排 • 饮食 • 久坐"
+  },
+  {
+    "figure": 4,
+    "en": "Observed state",
+    "zh": "观察状态"
+  },
+  {
+    "figure": 4,
+    "en": "Symptoms • function • tests",
+    "zh": "症状 • 功能 • 检查"
+  },
+  {
+    "figure": 4,
+    "en": "Valued consequences",
+    "zh": "被重视的后果"
+  },
+  {
+    "figure": 4,
+    "en": "Daily life • experience • agency",
+    "zh": "日常生活 • 体验 • 能动性"
+  },
+  {
+    "figure": 5,
+    "en": "a",
+    "zh": "a"
+  },
+  {
+    "figure": 5,
+    "en": "Long working hours",
+    "zh": "长工作时间"
+  },
+  {
+    "figure": 5,
+    "en": "7 cohorts • 162,644 participants",
+    "zh": "7 项队列 • 162,644 人"
+  },
+  {
+    "figure": 5,
+    "en": "RR 1.35",
+    "zh": "RR 1.35"
+  },
+  {
+    "figure": 5,
+    "en": "95% CI 1.13–1.61",
+    "zh": "95% 置信区间 1.13–1.61"
+  },
+  {
+    "figure": 5,
+    "en": "1",
+    "zh": "1"
+  },
+  {
+    "figure": 5,
+    "en": "1.2",
+    "zh": "1.2"
+  },
+  {
+    "figure": 5,
+    "en": "1.5",
+    "zh": "1.5"
+  },
+  {
+    "figure": 5,
+    "en": "1.8",
+    "zh": "1.8"
+  },
+  {
+    "figure": 5,
+    "en": "Stroke incidence; log ratio scale",
+    "zh": "卒中发生；对数比率刻度"
+  },
+  {
+    "figure": 5,
+    "en": "≥55 versus 35–40 hours/week",
+    "zh": "每周 ≥55 与 35–40 小时比较"
+  },
+  {
+    "figure": 5,
+    "en": "b",
+    "zh": "b"
+  },
+  {
+    "figure": 5,
+    "en": "Diet composition",
+    "zh": "饮食构成"
+  },
+  {
+    "figure": 5,
+    "en": "Randomized crossover • 20 adults",
+    "zh": "随机交叉试验 • 20 名成人"
+  },
+  {
+    "figure": 5,
+    "en": "+508 kcal/day",
+    "zh": "+508 千卡/天"
+  },
+  {
+    "figure": 5,
+    "en": "±1 SE (106 kcal/day)",
+    "zh": "±1 标准误（106 千卡/天）"
+  },
+  {
+    "figure": 5,
+    "en": "−500",
+    "zh": "−500"
+  },
+  {
+    "figure": 5,
+    "en": "0",
+    "zh": "0"
+  },
+  {
+    "figure": 5,
+    "en": "500",
+    "zh": "500"
+  },
+  {
+    "figure": 5,
+    "en": "Energy intake difference",
+    "zh": "能量摄入差异"
+  },
+  {
+    "figure": 5,
+    "en": "Ultra-processed versus unprocessed",
+    "zh": "超加工与未加工饮食比较"
+  },
+  {
+    "figure": 5,
+    "en": "c",
+    "zh": "c"
+  },
+  {
+    "figure": 5,
+    "en": "Sleep extension",
+    "zh": "延长睡眠"
+  },
+  {
+    "figure": 5,
+    "en": "81 randomized • 80 in analysis set",
+    "zh": "随机分配 81 人 • 分析集 80 人"
+  },
+  {
+    "figure": 5,
+    "en": "−270 kcal/day",
+    "zh": "−270 千卡/天"
+  },
+  {
+    "figure": 5,
+    "en": "95% CI −393 to −147",
+    "zh": "95% 置信区间 −393 至 −147"
+  },
+  {
+    "figure": 5,
+    "en": "−500",
+    "zh": "−500"
+  },
+  {
+    "figure": 5,
+    "en": "0",
+    "zh": "0"
+  },
+  {
+    "figure": 5,
+    "en": "500",
+    "zh": "500"
+  },
+  {
+    "figure": 5,
+    "en": "Energy intake change versus control",
+    "zh": "相对对照组的能量摄入变化"
+  },
+  {
+    "figure": 5,
+    "en": "Short-sleeping adults with overweight",
+    "zh": "超重且睡眠较短的成人"
+  },
+  {
+    "figure": 5,
+    "en": "d",
+    "zh": "d"
+  },
+  {
+    "figure": 5,
+    "en": "AI medical information",
+    "zh": "AI 医疗信息"
+  },
+  {
+    "figure": 5,
+    "en": "Randomized study • 1,298 people",
+    "zh": "随机研究 • 1,298 人"
+  },
+  {
+    "figure": 5,
+    "en": "OR 1.76",
+    "zh": "OR 1.76"
+  },
+  {
+    "figure": 5,
+    "en": "95% CI 1.45–2.13",
+    "zh": "95% 置信区间 1.45–2.13"
+  },
+  {
+    "figure": 5,
+    "en": "1",
+    "zh": "1"
+  },
+  {
+    "figure": 5,
+    "en": "1.5",
+    "zh": "1.5"
+  },
+  {
+    "figure": 5,
+    "en": "2",
+    "zh": "2"
+  },
+  {
+    "figure": 5,
+    "en": "Relevant-condition identification",
+    "zh": "相关病情识别"
+  },
+  {
+    "figure": 5,
+    "en": "Control versus pooled AI; log ratio scale",
+    "zh": "对照与合并 AI 组比较；对数刻度"
+  },
+  {
+    "figure": 6,
+    "en": "a",
+    "zh": "a"
+  },
+  {
+    "figure": 6,
+    "en": "Use the same 28-day comparison window",
+    "zh": "使用共同的 28 天比较窗口"
+  },
+  {
+    "figure": 6,
+    "en": "Option A",
+    "zh": "方案 A"
+  },
+  {
+    "figure": 6,
+    "en": "CNY 10,000",
+    "zh": "1 万元"
+  },
+  {
+    "figure": 6,
+    "en": "Option B",
+    "zh": "方案 B"
+  },
+  {
+    "figure": 6,
+    "en": "CNY 100,000",
+    "zh": "10 万元"
+  },
+  {
+    "figure": 6,
+    "en": "1",
+    "zh": "1"
+  },
+  {
+    "figure": 6,
+    "en": "7",
+    "zh": "7"
+  },
+  {
+    "figure": 6,
+    "en": "14",
+    "zh": "14"
+  },
+  {
+    "figure": 6,
+    "en": "21",
+    "zh": "21"
+  },
+  {
+    "figure": 6,
+    "en": "28",
+    "zh": "28"
+  },
+  {
+    "figure": 6,
+    "en": "day",
+    "zh": "天"
+  },
+  {
+    "figure": 6,
+    "en": "Overtime",
+    "zh": "加班"
+  },
+  {
+    "figure": 6,
+    "en": "No overtime",
+    "zh": "不加班"
+  },
+  {
+    "figure": 6,
+    "en": "b",
+    "zh": "b"
+  },
+  {
+    "figure": 6,
+    "en": "The financial difference is computable",
+    "zh": "财务差异可以计算"
+  },
+  {
+    "figure": 6,
+    "en": "¥",
+    "zh": "¥"
+  },
+  {
+    "figure": 6,
+    "en": "ΔY = 100,000 − 10,000 = 90,000 CNY",
+    "zh": "ΔY = 100,000 − 10,000 = 90,000 元"
+  },
+  {
+    "figure": 6,
+    "en": "Net supplements; ordinary earnings held equal; 21 more overtime days",
+    "zh": "补贴为净额；普通工资相同；增加 21 个加班日"
+  },
+  {
+    "figure": 6,
+    "en": "c",
+    "zh": "c"
+  },
+  {
+    "figure": 6,
+    "en": "The health comparison requires an additional evidential step",
+    "zh": "健康比较还需要额外证据"
+  },
+  {
+    "figure": 6,
+    "en": "Exposure and baseline state",
+    "zh": "暴露与基线状态"
+  },
+  {
+    "figure": 6,
+    "en": "Recovery and later outcomes",
+    "zh": "恢复与后续结局"
+  },
+  {
+    "figure": 6,
+    "en": "Appraisal",
+    "zh": "价值判断"
+  },
+  {
+    "figure": 7,
+    "en": "a",
+    "zh": "a"
+  },
+  {
+    "figure": 7,
+    "en": "Test the added value of the comparison module",
+    "zh": "检验比较模块的新增价值"
+  },
+  {
+    "figure": 7,
+    "en": "COMMON FACTS + FEASIBLE OPTIONS",
+    "zh": "共同事实与可行方案"
+  },
+  {
+    "figure": 7,
+    "en": "Established guide",
+    "zh": "成熟指南"
+  },
+  {
+    "figure": 7,
+    "en": "Active comparator",
+    "zh": "主动对照"
+  },
+  {
+    "figure": 7,
+    "en": "Same guide + proposed module",
+    "zh": "同一指南加拟议模块"
+  },
+  {
+    "figure": 7,
+    "en": "Time • consequences • uncertainty",
+    "zh": "时间 • 后果 • 不确定性"
+  },
+  {
+    "figure": 7,
+    "en": "UNDERSTANDING",
+    "zh": "理解"
+  },
+  {
+    "figure": 7,
+    "en": "Independent scoring",
+    "zh": "独立评分"
+  },
+  {
+    "figure": 7,
+    "en": "Comparator, horizon, uncertainty",
+    "zh": "对照、时间范围、不确定性"
+  },
+  {
+    "figure": 7,
+    "en": "TRANSFER",
+    "zh": "迁移"
+  },
+  {
+    "figure": 7,
+    "en": "Unfamiliar decision",
+    "zh": "陌生决策"
+  },
+  {
+    "figure": 7,
+    "en": "Does learning generalize?",
+    "zh": "所学能否迁移？"
+  },
+  {
+    "figure": 7,
+    "en": "BURDEN",
+    "zh": "负担"
+  },
+  {
+    "figure": 7,
+    "en": "Time and non-completion",
+    "zh": "耗时与未完成"
+  },
+  {
+    "figure": 7,
+    "en": "Include people who stop using it",
+    "zh": "纳入停止使用者"
+  },
+  {
+    "figure": 7,
+    "en": "b",
+    "zh": "b"
+  },
+  {
+    "figure": 7,
+    "en": "Specify what would count against the proposal",
+    "zh": "预先明确可能否定提议的结果"
+  },
+  {
+    "figure": 7,
+    "en": "No added understanding  •  Failure to transfer  •  Excess burden  •  Unequal access",
+    "zh": "理解未改善 • 无法迁移 • 负担过重 • 机会不平等"
+  },
+  {
+    "figure": 7,
+    "en": "A preferred lifestyle or lower-paid job is not a correctness criterion.",
+    "zh": "选择某种生活方式或低薪工作，并不是判断正确与否的标准。"
+  },
+  {
+    "figure": 8,
+    "en": "a",
+    "zh": "a"
+  },
+  {
+    "figure": 8,
+    "en": "Individual choices sit within institutional conditions",
+    "zh": "个人选择嵌入制度条件"
+  },
+  {
+    "figure": 8,
+    "en": "WORKPLACES",
+    "zh": "工作场所"
+  },
+  {
+    "figure": 8,
+    "en": "Work intensity",
+    "zh": "工作强度"
+  },
+  {
+    "figure": 8,
+    "en": "Ability to refuse",
+    "zh": "拒绝能力"
+  },
+  {
+    "figure": 8,
+    "en": "PLATFORMS",
+    "zh": "平台"
+  },
+  {
+    "figure": 8,
+    "en": "Interface and incentives",
+    "zh": "界面与激励"
+  },
+  {
+    "figure": 8,
+    "en": "Available alternatives",
+    "zh": "可用替代方案"
+  },
+  {
+    "figure": 8,
+    "en": "HOUSEHOLDS AND SERVICES",
+    "zh": "家庭与服务"
+  },
+  {
+    "figure": 8,
+    "en": "Care demands",
+    "zh": "照护需求"
+  },
+  {
+    "figure": 8,
+    "en": "Information and access",
+    "zh": "信息与可及性"
+  },
+  {
+    "figure": 8,
+    "en": "A person compares feasible alternatives",
+    "zh": "个体比较真正可行的方案"
+  },
+  {
+    "figure": 8,
+    "en": "Income, time, functioning, experience and capability",
+    "zh": "收入、时间、功能、体验和可行能力"
+  },
+  {
+    "figure": 8,
+    "en": "Choice support can reveal a constraint; it does not remove it.",
+    "zh": "决策支持能够揭示约束，但不会自行消除约束。"
+  },
+  {
+    "figure": 8,
+    "en": "b",
+    "zh": "b"
+  },
+  {
+    "figure": 8,
+    "en": "Track who receives gains and who bears burdens",
+    "zh": "追踪谁获得收益、谁承担负担"
+  },
+  {
+    "figure": 8,
+    "en": "Individual account",
+    "zh": "个人账目"
+  },
+  {
+    "figure": 8,
+    "en": "Household account",
+    "zh": "家庭账目"
+  },
+  {
+    "figure": 8,
+    "en": "Organizational and societal account",
+    "zh": "组织与社会账目"
+  }
+]

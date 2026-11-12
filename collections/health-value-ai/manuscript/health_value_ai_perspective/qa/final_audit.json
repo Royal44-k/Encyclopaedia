@@ -1,0 +1,37 @@
+{
+  "date": "2026-11-07",
+  "semantic_checks": {
+    "en_pdf": {
+      "pages": 14,
+      "complete_prose_paragraphs": 49,
+      "complete_captions": 14,
+      "header": "Perspective"
+    },
+    "en_word": {
+      "pages": 14,
+      "complete_prose_paragraphs": 49,
+      "complete_captions": 14,
+      "header": "Perspective"
+    },
+    "zh_pdf": {
+      "pages": 14,
+      "complete_prose_paragraphs": 49,
+      "complete_captions": 14,
+      "header": "Perspective"
+    },
+    "zh_word": {
+      "pages": 14,
+      "complete_prose_paragraphs": 49,
+      "complete_captions": 14,
+      "header": "Perspective"
+    }
+  },
+  "bibliography_count": 26,
+  "numerical_data_unchanged": true,
+  "removed_sections_checked": true,
+  "human_scientific_verification_complete": false,
+  "new_empirical_validation": false,
+  "renderer": "LibreOffice unavailable; actual Word COM export plus PDFium rendering used for DOCX inspection.",
+  "visual_inspection": "See visual_review.json for inspected pages and scope.",
+  "editorial_reading": "editorial_reading.json records access depth; no claim that all referenced originals were reread."
+}

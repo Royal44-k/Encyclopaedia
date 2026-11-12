@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="522" height="187" preserveAspectRatio="xMinYMin meet" viewBox="0 0 522 187" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="522" height="187"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-187)" style="clip-path: url(#clip)">
+		<g transform="">
+			<text x="0" y="171" style="font-family: SansBold; font-size: 11px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,342) scale(1,-1)">a</text>
+			<text x="18" y="171" style="font-family: SansBold; font-size: 10.2px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,342) scale(1,-1)">Conditions shape feasible options</text>
+			<text x="4" y="147" style="font-family: SansBold; font-size: 9.8px;fill: rgb(22%,39%,62%); stroke:none;" transform="translate(0,294) scale(1,-1)">Workplaces</text>
+			<text x="4" y="130" style="font-family: Sans; font-size: 8.3px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,260) scale(1,-1)">Workload and right to refuse</text>
+			<path d="M 4,120 L 154,120 Z" style="stroke: rgb(22%,39%,62%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="183" y="147" style="font-family: SansBold; font-size: 9.8px;fill: rgb(50%,40%,60%); stroke:none;" transform="translate(0,294) scale(1,-1)">Platforms</text>
+			<text x="183" y="130" style="font-family: Sans; font-size: 8.3px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,260) scale(1,-1)">Design, incentives, ability to exit</text>
+			<path d="M 183,120 L 333,120 Z" style="stroke: rgb(50%,40%,60%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="362" y="147" style="font-family: SansBold; font-size: 9.8px;fill: rgb(8%,49%,50%); stroke:none;" transform="translate(0,294) scale(1,-1)">Households and services</text>
+			<text x="362" y="130" style="font-family: Sans; font-size: 8.3px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,260) scale(1,-1)">Care, food, housing and access</text>
+			<path d="M 362,120 L 512,120 Z" style="stroke: rgb(8%,49%,50%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 261,116 L 261,97 Z" style="stroke: rgb(9%,16%,20%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="261 97, 258.5 102, 263.5 102" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,16%,20%); fill-rule: evenodd;"/>
+			<text x="154.94775390625" y="80" style="font-family: SansBold; font-size: 11px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,160) scale(1,-1)">Compare what is feasible for this person</text>
+			<path d="M 0,64 L 522,64 Z" style="stroke: rgb(80%,84%,85%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<text x="0" y="47" style="font-family: SansBold; font-size: 11px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,94) scale(1,-1)">b</text>
+			<text x="18" y="47" style="font-family: SansBold; font-size: 10.2px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,94) scale(1,-1)">Track distribution as well as totals</text>
+			<text x="18" y="25" style="font-family: SansBold; font-size: 9px;fill: rgb(22%,39%,62%); stroke:none;" transform="translate(0,50) scale(1,-1)">Individual</text>
+			<text x="150" y="25" style="font-family: SansBold; font-size: 9px;fill: rgb(8%,49%,50%); stroke:none;" transform="translate(0,50) scale(1,-1)">Household</text>
+			<text x="290" y="25" style="font-family: SansBold; font-size: 9px;fill: rgb(50%,40%,60%); stroke:none;" transform="translate(0,50) scale(1,-1)">Organization / society</text>
+			<text x="18" y="7" style="font-family: Sans; font-size: 8.2px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,14) scale(1,-1)">Income and time</text>
+			<text x="150" y="7" style="font-family: Sans; font-size: 8.2px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,14) scale(1,-1)">Care and displaced activities</text>
+			<text x="290" y="7" style="font-family: Sans; font-size: 8.2px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,14) scale(1,-1)">Output, transfers and public costs</text>
+		</g>
+	</g>
+</svg>

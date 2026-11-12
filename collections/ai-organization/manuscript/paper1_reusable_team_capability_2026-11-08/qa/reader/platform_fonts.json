@@ -1,0 +1,80 @@
+[
+  {
+    "selector": "article[data-language=\"zh\"] h1 .titleline",
+    "fonts": [
+      {
+        "familyName": "Arial",
+        "postScriptName": "Arial-BoldMT",
+        "isCustomFont": false,
+        "glyphCount": 4
+      },
+      {
+        "familyName": "Microsoft YaHei",
+        "postScriptName": "MicrosoftYaHei-Bold",
+        "isCustomFont": false,
+        "glyphCount": 8
+      }
+    ]
+  },
+  {
+    "selector": "article[data-language=\"zh\"] h2",
+    "fonts": [
+      {
+        "familyName": "Microsoft YaHei",
+        "postScriptName": "MicrosoftYaHei-Bold",
+        "isCustomFont": false,
+        "glyphCount": 2
+      }
+    ]
+  },
+  {
+    "selector": "article[data-language=\"zh\"] .abstract p",
+    "fonts": [
+      {
+        "familyName": "Arial",
+        "postScriptName": "ArialMT",
+        "isCustomFont": false,
+        "glyphCount": 4
+      },
+      {
+        "familyName": "Microsoft YaHei",
+        "postScriptName": "MicrosoftYaHei",
+        "isCustomFont": false,
+        "glyphCount": 251
+      }
+    ]
+  },
+  {
+    "selector": "article[data-language=\"en\"] h1",
+    "fonts": [
+      {
+        "familyName": "Georgia",
+        "postScriptName": "Georgia",
+        "isCustomFont": false,
+        "glyphCount": 45
+      }
+    ]
+  },
+  {
+    "selector": "article[data-language=\"en\"] h2",
+    "fonts": [
+      {
+        "familyName": "Arial",
+        "postScriptName": "Arial-BoldMT",
+        "isCustomFont": false,
+        "glyphCount": 8
+      }
+    ]
+  },
+  {
+    "selector": "article[data-language=\"en\"] .abstract p",
+    "fonts": [
+      {
+        "familyName": "Georgia",
+        "postScriptName": "Georgia",
+        "isCustomFont": false,
+        "glyphCount": 889
+      }
+    ]
+  }
+]

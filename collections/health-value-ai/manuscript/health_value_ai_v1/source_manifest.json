@@ -1,0 +1,649 @@
+{
+  "schema_version": "1.0",
+  "sources": [
+    {
+      "evidence_id": "E001",
+      "title": "On the concept of health capital and the demand for health",
+      "authors": [
+        "Grossman, M."
+      ],
+      "year": 1972,
+      "source_type": "journal_article",
+      "confidentiality": "public",
+      "identifiers": {
+        "doi": "10.1086/259880",
+        "isbn": "",
+        "pmcid": "",
+        "pmid": "",
+        "url": "https://www.journals.uchicago.edu/doi/10.1086/259880"
+      },
+      "locator": "Original pp.223–225 conceptual introduction; publisher metadata",
+      "verification": {
+        "source_opened": true,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      }
+    },
+    {
+      "evidence_id": "E002",
+      "title": "A theory of the allocation of time",
+      "authors": [
+        "Becker, G. S."
+      ],
+      "year": 1965,
+      "source_type": "journal_article",
+      "confidentiality": "public",
+      "identifiers": {
+        "doi": "10.2307/2228949",
+        "isbn": "",
+        "pmcid": "",
+        "pmid": "",
+        "url": "https://academic.oup.com/ej/article/75/299/493/5250146"
+      },
+      "locator": "p.517 conclusion; publisher metadata",
+      "verification": {
+        "source_opened": true,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      }
+    },
+    {
+      "evidence_id": "E003",
+      "title": "The working-day",
+      "authors": [
+        "Marx, K."
+      ],
+      "year": null,
+      "source_type": "webpage",
+      "confidentiality": "public",
+      "identifiers": {
+        "doi": "",
+        "isbn": "",
+        "pmcid": "",
+        "pmid": "",
+        "url": "https://www.marxists.org/archive/marx/works/1867-c1/ch10.htm"
+      },
+      "locator": "Section 1 paragraphs on physical and social bounds and reproduction of labour-power",
+      "verification": {
+        "source_opened": true,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      }
+    },
+    {
+      "evidence_id": "E004",
+      "title": "Health capability: conceptualization and operationalization",
+      "authors": [
+        "Ruger, J. P."
+      ],
+      "year": 2010,
+      "source_type": "journal_article",
+      "confidentiality": "public",
+      "identifiers": {
+        "doi": "10.2105/AJPH.2008.143651",
+        "isbn": "",
+        "pmcid": "",
+        "pmid": "",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2791246/"
+      },
+      "locator": "Health functioning and health agency; health capability profile; operationalization",
+      "verification": {
+        "source_opened": true,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      }
+    },
+    {
+      "evidence_id": "E005",
+      "title": "What good is wealth without health? The effect of health on the marginal utility of consumption",
+      "authors": [
+        "Finkelstein, A., Luttmer, E. F. P. & Notowidigdo, M. J."
+      ],
+      "year": 2013,
+      "source_type": "journal_article",
+      "confidentiality": "public",
+      "identifiers": {
+        "doi": "10.1111/j.1542-4774.2012.01101.x",
+        "isbn": "",
+        "pmcid": "",
+        "pmid": "",
+        "url": "https://users.nber.org/~luttmer/whatgoodiswealth.pdf"
+      },
+      "locator": "Introduction; identification discussion; section 3.3 sample",
+      "verification": {
+        "source_opened": true,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      }
+    },
+    {
+      "evidence_id": "E006",
+      "title": "Beyond revealed preference: choice-theoretic foundations for behavioral welfare economics",
+      "authors": [
+        "Bernheim, B. D. & Rangel, A."
+      ],
+      "year": 2009,
+      "source_type": "journal_article",
+      "confidentiality": "public",
+      "identifiers": {
+        "doi": "10.1162/qjec.2009.124.1.51",
+        "isbn": "",
+        "pmcid": "",
+        "pmid": "",
+        "url": "https://www.rnl.caltech.edu/publications/pdf/bernheim2009.pdf"
+      },
+      "locator": "Introduction and section II on generalized choice situations and welfare-relevant domain",
+      "verification": {
+        "source_opened": true,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      }
+    },
+    {
+      "evidence_id": "E007",
+      "title": "Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being",
+      "authors": [
+        "Ryan, R. M. & Deci, E. L."
+      ],
+      "year": 2000,
+      "source_type": "journal_article",
+      "confidentiality": "public",
+      "identifiers": {
+        "doi": "10.1037/0003-066X.55.1.68",
+        "isbn": "",
+        "pmcid": "",
+        "pmid": "",
+        "url": "https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf"
+      },
+      "locator": "pp.70–75; autonomy versus independence on p.74",
+      "verification": {
+        "source_opened": true,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      }
+    },
+    {
+      "evidence_id": "E008",
+      "title": "Cost consequence analysis: health economic studies",
+      "authors": [
+        "Office for Health Improvement and Disparities"
+      ],
+      "year": 2020,
+      "source_type": "guideline",
+      "confidentiality": "public",
+      "identifiers": {
+        "doi": "",
+        "isbn": "",
+        "pmcid": "",
+        "pmid": "",
+        "url": "https://www.gov.uk/guidance/cost-consequence-analysis-health-economic-studies"
+      },
+      "locator": "Opening definition; pros; cons",
+      "verification": {
+        "source_opened": true,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      }
+    },
+    {
+      "evidence_id": "E009",
+      "title": "Multiple criteria decision analysis for health care decision making—an introduction: Report 1 of the ISPOR MCDA Emerging Good Practices Task Force",
+      "authors": [
+        "Thokala, P. et al."
+      ],
+      "year": 2016,
+      "source_type": "journal_article",
+      "confidentiality": "public",
+      "identifiers": {
+        "doi": "10.1016/j.jval.2015.12.003",
+        "isbn": "",
+        "pmcid": "",
+        "pmid": "",
+        "url": "https://ris.utwente.nl/ws/files/6930582/1-s2.0-S1098301515051359-main.pdf"
+      },
+      "locator": "pp.7–9; criteria overlap, preference independence and weights",
+      "verification": {
+        "source_opened": true,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      }
+    },
+    {
+      "evidence_id": "E010",
+      "title": "Ottawa Personal Decision Guide",
+      "authors": [
+        "Ottawa Hospital Research Institute"
+      ],
+      "year": 2025,
+      "source_type": "guideline",
+      "confidentiality": "public",
+      "identifiers": {
+        "doi": "",
+        "isbn": "",
+        "pmcid": "",
+        "pmid": "",
+        "url": "https://decisionaid.ohri.ca/decguide.html"
+      },
+      "locator": "Guide purpose; options, benefits, harms, values and support; copyright 2025 English PDF",
+      "verification": {
+        "source_opened": true,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      }
+    },
+    {
+      "evidence_id": "E011",
+      "title": "Experimental evidence on the productivity effects of generative artificial intelligence",
+      "authors": [
+        "Noy, S. & Zhang, W."
+      ],
+      "year": 2023,
+      "source_type": "journal_article",
+      "confidentiality": "public",
+      "identifiers": {
+        "doi": "10.1126/science.adh2586",
+        "isbn": "",
+        "pmcid": "",
+        "pmid": "",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37440646/"
+      },
+      "locator": "Published abstract, n=453",
+      "verification": {
+        "source_opened": true,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      }
+    },
+    {
+      "evidence_id": "E012",
+      "title": "Generative AI without guardrails can harm learning: Evidence from high school mathematics",
+      "authors": [
+        "Bastani, H. et al."
+      ],
+      "year": 2025,
+      "source_type": "journal_article",
+      "confidentiality": "public",
+      "identifiers": {
+        "doi": "10.1073/pnas.2422633122",
+        "isbn": "",
+        "pmcid": "",
+        "pmid": "",
+        "url": "https://doi.org/10.1073/pnas.2422633122"
+      },
+      "locator": "Design, Table 1, discussion",
+      "verification": {
+        "source_opened": true,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      }
+    },
+    {
+      "evidence_id": "E013",
+      "title": "AI companions reduce loneliness",
+      "authors": [
+        "De Freitas, J., Oğuz-Uğuralp, Z., Uğuralp, A. K. & Puntoni, S."
+      ],
+      "year": 2026,
+      "source_type": "journal_article",
+      "confidentiality": "public",
+      "identifiers": {
+        "doi": "10.1093/jcr/ucaf040",
+        "isbn": "",
+        "pmcid": "",
+        "pmid": "",
+        "url": "https://doi.org/10.1093/jcr/ucaf040"
+      },
+      "locator": "Study 3, PDF pp.11–14; limitations pp.18–20",
+      "verification": {
+        "source_opened": true,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      }
+    },
+    {
+      "evidence_id": "E014",
+      "title": "Reliability of LLMs as medical assistants for the general public: a randomized preregistered study",
+      "authors": [
+        "Bean, A. M. et al."
+      ],
+      "year": 2026,
+      "source_type": "journal_article",
+      "confidentiality": "public",
+      "identifiers": {
+        "doi": "10.1038/s41591-025-04074-y",
+        "isbn": "",
+        "pmcid": "",
+        "pmid": "",
+        "url": "https://www.nature.com/articles/s41591-025-04074-y"
+      },
+      "locator": "Experimental performance; Figure 2; Methods",
+      "verification": {
+        "source_opened": true,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      }
+    },
+    {
+      "evidence_id": "E015",
+      "title": "The welfare effects of social media",
+      "authors": [
+        "Allcott, H., Braghieri, L., Eichmeyer, S. & Gentzkow, M."
+      ],
+      "year": 2020,
+      "source_type": "journal_article",
+      "confidentiality": "public",
+      "identifiers": {
+        "doi": "10.1257/aer.20190658",
+        "isbn": "",
+        "pmcid": "",
+        "pmid": "",
+        "url": "https://web.stanford.edu/~gentzkow/research/facebook.pdf"
+      },
+      "locator": "Section 4.2, results and flow appendix",
+      "verification": {
+        "source_opened": true,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      }
+    },
+    {
+      "evidence_id": "E016",
+      "title": "International Classification of Functioning, Disability and Health",
+      "authors": [
+        "World Health Organization"
+      ],
+      "year": null,
+      "source_type": "guideline",
+      "confidentiality": "public",
+      "identifiers": {
+        "doi": "",
+        "isbn": "",
+        "pmcid": "",
+        "pmid": "",
+        "url": "https://www.who.int/standards/classifications/international-classification-of-functioning-disability-and-health"
+      },
+      "locator": "Framework definition and contextual environmental factors",
+      "verification": {
+        "source_opened": true,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      }
+    },
+    {
+      "evidence_id": "E017",
+      "title": "The World Health Organization-Five Well-Being Index (WHO-5)",
+      "authors": [
+        "World Health Organization"
+      ],
+      "year": 2024,
+      "source_type": "guideline",
+      "confidentiality": "public",
+      "identifiers": {
+        "doi": "",
+        "isbn": "",
+        "pmcid": "",
+        "pmid": "",
+        "url": "https://www.who.int/publications/m/item/who-ucn-msd-mhe-2024.01"
+      },
+      "locator": "Overview: five items, past two weeks, mental well-being",
+      "verification": {
+        "source_opened": true,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      }
+    },
+    {
+      "evidence_id": "E018",
+      "title": "The effect of exposure to long working hours on stroke: A systematic review and meta-analysis from the WHO/ILO Joint Estimates of the Work-related Burden of Disease and Injury",
+      "authors": [
+        "Descatha, A. et al."
+      ],
+      "year": 2020,
+      "source_type": "journal_article",
+      "confidentiality": "public",
+      "identifiers": {
+        "doi": "10.1016/j.envint.2020.105746",
+        "isbn": "",
+        "pmcid": "",
+        "pmid": "",
+        "url": "https://stacks.cdc.gov/view/cdc/224088/cdc_224088_DS1.pdf"
+      },
+      "locator": "Section 4.4.2.3; Figure 9; section 5.1",
+      "verification": {
+        "source_opened": true,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      }
+    },
+    {
+      "evidence_id": "E019",
+      "title": "Ultra-processed diets cause excess calorie intake and weight gain: An inpatient randomized controlled trial of ad libitum food intake",
+      "authors": [
+        "Hall, K. D. et al."
+      ],
+      "year": 2019,
+      "source_type": "journal_article",
+      "confidentiality": "public",
+      "identifiers": {
+        "doi": "10.1016/j.cmet.2019.05.008",
+        "isbn": "",
+        "pmcid": "",
+        "pmid": "",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7946062/"
+      },
+      "locator": "Food Intake; Figure 2A–B; statistical analysis",
+      "verification": {
+        "source_opened": true,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      }
+    },
+    {
+      "evidence_id": "E020",
+      "title": "Effect of sleep extension on objectively assessed energy intake among adults with overweight in real-life settings: A randomized clinical trial",
+      "authors": [
+        "Tasali, E. et al."
+      ],
+      "year": 2022,
+      "source_type": "journal_article",
+      "confidentiality": "public",
+      "identifiers": {
+        "doi": "10.1001/jamainternmed.2021.8098",
+        "isbn": "",
+        "pmcid": "",
+        "pmid": "",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8822469/"
+      },
+      "locator": "Flow diagram; Methods; Table 2; limitations",
+      "verification": {
+        "source_opened": true,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      }
+    },
+    {
+      "evidence_id": "E021",
+      "title": "Establishing the effectiveness of patient decision aids: key constructs and measurement instruments",
+      "authors": [
+        "Sepucha, K. R. et al."
+      ],
+      "year": 2013,
+      "source_type": "journal_article",
+      "confidentiality": "public",
+      "identifiers": {
+        "doi": "10.1186/1472-6947-13-S2-S12",
+        "isbn": "",
+        "pmcid": "",
+        "pmid": "",
+        "url": "https://link.springer.com/article/10.1186/1472-6947-13-S2-S12"
+      },
+      "locator": "Background; methods; discussion of process, decision quality and outcomes",
+      "verification": {
+        "source_opened": true,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      }
+    },
+    {
+      "evidence_id": "E022",
+      "title": "Decision aids for people facing health treatment or screening decisions",
+      "authors": [
+        "Stacey, D. et al."
+      ],
+      "year": 2024,
+      "source_type": "journal_article",
+      "confidentiality": "public",
+      "identifiers": {
+        "doi": "10.1002/14651858.CD001431.pub6",
+        "isbn": "",
+        "pmcid": "",
+        "pmid": "",
+        "url": "https://www.cochrane.org/evidence/CD001431_patient-decision-aids-help-people-who-are-facing-decisions-about-health-treatment-or-screening"
+      },
+      "locator": "Main results; knowledge and risk perception",
+      "verification": {
+        "source_opened": true,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      }
+    },
+    {
+      "evidence_id": "E023",
+      "title": "Scientific Agent Skills: A Library of Procedural Knowledge for Research Agents",
+      "authors": [
+        "Kassis, T., Agarwal, V., He, Y., Patel, D. & Brueckner, A. M."
+      ],
+      "year": 2026,
+      "source_type": "preprint",
+      "confidentiality": "public",
+      "identifiers": {
+        "doi": "10.48550/arXiv.2609.00065",
+        "isbn": "",
+        "pmcid": "",
+        "pmid": "",
+        "url": "https://arxiv.org/abs/2609.00065"
+      },
+      "locator": "Current arXiv record and local SKILL.md files",
+      "verification": {
+        "source_opened": true,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      }
+    },
+    {
+      "evidence_id": "E024",
+      "title": "Building health-literate artificial intelligence",
+      "authors": [
+        "Ivic, R. K., Ratzan, S. C. & Parker, R. M."
+      ],
+      "year": 2026,
+      "source_type": "journal_article",
+      "confidentiality": "public",
+      "identifiers": {
+        "doi": "10.1038/s41562-026-02595-1",
+        "isbn": "",
+        "pmcid": "",
+        "pmid": "",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42745006/"
+      },
+      "locator": "Abstract, four components; PubMed PMID 42745006",
+      "verification": {
+        "source_opened": true,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      }
+    },
+    {
+      "evidence_id": "E025",
+      "title": "What is the difference between the EQ-5D descriptive system, the EQ VAS and the EQ-5D index values?",
+      "authors": [
+        "EuroQol Research Foundation"
+      ],
+      "year": 2023,
+      "source_type": "webpage",
+      "confidentiality": "public",
+      "identifiers": {
+        "doi": "",
+        "isbn": "",
+        "pmcid": "",
+        "pmid": "",
+        "url": "https://euroqol.org/faq/what-is-the-difference-between-the-eq-5d-5l-descriptive-system-the-eq-vas-and-the-eq-5d-index-values/"
+      },
+      "locator": "Description, index value sets and EQ VAS distinction; posted 29 June 2023",
+      "verification": {
+        "source_opened": true,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      }
+    },
+    {
+      "evidence_id": "E900",
+      "title": "Author-proposed framework and hypothetical illustrations",
+      "authors": [],
+      "year": 2026,
+      "source_type": "other",
+      "confidentiality": "restricted",
+      "identifiers": {
+        "doi": "",
+        "isbn": "",
+        "pmcid": "",
+        "pmid": "",
+        "url": ""
+      },
+      "locator": "manuscript_en.source.md; build_manuscript.py",
+      "verification": {
+        "source_opened": true,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      }
+    },
+    {
+      "evidence_id": "E901",
+      "title": "User-provided authorship and sponsorship information",
+      "authors": [],
+      "year": 2026,
+      "source_type": "other",
+      "confidentiality": "restricted",
+      "identifiers": {
+        "doi": "",
+        "isbn": "",
+        "pmcid": "",
+        "pmid": "",
+        "url": ""
+      },
+      "locator": "Conversation replies on 6 November 2026; authorship_record.json",
+      "verification": {
+        "source_opened": true,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,390 @@
+{
+  "date": "2026-11-09",
+  "paragraph_edits": [
+    {
+      "language": "zh",
+      "page": 2,
+      "paragraph": 1,
+      "before": "一笔加班费能否让生活过得更好，不能只看到账金额。同样是增加收入，有人延长白天工作，有人连续上夜班，也有人借助 AI 提高效率。三种安排对睡眠、精力和家庭时间的影响可能不同。比较应从具体生活出发：钱增加了多少，时间用在何处，第二天还能否正常工作、学习或照顾家人。图 1 将这些问题组织为共同框架，图 2 区分其中的测量、预测与评价。",
+      "after": "一笔加班费能否改善生活，要看收入增加了多少，也要看付出了什么。延长白天工作、连续上夜班和借助 AI 提高效率，都可能增加收入，却可能给睡眠、精力和家庭时间带来不同影响。比较从具体问题开始：钱增加了多少，时间花在何处，第二天还能否正常工作、学习或照顾家人。图 1 将这些问题纳入同一框架，图 2 区分测量、预测与评价。"
+    },
+    {
+      "language": "en",
+      "page": 2,
+      "paragraph": 1,
+      "before": "Whether overtime pay improves life cannot be judged from the payment alone. Extra income may come from longer daytime work, repeated night shifts or greater efficiency with AI. These arrangements may differ in their implications for sleep, energy and family time. Comparison starts with concrete questions: how much money is gained, where time goes, and whether the person can work, study or care for family the next day. Figure 1 organizes these questions into a common framework; Figure 2 separates measurement, prediction and appraisal.",
+      "after": "Whether overtime pay improves daily life depends on both the income gained and what it requires. Longer daytime work, repeated night shifts and greater efficiency with AI may all increase income, with different implications for sleep, energy and family time. Comparison begins with concrete questions: how much money is gained, where time goes, and whether the person can work, study or care for family the next day. Figure 1 brings these questions together; Figure 2 separates measurement, prediction and appraisal."
+    },
+    {
+      "language": "zh",
+      "page": 2,
+      "paragraph": 2,
+      "before": "这一问题可以从既有理论中找到清晰的起点。Grossman 将健康视为兼有消费与生产作用的资本存量，Becker 则把非市场时间纳入资源配置分析。[@E001][@E002] 马克思关于工作日的论述，将劳动时间、议价关系与劳动力再生产联系起来。[@E003] 三者分别强调健康存量、时间约束和劳动关系，为讨论健康代价提供了互补视角。沿着马克思的思路，可以追问生产收益与健康负担如何分配；但若要把某项健康损失归因于劳动安排，仍须识别具体暴露、替代方案及其结果。",
+      "after": "既有理论为这一问题提供了不同切入点。Grossman 将健康视为兼具消费与生产作用的资本存量，Becker 将非市场时间纳入资源配置分析。[@E001][@E002] 马克思对工作日的讨论，则将劳动时间、议价关系与劳动力再生产联系起来。[@E003] 这些理论分别关注健康、时间和劳动关系，不能彼此替代。沿着马克思的思路，可以追问生产收益与健康负担由谁承担；具体的健康损失仍须依据劳动暴露及其替代方案来识别，不能直接作为剩余价值的一项实测数量。"
+    },
+    {
+      "language": "en",
+      "page": 2,
+      "paragraph": 2,
+      "before": "The starting point is established economics. Grossman's health-capital approach treats health as a stock relevant to both well-being and productive time; Becker's allocation-of-time framework makes non-market time part of economic choice. [@E001][@E002] Marx's discussion of the working day directs attention to bargaining, limits on labour and the reproduction of labour power. [@E003] These traditions motivate different questions rather than a single interchangeable theory. In particular, health losses cannot simply be appended to Marxian surplus value as an empirically measured quantity without a separate account of exposure, counterfactual outcomes and incidence.",
+      "after": "Established theories offer different starting points. Grossman treats health as a stock with both consumption and production value; Becker brings non-market time into resource allocation. [@E001][@E002] Marx links the working day to bargaining and the reproduction of labour power. [@E003] These accounts address health, time and labour relations from distinct perspectives. Marx motivates questions about who receives production gains and who bears health burdens. Identifying a particular health loss still requires evidence about exposure and the feasible alternative; it cannot simply be added to surplus value as a measured quantity."
+    },
+    {
+      "language": "zh",
+      "page": 2,
+      "paragraph": 3,
+      "before": "健康可行能力理论关注的，不仅是已经实现的健康状态，还有人们维护健康、追求自身目标的真实机会。[@E004] 对于依赖加班收入支付住房或照护费用的人，拒绝加班的名义权利与实际能力可能相距甚远。健康状态也会影响收入对生活的意义，同额收入增量未必产生相同的福利改善。[@E005] 收入因此仍是重要资源，但其价值需要结合用途和约束来判断：它能否减轻困境，又以何种时间和健康代价换取。",
+      "after": "健康可行能力理论同时关注已经实现的健康状态，以及人们维护健康、追求自身目标的实际机会。[@E004] 对依赖加班收入支付住房或照护费用的人来说，有权拒绝加班，并不意味着有条件拒绝。健康状态也会改变收入对生活的意义，同额收入增量未必带来相同的福利改善。[@E005] 评价收入时，需要同时考察它缓解了哪些困难，以及为此付出的时间和健康代价。"
+    },
+    {
+      "language": "en",
+      "page": 2,
+      "paragraph": 3,
+      "before": "Health capability approaches further distinguish achieved states from the real opportunities people have to maintain health and act on their goals. [@E004] This matters when an apparent choice cannot be refused without losing housing or essential care. Evidence on health-dependent utility also cautions against assuming that a given monetary increment has the same welfare significance in every health state. [@E005] Neither point makes income irrelevant. Resources can enable care, security and participation; the question is which consequences a particular increment enables or displaces under actual constraints.",
+      "after": "Health capability concerns both achieved health and the real opportunities people have to maintain it and pursue their goals. [@E004] A person who needs overtime pay for housing or care may have the right to refuse without the means to do so. Health-dependent utility also means that the same income increment need not yield the same welfare gain in every health state. [@E005] Appraisal should therefore consider which difficulties the income relieves and the time and health costs of obtaining it."
+    },
+    {
+      "language": "zh",
+      "page": 2,
+      "paragraph": 4,
+      "before": "本文所称健康经济价值，是健康与功能变化在资源配置和个人选择中的意义。它既涉及健康本身，也涉及健康对日常活动和生活目标的支持。为使这一价值进入具体决策，本文提出健康后果比较框架：在相同期限内比较可行方案，分别列出收益、负担及其不确定性，再依据当事人的目标作出评价。比较可以形成明确选择，也可以揭示选择成立的条件，或保留尚无法排序的分歧。",
+      "after": "本文所称健康经济价值，是健康与功能变化对资源配置和个人选择的意义，包括健康本身的价值及其对日常活动的支持。它不等同于赚钱能力、总体福利或人的价值。比较框架据此列出可行方案，追踪后果随时间的变化，并结合证据、不确定性和个人目标作出判断。比较可以得到明确的选择，也可以说明某项选择在什么条件下成立，或哪些分歧暂时无法消解。"
+    },
+    {
+      "language": "en",
+      "page": 2,
+      "paragraph": 4,
+      "before": "We use health economic value to mean the decision-relevant significance of health and functioning within these trade-offs. It is not synonymous with total welfare, earning capacity or a person's worth. Money, time, experience and agency enter the comparison because they interact with health and carry value of their own. The proposed contribution is an integrative accounting procedure: specify a feasible counterfactual, trace consequences over time, attach evidence and uncertainty, and make the evaluative judgement explicit. A legitimate result can be a preference, a conditional choice or an unresolved comparison.",
+      "after": "We use health economic value to describe the significance of health and functioning for resource allocation and personal choice, including the value of health itself and its support for daily activities. It is distinct from earning capacity, total welfare and human worth. The framework specifies feasible alternatives, traces their consequences over time, and makes evidence, uncertainty and personal priorities explicit. A comparison may yield a preference, identify the conditions under which a choice is justified, or leave a disagreement unresolved."
+    },
+    {
+      "language": "zh",
+      "page": 3,
+      "paragraph": 2,
+      "before": "货币估值适用于特定的政策与资源配置问题，但补偿和恢复是两回事。补贴可以改善经济处境，却不据此证明功能损失已被弥补；某项损失难以逆转，也不妨碍比较预防、缓解和其他可行安排。尤其在备选机会有限时，接受补偿所反映的可能是生计约束，而不只是对健康风险的偏好。行为福利分析对选择条件的讨论，有助于说明为何实际选择不能无条件地代表充分知情的价值判断。[@E006]",
+      "after": "货币估值可用于特定的政策和资源配置问题，补偿支付却不能证明身体功能已经恢复。即使某项损失难以逆转，人们仍需比较预防、缓解和其他可行安排。接受补偿也有不同原因：有人认为收益足以抵偿风险，有人则缺少维持生计的其他选择。行为福利分析因此要求关注选择发生的条件，不能把所有实际选择都视为充分知情的价值判断。[@E006]"
+    },
+    {
+      "language": "en",
+      "page": 3,
+      "paragraph": 2,
+      "before": "Monetary valuation can answer defined policy questions, but compensation is not biological restoration. Conversely, irreversibility does not logically make valuation impossible: people still compare prevention, mitigation and foregone opportunities. What fails is the inference that a payment necessarily neutralizes a loss. A stated minimum payment depends on income, alternatives and understanding; accepting dangerous work under severe deprivation does not establish that the health loss is trivial. Behavioural welfare analysis provides reasons to examine the conditions under which choices reveal evaluative preferences. [@E006]",
+      "after": "Monetary valuation can inform defined policy and resource-allocation questions, but payment does not establish that lost functioning has been restored. Even when a loss is irreversible, people still compare prevention, mitigation and feasible alternatives. Acceptance of compensation can reflect a considered trade-off or a lack of other ways to meet essential needs. Behavioural welfare analysis therefore examines the conditions under which observed choices reveal informed preferences. [@E006]"
+    },
+    {
+      "language": "zh",
+      "page": 3,
+      "paragraph": 3,
+      "before": "成本—后果分析将不同结果并列呈现，多准则决策分析则要求说明评价标准及其权重。[@E008][@E009] 成熟的决策指南也已包含备选方案、价值取向和支持需求。[@E010] 本文在这些方法基础上，突出四项容易在日常选择中遗漏的信息：时间重新分配到何处，结果如何随时间变化，有辅助与无辅助时的功能是否不同，以及收益和负担分别由谁承担。由此形成的比较记录见表 1。",
+      "after": "成本—后果分析将不同结果并列呈现，多准则决策分析则明确评价标准及其权重。[@E009][@E008] 成熟的决策指南也会询问备选方案、价值取向和支持需求。[@E010] 本文在这些方法上增加具体记录：节约的时间用在何处，结果能持续多久，有无辅助时的功能有何差别，以及收益和负担由谁承担。这些项目构成表 1 的比较记录，其实际作用仍需与既有工具比较验证。"
+    },
+    {
+      "language": "en",
+      "page": 3,
+      "paragraph": 3,
+      "before": "The framework adapts the transparency of cost–consequence analysis and the explicit criteria of multicriteria decision analysis, while retaining their limitations. [@E008][@E009] It adds no validated universal scale. An established decision guide already elicits options, uncertainty, values and support needs. [@E010] Our narrower proposal makes time reallocation, outcome trajectories, assisted versus unaided functioning and the distribution of consequences explicit within such support. Any advantage over existing tools must be demonstrated, not inferred from a new label.",
+      "after": "Cost–consequence analysis presents outcomes alongside one another, while multicriteria decision analysis makes criteria and weights explicit. [@E009][@E008] Established decision guides already elicit options, values and support needs. [@E010] Our proposal adds specific records of where saved time goes, how outcomes develop, how functioning differs with and without assistance, and who bears the consequences. Table 1 organizes these fields. Their usefulness must be tested against existing tools."
+    },
+    {
+      "language": "zh",
+      "page": 3,
+      "paragraph": 5,
+      "before": "比较框架追求的是记录规则的一致，而非偏好的一致。当收入、睡眠与家庭时间发生冲突时，首先应把冲突呈现出来，再考察不同优先目标会如何改变结论。汇总评分只有在量尺、权重和重复计量问题得到合理处理后才有解释力。对于缺少可靠换算关系的结果，分别报告往往更便于判断。",
+      "after": "比较需要统一记录规则，也需要容纳不同偏好。收入、睡眠与家庭时间发生冲突时，应先列明得失，再考察改变优先顺序是否会改变选择。只有在量尺、权重、不确定性和重复计量问题得到合理处理后，汇总评分才有解释力。缺少可靠换算关系的结果，可保留各自单位，分别报告。"
+    },
+    {
+      "language": "en",
+      "page": 3,
+      "paragraph": 5,
+      "before": "Table 1 provides a minimum record. Its purpose is comparability of the decision process, not uniformity of preferences. When meaningful consequences diverge, the analyst should show the conflict and examine sensitivity to priorities. A single index is optional only when its scales, weights, uncertainty and double-counting risks are defensible; declining to aggregate is often the more informative result.",
+      "after": "A common record should accommodate different priorities. When income, sleep and family time conflict, the comparison should show the trade-off and test whether changing priorities changes the choice. An overall score is interpretable only when scales, weights, uncertainty and double counting have been addressed. Outcomes without a defensible conversion can retain their own units and be reported separately."
+    },
+    {
+      "language": "zh",
+      "page": 5,
+      "paragraph": 1,
+      "before": "任务效率是最直接的评价层次。Noy 和 Zhang 对 453 名专业人士开展的随机研究显示，AI 辅助提高了写作速度与产出质量。[@E011] Brynjolfsson 等在涉及 5,172 名客服人员的现场研究中，利用分阶段部署进行双重差分分析，主分析显示每小时解决问题数约提高 15%。[@E026] 后者属于准实验研究，测量的是工作效率。这些结果说明 AI 可以提高生产率，但节约的时间如何分配、健康是否改善，还需要另外测量。 研究未掌握薪酬数据，生产率增益因而不能直接解释为劳动者收入增长。[@E026]",
+      "after": "任务效率是最直接的评价结果。Noy 和 Zhang 对 453 名专业人士开展的随机研究发现，AI 辅助提高了写作速度与产出质量。[@E011] Brynjolfsson 等研究了涉及 5,172 名客服人员的分阶段部署，双重差分主分析显示每小时解决问题数约提高 15%。[@E026] 后者属于准实验研究，测量的是工作效率，且未掌握薪酬数据。两项研究支持生产率收益，但节约的时间由谁支配、劳动者收入和健康是否改善，仍需另行测量。[@E026]"
+    },
+    {
+      "language": "en",
+      "page": 5,
+      "paragraph": 1,
+      "before": "AI can expand productive capacity. In a randomized study of 453 professionals, Noy and Zhang found improvements in writing-task speed and quality. [@E011] In a field study covering 5,172 customer-support agents, Brynjolfsson and colleagues used staggered deployment and difference-in-differences analysis; their preferred estimate implied about a 15% increase in issues resolved per hour. [@E026] This was not a randomized trial, and the field outcome was throughput, not health. Together these studies support productivity gains while leaving open who receives the time or income dividend. The study lacked compensation data, so productivity gains cannot directly be interpreted as increased worker income. [@E026]",
+      "after": "Task efficiency is the most direct outcome. Noy and Zhang found faster writing and better output in a randomized study of 453 professionals. [@E011] Brynjolfsson and colleagues examined a staggered rollout covering 5,172 customer-support agents; their main difference-in-differences estimate indicated about 15% more issues resolved per hour. [@E026] The latter study was quasi-experimental, measured throughput and lacked compensation data. These studies support productivity gains, but who controls the saved time, and whether income or health improves, require separate measurement. [@E026]"
+    },
+    {
+      "language": "zh",
+      "page": 5,
+      "paragraph": 2,
+      "before": "第二个层次是能力变化。辅助条件下完成任务，与撤去辅助后独立完成任务，反映的是不同能力。Bastani 等的教育实验说明，仅观察辅助练习的成绩，难以判断学习效果，还需安排无辅助测评。[@E012] 对 AI 的评价因此应同时关注即时表现、独立表现和向陌生任务的迁移。工具支持本身也有价值：即使独立能力未变，原本难以完成的活动变得可及，仍可能改善日常生活。",
+      "after": "第二个层次是能力变化。辅助条件下完成任务，与撤去辅助后独立完成任务，需要分别测量。Bastani 等的教育实验说明，判断学习效果还需安排无辅助测评。[@E012] 评价应同时关注即时表现、独立表现和向陌生任务的迁移，不能据一项实验推断 AI 普遍损害认知。工具支持本身也有价值：即使独立能力未变，原本难以完成的活动变得可及，仍可能改善日常生活。"
+    },
+    {
+      "language": "en",
+      "page": 5,
+      "paragraph": 2,
+      "before": "The relevant distinction is also between performance with assistance and capability retained without it. Bastani and colleagues' educational experiment illustrates why an evaluation should include an unaided assessment rather than infer learning from assisted practice alone. [@E012] This does not establish that AI generally erodes cognition. It specifies a measurement requirement: immediate performance, transfer to unfamiliar tasks and independent performance answer different questions. Accessibility and supported functioning can be valuable even where unaided performance is unchanged.",
+      "after": "A second outcome is capability. Performance with assistance and performance after assistance is removed require separate measurement. Bastani and colleagues’ education experiment illustrates the need for an unaided assessment of learning. [@E012] Evaluation should cover immediate performance, independent performance and transfer to unfamiliar tasks; this experiment does not establish general cognitive harm from AI. Support itself also has value when it makes previously difficult activities accessible, even if unaided ability is unchanged."
+    },
+    {
+      "language": "zh",
+      "page": 5,
+      "paragraph": 3,
+      "before": "第三个层次是收益能否持续。De Freitas 等持续 7 天的第三项研究发现，AI 陪伴带来的孤独感缓解主要体现于互动后的即时测量，尚未证明互动前的孤独水平持续下降。[@E013] 组间退出差异、对照组互动时长不匹配，也限制了结果解释。即时安慰值得被记录，而长期收益需通过后续测量判断。短内容与虚拟互动同样应考察愉悦、睡眠、人际联系和自主退出等具体结果，单凭使用时长难以确定其价值。",
+      "after": "第三个层次是收益的持续时间。De Freitas 等持续 7 天的第三项研究中，AI 陪伴带来的孤独缓解主要出现在互动后的即时测量，尚未证明互动前的孤独水平持续下降。[@E013] 组间退出差异和对照时长不匹配限制了结果解释。评价既应记录即时安慰，也应随访效果是否持续。对于短内容和虚拟互动，还可观察愉悦、睡眠、人际联系和能否自主结束使用；活动名称或使用时长本身不足以确定其价值。"
+    },
+    {
+      "language": "en",
+      "page": 5,
+      "paragraph": 3,
+      "before": "AI companionship raises a temporal distinction. In the seven-day third study reported by De Freitas and colleagues, loneliness relief was most clearly immediate; a persistent improvement in pre-interaction loneliness was not demonstrated. [@E013] Differential attrition and a non-time-matched control limit interpretation. This is evidence for examining when benefit occurs, not grounds for dismissing companionship or diagnosing dependence. For short-form content and virtual interaction, useful records would include sleep displacement, enjoyment, relationships and the ability to disengage; content type or duration alone does not establish harm.",
+      "after": "A third outcome is how long a benefit lasts. In De Freitas and colleagues’ seven-day Study 3, loneliness relief appeared mainly in immediate post-interaction measures; persistent improvement before interaction was not demonstrated. [@E013] Differential attrition and an unmatched control duration limit interpretation. Evaluation should record immediate comfort and follow whether it lasts. For short-form content and virtual interaction, relevant outcomes also include enjoyment, sleep, relationships and the ability to stop. Activity labels or duration alone do not establish their value."
+    },
+    {
+      "language": "zh",
+      "page": 5,
+      "paragraph": 4,
+      "before": "医疗建议体现了从信息到行动的另一道距离。Bean 等发现，使用者处理假设医疗场景时，未能达到模型单独作答的表现；图 5d 列出其对照组与 AI 辅助组的识别结果。[@E014] 这里测量的是场景判断，并非真实患病结局。停用 Facebook 的研究也提示，应关注平台使用之外的生活变化，但其结果不能直接作为生成式 AI 的效应。[@E015] 近期关于健康素养导向 AI 的讨论强调理解、自主性、责任和相称性。[@E024] 将任务表现、持续能力和生活结果分开评价，有助于把这些要求落实到可观察的指标上。",
+      "after": "医疗建议还涉及信息如何转化为行动。Bean 等发现，使用者处理假设医疗场景时，未达到模型单独作答的表现；图 5d 展示对照组相对 AI 辅助组的病情识别结果。[@E014] 测量的是场景判断，并非实际患病结局。停用 Facebook 的研究同样关注平台使用之外的生活变化，但不能直接用于推断生成式 AI 的效应。[@E015] 健康素养导向 AI 强调理解、自主性、责任和相称性。[@E024] 将任务表现、持续能力和生活结果分别测量，可使这些要求落实为具体评价。"
+    },
+    {
+      "language": "en",
+      "page": 5,
+      "paragraph": 4,
+      "before": "Information accuracy and user benefit also differ. Bean and colleagues found that people working through hypothetical medical scenarios did not reproduce the models' standalone performance; Figure 5d retains the reported control-versus-AI contrast. [@E014] The outcome was scenario interpretation, not clinical disease. Earlier Facebook-deactivation research likewise shows the value of measuring consequences beyond platform use, although social-media findings cannot simply be transferred to generative AI. [@E015] Health-literate AI already emphasizes comprehension, agency, accountability and proportionality. [@E024] Our proposal complements that agenda by specifying the consequences and time horizons to compare, rather than claiming these concerns as new.",
+      "after": "Medical advice also raises the question of how information becomes action. Bean and colleagues found that users handling hypothetical medical scenarios did not match the models’ standalone performance; Figure 5d shows identification in the control group relative to pooled AI assistance. [@E014] This measures scenario judgement, not clinical disease. Facebook-deactivation research likewise examines life beyond platform use, although its findings cannot directly establish generative AI effects. [@E015] Health-literate AI emphasizes comprehension, agency, accountability and proportionality. [@E024] Separate measures of task performance, sustained capability and daily outcomes help put these requirements into practice."
+    },
+    {
+      "language": "zh",
+      "page": 6,
+      "paragraph": 1,
+      "before": "选择指标，先要说清准备作什么决定。比较一顿晚餐，可能需要了解价格、准备时间和饱腹感；比较一个月的夜班，则还要关注睡眠、白天功能和恢复安排。把所有体检项目都放进评价，未必比选准几项关键指标更有帮助。应先确认备选方案可行、观察期限一致，再按基线状况和主要关切选择指标。图 4 给出这一选择的层次。",
+      "after": "指标应随决策问题选择。比较一顿晚餐，可记录价格、准备时间和饱腹感；比较一个月的夜班，还需观察睡眠、白天功能和恢复安排。先确认方案可行、期限一致，再依据基线状况和主要关切选择指标，比罗列全部体检项目更有针对性。图 4 展示了从暴露到生活影响的测量层次。"
+    },
+    {
+      "language": "en",
+      "page": 6,
+      "paragraph": 1,
+      "before": "Measures should follow the decision. A dinner comparison may require price, preparation time and satiety; night-work comparisons also need sleep, functioning and recovery. Select relevant measures rather than every available test, after establishing feasible alternatives, a common horizon and baseline conditions. Figure 4 organizes these measurement levels.",
+      "after": "Measures should follow the decision. A dinner comparison may need price, preparation time and satiety; a month of night work also calls for sleep, daytime functioning and recovery measures. Establish feasible alternatives and a common horizon, then select measures relevant to baseline conditions and the person’s concerns. Figure 4 distinguishes exposure, state and consequences for daily life."
+    },
+    {
+      "language": "zh",
+      "page": 6,
+      "paragraph": 3,
+      "before": "身体指标需要说明测量的对象和实际意义。血糖、血脂、血压、肌力、视力和皮肤症状分别回答不同问题，笼统的“血液质量”不能代替它们。即使数值变化，也要结合基线、测量条件和适宜范围解释。皮肤不适或外观变化可以影响感受与交往，但不能仅凭肤色、头发或体形判断内部器官的状态。身体与心理相互联系，具体联系仍需测量；健康状况的差异更不能成为衡量人的尊严与价值的尺度。",
+      "after": "血糖、血脂、血压、肌力、视力和皮肤症状各有测量对象，笼统的“血液质量”无法代替具体指标。数值变化需要结合基线、测量条件和适宜范围解释。皮肤不适和外观变化可以影响感受与交往，但不能仅凭肤色、头发或体形判断内部器官状态。身体与心理的联系也需要具体测量。健康差异反映人的处境，不应成为衡量其尊严与价值的尺度。"
+    },
+    {
+      "language": "en",
+      "page": 6,
+      "paragraph": 3,
+      "before": "Glucose, lipids, blood pressure, strength, vision and skin symptoms answer different questions; blood quality is too vague. Changes require interpretation against baseline, measurement conditions and appropriate ranges. Appearance may affect experience but cannot establish internal organ status. Physical–psychological relationships require measurement, and differences in health must not become a ranking of human dignity or worth.",
+      "after": "Glucose, lipids, blood pressure, strength, vision and skin symptoms measure different aspects of health; “blood quality” is too vague to replace them. Changes need interpretation against baseline, measurement conditions and appropriate ranges. Skin discomfort and appearance can affect experience and social life, but complexion, hair or body shape cannot establish internal organ status. Relationships between physical and psychological health also require measurement. Differences in health must not become a ranking of dignity or human worth."
+    },
+    {
+      "language": "zh",
+      "page": 7,
+      "paragraph": 2,
+      "before": "这些研究共同说明：劳动安排、饮食、睡眠和数字工具的后果可以进入经验研究，但每个估计都有特定含义。将研究结果用于个人选择，需要逐项核对人群、暴露、比较对象、结局与随访期限。本文据此建立比较的依据，不合并这些不同结局，也不把它们换算为个人健康价格。",
+      "after": "将这些结果用于个人选择，须逐项核对研究人群、暴露、比较对象、结局和随访期限。它们说明劳动安排、饮食、睡眠及数字工具的某些后果可以测量；既不能据此验证整个框架，也不能把不同结局合并为个人的健康价格。图 5 保留各研究的单位和不确定性，供判断证据是否适用。"
+    },
+    {
+      "language": "en",
+      "page": 7,
+      "paragraph": 2,
+      "before": "These findings make particular consequences credible enough to investigate. They do not validate the entire framework, establish a universal lifestyle hierarchy or provide coefficients for pricing an individual's health. Transporting an effect requires attention to population, exposure, comparator, outcome and follow-up. The figure therefore keeps study designs, units and uncertainty visible instead of pooling unlike outcomes.",
+      "after": "Applying these findings to personal choice requires checking the population, exposure, comparator, outcome and follow-up. They show that particular consequences of work, diet, sleep and digital tools can be measured. They do not validate the framework as a whole or supply a personal price for health. Figure 5 retains each study’s units and uncertainty so that readers can judge its relevance."
+    },
+    {
+      "language": "zh",
+      "page": 8,
+      "paragraph": 4,
+      "before": "两种备选方案以外，往往还有可以协商的安排，例如减少连续夜班、设置次日休息或允许中途退出。将这些条件纳入比较，讨论便从“健康值多少钱”转向“怎样在满足收入需要的同时保留更多健康与生活空间”。这些安排是待评估的选项，其效果仍需实际资料支持。",
+      "after": "加班安排也可能协商：减少连续夜班、安排次日休息，或允许中途退出，都可作为新的备选方案。比较时既要考察能否满足收入需要，也要观察能否保留休息和重视的活动。这些安排的实际效果仍需评估。"
+    },
+    {
+      "language": "en",
+      "page": 8,
+      "paragraph": 4,
+      "before": "Negotiable arrangements may enlarge the choice set: fewer consecutive night shifts, protected time off or the ability to stop. Including them turns a question about the price of health into a comparison of ways to meet income needs while preserving health and valued activities. These are options to evaluate; their effects require evidence.",
+      "after": "Work arrangements may also be negotiable. Fewer consecutive night shifts, time off the next day or the ability to stop can be included as further options. Comparison should examine whether they meet income needs while preserving rest and valued activities. Their effects still require evaluation."
+    },
+    {
+      "language": "zh",
+      "page": 9,
+      "paragraph": 2,
+      "before": "两方案的取舍取决于更多条件：每天加班多久、是否跨越夜间、原有健康状况如何、能否中止，以及补贴是否用于必要支出。不同经济约束可以导致不同选择，却不会让健康代价凭空消失。框架的作用，是把这类差异和冲突明确列出，使“10 万元是否值得”成为有条件的判断。法律或合同支付解决的是责任与补偿问题，不能单凭支付发生就认定身体功能得到恢复。",
+      "after": "判断两方案的得失，还需知道每天加班多久、是否跨夜、原有健康状况、能否中止，以及收入是否用于必要支出。经济约束不同，选择可能不同，健康代价却仍应记录。因此，“10 万元是否值得”只能在这些条件下判断。法律或合同规定的支付处理责任与补偿问题，不能证明失去的身体功能已经恢复。"
+    },
+    {
+      "language": "en",
+      "page": 9,
+      "paragraph": 2,
+      "before": "A disciplined appraisal asks about shift duration and timing, baseline symptoms, the ability to stop, essential financial needs and the next-best feasible option. The same schedule may be evaluated differently under different constraints without making its health consequences unreal. The framework cannot determine that CNY 100,000 is sufficient compensation. It can identify what is known, what remains uncertain and which conflicts drive the decision. A legally or contractually specified payment is an allocation of responsibility; it is not evidence that lost functioning has been restored.",
+      "after": "Appraisal also needs shift duration and timing, baseline health, the ability to stop, essential financial needs and the next-best feasible option. Different constraints may lead to different choices, while health costs still belong in the record. Whether CNY 100,000 is worthwhile can only be judged under these conditions. A legal or contractual payment addresses responsibility and compensation; it does not show that lost functioning has been restored."
+    },
+    {
+      "language": "zh",
+      "page": 10,
+      "paragraph": 3,
+      "before": "这个案例的经济含义在于，准备一餐饭也消耗时间和劳动。家庭内部由谁采购、烹调和清洗，应当进入记录；便利带来的时间收益，同样值得评价。实用的比较可以从少量可持续的调整开始，例如改变可获得的菜品组合、减少准备负担，再观察饮食体验与相关结果，而不是先要求当事人接受一种理想化菜单。",
+      "after": "准备一餐饭需要时间和劳动，家庭中由谁采购、烹调和清洗，应与食物开支一并记录。便利食品节约的时间也有价值。实际比较可从做得到的调整开始，例如改变可获得的菜品组合，或减轻准备负担，再观察饮食体验和相关结果。要求当事人先接受一种理想菜单，反而容易忽略其生活条件。"
+    },
+    {
+      "language": "en",
+      "page": 10,
+      "paragraph": 3,
+      "before": "The economic point is that preparing a meal also uses time and labour. Who shops, cooks and cleans within the household belongs in the account, alongside the time gained from convenience. A practical comparison can begin with feasible changes in available meal combinations or preparation burden, followed by observation of eating experience and relevant outcomes, rather than requiring an idealized menu in advance.",
+      "after": "Preparing a meal uses time and labour. Who shops, cooks and cleans should be recorded alongside food spending and the time saved by convenience. A practical comparison can begin with feasible changes to available meal combinations or preparation burden, then observe the eating experience and relevant outcomes. Requiring an ideal menu at the outset can overlook the person’s circumstances."
+    },
+    {
+      "language": "zh",
+      "page": 11,
+      "paragraph": 3,
+      "before": "AI 陪伴还需要区分即时支持与持续改变。已有研究记录到互动后的孤独缓解，但对长期效果的判断仍受随访与对照设计限制。[@E013] 在具体案例中，可观察它是否补充原有支持、是否伴随睡眠推迟，以及使用者能否自主结束互动。由此得到的评价应尊重愉悦和支持本身的价值，也保留调整使用方式的空间。",
+      "after": "评价 AI 陪伴时，也应分别记录即时支持和持续变化。已有研究观察到互动后的孤独缓解，但随访和对照设计仍限制了对长期效果的判断。[@E013] 在个人比较中，可以观察使用是否补充了原有支持、是否伴随推迟睡眠，以及能否按意愿结束互动。愉悦和支持本身有价值；记录后续变化，则有助于决定是否调整使用方式。"
+    },
+    {
+      "language": "en",
+      "page": 11,
+      "paragraph": 3,
+      "before": "AI companionship also calls for separating immediate support from persistent change. Research has recorded post-interaction loneliness relief, while follow-up and comparator design constrain conclusions about persistence. [@E013] A case comparison can examine whether use supplements existing support, accompanies later sleep, and remains under the user’s control. Appraisal can recognize enjoyment and support as valuable while preserving scope to change use.",
+      "after": "AI companionship should be assessed for both immediate support and sustained change. Studies have observed loneliness relief after interaction, while follow-up and comparator design limit conclusions about persistence. [@E013] A personal comparison can track whether use adds to existing support, accompanies delayed sleep and can be ended as intended. Enjoyment and support have value in themselves; observing subsequent changes can inform decisions about future use."
+    },
+    {
+      "language": "zh",
+      "page": 12,
+      "paragraph": 1,
+      "before": "框架的验证包含两个问题：哪些机制导致健康相关结果发生变化，以及比较框架能否帮助人们作出更充分知情的选择。前者提供内容依据，后者决定工具是否有实际用处。图 10 将两类研究分开，表 3 列出三项待检验命题及可能削弱命题的观察。",
+      "after": "验证分为两部分：一是识别哪些机制改变了健康相关结果，二是检验比较框架是否帮助人们作出更充分知情的选择。前者为记录内容提供依据，后者检验工具的实际作用。图 10 展示两条研究路径，表 3 列出待检验命题及可能削弱它们的结果。"
+    },
+    {
+      "language": "en",
+      "page": 12,
+      "paragraph": 1,
+      "before": "Validation involves two questions: which mechanisms change health-related outcomes, and whether the framework improves informed choice. The first provides evidence for its content; the second determines its practical value. Figure 10 separates these research questions, and Table 3 specifies three propositions and observations that could weaken them.",
+      "after": "Validation has two parts: identifying mechanisms that change health-related outcomes, and testing whether the comparison framework improves informed choice. The first supplies evidence for the record; the second tests the tool’s usefulness. Figure 10 separates these research paths, and Table 3 lists propositions and findings that could weaken them."
+    },
+    {
+      "language": "zh",
+      "page": 13,
+      "paragraph": 1,
+      "before": "个人选择发生在一定制度条件之中。工作规则、平台设计、住房、食物可获得性和照护责任，都会影响备选方案及其可行性（图 11）。当收入不稳定或工作量要求使休息难以实现时，健康评价若只强调自律，就会遗漏真正的约束。比较框架可以使这些约束显现，但改变选择条件仍需要组织和公共政策的参与。",
+      "after": "个人选择受到工作规则、平台设计、住房、食物可获得性和照护责任的约束（图 11）。收入不稳定或工作量要求可能使休息难以实现，此时只强调自律，会遗漏限制选择的条件。比较框架可以揭示这些约束；扩大可行选项、改变议价关系，仍需要组织和公共政策的参与。"
+    },
+    {
+      "language": "en",
+      "page": 13,
+      "paragraph": 1,
+      "before": "A consequence profile would be incomplete if it treated constrained behaviour as a failure of individual discipline. Workplace rules, platform design, housing, food access and caring responsibilities shape both available options and the capacity to act on a preference. Figure 11 places these conditions upstream of appraisal. Recording that someone would prefer rest is insufficient if income insecurity or workload rules prevent it. Decision support can reveal such a conflict; it cannot itself redistribute bargaining power or provide the missing option.",
+      "after": "Work rules, platform design, housing, food access and care responsibilities constrain personal choices (Fig. 11). Income insecurity or workload demands may make rest difficult, so an emphasis on self-discipline alone misses the conditions limiting choice. The framework can reveal these constraints; expanding feasible options and changing bargaining conditions also require organizational and public-policy action."
+    },
+    {
+      "language": "zh",
+      "page": 13,
+      "paragraph": 2,
+      "before": "收益与负担还可能由不同主体承担。劳动者净收入、企业产出、家庭无偿照护与公共支出，应分别记录。一笔补偿在个人层面是收入，在社会层面则可能只是主体之间的转移；一个人节约的时间，也可能转化为他人的核验、纠错或照护负担。因此，评价既要确定总量如何变化，也要追踪变化落在谁身上。",
+      "after": "评价还需明确站在谁的角度。劳动者净收入、企业产出、家庭无偿照护和公共支出应分别记录。一笔补偿对个人是收入，对社会则可能只是主体之间的转移；一个人节约的时间，也可能成为他人的核验、纠错或照护负担。比较个人、家庭与社会层面的结果，才能看清总量变化和实际承担者。"
+    },
+    {
+      "language": "en",
+      "page": 13,
+      "paragraph": 2,
+      "before": "The perspective of the account must be stated. A worker's net payment, an employer's productivity, a family's unpaid care and public expenditure are distinct entries. A payment can compensate a recipient while representing a transfer between parties rather than a net social resource gain. Time saved for one person may be shifted to another through monitoring, correction or care. Comparing individual, household and societal accounts can expose these differences without assuming that their interests can be aggregated by a single unexamined weight.",
+      "after": "The perspective of the comparison must also be explicit. Workers’ net income, firms’ output, unpaid family care and public spending are separate entries. Compensation is income to a recipient but may be a transfer between parties at the societal level. Time saved by one person may become another’s checking, correction or care work. Comparing individual, household and societal outcomes shows both aggregate change and who bears it."
+    },
+    {
+      "language": "zh",
+      "page": 13,
+      "paragraph": 4,
+      "before": "本文的主要贡献，是把健康相关结果的内容、时间和分配纳入同一比较过程。AI 使这一问题更为突出，因为任务效率、独立能力与生活改善并不总是同步。共同的记录规则可以帮助人们讨论分歧，却无须要求所有人共享同一套偏好。",
+      "after": "本文将健康相关后果、发生时间和承担者纳入同一比较过程。AI 使用使这些问题更为突出：任务做得更快，未必意味着独立能力增强或生活改善。共同的记录规则有助于讨论这些差异，同时允许人们保留不同偏好。框架能否在既有方法基础上改善解释、预测或决策质量，仍须通过研究检验。"
+    },
+    {
+      "language": "en",
+      "page": 13,
+      "paragraph": 4,
+      "before": "The central claim is modest in form but consequential in practice: a gain is not fully characterized until the health-relevant consequences, their timing and their distribution are visible. AI strengthens the need for this accounting because task performance, independent capability and lived benefit can move differently. A common comparison procedure can make these divergences discussable without imposing a common preference. Its scientific value will depend on whether it improves explanation, prediction or decision quality beyond the methods on which it builds.",
+      "after": "This Perspective brings health-related consequences, their timing and their distribution into one comparison. AI use makes these questions pressing because faster task performance need not improve independent capability or daily life. A shared record can make such differences explicit while allowing personal priorities to vary. Whether the framework improves explanation, prediction or decision quality beyond existing methods remains an empirical question."
+    },
+    {
+      "language": "zh",
+      "page": 13,
+      "paragraph": 5,
+      "before": "本文属于理论探讨，结合经济理论、测量工具与代表性实证研究进行叙述性整合。所提框架尚需验证：较广的测量范围可能增加负担，群体研究结果未必适用于个人，偏好也可能随处境改变。下一步应从具体场景开展可行性研究，再与既有决策支持工具比较，检验它能否持续改善理解与选择。",
+      "after": "本文通过叙述性整合，联系经济理论、测量工具与代表性实证研究，提出一个仍待验证的框架。测量范围扩大可能增加负担，群体结果未必适用于个人，偏好也可能随处境改变。后续研究应先检验具体场景中的可行性，再与既有决策支持工具比较，观察理解和选择是否获得持续改善。"
+    },
+    {
+      "language": "en",
+      "page": 13,
+      "paragraph": 5,
+      "before": "This conceptual Perspective integrates economic theory, measurement approaches and selected empirical studies through narrative synthesis. The framework remains to be validated. Its breadth may increase burden, population effects may not transfer to individuals, and preferences may change with circumstances. The next step is context-specific feasibility research followed by comparison with established decision support, assessing whether any gains in understanding and choice persist.",
+      "after": "This conceptual Perspective draws together economic theory, measurement approaches and selected empirical studies through narrative synthesis. The proposed framework remains unvalidated. Broader measurement may add burden, population effects may not apply to individuals, and priorities can change with circumstances. Context-specific feasibility studies should precede comparison with established decision support, with follow-up to assess whether gains in understanding and choice persist."
+    },
+    {
+      "language": "zh",
+      "page": 6,
+      "paragraph": 5,
+      "before": "每项比较都应说明哪些结果已经观察到，哪些来自预测，哪些仍然未知。未测量的影响不能当作零影响；缺少适用的基线风险时，也不宜把相对效应直接换算为个人的绝对风险。评价可随证据、环境和个人目标的变化而更新，使记录真正服务于选择。",
+      "after": "每项比较都应分清观察结果、预测和未知项。未测量不等于没有影响；没有适用的基线风险，也不能把相对效应换算为个人的绝对风险。证据、处境或个人目标改变后，应重新审视原有判断。"
+    },
+    {
+      "language": "en",
+      "page": 6,
+      "paragraph": 5,
+      "before": "Finally, attach uncertainty to each consequential claim. Distinguish observed findings from projections and unknowns; an unmeasured effect is not zero. Report absolute risks when defensible baseline estimates and applicable models exist, rather than translating relative effects into unsupported personal forecasts. Preserve the person's priorities alongside the evidence, and revisit the comparison if circumstances or outcomes change.",
+      "after": "Distinguish observations, predictions and unknowns. An unmeasured effect is not zero; relative effects cannot yield personal absolute risks without applicable baseline risks and models. Keep personal priorities alongside the evidence, and revisit the comparison when circumstances or outcomes change."
+    },
+    {
+      "language": "zh",
+      "page": 12,
+      "paragraph": 2,
+      "before": "工作场所研究可结合任务日志、全天时间日记和重复测量，记录 AI 使用后节约的时间流向，以及劳动者对工作量和日程的决定权。组织政策随机试验或可信的自然实验，有助于识别时间收益如何分配。仅比较 AI 使用者与非使用者，仍可能混入岗位选择、原有工作负荷和健康差异。机制分析需预先设定，避免因机械控制干预后的时间变量而遮蔽总效应。",
+      "after": "工作场所研究可结合任务日志、全天时间日记和重复测量，记录节约时间的去向及工作量、日程的决定权。组织政策随机试验或可信的自然实验有助于识别因果关系；单纯比较 AI 使用者与非使用者，仍受岗位选择、工作负荷、原有健康和反向因果影响。机制分析应预先设定，避免机械控制干预后的时间变量而遮蔽总效应。"
+    },
+    {
+      "language": "en",
+      "page": 12,
+      "paragraph": 2,
+      "before": "An AI workplace study could combine task logs with whole-day time diaries and repeated outcomes, while measuring authority over workload and schedules. A randomized organizational policy or a credible natural experiment would strengthen causal inference about who captures saved time. A simple association between AI use and well-being would remain vulnerable to job selection, workload, prior health and reverse causation. Mechanism analysis should be prespecified; controlling mechanically for post-treatment time use can obscure the total effect it seeks to explain.",
+      "after": "Workplace studies could combine task logs, whole-day diaries and repeated outcomes with measures of control over workload and schedules. Randomized policies or credible natural experiments would strengthen causal inference. Simple user–non-user comparisons remain vulnerable to job selection, workload, prior health and reverse causation. Prespecified mechanism analyses should avoid obscuring total effects through mechanical adjustment for post-treatment time use."
+    },
+    {
+      "language": "zh",
+      "page": 12,
+      "paragraph": 3,
+      "before": "工具评价宜采用主动对照：两组获得相同事实和成熟决策指南，干预组再增加时间、后果与不确定性记录。决策质量研究和 Cochrane 综述可为结局选择提供依据。[@E021][@E022] 主要结局应在招募前确定，并由独立评分者评价理解程度；陌生情境中的运用、选择与个人价值的一致性，可作为次要结局。",
+      "after": "工具评价宜采用主动对照：两组获得相同事实和成熟决策指南，干预组另加时间、后果与不确定性记录。决策质量研究和 Cochrane 综述可为对照及结局选择提供依据。[@E021][@E022] 主要结局应在招募前确定，由独立评分者评价理解程度；陌生情境中的运用、选择与个人价值的一致性，以及对不确定性的把握，可作为次要结局。"
+    },
+    {
+      "language": "en",
+      "page": 12,
+      "paragraph": 3,
+      "before": "For the decision tool, an active comparator is essential. Both groups should receive the same factual evidence and an established guide; the intervention adds the explicit time, consequence and uncertainty module (Fig. 10). Decision-quality research and the Cochrane review of patient decision aids inform the comparator and outcome selection. [@E021][@E022] The primary outcome should be specified before recruitment, with independent scoring of understanding rather than agreement with the author's preferred lifestyle. Transfer to an unfamiliar decision, values–choice concordance and calibrated uncertainty can be secondary outcomes.",
+      "after": "Tool evaluation should use an active comparator: identical evidence and an established guide, with only the intervention group receiving the added record of time, consequences and uncertainty. Decision-quality research and the Cochrane review inform comparator and outcome selection. [@E021][@E022] Prespecify understanding as a potential primary outcome with independent scoring; transfer, values–choice concordance and calibrated uncertainty can be secondary outcomes."
+    },
+    {
+      "language": "zh",
+      "page": 12,
+      "paragraph": 4,
+      "before": "使用负担也应纳入评价，包括完成时间、退出、焦虑和可及性，并保留停止使用者的反馈。方案需预先说明目标效应、样本量依据、缺失数据和多重比较的处理。若新增模块未改善理解，或负担超过收益，就应简化或调整。评价标准在于决策质量，而非参与者是否作出了研究者偏好的选择。",
+      "after": "还需记录完成时间、退出、焦虑、可及性和停止使用者的体验。重复使用可能带来学习、疲劳或决策变化。预注册方案应说明目标人群、目标效应、样本量依据、缺失数据和多重比较处理。访谈可以解释理解或分歧，不能替代因果估计。若新增记录未带来实质收益，或负担超过收益，应简化或停止使用；选择更符合研究者的生活偏好，不能作为成功标准。"
+    },
+    {
+      "language": "en",
+      "page": 12,
+      "paragraph": 4,
+      "before": "Evaluation must also capture completion time, attrition, anxiety, accessibility and the experience of people who stop using the tool. Repeated use may introduce learning, fatigue or changes in the decision itself. A preregistered protocol should specify the target population, effect of interest, analysis of missingness, multiplicity and sample-size justification. Interviews can explain comprehension or disagreement but cannot replace causal estimates. If the added module offers no meaningful benefit over the guide, or its burden outweighs benefit, it should be simplified or abandoned; a shift toward supposedly healthier choices alone would not demonstrate success.",
+      "after": "Record completion time, attrition, anxiety, accessibility and withdrawals’ experiences. Repeated use may bring learning, fatigue or changed decisions. Preregister the population, target effect, sample-size basis, missing-data analysis and multiplicity handling. Interviews can explain understanding or disagreement, but cannot replace causal estimates. Simplify or discontinue a module without meaningful net benefit. Choices closer to the researchers’ preferred lifestyle alone do not establish success."
+    }
+  ],
+  "abstracts_revised": true,
+  "principles": [
+    "Preserve evidence identifiers and effect estimates",
+    "Remove repetitive defensive framing",
+    "Use concrete subjects and actions",
+    "Retain causal and temporal qualifications"
+  ]
+}

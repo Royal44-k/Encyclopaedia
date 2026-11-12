@@ -1,0 +1,1752 @@
+{
+  "title": "跨领域论文来源核验库",
+  "accessed_at": "2026-11-07",
+  "scope": "定向证据综述；非穷尽系统综述",
+  "records": [
+    {
+      "id": "C01",
+      "title": "使用生成式人工智能对员工创造力评价的影响",
+      "authors": "梁宇畅、何刚、金孟子",
+      "year": 2024,
+      "venue": "外国经济与管理 46(10):71–88,104",
+      "doi": "10.16538/j.cnki.fem.20240901.101",
+      "url": "https://qks.sufe.edu.cn/mv_html/j00002/202410/G8f8ROFq-rXe8-aPC9-3gZX-E7OM7tqKfjFy_WEB.htm",
+      "reading_level": "原刊摘要、实验方法与质性结果段落；未通读全文",
+      "evidence_design": "150名有效参与者的情景实验，另有32名访谈对象",
+      "key_finding": "实验中AI使用者受到较低创造力评价，合作意愿也降低；访谈补充归因线索。",
+      "limitations": "情景中的评价及合作意愿不是长期真实合作网络；中介解释不能单凭统计中介确证。",
+      "data_status": "原刊全文入口可检索；未核实可下载原始数据。",
+      "topic_ids": [
+        "T08",
+        "T19"
+      ],
+      "aliases": [],
+      "source_files": [
+        "china_science_entrepreneurship_sources.json"
+      ],
+      "parallel_audit_notes": [],
+      "accessed_at": "2026-11-07",
+      "publication_class": "published_scholarly",
+      "topic_id_namespace": "original subgroup IDs; T-prefixed IDs refer to the main agenda"
+    },
+    {
+      "id": "C02",
+      "title": "生成式人工智能的使用如何影响员工创新绩效？基于启发式-捷径式取向的视角",
+      "authors": "李育辉、薛嘉欣",
+      "year": 2026,
+      "venue": "南开管理评论，2026-10-10在线；正式卷期待复核",
+      "doi": null,
+      "url": "https://nbr.nankai.edu.cn/nkglpl/article/abstract/250512104",
+      "reading_level": "原刊摘要及元数据",
+      "evidence_design": "量表开发与验证；多来源、多时点452份匹配数据",
+      "key_finding": "启发式与捷径式使用取向与AI使用—想法生成—创新绩效关系的异质性有关。",
+      "limitations": "非随机研究；使用取向可能与原有能力、动机和环境相关。",
+      "data_status": "页面有PDF入口但本次未成功读取；未核实开放微观数据。",
+      "topic_ids": [
+        "T05",
+        "T06"
+      ],
+      "aliases": [],
+      "source_files": [
+        "china_science_entrepreneurship_sources.json"
+      ],
+      "parallel_audit_notes": [],
+      "accessed_at": "2026-11-07",
+      "publication_class": "published_scholarly",
+      "topic_id_namespace": "original subgroup IDs; T-prefixed IDs refer to the main agenda"
+    },
+    {
+      "id": "C03",
+      "title": "人工智能驱动的组织管理范式革命：从分工范式至端到端范式",
+      "authors": "魏炜、张鹏程、马勇斌、张坤、徐哲淇",
+      "year": 2026,
+      "venue": "管理学报 23(1)，起始页1",
+      "doi": null,
+      "url": "https://manu68.magtech.com.cn/glxb/CN/Y2026/V23/I1/1",
+      "reading_level": "原刊摘要与元数据",
+      "evidence_design": "理论建构、六项命题及酷开科技说明案例",
+      "key_finding": "提出人机融合主体、动态任务流与端到端组织范式。",
+      "limitations": "概念及说明案例不等于普遍因果规律；动态任务流与端到端本身已非全新主张。",
+      "data_status": "未核实开放案例原始资料。",
+      "topic_ids": [
+        "T01",
+        "T02",
+        "T04"
+      ],
+      "aliases": [
+        "ORG-S13"
+      ],
+      "source_files": [
+        "china_science_entrepreneurship_sources.json",
+        "organization_sources.json"
+      ],
+      "parallel_audit_notes": [
+        {
+          "reading_level": "期刊官方索引摘要、作者与日期；正文页面读取失败，未通读全文",
+          "data_status": "本轮未核实 DOI 或原始案例数据开放性；不能假定可以公开重现。",
+          "limitations": "标题中的范式革命不等于经因果研究确认的普遍转型；案例说明与六项理论命题不能替代比较性检验。"
+        }
+      ],
+      "accessed_at": "2026-11-07",
+      "publication_class": "published_scholarly",
+      "topic_id_namespace": "original subgroup IDs; T-prefixed IDs refer to the main agenda"
+    },
+    {
+      "id": "C04",
+      "title": "生成式人工智能使用的前因及其对工作绩效的影响：数字化工作重塑视角",
+      "authors": "林俐、朱晶晶",
+      "year": 2025,
+      "venue": "中国人力资源开发 42(2):57–78",
+      "doi": "10.16471/j.cnki.11-2822/c.2025.2.004",
+      "url": "https://zrzk.cbpt.cnki.net/portal/journal/portal/client/paper/fb3d3da663ebd27943f07d1d3fa35f40",
+      "reading_level": "期刊官方摘要；作者机构主页交叉核对书目",
+      "evidence_design": "29份访谈的建构式扎根理论",
+      "key_finding": "从工作重塑解释使用AI的动机与任务匹配条件。",
+      "limitations": "用于机制生成，不能估计平均处理效应，也不能确认普遍的绩效改善。",
+      "data_status": "未核实开放访谈数据。",
+      "topic_ids": [
+        "T04",
+        "T07",
+        "T20"
+      ],
+      "aliases": [],
+      "source_files": [
+        "china_science_entrepreneurship_sources.json"
+      ],
+      "parallel_audit_notes": [],
+      "accessed_at": "2026-11-07",
+      "publication_class": "published_scholarly",
+      "topic_id_namespace": "original subgroup IDs; T-prefixed IDs refer to the main agenda"
+    },
+    {
+      "id": "S01",
+      "title": "Artificial intelligence tools expand scientists’ impact but contract science’s focus",
+      "authors": "Qianyue Hao, Fengli Xu, Yong Li, James Evans",
+      "year": 2026,
+      "venue": "Nature 649:1237–1243",
+      "doi": "10.1038/s41586-025-09922-y",
+      "url": "https://www.nature.com/articles/s41586-025-09922-y",
+      "reading_level": "作者机构托管论文的摘要、方法、局限与数据段；代码README",
+      "evidence_design": "4130万自然科学论文的观察研究与模型分类",
+      "key_finding": "AI使用与个体科学影响扩大、集体研究关注范围收窄同时相关。",
+      "limitations": "作者明确不能完全识别因果；覆盖多代AI，不能全部解释为ChatGPT效应；AI分类和向量范围测量有误差。",
+      "data_status": "已读GitHub目录及README，列Zenodo15779090；未成功读取该数据文件目录、未运行。OpenAlex公开，WoS/JCR另受许可约束。",
+      "topic_ids": [
+        "T13",
+        "T14"
+      ],
+      "extra_urls": [
+        "https://fi.ee.tsinghua.edu.cn/public/publications/35f947be-f27c-11f0-b382-2aaffa21d846.pdf",
+        "https://github.com/tsinghua-fib-lab/AI-Impacts-Science"
+      ],
+      "aliases": [],
+      "source_files": [
+        "china_science_entrepreneurship_sources.json"
+      ],
+      "parallel_audit_notes": [],
+      "accessed_at": "2026-11-07",
+      "publication_class": "published_scholarly",
+      "topic_id_namespace": "original subgroup IDs; T-prefixed IDs refer to the main agenda"
+    },
+    {
+      "id": "S02",
+      "title": "Large teams develop and small teams disrupt science and technology",
+      "authors": "Lingfei Wu, Dashun Wang, James A. Evans",
+      "year": 2019,
+      "venue": "Nature 566:378–382",
+      "doi": "10.1038/s41586-019-0941-9",
+      "url": "https://www.nature.com/articles/s41586-019-0941-9",
+      "reading_level": "原刊检索摘要、扩展数据说明及数据声明",
+      "evidence_design": "论文、专利、软件的大规模历史观察研究",
+      "key_finding": "较小和较大团队在颠覆性与发展既有方向的指标上呈现不同模式。",
+      "limitations": "历史关联不能推出缩编会提升创新；作者数量、团队边界与引用指标均需验证。",
+      "data_status": "论文列作者数据入口，未逐文件核验；部分底层数据库商业许可。",
+      "topic_ids": [
+        "T13",
+        "T14"
+      ],
+      "aliases": [],
+      "source_files": [
+        "china_science_entrepreneurship_sources.json"
+      ],
+      "parallel_audit_notes": [],
+      "accessed_at": "2026-11-07",
+      "publication_class": "published_scholarly",
+      "topic_id_namespace": "original subgroup IDs; T-prefixed IDs refer to the main agenda"
+    },
+    {
+      "id": "S03",
+      "title": "Dataset artefacts can partially drive the measured decline in disruption",
+      "authors": "Vincent Holst, Andres Algaba, Floriano Tori, Sylvia Wenmackers, Vincent Ginis",
+      "year": 2026,
+      "venue": "Nature，Matters Arising",
+      "doi": "10.1038/s41586-026-10787-y",
+      "url": "https://www.nature.com/articles/s41586-026-10787-y",
+      "reading_level": "原刊可检索段落、作者机构研究说明；未读完整技术附录",
+      "evidence_design": "颠覆性指标数据与分析的复核评论",
+      "key_finding": "指出数据瑕疵可能影响颠覆性下降的测量。",
+      "limitations": "原作者发表争议回应，不能将评论视为已经推翻原结论；本次未裁决双方技术争议。",
+      "data_status": "原刊列被评论论文的公开Zenodo数据；本次未复算。",
+      "topic_ids": [
+        "T14"
+      ],
+      "extra_urls": [
+        "https://press.vub.ac.be/vub-onderzoek-zet-wereldwijd-debat-over-wetenschappelijke-innovatie-op-losse-schroeven"
+      ],
+      "aliases": [],
+      "source_files": [
+        "china_science_entrepreneurship_sources.json"
+      ],
+      "parallel_audit_notes": [],
+      "accessed_at": "2026-11-07",
+      "publication_class": "published_scholarly",
+      "topic_id_namespace": "original subgroup IDs; T-prefixed IDs refer to the main agenda"
+    },
+    {
+      "id": "S04",
+      "title": "Reply to: Dataset artefacts can partially drive the measured decline in disruption",
+      "authors": "Michael Park, Erin Leahey, Russell J. Funk",
+      "year": 2026,
+      "venue": "Nature 656:E14–E21，Matters Arising",
+      "doi": "10.1038/s41586-026-10788-x",
+      "url": "https://www.nature.com/articles/s41586-026-10788-x",
+      "reading_level": "原刊公开预览正文与书目；未读订阅后完整正文",
+      "evidence_design": "对复核评论的回应分析",
+      "key_finding": "主张修正后趋势仍在，并质疑评论数据中的文献类型混杂。",
+      "limitations": "方法争议需双向复现；不应用单一颠覆性分数等同科学价值。",
+      "data_status": "未核验本回应的独立完整复现包。",
+      "topic_ids": [
+        "T14"
+      ],
+      "aliases": [],
+      "source_files": [
+        "china_science_entrepreneurship_sources.json"
+      ],
+      "parallel_audit_notes": [],
+      "accessed_at": "2026-11-07",
+      "publication_class": "published_scholarly",
+      "topic_id_namespace": "original subgroup IDs; T-prefixed IDs refer to the main agenda"
+    },
+    {
+      "id": "E01",
+      "title": "The Uneven Impact of Generative Artificial Intelligence on Entrepreneurial Performance: Evidence from a Field Experiment in Kenya",
+      "authors": "Nicholas G. Otis, Rowan Clarke, Solène Delecourt, David Holtz, Rembrand Koning",
+      "year": 2026,
+      "venue": "Management Science，2026-07-10在线",
+      "doi": "10.1287/mnsc.2024.06909",
+      "url": "https://pubsonline.informs.org/doi/10.1287/mnsc.2024.06909",
+      "reading_level": "正式刊摘要、招募及实验设计、主要结果、机制分析段落",
+      "evidence_design": "640名肯尼亚小企业经营者的随机实验",
+      "key_finding": "未检出平均收入利润改善；基线表现组间处理效应有差异，提示开放经营任务中的收益分配问题。",
+      "limitations": "未显著不等于零效应；实施建议的机制分析是探索性的；年轻、相对高教育的样本限制外推。",
+      "data_status": "尚未核实可直接下载的微观数据；不能承诺公开数据复现。",
+      "topic_ids": [
+        "T06",
+        "T16"
+      ],
+      "aliases": [],
+      "source_files": [
+        "china_science_entrepreneurship_sources.json"
+      ],
+      "parallel_audit_notes": [],
+      "accessed_at": "2026-11-07",
+      "publication_class": "published_scholarly",
+      "topic_id_namespace": "original subgroup IDs; T-prefixed IDs refer to the main agenda"
+    },
+    {
+      "id": "E02",
+      "title": "Generative AI Fuels Solo Entrepreneurship, but Teams Still Lead at the Top",
+      "authors": "Hyunso Kim, Hyo Kang, Jaeyong Song",
+      "year": 2026,
+      "venue": "arXiv:2605.10291v1，预印本",
+      "doi": "10.48550/arXiv.2605.10291",
+      "url": "https://arxiv.org/abs/2605.10291",
+      "reading_level": "摘要、情境、变量、经验策略与讨论相关段落",
+      "evidence_design": "Product Hunt 160143次产品发布的观察研究",
+      "key_finding": "报告单人发布增长与高排名成果中团队优势并存。",
+      "limitations": "maker数不等于员工数；排名不等于盈利；ChatGPT共同发布时间与单人/团队差异不能排除同期冲击。",
+      "data_status": "论文可公开读；未找到作者完整数据包。平台可见性不等于可免费批量研究使用。",
+      "topic_ids": [
+        "T15",
+        "T16"
+      ],
+      "extra_urls": [
+        "https://arxiv.org/html/2605.10291v1"
+      ],
+      "aliases": [],
+      "source_files": [
+        "china_science_entrepreneurship_sources.json"
+      ],
+      "parallel_audit_notes": [],
+      "accessed_at": "2026-11-07",
+      "publication_class": "preprint_or_working_paper",
+      "topic_id_namespace": "original subgroup IDs; T-prefixed IDs refer to the main agenda"
+    },
+    {
+      "id": "ORG-S01",
+      "title": "Organization Design: An Information Processing View",
+      "authors": [
+        "Jay R. Galbraith"
+      ],
+      "year": 1974,
+      "venue": "Interfaces, 4(3), 28–36",
+      "url": "https://pubsonline.informs.org/doi/epdf/10.1287/inte.4.3.28",
+      "doi": "10.1287/inte.4.3.28",
+      "reading_level": "出版社摘要；作者网站全文定点阅读（未逐页通读）",
+      "evidence_design": "组织设计概念理论",
+      "key_finding": "任务不确定性带来信息处理需求；组织可以减少信息需求或增加处理能力，自包含任务有专业化收益的权衡。",
+      "limitations": "不能直接推出生成式 AI 必然使组织扁平化；并非 AI 情境下的因果检验。",
+      "data_status": "理论论文，无待复用实证数据；作者版 https://jaygalbraith.com/wp-content/uploads/2024/03/infoprocess1974.pdf",
+      "topic_ids": [
+        "ORG-01",
+        "ORG-05"
+      ],
+      "accessed_at": "2026-11-07",
+      "publication_status": "published",
+      "verification_note": "以期刊、作者或机构原文/摘要校准；reading_level 为本轮实际阅读范围。",
+      "aliases": [],
+      "source_files": [
+        "organization_sources.json"
+      ],
+      "parallel_audit_notes": [],
+      "publication_class": "published_scholarly",
+      "topic_id_namespace": "original subgroup IDs; T-prefixed IDs refer to the main agenda"
+    },
+    {
+      "id": "ORG-S02",
+      "title": "Formal and Real Authority in Organizations",
+      "authors": [
+        "Philippe Aghion",
+        "Jean Tirole"
+      ],
+      "year": 1997,
+      "venue": "Journal of Political Economy, 105(1), 1–29",
+      "url": "https://dash.harvard.edu/entities/publication/73120378-825e-6bd4-e053-0100007fdf3b",
+      "doi": "10.1086/262063",
+      "reading_level": "作者机构存储库元数据与摘要",
+      "evidence_design": "组织经济学形式模型",
+      "key_finding": "区分正式决策权与实际控制权；信息结构影响授权、主动性和控制之间的权衡。",
+      "limitations": "模型结论受信息与激励假设约束；不能以文件审批权限直接代理全部实际权力。",
+      "data_status": "理论模型；机构存储库提供作者稿，未复算模型。",
+      "topic_ids": [
+        "ORG-01",
+        "ORG-02"
+      ],
+      "accessed_at": "2026-11-07",
+      "publication_status": "published",
+      "verification_note": "以期刊、作者或机构原文/摘要校准；reading_level 为本轮实际阅读范围。",
+      "aliases": [],
+      "source_files": [
+        "organization_sources.json"
+      ],
+      "parallel_audit_notes": [],
+      "publication_class": "published_scholarly",
+      "topic_id_namespace": "original subgroup IDs; T-prefixed IDs refer to the main agenda"
+    },
+    {
+      "id": "ORG-S03",
+      "title": "Two Types of Bureaucracy: Enabling and Coercive",
+      "authors": [
+        "Paul S. Adler",
+        "Bryan Borys"
+      ],
+      "year": 1996,
+      "venue": "Administrative Science Quarterly, 41(1), 61–89",
+      "url": "https://arken.nmbu.no/~sigury/AOS_234/AOS234%20files/Adler_96_Two%20types%20of%20bureaucracy.pdf",
+      "doi": null,
+      "reading_level": "原文 PDF 标题、摘要与引言定点阅读；ERIC 元数据交叉核对",
+      "evidence_design": "组织理论概念分析",
+      "key_finding": "正式化可帮助成员掌握工作，也可主要服务于强制合规；不能仅按规则数量判断组织控制性质。",
+      "limitations": "概念分类本身并非 AI 系统效果的识别设计；本轮未独立核准 DOI，故留空。",
+      "data_status": "理论文章；无本轮可核实的原始开放数据。ERIC: https://eric.ed.gov/?id=EJ525938",
+      "topic_ids": [
+        "ORG-02"
+      ],
+      "accessed_at": "2026-11-07",
+      "publication_status": "published",
+      "verification_note": "以期刊、作者或机构原文/摘要校准；reading_level 为本轮实际阅读范围。",
+      "aliases": [],
+      "source_files": [
+        "organization_sources.json"
+      ],
+      "parallel_audit_notes": [],
+      "publication_class": "published_scholarly",
+      "topic_id_namespace": "original subgroup IDs; T-prefixed IDs refer to the main agenda"
+    },
+    {
+      "id": "ORG-S04",
+      "title": "Reconceptualizing Organizational Routines as a Source of Flexibility and Change",
+      "authors": [
+        "Martha S. Feldman",
+        "Brian T. Pentland"
+      ],
+      "year": 2003,
+      "venue": "Administrative Science Quarterly, 48(1), 94–118",
+      "url": "https://journals.sagepub.com/doi/10.2307/3556620",
+      "doi": "10.2307/3556620",
+      "reading_level": "出版社摘要；作者机构全文 PDF 概念段落定点阅读",
+      "evidence_design": "组织惯例理论重构",
+      "key_finding": "惯例的抽象理解与具体执行相互作用，可形成稳定也可形成变化；写成文档的流程不等于实际惯例。",
+      "limitations": "不能由共享 Skill 文件存在推断团队已形成可持续能力。",
+      "data_status": "理论文章；作者原文 https://socialecology.uci.edu/sites/socialecology.uci.edu/files/users/feldmanm/Feldman_and_Pentland_2003.pdf",
+      "topic_ids": [
+        "ORG-04"
+      ],
+      "accessed_at": "2026-11-07",
+      "publication_status": "published",
+      "verification_note": "以期刊、作者或机构原文/摘要校准；reading_level 为本轮实际阅读范围。",
+      "aliases": [],
+      "source_files": [
+        "organization_sources.json"
+      ],
+      "parallel_audit_notes": [],
+      "publication_class": "published_scholarly",
+      "topic_id_namespace": "original subgroup IDs; T-prefixed IDs refer to the main agenda"
+    },
+    {
+      "id": "ORG-S05",
+      "title": "Algorithms at Work: The New Contested Terrain of Control",
+      "authors": [
+        "Katherine C. Kellogg",
+        "Melissa A. Valentine",
+        "Angèle Christin"
+      ],
+      "year": 2020,
+      "venue": "Academy of Management Annals, 14(1), 366–410",
+      "url": "https://journals.aom.org/doi/10.5465/annals.2018.0174",
+      "doi": "10.5465/annals.2018.0174",
+      "reading_level": "出版社摘要；作者版关于控制与员工回应的段落定点阅读",
+      "evidence_design": "跨学科文献综述与理论综合",
+      "key_finding": "归纳算法限制、推荐、记录、评级、替换和奖励等控制机制，以及劳动者抵抗与协商。",
+      "limitations": "非生成式 AI 的随机实验，不能把六类控制当成已经验证的统一量表或 AI 的必然后果。",
+      "data_status": "综述；作者版 https://mvalentine.github.io/pdfs/algorithms-at-work.pdf；未验证可直接复用的编码数据库。",
+      "topic_ids": [
+        "ORG-01",
+        "ORG-02"
+      ],
+      "accessed_at": "2026-11-07",
+      "publication_status": "published",
+      "verification_note": "以期刊、作者或机构原文/摘要校准；reading_level 为本轮实际阅读范围。",
+      "aliases": [
+        "LL12"
+      ],
+      "source_files": [
+        "organization_sources.json",
+        "labor_learning_sources.json"
+      ],
+      "parallel_audit_notes": [
+        {
+          "reading_level": "作者公开全文，定向阅读摘要、引言和控制机制框架；未逐篇重新核验该综述纳入文献。",
+          "data_status": "不适用：框架综述可公开阅读，未核实机器可读研究编码表。",
+          "limitations": "控制与自主权并非新概念；框架不直接证明生成式AI导致压力或效率，不能与原始研究重复计数。"
+        }
+      ],
+      "publication_class": "published_scholarly",
+      "topic_id_namespace": "original subgroup IDs; T-prefixed IDs refer to the main agenda"
+    },
+    {
+      "id": "ORG-S06",
+      "title": "Make Way for the Algorithms: Symbolic Actions and Change in a Regime of Knowing",
+      "authors": [
+        "Stella Pachidi",
+        "Hans Berends",
+        "Samer Faraj",
+        "Marleen Huysman"
+      ],
+      "year": 2021,
+      "online_year": 2020,
+      "venue": "Organization Science, 32(1), 18–41",
+      "url": "https://pubsonline.informs.org/doi/10.1287/orsc.2020.1377",
+      "doi": "10.1287/orsc.2020.1377",
+      "reading_level": "出版社摘要与元数据；机构作者稿摘要、开头定点阅读",
+      "evidence_design": "销售组织算法采用的质性过程研究",
+      "key_finding": "员工象征性顺应与技术人员倡导共同参与了何种知识被认为有效的转变。",
+      "limitations": "特定非生成式 AI 场景；不可直接推广到所有行业，不能从算法采用推断因果权力转移。",
+      "data_status": "作者稿公开；原始访谈/观察资料未核实开放。https://api.repository.cam.ac.uk/server/api/core/bitstreams/8729a75e-5630-4931-91be-bbdc51706b76/content",
+      "topic_ids": [
+        "ORG-01",
+        "ORG-03"
+      ],
+      "accessed_at": "2026-11-07",
+      "publication_status": "published",
+      "verification_note": "以期刊、作者或机构原文/摘要校准；reading_level 为本轮实际阅读范围。",
+      "aliases": [],
+      "source_files": [
+        "organization_sources.json"
+      ],
+      "parallel_audit_notes": [],
+      "publication_class": "published_scholarly",
+      "topic_id_namespace": "original subgroup IDs; T-prefixed IDs refer to the main agenda"
+    },
+    {
+      "id": "ORG-S07",
+      "title": "Human–AI collaborative decision-making as an organization design problem",
+      "authors": [
+        "Phanish Puranam"
+      ],
+      "year": 2021,
+      "venue": "Journal of Organization Design, 10, 75–80",
+      "url": "https://link.springer.com/article/10.1007/s41469-021-00095-2",
+      "doi": "10.1007/s41469-021-00095-2",
+      "reading_level": "开放全文摘要与引言、设计分类定点阅读",
+      "evidence_design": "Point of View；组织设计概念分析",
+      "key_finding": "人机联合决策可以从劳动分工与学习配置分析，而不只是比较模型和人的单独准确率。",
+      "limitations": "提供分类框架而非不同配置效果的实证估计。",
+      "data_status": "开放理论文章，无原始实验数据。",
+      "topic_ids": [
+        "ORG-01",
+        "ORG-05"
+      ],
+      "accessed_at": "2026-11-07",
+      "publication_status": "published",
+      "verification_note": "以期刊、作者或机构原文/摘要校准；reading_level 为本轮实际阅读范围。",
+      "aliases": [],
+      "source_files": [
+        "organization_sources.json"
+      ],
+      "parallel_audit_notes": [],
+      "publication_class": "published_scholarly",
+      "topic_id_namespace": "original subgroup IDs; T-prefixed IDs refer to the main agenda"
+    },
+    {
+      "id": "ORG-S08",
+      "title": "Generative AI, Emerging Technology, and Organizing: Towards a theory of progressive encapsulation",
+      "authors": [
+        "Pamela Hinds",
+        "Georg von Krogh"
+      ],
+      "year": 2024,
+      "venue": "Organization Theory, 5(4)",
+      "url": "https://journals.sagepub.com/doi/full/10.1177/26317877241293478",
+      "doi": "10.1177/26317877241293478",
+      "reading_level": "开放全文摘要、引言和理论展开定点阅读，非逐页通读",
+      "evidence_design": "关系视角理论建构与思想实验",
+      "key_finding": "提出渐进封装，讨论技术逐渐吸纳组织活动与关系后，人们对内部过程的可见性和控制如何变化。",
+      "limitations": "是理论命题而非已观察到的组织普遍规律；不同部署的记忆、上下文更新与模型参数学习必须区分。",
+      "data_status": "开放理论文章；无新实证样本。",
+      "topic_ids": [
+        "ORG-01",
+        "ORG-02",
+        "ORG-04"
+      ],
+      "accessed_at": "2026-11-07",
+      "publication_status": "published",
+      "verification_note": "以期刊、作者或机构原文/摘要校准；reading_level 为本轮实际阅读范围。",
+      "aliases": [],
+      "source_files": [
+        "organization_sources.json"
+      ],
+      "parallel_audit_notes": [],
+      "publication_class": "published_scholarly",
+      "topic_id_namespace": "original subgroup IDs; T-prefixed IDs refer to the main agenda"
+    },
+    {
+      "id": "ORG-S09",
+      "title": "Combining Human and Artificial Intelligence: Hybrid Problem-Solving in Organizations",
+      "authors": [
+        "Sebastian Raisch",
+        "Kateryna Fomina"
+      ],
+      "year": 2025,
+      "online_year": 2024,
+      "venue": "Academy of Management Review, 50(2)",
+      "url": "https://journals.aom.org/doi/abs/10.5465/amr.2021.0421",
+      "doi": "10.5465/amr.2021.0421",
+      "reading_level": "出版社元数据与摘要；作者校样首页核对",
+      "evidence_design": "混合问题解决的概念理论",
+      "key_finding": "区分自主、顺序和交互搜索配置，提出它们与不同问题解决路径之间的理论关联。",
+      "limitations": "不可把理论预期写成三种配置已被随机验证的优劣排序；正式卷期为 2025，在线版本为 2024。",
+      "data_status": "理论文章，作者校样公开；无本轮可核验原始数据。",
+      "topic_ids": [
+        "ORG-03",
+        "ORG-05"
+      ],
+      "accessed_at": "2026-11-07",
+      "publication_status": "published",
+      "verification_note": "以期刊、作者或机构原文/摘要校准；reading_level 为本轮实际阅读范围。",
+      "aliases": [],
+      "source_files": [
+        "organization_sources.json"
+      ],
+      "parallel_audit_notes": [],
+      "publication_class": "published_scholarly",
+      "topic_id_namespace": "original subgroup IDs; T-prefixed IDs refer to the main agenda"
+    },
+    {
+      "id": "ORG-S10",
+      "title": "Skill Deprioritization: Reorganizing in the Age of Generative Artificial Intelligence",
+      "authors": [
+        "Matteo Devigili",
+        "Erdem Dogukan Yilmaz",
+        "Vibha Gaba",
+        "Henrich Greve"
+      ],
+      "year": 2026,
+      "venue": "Management Science, online publication",
+      "url": "https://pubsonline.informs.org/doi/10.1287/mnsc.2025.01859",
+      "doi": "10.1287/mnsc.2025.01859",
+      "reading_level": "开放全文摘要、引言、样本与识别方法、结果表定点阅读",
+      "evidence_design": "1,820 家美国上市公司、ChatGPT 发布前后各约 12 个月的招聘需求面板；依据生成式 AI 暴露度比较，含企业/时间固定效应",
+      "key_finding": "较高暴露企业对部分组织类技能的招聘需求下降，技能类别间存在差异；讨论组织任务重新配置。",
+      "limitations": "招聘表述不等于已实现组织重构；暴露度不等于实际采用；同期冲击和趋势假设仍需审查。不能因前趋势不显著便认定无混淆。",
+      "data_status": "底层包括 Lightcast、Compustat、Revelio 商业数据。论文有补充材料入口，但本轮未下载验证其足以重建原始样本；不能列为完全开放数据。",
+      "topic_ids": [
+        "ORG-01",
+        "ORG-03",
+        "ORG-05"
+      ],
+      "accessed_at": "2026-11-07",
+      "publication_status": "published",
+      "verification_note": "以期刊、作者或机构原文/摘要校准；reading_level 为本轮实际阅读范围。",
+      "aliases": [],
+      "source_files": [
+        "organization_sources.json"
+      ],
+      "parallel_audit_notes": [],
+      "publication_class": "published_scholarly",
+      "topic_id_namespace": "original subgroup IDs; T-prefixed IDs refer to the main agenda"
+    },
+    {
+      "id": "ORG-S11",
+      "title": "Generative organizational learning: Affordances for new modes of knowledge search, creation, transfer, and forgetting with LLMs",
+      "authors": [
+        "Batia M. Wiesenfeld",
+        "Katherine C. Kellogg"
+      ],
+      "year": 2026,
+      "online_year": 2025,
+      "venue": "Strategic Organization, 24(2)",
+      "url": "https://journals.sagepub.com/doi/full/10.1177/14761270251408580",
+      "doi": "10.1177/14761270251408580",
+      "reading_level": "开放全文摘要、情境和方法、资料表、部分发现与概念表定点阅读",
+      "evidence_design": "大型学术医疗体系 19 个月的质性案例研究（2023 年春至 2024 年 11 月）",
+      "key_finding": "提出 LLM 组织学习的多种可供性，强调组织中的专家、目标、知识整理和护栏对搜索、创造、转移和遗忘的影响。",
+      "limitations": "有集中 AI 战略的单一案例；不能识别各项组织支持措施的独立因果效应，不能把知识生成量等同组织学习。",
+      "data_status": "论文开放；本轮未确认原始访谈、内部会议与观察记录可开放取得。",
+      "topic_ids": [
+        "ORG-03",
+        "ORG-04",
+        "ORG-05"
+      ],
+      "accessed_at": "2026-11-07",
+      "publication_status": "published",
+      "verification_note": "以期刊、作者或机构原文/摘要校准；reading_level 为本轮实际阅读范围。",
+      "aliases": [],
+      "source_files": [
+        "organization_sources.json"
+      ],
+      "parallel_audit_notes": [],
+      "publication_class": "published_scholarly",
+      "topic_id_namespace": "original subgroup IDs; T-prefixed IDs refer to the main agenda"
+    },
+    {
+      "id": "ORG-S12",
+      "title": "人与人工智能的研究及其对组织管理的意义",
+      "authors": [
+        "张志学",
+        "贺伟"
+      ],
+      "year": 2024,
+      "venue": "外国经济与管理, 46(10), 3–17",
+      "url": "https://qks.sufe.edu.cn/J/WJGL/Article/Details/A0iYoEoh27-wCPJ-DIAx-NX8H-jrV9slzWXOgq/CN",
+      "doi": "10.16538/j.cnki.fem.20240907.101",
+      "reading_level": "期刊检索结果的摘要/元数据及 PDF 首页面信息；网页读取不稳定，未通读全文",
+      "evidence_design": "专题导论、研究回顾与议程",
+      "key_finding": "讨论人和 AI 研究对组织管理的意义，覆盖决策、交互等多个层次，而非仅以生产率解释 AI 影响。",
+      "limitations": "不能当作新的因果实验；本轮阅读深度有限，不据此归纳细分机制的强证据。",
+      "data_status": "期刊提供 PDF 入口；未核实可复用的系统编码或个体数据。",
+      "topic_ids": [
+        "ORG-02",
+        "ORG-03",
+        "ORG-05"
+      ],
+      "accessed_at": "2026-11-07",
+      "publication_status": "published",
+      "verification_note": "以期刊、作者或机构原文/摘要校准；reading_level 为本轮实际阅读范围。",
+      "aliases": [],
+      "source_files": [
+        "organization_sources.json"
+      ],
+      "parallel_audit_notes": [],
+      "publication_class": "published_scholarly",
+      "topic_id_namespace": "original subgroup IDs; T-prefixed IDs refer to the main agenda"
+    },
+    {
+      "id": "ORG-S14",
+      "title": "Dismantling Knowledge Boundaries at NASA: The Critical Role of Professional Identity in Open Innovation",
+      "authors": [
+        "Hila Lifshitz-Assaf"
+      ],
+      "year": 2018,
+      "venue": "Administrative Science Quarterly",
+      "url": "https://journals.sagepub.com/doi/abs/10.1177/0001839217747876",
+      "doi": "10.1177/0001839217747876",
+      "reading_level": "出版社摘要；开放全文/作者版专业认同与边界发现部分定点阅读",
+      "evidence_design": "NASA 开放创新的纵向质性研究",
+      "key_finding": "专业认同如何界定工作，会影响成员保护或拆除知识边界；工具带来的外部答案并不自动使边界消失。",
+      "limitations": "开放创新不同于生成式 AI；不是随机分配专业认同的实验。",
+      "data_status": "全文公开 https://pmc.ncbi.nlm.nih.gov/articles/PMC6201168/；原始田野资料未核实开放。",
+      "topic_ids": [
+        "ORG-03"
+      ],
+      "accessed_at": "2026-11-07",
+      "publication_status": "published",
+      "verification_note": "以期刊、作者或机构原文/摘要校准；reading_level 为本轮实际阅读范围。",
+      "aliases": [],
+      "source_files": [
+        "organization_sources.json"
+      ],
+      "parallel_audit_notes": [],
+      "publication_class": "published_scholarly",
+      "topic_id_namespace": "original subgroup IDs; T-prefixed IDs refer to the main agenda"
+    },
+    {
+      "id": "ORG-S15",
+      "title": "What’s “New” About New Forms of Organizing?",
+      "authors": [
+        "Phanish Puranam",
+        "Oliver Alexy",
+        "Markus Reitzig"
+      ],
+      "year": 2014,
+      "venue": "Academy of Management Review, 39(2), 162–180",
+      "url": "https://strategy.univie.ac.at/fileadmin/user_upload/p_strategy/Corporate/Puranam_Alexy_Reitzig_AMR_2014.pdf",
+      "doi": "10.5465/amr.2011.0436",
+      "reading_level": "作者机构原文 PDF 的标题、摘要、引言和组织问题框架定点阅读",
+      "evidence_design": "组织形式的概念框架与案例说明",
+      "key_finding": "用任务分工、任务分配、信息和激励等基本组织问题的解决组合判断组织形式的新颖性。",
+      "limitations": "新名称、较少层级或采用 AI 均不足以自动构成新的组织形式。",
+      "data_status": "理论文章与示例案例，无本轮核实的可直接复用微观样本。",
+      "topic_ids": [
+        "ORG-01",
+        "ORG-05"
+      ],
+      "accessed_at": "2026-11-07",
+      "publication_status": "published",
+      "verification_note": "以期刊、作者或机构原文/摘要校准；reading_level 为本轮实际阅读范围。",
+      "aliases": [],
+      "source_files": [
+        "organization_sources.json"
+      ],
+      "parallel_audit_notes": [],
+      "publication_class": "published_scholarly",
+      "topic_id_namespace": "original subgroup IDs; T-prefixed IDs refer to the main agenda"
+    },
+    {
+      "title": "Experimental evidence on the productivity effects of generative artificial intelligence",
+      "authors": [
+        "Shakked Noy",
+        "Whitney Zhang"
+      ],
+      "year": 2023,
+      "venue": "Science 381(6654), 187–192；正式期刊论文",
+      "url": "https://www.science.org/doi/10.1126/science.adh2586",
+      "doi": "10.1126/science.adh2586",
+      "reading_level": "正式版本摘要及MIT机构报告；另读作者2023年3月早期稿部分。未通读最终期刊全文。",
+      "evidence_design": "正式版本为453名受过高等教育的专业人员写作任务随机实验；处理组在第二项任务可使用ChatGPT。早期稿444人与最终样本不可混用。",
+      "key_finding": "平均完成时间减少约40%，质量提高约18%；任务内表现差距缩小。",
+      "limitations": "短期、限定写作任务；不识别长期技能积累、总工时、工资或就业变化。个体任务表现差距不等于劳动力市场收入差距。",
+      "data_status": "B：作者/期刊给出OSF入口 https://osf.io/xd7qw/ ；本轮未核对文件目录或下载数据，不能称已可复现。作者早期稿 https://economics.mit.edu/sites/default/files/inline-files/Noy_Zhang_1.pdf 。",
+      "topic_ids": [
+        "LL1",
+        "LL2",
+        "LL4"
+      ],
+      "id": "LL01",
+      "aliases": [],
+      "source_files": [
+        "labor_learning_sources.json"
+      ],
+      "parallel_audit_notes": [],
+      "accessed_at": "2026-11-07",
+      "publication_class": "published_scholarly",
+      "topic_id_namespace": "original subgroup IDs; T-prefixed IDs refer to the main agenda"
+    },
+    {
+      "title": "Generative AI without guardrails can harm learning: Evidence from high school mathematics",
+      "authors": [
+        "Hamsa Bastani",
+        "Osbert Bastani",
+        "Alp Sungu",
+        "Haosen Ge",
+        "Özge Kabakcı",
+        "Rei Mariman"
+      ],
+      "year": 2025,
+      "venue": "Proceedings of the National Academy of Sciences 122(26), e2422633122；正式期刊论文",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12232635/",
+      "doi": "10.1073/pnas.2422633122",
+      "reading_level": "全文定向阅读：设计、结果、局限、数据可用性；另读GitHub目录及变量字典。",
+      "evidence_design": "土耳其高中近1000名学生、约50个9至11年级班级；四次数学学习课，比较GPT Base、带教学保护措施的GPT Tutor与对照。",
+      "key_finding": "练习阶段表现提高，但移除工具后的考试中GPT Base表现下降；引导式Tutor大幅缓解该损害。",
+      "limitations": "特定数学课程、地点与实现；不能推出所有AI辅导降低学习，也不能把即时无辅助测验解释为永久去技能化。",
+      "data_status": "A：实际看见 https://github.com/obastani/GenAICanHarmLearning 的final_data.csv、main regressions、additional results、text analysis与变量字典；含Student_ID、Class、Session、Part2Tot、Part3Tot、GPTBase、GPTTutor等。未下载或运行，缺失模式、许可和文本覆盖范围仍待审计。",
+      "topic_ids": [
+        "LL1"
+      ],
+      "id": "LL02",
+      "aliases": [],
+      "source_files": [
+        "labor_learning_sources.json"
+      ],
+      "parallel_audit_notes": [],
+      "accessed_at": "2026-11-07",
+      "publication_class": "published_scholarly",
+      "topic_id_namespace": "original subgroup IDs; T-prefixed IDs refer to the main agenda"
+    },
+    {
+      "title": "AI tutoring outperforms in-class active learning: an RCT introducing a novel research-based design in an authentic educational setting",
+      "authors": [
+        "Greg Kestin",
+        "Kelly Miller",
+        "Anna Klales",
+        "Timothy Milbourne",
+        "Gregorio Ponti"
+      ],
+      "year": 2025,
+      "venue": "Scientific Reports 15, 17458；正式期刊论文",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12179260/",
+      "doi": "10.1038/s41598-025-97652-6",
+      "reading_level": "全文定向阅读：方法、结果、数据可用性。",
+      "evidence_design": "哈佛大学入门物理课程194名纳入学生；两组在相邻两周交叉接受研究型AI辅导和课堂主动学习。",
+      "key_finding": "该设计下AI辅导组在即时学习测验中提高更多、用时更少；构成AI必然损害学习的反证。",
+      "limitations": "AI条件与课堂条件同时存在场景、交互与时间安排差异；即时测验不等于长期保持或迁移；不能外推所有模型或教师。",
+      "data_status": "B：论文指向 https://github.com/HarvardAItutor/Study-Data-v4 ；已确认公共仓库页面存在，但工具未成功读取文件清单，GitHub API也失败，尚未核实数据粒度。",
+      "topic_ids": [
+        "LL1"
+      ],
+      "id": "LL03",
+      "aliases": [],
+      "source_files": [
+        "labor_learning_sources.json"
+      ],
+      "parallel_audit_notes": [],
+      "accessed_at": "2026-11-07",
+      "publication_class": "published_scholarly",
+      "topic_id_namespace": "original subgroup IDs; T-prefixed IDs refer to the main agenda"
+    },
+    {
+      "title": "How AI Impacts Skill Formation",
+      "authors": [
+        "Judy Hanwen Shen",
+        "Alex Tamkin"
+      ],
+      "year": 2026,
+      "venue": "arXiv:2601.20245 v2（2026-02-01）；预印本，未核验正式期刊发表",
+      "url": "https://arxiv.org/html/2601.20245v2",
+      "doi": "10.48550/arXiv.2601.20245",
+      "reading_level": "全文定向阅读：实验、结果、附录、数据说明；另读公开仓库README和目录。",
+      "evidence_design": "主要实验52名具有Python经验但不熟悉Trio的开发者，26人/组，随机给予AI编码辅助；完成新库任务后进行技能测验。",
+      "key_finding": "AI组即时技能测验约50%，对照约67%，相差约17个百分点；完成速度的提高未达统计显著。较主动的使用模式与较好学习相关。",
+      "limitations": "小样本、新库、短时学习；使用模式为事后观察，不能把模式关联当随机化机制证据；不证明长期能力衰退。",
+      "data_status": "A（有限范围）：https://github.com/safety-research/how-ai-impacts-skill-formation 实际可见annotated_transcripts、final_task、README等；明确公开任务和标注对话，未证实完整参与者测验微观数据或所有录像开放。预注册 https://osf.io/w49e7 。",
+      "topic_ids": [
+        "LL1"
+      ],
+      "id": "LL04",
+      "aliases": [],
+      "source_files": [
+        "labor_learning_sources.json"
+      ],
+      "parallel_audit_notes": [],
+      "accessed_at": "2026-11-07",
+      "publication_class": "preprint_or_working_paper",
+      "topic_id_namespace": "original subgroup IDs; T-prefixed IDs refer to the main agenda"
+    },
+    {
+      "title": "Shifting Work Patterns with Generative AI",
+      "authors": [
+        "Eleanor Wiske Dillon",
+        "Sonia Jaffe",
+        "Nicole Immorlica",
+        "Christopher Stanton"
+      ],
+      "year": 2025,
+      "venue": "NBER Working Paper 33795；另有arXiv:2504.11436；工作论文",
+      "url": "https://www.nber.org/papers/w33795",
+      "doi": "10.3386/w33795",
+      "reading_level": "全文定向阅读arXiv v1 https://arxiv.org/html/2504.11436v1 ；核对NBER摘要及修订入口。效应版本不混用。",
+      "evidence_design": "66家企业7137名知识工作者，六个月随机提供Microsoft 365 Copilot，依据数字工作日志衡量行为。",
+      "key_finding": "邮件投入下降，会议时间未明显改变；工具能改变个人行为，但涉及他人的共同工作方式较难改变。",
+      "limitations": "邮件/会议日志不是完整劳动时间、工作质量或心理压力；使用者估计与分配处理效应不同；长期任务扩张可能在观测范围之外。",
+      "data_status": "C：研究使用企业/Microsoft遥测，本轮未找到可公开取得的个体日志。可提取论文层面效应，不应承诺原始数据复现。",
+      "topic_ids": [
+        "LL2",
+        "LL5"
+      ],
+      "id": "LL05",
+      "aliases": [],
+      "source_files": [
+        "labor_learning_sources.json"
+      ],
+      "parallel_audit_notes": [],
+      "accessed_at": "2026-11-07",
+      "publication_class": "preprint_or_working_paper",
+      "topic_id_namespace": "original subgroup IDs; T-prefixed IDs refer to the main agenda"
+    },
+    {
+      "title": "Evidence of a social evaluation penalty for using AI",
+      "authors": [
+        "Jessica A. Reif",
+        "Richard P. Larrick",
+        "Jack B. Soll"
+      ],
+      "year": 2025,
+      "venue": "Proceedings of the National Academy of Sciences 122(19)；正式期刊论文",
+      "url": "https://doi.org/10.1073/pnas.2426766122",
+      "doi": "10.1073/pnas.2426766122",
+      "reading_level": "出版商检索可读的摘要、方法、讨论与数据声明；未获得完整PDF。",
+      "evidence_design": "四项预注册在线实验，包含预期评价、对他人评价和招聘情境；已核实研究1最终497人，未据不完整信息合计总样本。",
+      "key_finding": "使用AI可引发负面的努力/能力判断；评价者自身使用情况及任务适合程度影响评价。",
+      "limitations": "情境与便利样本证据；不等于真实招聘、晋升或职业身份被损害。声誉、专业身份、羞耻与技能应分别测量。",
+      "data_status": "B：作者明确声明数据、代码、材料和预注册在 https://osf.io/beun6/ ；本轮访问403，尚未核实文件。",
+      "topic_ids": [
+        "LL3"
+      ],
+      "id": "LL06",
+      "aliases": [],
+      "source_files": [
+        "labor_learning_sources.json"
+      ],
+      "parallel_audit_notes": [],
+      "accessed_at": "2026-11-07",
+      "publication_class": "published_scholarly",
+      "topic_id_namespace": "original subgroup IDs; T-prefixed IDs refer to the main agenda"
+    },
+    {
+      "title": "No Person Is an Island: Unpacking the Work and After-Work Consequences of Interacting With Artificial Intelligence",
+      "authors": [
+        "Pok Man Tang",
+        "Joel Koopman",
+        "Ke Michael Mai",
+        "David De Cremer",
+        "Jack H. Zhang",
+        "Philipp Reynders",
+        "Chin Tung Stewart Ng",
+        "I-Heng Chen"
+      ],
+      "year": 2023,
+      "venue": "Journal of Applied Psychology 108(11), 1766–1789；正式期刊论文",
+      "url": "https://www.apa.org/pubs/journals/releases/apl-apl0001103.pdf",
+      "doi": "10.1037/apl0001103",
+      "reading_level": "出版商全文PDF定向阅读：理论、四项研究概述、方法、结果与透明度说明。",
+      "evidence_design": "四项研究总N=794，覆盖台湾、印尼、美国和马来西亚，结合调查、现场实验和模拟；并非全部为生成式AI。",
+      "key_finding": "AI互动可能同时引发联结需求及助人行为，也与孤独和工作外后果相关，呈现双向社会机制。",
+      "limitations": "部分数据早于ChatGPT；自报、观察和实验设计混合，不能一并解释为因果；未预注册。孤独/失眠等指标不是临床诊断。",
+      "data_status": "B：正文给出OSF补充资源 https://osf.io/acym6/?view_only=6dac73046224421c8af6781f733b3f95 ；未核实其是否含完整微观数据及复用许可。",
+      "topic_ids": [
+        "LL5"
+      ],
+      "id": "LL07",
+      "aliases": [],
+      "source_files": [
+        "labor_learning_sources.json"
+      ],
+      "parallel_audit_notes": [],
+      "accessed_at": "2026-11-07",
+      "publication_class": "published_scholarly",
+      "topic_id_namespace": "original subgroup IDs; T-prefixed IDs refer to the main agenda"
+    },
+    {
+      "title": "Still Waters, Rapid Currents: Early Labor Market Transformation under Generative AI",
+      "authors": [
+        "Anders Humlum",
+        "Emilie Vestergaard"
+      ],
+      "year": 2026,
+      "venue": "工作论文，2026-03-13作者修订版；2025旧题Large Language Models, Small Labor Market Effects；NBER 33777",
+      "url": "https://www.andershumlum.com/s/chatbots_260313.pdf",
+      "doi": null,
+      "reading_level": "2026修订版全文定向阅读摘要、引言、数据与识别说明；不是把2025摘要当最新版本。",
+      "evidence_design": "丹麦2023和2024采用调查连接雇主—雇员行政记录；2024约25000名劳动者、7000家工作单位、11类高暴露职业；双重差分至2024年底。",
+      "key_finding": "平均工资、收入和记录工时变化接近零；任务重组已经出现。年轻劳动者在高暴露职业的就业下滑，不能简单归因于实际采用聊天机器人的企业。",
+      "limitations": "采用并非随机；DID依赖识别假设；截至2024年底、丹麦和所选职业，不排除后期、其他地区或异质性影响；记录工时非工作强度。",
+      "data_status": "C：连接丹麦限制访问行政数据；没有核实无需申请即可取得的个体数据。公开论文和附录可作研究级证据编码。",
+      "topic_ids": [
+        "LL2",
+        "LL4"
+      ],
+      "id": "LL08",
+      "aliases": [],
+      "source_files": [
+        "labor_learning_sources.json"
+      ],
+      "parallel_audit_notes": [],
+      "accessed_at": "2026-11-07",
+      "publication_class": "preprint_or_working_paper",
+      "topic_id_namespace": "original subgroup IDs; T-prefixed IDs refer to the main agenda"
+    },
+    {
+      "title": "Canaries in the Coal Mine? Six Facts about the Recent Employment Effects of Artificial Intelligence",
+      "authors": [
+        "Erik Brynjolfsson",
+        "Bharat Chandar",
+        "Ruyu Chen"
+      ],
+      "year": 2026,
+      "venue": "Stanford Digital Economy Lab工作论文，原稿2025，核验作者页面2026-08-12修订；未核验同行评议发表",
+      "url": "https://digitaleconomy.stanford.edu/publication/canaries-in-the-coal-mine-six-facts-about-the-recent-employment-effects-of-artificial-intelligence/",
+      "doi": null,
+      "reading_level": "作者机构原始页面的修订摘要、结果及限制说明；未通读2026修订PDF。",
+      "evidence_design": "ADP工资单覆盖的大规模美国就业资料，研究年龄与职业AI暴露度的就业趋势；作者页面报告延伸到2026年6月。",
+      "key_finding": "高AI暴露职业的早期职业群体就业更弱；效应随数据源、教育控制和基期设定变化。",
+      "limitations": "作者明确作为描述性早期指标而非因果估计；存在部分前趋势，控制教育后衰减，ADP模式较全国调查更明显。不能把暴露度当实际采用。",
+      "data_status": "C：ADP个体工资单不是本轮可公开复用数据；作者提供公开AI Economic Indicators，但未核对下载表格。CPS可作独立公共数据检验，不是复现ADP。",
+      "topic_ids": [
+        "LL4"
+      ],
+      "id": "LL09",
+      "aliases": [],
+      "source_files": [
+        "labor_learning_sources.json"
+      ],
+      "parallel_audit_notes": [],
+      "accessed_at": "2026-11-07",
+      "publication_class": "preprint_or_working_paper",
+      "topic_id_namespace": "original subgroup IDs; T-prefixed IDs refer to the main agenda"
+    },
+    {
+      "title": "The Autonomy Paradox: The Implications of Mobile Email Devices for Knowledge Professionals",
+      "authors": [
+        "Melissa Mazmanian",
+        "Wanda J. Orlikowski",
+        "JoAnne Yates"
+      ],
+      "year": 2013,
+      "venue": "Organization Science 24(5), 1337–1357；正式期刊论文",
+      "url": "https://pubsonline.informs.org/doi/10.1287/orsc.1120.0806",
+      "doi": "10.1287/orsc.1120.0806",
+      "reading_level": "出版商摘要与元数据；作者机构全文入口已定位，未通读。",
+      "evidence_design": "关于知识工作者使用移动邮件设备的质性研究；本轮未核实样本量，不填估计数字。",
+      "key_finding": "个体即时灵活性可转化为集体持续在线规范，进而压缩自主性。",
+      "limitations": "非AI研究，支持机制类比而非生成式AI效应量；不能据此推断必然加班。",
+      "data_status": "D：未核实公开访谈原始数据。MIT作者稿 https://dspace.mit.edu/server/api/core/bitstreams/53dbc8e3-8008-4083-b1ed-1ee83ab93c25/content 。",
+      "topic_ids": [
+        "LL2",
+        "LL5"
+      ],
+      "id": "LL10",
+      "aliases": [],
+      "source_files": [
+        "labor_learning_sources.json"
+      ],
+      "parallel_audit_notes": [],
+      "accessed_at": "2026-11-07",
+      "publication_class": "published_scholarly",
+      "topic_id_namespace": "original subgroup IDs; T-prefixed IDs refer to the main agenda"
+    },
+    {
+      "title": "Shadow Learning: Building Robotic Surgical Skill When Approved Means Fail",
+      "authors": [
+        "Matthew Beane"
+      ],
+      "year": 2019,
+      "venue": "Administrative Science Quarterly 64(1), 87–123；2018在线、2019卷期；正式期刊论文",
+      "url": "https://journals.sagepub.com/doi/full/10.1177/0001839217751692?journalCode=asqa",
+      "doi": "10.1177/0001839217751692",
+      "reading_level": "出版商摘要和元数据；全文链接实际重定向摘要/付费页面。",
+      "evidence_design": "两年五地点比较民族志，比较机器人与传统手术，并辅以美国13家教学医院的盲访谈研究；未核实参与者人数。",
+      "key_finding": "技术改变新手参与实践的机会；少数学习者通过非正式方式取得练习并形成技能。",
+      "limitations": "特定专业场景、质性机制；不能替代LLM教育实验，不能证明平均学习损害或提出临床规避规则建议。",
+      "data_status": "D：未核实开放民族志、访谈或编码数据。",
+      "topic_ids": [
+        "LL1",
+        "LL3"
+      ],
+      "id": "LL11",
+      "aliases": [],
+      "source_files": [
+        "labor_learning_sources.json"
+      ],
+      "parallel_audit_notes": [],
+      "accessed_at": "2026-11-07",
+      "publication_class": "published_scholarly",
+      "topic_id_namespace": "original subgroup IDs; T-prefixed IDs refer to the main agenda"
+    },
+    {
+      "title": "The Skill Content of Recent Technological Change: An Empirical Exploration",
+      "authors": [
+        "David H. Autor",
+        "Frank Levy",
+        "Richard J. Murnane"
+      ],
+      "year": 2003,
+      "venue": "The Quarterly Journal of Economics 118(4), 1279–1333；正式期刊论文",
+      "url": "https://doi.org/10.1162/003355303322552801",
+      "doi": "10.1162/003355303322552801",
+      "reading_level": "摘要、元数据和MIT作者稿开头；未通读所有实证附录。",
+      "evidence_design": "任务框架与1960—1998年美国职业/技能输入及计算机化的实证分析。",
+      "key_finding": "常规任务替代与非例行认知任务互补，为区分技术、任务和技能需求提供经典框架。",
+      "limitations": "历史计算机化的结果不能作为LLM不会替代非例行认知劳动的证据；任务暴露和职业净就业不同。",
+      "data_status": "D：本轮未审计原论文复现包。可用官方CPS与O*NET建立新的公开数据分析，但不等于原样复现。作者稿 https://economics.mit.edu/sites/default/files/publications/the%20skill%20content%202003.pdf 。",
+      "topic_ids": [
+        "LL4"
+      ],
+      "id": "LL13",
+      "aliases": [],
+      "source_files": [
+        "labor_learning_sources.json"
+      ],
+      "parallel_audit_notes": [],
+      "accessed_at": "2026-11-07",
+      "publication_class": "published_scholarly",
+      "topic_id_namespace": "original subgroup IDs; T-prefixed IDs refer to the main agenda"
+    },
+    {
+      "title": "The Impact of Generative AI on Critical Thinking: Self-Reported Reductions in Cognitive Effort and Confidence Effects From a Survey of Knowledge Workers",
+      "authors": [
+        "Hao-Ping (Hank) Lee",
+        "Advait Sarkar",
+        "Lev Tankelevitch",
+        "Ian Drosos",
+        "Sean Rintel",
+        "Richard Banks",
+        "Nicholas Wilson"
+      ],
+      "year": 2025,
+      "venue": "CHI 2025, Article 1121；正式会议论文",
+      "url": "https://www.microsoft.com/en-us/research/publication/the-impact-of-generative-ai-on-critical-thinking-self-reported-reductions-in-cognitive-effort-and-confidence-effects-from-a-survey-of-knowledge-workers/",
+      "doi": "10.1145/3706598.3713778",
+      "reading_level": "官方研究页面摘要与作者PDF入口；本轮未通读全文方法和补充文件。",
+      "evidence_design": "319名知识工作者，936个自报的工作使用案例；调查设计。",
+      "key_finding": "对AI的高信心与较少自报思考努力相关；思考工作可能转向验证、整合和监督。",
+      "limitations": "自报努力不是客观能力；相关关系不是AI造成去技能化；没有客观长期迁移或保持测验。",
+      "data_status": "D：未核实公开参与者级数据或代码。作者PDF https://www.microsoft.com/en-us/research/wp-content/uploads/2025/01/lee_2025_ai_critical_thinking_survey.pdf 。",
+      "topic_ids": [
+        "LL1",
+        "LL5"
+      ],
+      "id": "LL14",
+      "aliases": [],
+      "source_files": [
+        "labor_learning_sources.json"
+      ],
+      "parallel_audit_notes": [],
+      "accessed_at": "2026-11-07",
+      "publication_class": "published_scholarly",
+      "topic_id_namespace": "original subgroup IDs; T-prefixed IDs refer to the main agenda"
+    },
+    {
+      "title": "AI Doesn’t Reduce Work—It Intensifies It",
+      "authors": [
+        "Aruna Ranganathan",
+        "Xingqi Maggie Ye"
+      ],
+      "year": 2026,
+      "venue": "Harvard Business Review，2026-02-09；研究面向实践的文章，非同行评议实证期刊论文",
+      "url": "https://hbr.org/2026/02/ai-doesnt-reduce-work-it-intensifies-it",
+      "doi": null,
+      "reading_level": "只核验HBR题名、作者、日期；实质研究说明依据作者本人公开研究页面 https://www.arunaranganathan.com/research-topics/ai-at-work 。未通读HBR付费全文。",
+      "evidence_design": "作者页面说明采用质性方法研究AI工作实践；本轮没有从原始方法报告核实常被媒体引用的样本与时长，因此不填写。",
+      "key_finding": "作者研究页面提出任务范围扩张、多任务处理和非工作时间溢出作为待量化机制。",
+      "limitations": "补充性问题生成来源，不作为已核验因果效应或元分析输入；不能写成AI对全部工作者必然增压。",
+      "data_status": "D：未核实公开原始访谈、观察或代码；以作者研究页面为理论线索。",
+      "topic_ids": [
+        "LL2",
+        "LL5"
+      ],
+      "id": "LL15",
+      "aliases": [],
+      "source_files": [
+        "labor_learning_sources.json"
+      ],
+      "parallel_audit_notes": [],
+      "accessed_at": "2026-11-07",
+      "publication_class": "practice_article",
+      "topic_id_namespace": "original subgroup IDs; T-prefixed IDs refer to the main agenda"
+    },
+    {
+      "id": "IH01",
+      "title": "Evidence for a collective intelligence factor in the performance of human groups",
+      "authors": [
+        "Anita Williams Woolley",
+        "Christopher F. Chabris",
+        "Alex Pentland",
+        "Nada Hashmi",
+        "Thomas W. Malone"
+      ],
+      "year": 2010,
+      "venue": "Science",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20929725/",
+      "doi": "10.1126/science.1193147",
+      "reading_level": "原始论文摘要（PubMed）；未通读全文",
+      "evidence_design": "两项群体任务研究；699人组成2–5人小组；相关及因子分析。",
+      "key_finding": "群体任务表现存在共同因子；与社会敏感性、发言轮替平等相关，和成员平均或最大个体智力的相关较弱。",
+      "limitations": "相关不是机制因果；小规模短时任务；不能直接套用AI组织或宣称个体能力无关。",
+      "data_status": "未确认公开原始数据；本轮未读取数据文件。",
+      "topic_ids": [
+        "I1"
+      ],
+      "aliases": [],
+      "source_files": [
+        "innovation_hci_sources.json"
+      ],
+      "parallel_audit_notes": [],
+      "accessed_at": "2026-11-07",
+      "publication_class": "published_scholarly",
+      "topic_id_namespace": "original subgroup IDs; T-prefixed IDs refer to the main agenda"
+    },
+    {
+      "id": "IH02",
+      "title": "Collaborative learning in networks",
+      "authors": [
+        "Winter Mason",
+        "Duncan J. Watts"
+      ],
+      "year": 2012,
+      "venue": "Proceedings of the National Academy of Sciences",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3271930/",
+      "doi": "10.1073/pnas.1110069108",
+      "reading_level": "原始全文定向阅读：摘要、方法、网络构建、结果、讨论、补充材料目录",
+      "evidence_design": "256场网络搜索实验，每组16个位置；比较8类网络与独立搜索，并用模拟解释差异。",
+      "key_finding": "联网搜索优于独立搜索；在该任务中高效网络优于低效网络，反驳信息传播越慢越利于探索的普遍假设。",
+      "limitations": "特定奖励地形与短周期；256场不是256个互不重叠的人群；模拟假定和人类策略不同。",
+      "data_status": "实物页面有补充方法PDF入口；未确认可下载逐轮原始数据，本轮未读取数据表。",
+      "topic_ids": [
+        "I1",
+        "I2"
+      ],
+      "aliases": [],
+      "source_files": [
+        "innovation_hci_sources.json"
+      ],
+      "parallel_audit_notes": [],
+      "accessed_at": "2026-11-07",
+      "publication_class": "published_scholarly",
+      "topic_id_namespace": "original subgroup IDs; T-prefixed IDs refer to the main agenda"
+    },
+    {
+      "id": "IH03",
+      "title": "Generative AI enhances individual creativity but reduces the collective diversity of novel content",
+      "authors": [
+        "Anil R. Doshi",
+        "Oliver P. Hauser"
+      ],
+      "year": 2024,
+      "venue": "Science Advances",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11244532/",
+      "doi": "10.1126/sciadv.adn5290",
+      "reading_level": "原始全文定向阅读：设计、随机条件、主要结果、数据声明",
+      "evidence_design": "预注册在线实验，293名写作者随机分配无AI建议/最多1条/最多5条GPT-4建议；600名评价者。",
+      "key_finding": "AI想法提高短篇故事评价，低基线创造力者受益较多；不同作者的AI辅助作品更相似。",
+      "limitations": "短篇创作与一次性暴露；不能据此推出长期团队网络必然同质化；AI可用性随机，实际使用量自选。",
+      "data_status": "作者声明Dryad开放数据与代码：https://doi.org/10.5061/dryad.qfttdz0pm；本轮尝试仓库访问受工具重定向限制，未读取文件。",
+      "topic_ids": [
+        "I1",
+        "I3"
+      ],
+      "aliases": [],
+      "source_files": [
+        "innovation_hci_sources.json"
+      ],
+      "parallel_audit_notes": [],
+      "accessed_at": "2026-11-07",
+      "publication_class": "published_scholarly",
+      "topic_id_namespace": "original subgroup IDs; T-prefixed IDs refer to the main agenda",
+      "prior_round_data_note": "上一轮已读取Zenodo11654403复制包目录，见旧包literature_audit.md；未运行。本轮自身访问未成功，不覆盖原始审计记录。"
+    },
+    {
+      "id": "IH04",
+      "title": "The Crowdless Future? Generative AI and Creative Problem-Solving",
+      "authors": [
+        "Léonard Boussioux",
+        "Jacqueline N. Lane",
+        "Miaomiao Zhang",
+        "Vladimir Jacimovic",
+        "Karim R. Lakhani"
+      ],
+      "year": 2024,
+      "venue": "Organization Science",
+      "url": "https://dash.harvard.edu/entities/publication/2366e45c-863a-470c-bacd-831b3b9938ba",
+      "doi": "10.1287/orsc.2023.18430",
+      "reading_level": "作者机构存档的原始摘要与完整书目；全文下载遇429，未宣称全文阅读",
+      "evidence_design": "循环经济商业想法众包；125名人类解题者；234个方案，由300名评价者形成3900个评价-方案对。",
+      "key_finding": "人类方案更新颖，人机方案在可行性和价值评价上更好；明确要求与前次不同的差异化搜索优于独立生成。",
+      "limitations": "比较的是具体搜索安排与早期方案评价，非商业化成效；提示策略差异不可当作AI单一效应。",
+      "data_status": "未核实公开数据；机构存档确认论文PDF存在但本轮未成功下载。",
+      "topic_ids": [
+        "I1",
+        "I3"
+      ],
+      "aliases": [],
+      "source_files": [
+        "innovation_hci_sources.json"
+      ],
+      "parallel_audit_notes": [],
+      "accessed_at": "2026-11-07",
+      "publication_class": "published_scholarly",
+      "topic_id_namespace": "original subgroup IDs; T-prefixed IDs refer to the main agenda"
+    },
+    {
+      "id": "IH05",
+      "title": "Generative artificial intelligence, human creativity, and art",
+      "authors": [
+        "Eric Zhou",
+        "Dokyun Lee"
+      ],
+      "year": 2024,
+      "venue": "PNAS Nexus",
+      "url": "https://academic.oup.com/pnasnexus/article/3/3/pgae052/7618478",
+      "doi": "10.1093/pnasnexus/pgae052",
+      "reading_level": "原始期刊全文定向阅读：摘要、引言、生产率/价值/新颖性结果；PMC数据声明",
+      "evidence_design": "超过400万作品、5万名创作者的平台观察数据；AI采用事件研究及双重差分。",
+      "key_finding": "AI采用伴随更多产出与收藏/浏览比提高；平均新颖性下降而最大内容新颖性可上升。",
+      "limitations": "采用并非随机；平台收藏不等于社会价值；观测到的采用标签有漏报；与IH08来自相关艺术平台研究，不能假设样本完全独立。",
+      "data_status": "作者声明匿名复制资料和代码在https://osf.io/jfzyp/；本轮未读取该数据仓库。",
+      "topic_ids": [
+        "I3"
+      ],
+      "aliases": [],
+      "source_files": [
+        "innovation_hci_sources.json"
+      ],
+      "parallel_audit_notes": [],
+      "accessed_at": "2026-11-07",
+      "publication_class": "published_scholarly",
+      "topic_id_namespace": "original subgroup IDs; T-prefixed IDs refer to the main agenda"
+    },
+    {
+      "id": "IH06",
+      "title": "The consequences of generative AI for online knowledge communities",
+      "authors": [
+        "Gordon Burtch",
+        "Dokyun Lee",
+        "Zhichen Chen"
+      ],
+      "year": 2024,
+      "venue": "Scientific Reports",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11074245/",
+      "doi": "10.1038/s41598-024-61221-0",
+      "reading_level": "原始全文定向阅读：引言、讨论、结论、数据声明",
+      "evidence_design": "2021-10至2023-03 Stack Overflow及Reddit开发者社区观察；围绕ChatGPT发布分析参与活动。",
+      "key_finding": "Stack Overflow流量及提问下降而Reddit未出现同样下降；新用户流失更明显，提示社会关系可能影响替代程度。",
+      "limitations": "短期、同期冲击、平台可比性与粗糙文本复杂度代理限制因果解释；不能推出工作场所也同样变化。",
+      "data_status": "作者声明Stack Overflow/Reddit分析数据与代码在https://osf.io/qs6b3/（本轮403，未读取）；SimilarWeb流量明确不公开，需购买，不能称整项可免费复现。",
+      "topic_ids": [
+        "I4"
+      ],
+      "aliases": [],
+      "source_files": [
+        "innovation_hci_sources.json"
+      ],
+      "parallel_audit_notes": [],
+      "accessed_at": "2026-11-07",
+      "publication_class": "published_scholarly",
+      "topic_id_namespace": "original subgroup IDs; T-prefixed IDs refer to the main agenda"
+    },
+    {
+      "id": "IH07",
+      "title": "How AI Ideas Affect the Creativity, Diversity, and Evolution of Human Ideas: Evidence From a Large, Dynamic Experiment",
+      "authors": [
+        "Joshua Ashkinaze",
+        "Julia Mendelsohn",
+        "Li Qiwei",
+        "Ceren Budak",
+        "Eric Gilbert"
+      ],
+      "year": 2025,
+      "venue": "ACM Collective Intelligence Conference",
+      "url": "https://arxiv.org/html/2401.13481v3",
+      "doi": "10.1145/3715928.3737481",
+      "reading_level": "作者公开全文v3定向阅读：摘要、实验链条、刺激构造、测量、实现限制；正式会议DOI已核对",
+      "evidence_design": "800余人、40余国动态想法传播实验；前人的想法成为后人刺激，改变AI曝光比例与来源披露。",
+      "key_finding": "高AI曝光提高群体想法多样性及变化速度，但未提高单个想法创造力；与静态短篇实验不能简单合并为同一效应。",
+      "limitations": "替代用途任务、自动创造力评分、互联网便利样本；条件之间的调节发生于研究特定传播规则；不是复杂组织绩效。",
+      "data_status": "本轮未确认该实验的公开参与者级数据；正文链接的其他AUT训练数据不是本实验数据，不能混算。",
+      "topic_ids": [
+        "I1",
+        "I2"
+      ],
+      "aliases": [],
+      "source_files": [
+        "innovation_hci_sources.json"
+      ],
+      "parallel_audit_notes": [],
+      "accessed_at": "2026-11-07",
+      "publication_class": "published_scholarly",
+      "topic_id_namespace": "original subgroup IDs; T-prefixed IDs refer to the main agenda"
+    },
+    {
+      "id": "IH08",
+      "title": "Who expands the human creative frontier with generative AI: Hive minds or masterminds?",
+      "authors": [
+        "Eric B. Zhou",
+        "Dokyun Lee",
+        "Bin Gu"
+      ],
+      "year": 2025,
+      "venue": "Science Advances",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12407059/",
+      "doi": "10.1126/sciadv.adu5800",
+      "reading_level": "原始全文定向阅读：摘要、设计、前沿指标、生产量控制、局限、数据声明",
+      "evidence_design": "31076名创作者、27个月平台数据；匹配事件研究与双重差分，使用概念空间凸包并做等产量比较。",
+      "key_finding": "AI采用者带来更多新颖边缘作品主要由增产解释；没有超出增产效应的人机协同证据；贡献者从少数向更广群体扩散。",
+      "limitations": "凸包极端点不代表有价值创新，可能漏掉内部重组；作者明确未检验跨用户学习，仍可能存在未观测混杂。",
+      "data_status": "作者声明匿名复制代码在https://doi.org/10.5061/dryad.xpnvx0ksf；本轮仓库访问受工具限制，未读取文件，不保证关系网络和作品可回链。",
+      "topic_ids": [
+        "I1",
+        "I3"
+      ],
+      "aliases": [],
+      "source_files": [
+        "innovation_hci_sources.json"
+      ],
+      "parallel_audit_notes": [],
+      "accessed_at": "2026-11-07",
+      "publication_class": "published_scholarly",
+      "topic_id_namespace": "original subgroup IDs; T-prefixed IDs refer to the main agenda",
+      "prior_round_data_note": "上一轮已读取Dryad复制包目录（posts/users及基线UMAP），未运行、未确认可回链传播关系；详见旧包literature_audit.md。"
+    },
+    {
+      "id": "IH09",
+      "title": "Propagation and preservation of AI-discovered problem-solving strategies in human culture",
+      "authors": [
+        "Levin Brinkmann",
+        "Thomas F. Eisenmann",
+        "Anne-Marie Nussberger",
+        "Maxime Derex",
+        "Sara Bonati",
+        "Valerii Chirkov",
+        "Iyad Rahwan"
+      ],
+      "year": 2026,
+      "venue": "Nature Communications",
+      "url": "https://www.nature.com/articles/s41467-026-76113-2",
+      "doi": "10.1038/s41467-026-76113-2",
+      "reading_level": "正式期刊索引摘要/结果已读取；详细方法来自作者2025预印本https://arxiv.org/html/2506.17741v1；正式全文访问失败，版本差异未全核",
+      "evidence_design": "文化传递实验和强化学习/群体模拟；预印本设计为30个群体、5代、每代8个位置，部分群体首代含3个机器位置。",
+      "key_finding": "机器发现的非直观高收益策略能经人类社会学习传播，在机器退出后的多代中保留；AI作为文化创新来源已有直接实验。",
+      "limitations": "奖励网络、明确优劣和示范学习；并非LLM或自然团队；保存策略不等于能够跨任务迁移或灵活重组。",
+      "data_status": "确认预印本有可体验的实验静态界面https://center-for-humans-and-machines.github.io/reward-network-iii；本轮未核实原始行为数据仓库，不把界面当数据。",
+      "topic_ids": [
+        "I2"
+      ],
+      "aliases": [],
+      "source_files": [
+        "innovation_hci_sources.json"
+      ],
+      "parallel_audit_notes": [],
+      "accessed_at": "2026-11-07",
+      "publication_class": "published_scholarly",
+      "topic_id_namespace": "original subgroup IDs; T-prefixed IDs refer to the main agenda"
+    },
+    {
+      "id": "IH10",
+      "title": "Bridging Instead of Replacing Online Coding Communities with AI through Community-Enriched Chatbot Designs",
+      "authors": [
+        "Junling Wang",
+        "Lahari Goswami",
+        "Gustavo Kreia Umbelino",
+        "Kiara Garcia Chau",
+        "Mrinmaya Sachan",
+        "April Yi Wang"
+      ],
+      "year": 2026,
+      "venue": "Proceedings of the ACM on Human-Computer Interaction (CSCW)",
+      "url": "https://arxiv.org/html/2601.18697v1",
+      "doi": "10.1145/3788044",
+      "reading_level": "作者全文定向阅读：摘要、系统设计、研究1方法、研究2摘要、讨论、局限；正式期刊元数据已核",
+      "evidence_design": "ChatCommunity RAG原型；28名学习者组内比较4种辅助方式；另12名参与者设计探索。",
+      "key_finding": "展示社区内容来源和社会线索能提高感知可靠性与社区接触；作者明确未测实际学习成效。",
+      "limitations": "单一Kaggle竞赛、小样本、感知信任不等于答案准确或长期贡献；并未证明公共知识供给恢复。",
+      "data_status": "实物核实GitHub代码仓库https://github.com/ETH-PEACH-Lab/ChatCommunity存在且可读取页面；代码公开不等于受试者数据公开，本轮未读取行为原始表。",
+      "topic_ids": [
+        "I4"
+      ],
+      "aliases": [],
+      "source_files": [
+        "innovation_hci_sources.json"
+      ],
+      "parallel_audit_notes": [],
+      "accessed_at": "2026-11-07",
+      "publication_class": "published_scholarly",
+      "topic_id_namespace": "original subgroup IDs; T-prefixed IDs refer to the main agenda"
+    },
+    {
+      "id": "IH11",
+      "title": "From Registry to Repository: How AI Agent Skills Are Written, Adapted, and Maintained",
+      "authors": [
+        "Haoyu Gao",
+        "Jai Lal Lulla",
+        "Hong Yi Lin",
+        "Sebastian Baltes",
+        "Christoph Treude",
+        "Mansooreh Zahedi"
+      ],
+      "year": 2026,
+      "venue": "arXiv preprint (not verified as peer-reviewed)",
+      "url": "https://arxiv.org/html/2607.00911v2",
+      "doi": "10.48550/arXiv.2607.00911",
+      "reading_level": "作者原始摘要、全文结论与复制包声明；未通读所有方法",
+      "evidence_design": "18463个注册技能、23199个个人技能、5876个仓库及3709条复用关联；内容与变更编码。",
+      "key_finding": "复用多为一次性复制，53%采用后未修改；定制多用于环境适配，演化多为增加知识。",
+      "limitations": "版本与链接恢复不等于执行和学习；尚未经本轮确认同行评审；不能再把首次研究Skills复用作为创新点。",
+      "data_status": "作者声明复制包https://zenodo.org/records/21032973；本轮未读取包内数据，需审计其时间戳、上游URL和复用边字段。",
+      "topic_ids": [
+        "I2"
+      ],
+      "aliases": [],
+      "source_files": [
+        "innovation_hci_sources.json"
+      ],
+      "parallel_audit_notes": [],
+      "accessed_at": "2026-11-07",
+      "publication_class": "preprint_or_working_paper",
+      "topic_id_namespace": "original subgroup IDs; T-prefixed IDs refer to the main agenda"
+    },
+    {
+      "id": "IH12",
+      "title": "An Empirical Study of Agent Skills' Downstream Utility",
+      "authors": [
+        "Yu Cheng",
+        "Dehai Zhao",
+        "Zhongxin Liu",
+        "Qing Huang",
+        "Zhenchang Xing",
+        "Xiaoxue Ren"
+      ],
+      "year": 2026,
+      "venue": "arXiv preprint (not verified as peer-reviewed)",
+      "url": "https://arxiv.org/abs/2610.08875",
+      "doi": "10.48550/arXiv.2610.08875",
+      "reading_level": "原始摘要及书目；未通读全文",
+      "evidence_design": "87项SkillsBench任务、9个模型/运行环境配置；比较技能候选和多技能组织方式。",
+      "key_finding": "同一技能在不同配置可帮助也可伤害任务表现；程序建议可能增加执行负担；支持操作和依赖结构影响效用。",
+      "limitations": "基准任务不等于人的知识吸收；未完成全文审计；不能再泛称技能有用性/可移植性无人研究。",
+      "data_status": "仅确认摘要报告语料与实验；公开原始数据状态未确认。",
+      "topic_ids": [
+        "I2"
+      ],
+      "aliases": [],
+      "source_files": [
+        "innovation_hci_sources.json"
+      ],
+      "parallel_audit_notes": [],
+      "accessed_at": "2026-11-07",
+      "publication_class": "preprint_or_working_paper",
+      "topic_id_namespace": "original subgroup IDs; T-prefixed IDs refer to the main agenda"
+    },
+    {
+      "id": "IH13",
+      "title": "How Agent Skills Evolve: A Large-Scale Empirical Study of Skills on GitHub",
+      "authors": [
+        "Jinjun Huang",
+        "Jialun Cao",
+        "Junxiao Han",
+        "Zhonghao Jiang",
+        "Shing-Chi Cheung",
+        "Zhongxin Liu"
+      ],
+      "year": 2026,
+      "venue": "arXiv preprint (submitted 2026-11-03; peer review not verified)",
+      "url": "https://arxiv.org/html/2611.04456v1",
+      "doi": "10.48550/arXiv.2611.04456",
+      "reading_level": "作者摘要、结论、数据声明；DOI在arXiv标注pending registration",
+      "evidence_design": "84200项技能、750898次相关提交；人工分类及自动变更注释。",
+      "key_finding": "改动集中于部分项目绑定技能，增补和精炼常见；安全动机未必转为可见风险下降。",
+      "limitations": "极新预印本；自动注释有效性需全文复审；未测跨组织修复传播的社会机制。",
+      "data_status": "作者声明数据/代码/附录在https://github.com/ZJU-CTAG/SkillEMP；本轮未读取仓库文件。",
+      "topic_ids": [
+        "I2"
+      ],
+      "aliases": [],
+      "source_files": [
+        "innovation_hci_sources.json"
+      ],
+      "parallel_audit_notes": [],
+      "accessed_at": "2026-11-07",
+      "publication_class": "preprint_or_working_paper",
+      "topic_id_namespace": "original subgroup IDs; T-prefixed IDs refer to the main agenda"
+    },
+    {
+      "id": "IH14",
+      "title": "Coding Alone? AI-Assisted Software Work and the Decoupling of Productivity from Public Knowledge-Infrastructure Participation",
+      "authors": [
+        "Tianhe Jiang"
+      ],
+      "year": 2026,
+      "venue": "Journal of Intelligence",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13207591/",
+      "doi": "10.3390/jintelligence14050089",
+      "reading_level": "原始全文摘要、局限、数据声明；未重算模型或独立验证原始样本",
+      "evidence_design": "作者报告约3.8万GitHub自由职业开发者2019–2025面板和237人关联问卷；固定效应及异质性分析。",
+      "key_finding": "生产活动与可见公共知识交流之间的关联减弱，和AI采用解释相容；不识别完整认知机制。",
+      "limitations": "私域交流不可见、采用自报、生产率代理变化与同期冲击；只在合理请求条件下提供资料，降低可独立复核性。",
+      "data_status": "明确非现成开放数据：去标识聚合与复制材料需向作者合理请求；原始问卷及用户标识不公开。",
+      "topic_ids": [
+        "I4"
+      ],
+      "aliases": [],
+      "source_files": [
+        "innovation_hci_sources.json"
+      ],
+      "parallel_audit_notes": [],
+      "accessed_at": "2026-11-07",
+      "publication_class": "published_scholarly",
+      "topic_id_namespace": "original subgroup IDs; T-prefixed IDs refer to the main agenda"
+    },
+    {
+      "id": "B01",
+      "title": "When combinations of humans and AI are useful: A systematic review and meta-analysis",
+      "authors": [
+        "Michelle Vaccaro",
+        "Abdullah Almaatouq",
+        "Thomas W. Malone"
+      ],
+      "year": 2024,
+      "venue": "Nature Human Behaviour 8:2293–2303",
+      "doi": "10.1038/s41562-024-02024-1",
+      "url": "https://www.nature.com/articles/s41562-024-02024-1",
+      "reading_level": "上一轮已核验原文设计及基线区分；本轮复核原刊摘要",
+      "evidence_design": "预注册综述及元分析，106项实验、370效应",
+      "key_finding": "相对人类的增强与超过人或AI中最优者的协同是不同问题；联合不保证协同。",
+      "limitations": "跨技术、任务和配置异质性；元分析与其原始研究不能当独立效应重复计数。",
+      "data_status": "作者列OSF wrq7c；本轮未读取数据文件或重新计算。",
+      "topic_ids": [
+        "T10",
+        "T17",
+        "T18"
+      ],
+      "aliases": [],
+      "source_files": [
+        "bridge_sources.json"
+      ],
+      "parallel_audit_notes": [],
+      "accessed_at": "2026-11-07",
+      "publication_class": "published_scholarly",
+      "topic_id_namespace": "original subgroup IDs; T-prefixed IDs refer to the main agenda"
+    },
+    {
+      "id": "B02",
+      "title": "The Cybernetic Teammate: A Field Experiment on Generative AI and Teamwork",
+      "authors": "Fabrizio Dell’Acqua et al.",
+      "year": 2026,
+      "venue": "Organization Science，2026-06-12在线",
+      "doi": "10.1287/orsc.2025.20702",
+      "url": "https://pubsonline.informs.org/doi/10.1287/orsc.2025.20702",
+      "reading_level": "上一轮已读设计、样本口径及结果；本轮复核正式论文首页与摘要",
+      "evidence_design": "791名完成工作坊的专业人员，个体/两人团队×AI的预注册现场实验；776为完整后测口径",
+      "key_finding": "特定创新任务中AI可帮助个体取得类似无AI团队的表现，并帮助整合专业视角；生成与选择环节作用不同。",
+      "limitations": "短期产品创新情境；不等于真实长期团队可被替代，也不是所有任务的协同证明。",
+      "data_status": "已确认公开附录；未核实可下载原始微观数据。",
+      "topic_ids": [
+        "T04",
+        "T10",
+        "T18",
+        "T20"
+      ],
+      "aliases": [],
+      "source_files": [
+        "bridge_sources.json"
+      ],
+      "parallel_audit_notes": [],
+      "accessed_at": "2026-11-07",
+      "publication_class": "published_scholarly",
+      "topic_id_namespace": "original subgroup IDs; T-prefixed IDs refer to the main agenda"
+    },
+    {
+      "id": "B03",
+      "title": "How social influence can undermine the wisdom of crowd effect",
+      "authors": [
+        "Jan Lorenz",
+        "Heiko Rauhut",
+        "Frank Schweitzer",
+        "Dirk Helbing"
+      ],
+      "year": 2011,
+      "venue": "Proceedings of the National Academy of Sciences 108(22):9020–9025",
+      "doi": "10.1073/pnas.1008636108",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3107299/",
+      "reading_level": "原始全文摘要、引言与机制说明；未通读附录",
+      "evidence_design": "144名参与者的估计任务实验",
+      "key_finding": "轻度社会影响即可使答案趋同而未相应提高集体准确性，并影响信心。",
+      "limitations": "非AI研究；简单估计与复杂团队不同，不能推出交流或共享AI一定有害。",
+      "data_status": "本轮未审计逐轮原始数据。",
+      "topic_ids": [
+        "T09",
+        "T17"
+      ],
+      "aliases": [],
+      "source_files": [
+        "bridge_sources.json"
+      ],
+      "parallel_audit_notes": [],
+      "accessed_at": "2026-11-07",
+      "publication_class": "published_scholarly",
+      "topic_id_namespace": "original subgroup IDs; T-prefixed IDs refer to the main agenda"
+    },
+    {
+      "id": "B04",
+      "title": "Cultural bias and cultural alignment of large language models",
+      "authors": [
+        "Yan Tao",
+        "Olga Viberg",
+        "Ryan S. Baker",
+        "René F. Kizilcec"
+      ],
+      "year": 2024,
+      "venue": "PNAS Nexus 3(9):pgae346",
+      "doi": "10.1093/pnasnexus/pgae346",
+      "url": "https://doi.org/10.1093/pnasnexus/pgae346",
+      "reading_level": "原始出版商PDF可检索摘要、引言部分；arXiv书目交叉核验",
+      "evidence_design": "五种模型输出与World Values Survey对照及文化提示比较",
+      "key_finding": "研究发现特定模型的输出价值取向偏向部分英语/欧洲文化群体，提示方式能改变对齐程度。",
+      "limitations": "模型回答与国家调查均值对齐，不等于真实跨文化团队协作改善；旧模型结论不自动推广到2026系统；国家不等于个体文化。",
+      "data_status": "本轮未审计复现包、WVS具体数据和许可。",
+      "topic_ids": [
+        "T19"
+      ],
+      "aliases": [],
+      "source_files": [
+        "culture_dependency_sources.json"
+      ],
+      "parallel_audit_notes": [],
+      "accessed_at": "2026-11-07",
+      "publication_class": "published_scholarly",
+      "topic_id_namespace": "original subgroup IDs; T-prefixed IDs refer to the main agenda"
+    },
+    {
+      "id": "B05",
+      "title": "AI Models Exceed Individual Human Accuracy in Predicting Everyday Social Norms",
+      "authors": [
+        "Pontus Strimling",
+        "Simon Karlsson",
+        "Irina Vartanova",
+        "Kimmo Eriksson"
+      ],
+      "year": 2025,
+      "venue": "arXiv:2508.19004，预印本",
+      "doi": "10.48550/arXiv.2508.19004",
+      "url": "https://arxiv.org/abs/2508.19004",
+      "reading_level": "作者预印本摘要；未读完整方法和原始数据",
+      "evidence_design": "两项研究，比较模型预测与人类对555个日常情境的社会规范判断",
+      "key_finding": "部分模型很接近群体平均判断，同时不同模型表现出系统性相关误差。",
+      "limitations": "群体均值不是道德真理；个体人类比较与人机团队的错误传播不同；尚不能据此估计真实组织风险。",
+      "data_status": "本轮未核实公开微观数据。",
+      "topic_ids": [
+        "T17",
+        "T19"
+      ],
+      "aliases": [],
+      "source_files": [
+        "culture_dependency_sources.json"
+      ],
+      "parallel_audit_notes": [],
+      "accessed_at": "2026-11-07",
+      "publication_class": "preprint_or_working_paper",
+      "topic_id_namespace": "original subgroup IDs; T-prefixed IDs refer to the main agenda"
+    }
+  ],
+  "deduplication": [
+    {
+      "kept": "C03",
+      "alias": "ORG-S13",
+      "title": "人工智能驱动的组织管理范式革命：从分工范式至端到端范式"
+    },
+    {
+      "kept": "ORG-S05",
+      "alias": "LL12",
+      "title": "Algorithms at Work: The New Contested Terrain of Control"
+    }
+  ]
+}

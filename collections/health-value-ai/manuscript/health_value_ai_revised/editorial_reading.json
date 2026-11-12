@@ -1,0 +1,17 @@
+{
+  "purpose": "中文学术语体、术语与论述组织参考；以下材料不作为新增效应估计写入论文。",
+  "retrieval_date": "2026-11-06",
+  "items": [
+    {"title": "中国人群健康相关生命质量概念框架构建：基于一般人群与疾病患者的质性研究", "journal": "中国卫生政策研究", "year": 2024, "url": "https://journal.healthpolicy.cn/html/20240601.htm", "access": "期刊页面的检索索引展开内容：摘要、书目信息；直接访问超时", "editorial_use": "区分概念框架、测量维度与量表；采用健康相关生命质量、身体功能、认知、活动等规范表述。"},
+    {"title": "国内外普适性健康效用量表综述研究", "journal": "中国卫生政策研究", "year": 2020, "url": "https://journal.healthpolicy.cn/html/20200809.htm", "access": "期刊页面的检索索引展开内容：摘要、引言、方法、部分结果；未作全文精读声明", "editorial_use": "先界定健康状态描述和偏好评价，再说明工具适用范围；避免用笼统的健康分数混指不同构念。"},
+    {"title": "药品集中采购政策下慢性病患者药品福利感知与健康相关生命质量的相关性研究", "journal": "中国卫生政策研究", "year": 2024, "url": "https://journal.healthpolicy.cn/html/20241206.htm", "access": "期刊检索内容：摘要、变量解释与测量表摘录", "editorial_use": "将抽象概念落实为具体维度；区分相关性描述与因果解释。"},
+    {"title": "基于大语言模型的自助式AI心理咨询系统构建及其效果评估", "journal": "心理学报", "year": 2025, "url": "https://journal.psych.ac.cn/xlxb/CN/10.3724/SP.J.1041.2025.2022", "access": "打开期刊页面：中英文摘要、研究设计概述及公开图表；RichHTML/PDF链接返回同一页面", "editorial_use": "明确测量时点、随访与不同心理结局；以具体结果组织讨论，避免笼统称为心理改善。"},
+    {"title": "机会抑或威胁? 人与AI协作系统对员工工作效能影响的元分析", "journal": "心理科学进展", "year": 2026, "url": "https://journal.psych.ac.cn/xlkxjz/CN/10.3724/SP.J.1042.2026.0461", "access": "打开期刊页面：中英文摘要、主效应与异质性表格；未取得全文讨论段", "editorial_use": "在陈述作用机制时同时给出边界条件，区分工作效能与健康结果。"},
+    {"title": "人工智能发展何以赋能高质量就业", "journal": "人口研究", "year": 2026, "url": "https://rkyj.ruc.edu.cn/CN/Y2026/V50/I1/51", "access": "打开期刊页面：中英文摘要、设计及分维度结果概述", "editorial_use": "分别讨论工资、工时与满意度；以层次清楚的比较替代概念堆砌。"},
+    {"title": "结构性就业矛盾、劳动时间配置与人工智能技术革命", "journal": "金融研究", "year": 2024, "url": "https://www.jryj.org.cn/CN/abstract/abstract1288.shtml", "access": "期刊检索索引展开的中文摘要、英文研究概述与书目信息；直接访问超时", "editorial_use": "先说明理论假设与配置机制，再陈述有条件的推论；采用劳动时间配置、家庭生产等具体术语。"},
+    {"title": "基于慢性病患者的中医生命质量评价量表、六维健康调查简表第一版和三水平五维健康量表结果比较研究", "journal": "中国全科医学", "year": 2023, "url": "https://www.chinagp.net/CN/10.12114/j.issn.1007-9572.2022.0806", "access": "期刊目录摘要及官方PDF检索摘录；直接PDF访问返回403", "editorial_use": "区分效度、一致性和测量结果；不把量表名称或体检指标直接写成健康价值判断。"}
+  ],
+  "application": ["重写中文摘要与九节论述，保留原有证据编号和主要数量", "以健康后果比较框架替代直译式剖面术语", "减少机械的否定句、命令句和重复限定", "重绘五幅分析图，使测量、时间、条件与分配的关系更清楚"],
+  "full_text_reading_claimed_for_all_items": false,
+  "new_empirical_findings_added_from_these_sources": false
+}

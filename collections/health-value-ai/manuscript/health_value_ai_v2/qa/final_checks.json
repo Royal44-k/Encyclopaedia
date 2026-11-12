@@ -1,0 +1,22 @@
+{
+  "reading_pdf_pages": 9,
+  "word_render_pages": 9,
+  "figures": 4,
+  "tables": 2,
+  "references": 25,
+  "body_paragraphs_checked": 40,
+  "body_presence_in_docx": "pass",
+  "body_presence_in_reading_pdf": "pass",
+  "final_pdf_pixels_match_inspected_pages": true,
+  "visual_review": {
+    "reading_pdf": "All nine pages inspected as rendered images.",
+    "docx": "All nine pages inspected from the Microsoft Word PDF export.",
+    "findings": "No clipped text, overlapping content, missing figures or unreadable labels observed."
+  },
+  "checks_scope": "Content presence, pagination and visual rendering; not independent scientific validation.",
+  "sha256": {
+    "Health_value_AI_Illustrated.pdf": "b9a86ae630f6659d8bed8d8de0d18c1691eafb1a1debe0b5fcdc63f9560b1726",
+    "Health_value_AI_Illustrated.docx": "90df6a039600d475b0f5aaa412b810d4c0a71149eef81e0dcf5d68a215a03388",
+    "figure_data.csv": "d510cffdfcdc767def3a6261a8fc06996d6388838c6fe0e61db28c498e9e471a"
+  }
+}

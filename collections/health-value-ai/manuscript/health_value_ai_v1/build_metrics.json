@@ -1,0 +1,9 @@
+{
+  "abstract_words": 146,
+  "main_text_words_including_headings": 2950,
+  "references": 25,
+  "main_tables": 2,
+  "main_figures": 1,
+  "audit_units": 215,
+  "word_count_method": "Regex words; main excludes abstract, declarations, displays and references. Journal/Word counters may differ."
+}

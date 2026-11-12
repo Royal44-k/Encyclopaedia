@@ -1,0 +1,568 @@
+[
+  {
+    "id": "E01",
+    "title": "Ironies of automation",
+    "authors": [
+      "Lisanne Bainbridge"
+    ],
+    "year": 1983,
+    "venue_and_status": "Automatica正式理论短文，19(6):775–779",
+    "doi": "10.1016/0005-1098(83)90046-8",
+    "url": "https://www.sciencedirect.com/science/article/pii/0005109883900468",
+    "full_text_url": "https://tc.ifac-control.org/4/1/newsletter/ironies-of-automation/@@download/file/Bainbridge1983_Automatica_Ironies%20of%20automation.pdf",
+    "evidence_type": "理论短文",
+    "reading_level": "IFAC提供的原文全文定向阅读§1.1、§2.3与§3；不是仅依赖后人概述。",
+    "locator": "原刊p.775 §1.1.1–1.1.2；p.777 §2.3、§3和§3.1。",
+    "can_support": "自动化减少练习却可能保留高要求的诊断/接管职责；讨论实际练习与模拟训练。",
+    "cannot_support": "不能把工业控制论证当现代LLM效应量；也不能把保留人类练习和诊断能力当2026首次提出。",
+    "data_status": "原文可由IFAC下载；非新的个体数据研究。",
+    "version_note": "本稿引用1983正式发表年，非1982会议展示年。",
+    "verification_provenance": {
+      "checked_by": "学习证据子任务直接核查原始来源",
+      "record_file": "D:/Super-Essay/manuscript/paper1_capability_renewal_2026-11-07/learning_sources.json",
+      "prior_id": "LE07"
+    },
+    "ai_checked_date": "2026-11-07",
+    "human_verification_pending": true,
+    "human_verification_note": "待作者核对所引原文、版本、定位及最终稿句子；未作人工签核。"
+  },
+  {
+    "id": "E02",
+    "title": "Learning Versus Performance: An Integrative Review",
+    "authors": [
+      "Nicholas C. Soderstrom",
+      "Robert A. Bjork"
+    ],
+    "year": 2015,
+    "venue_and_status": "Perspectives on Psychological Science 10(2):176–199；正式综述",
+    "doi": "10.1177/1745691615569000",
+    "url": "https://doi.org/10.1177/1745691615569000",
+    "full_text_url": "https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/11/soderstorm_ra_learningvsperformance.pdf",
+    "evidence_type": "整合性综述，非本稿新增实验",
+    "reading_level": "读到作者稿检索可见摘要及开头；全文直接打开超时，未逐节通读。",
+    "locator": "Abstract及开头对learning/performance的区分。",
+    "can_support": "训练时表现与长期保持、迁移并不等同。",
+    "cannot_support": "不能将这一区分作为本文首次提出，也不能据此判定某个AI系统导致长期学习损害。",
+    "data_status": "作者稿入口已定位；未审计综述编码或原始数据。",
+    "version_note": "使用2015正式期刊版本，不与早期同题材料混用。",
+    "verification_provenance": {
+      "checked_by": "学习证据子任务直接核查",
+      "record_file": "D:/Super-Essay/manuscript/paper1_capability_renewal_2026-11-07/learning_evidence.md"
+    },
+    "ai_checked_date": "2026-11-07",
+    "human_verification_pending": true,
+    "human_verification_note": "待作者核对原文、完整书目及最终稿所引主张；未作人工签核。"
+  },
+  {
+    "id": "E03",
+    "title": "Learning through work: workplace affordances and individual engagement",
+    "authors": [
+      "Stephen Billett"
+    ],
+    "year": 2001,
+    "venue_and_status": "Journal of Workplace Learning 13(5):209–214；正式论文",
+    "doi": "10.1108/EUM0000000005548",
+    "url": "https://eric.ed.gov/?id=EJ631971",
+    "full_text_url": "https://research-repository.griffith.edu.au/server/api/core/bitstreams/a1269de1-0545-53eb-8cb6-3479f153113c/content",
+    "evidence_type": "工作场所学习的概念论述；细节需全文复核",
+    "reading_level": "根任务核查机构元数据与摘要，定位原始机构PDF但未读全文；本汇编未升级其阅读层级。",
+    "locator": "ERIC EJ631971摘要；Griffith机构PDF入口。",
+    "can_support": "工作中的学习需要同时考虑工作场所提供的机会与个人参与。",
+    "cannot_support": "不能据此声称AI团队中的异常路由或有指导轮转效果已被检验。",
+    "data_status": "机构全文入口已定位；未核原始研究资料。",
+    "version_note": "此条为期刊论文EJ631971，不混用会议资料ED456261。",
+    "verification_provenance": {
+      "checked_by": "根任务2026-11-07直接核查并提供书目信息；汇编者本次ERIC访问超时",
+      "record_file": null
+    },
+    "ai_checked_date": "2026-11-07",
+    "human_verification_pending": true,
+    "human_verification_note": "待作者核对原文、完整书目及最终稿所引主张；未作人工签核。"
+  },
+  {
+    "id": "E04",
+    "title": "Shadow Learning: Building Robotic Surgical Skill When Approved Means Fail",
+    "authors": [
+      "Matthew Beane"
+    ],
+    "year": 2019,
+    "venue_and_status": "Administrative Science Quarterly 64(1):87–123；2018在线、2019卷期",
+    "doi": "10.1177/0001839217751692",
+    "url": "https://journals.sagepub.com/doi/full/10.1177/0001839217751692",
+    "full_text_url": null,
+    "evidence_type": "比较民族志及访谈研究",
+    "reading_level": "出版社及作者机构原始摘要、元数据；未通读期刊全文。",
+    "locator": "原始摘要；作者机构摘要 https://digitaleconomy.stanford.edu/publication/shadow-learning-building-robotic-surgical-skill-when-approved-means-fail/ 。",
+    "can_support": "技术可以改变新手参与工作与形成技能的路径，少数学习者可经非正式实践补偿。",
+    "cannot_support": "不能把机器人外科的质性结果当LLM团队因果效应，或宣称本文首创学习机会不均的问题。",
+    "data_status": "未核实开放原始访谈和田野记录。",
+    "version_note": "正式引用2019卷期；2018为在线年份。",
+    "verification_provenance": {
+      "checked_by": "学习子任务及理论审查子任务核查摘要",
+      "record_file": "D:/Super-Essay/manuscript/paper1_capability_renewal_2026-11-07/venue_and_theory_audit.md"
+    },
+    "ai_checked_date": "2026-11-07",
+    "human_verification_pending": true,
+    "human_verification_note": "待作者核对原文、完整书目及最终稿所引主张；未作人工签核。"
+  },
+  {
+    "id": "E05",
+    "title": "Generative AI without guardrails can harm learning: Evidence from high school mathematics",
+    "authors": [
+      "Hamsa Bastani",
+      "Osbert Bastani",
+      "Alp Sungu",
+      "Haosen Ge",
+      "Özge Kabakcı",
+      "Rei Mariman"
+    ],
+    "year": 2025,
+    "venue_and_status": "PNAS正式论文；2025-06-25在线，122(26)e2422633122",
+    "doi": "10.1073/pnas.2422633122",
+    "url": "https://www.pnas.org/doi/10.1073/pnas.2422633122",
+    "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12232635/",
+    "evidence_type": "课堂干预实验",
+    "reading_level": "全文定向重读实验设计、结果、机制分析、局限和数据声明；附录未逐页重读。",
+    "locator": "Experimental Design；Learning Outcomes；Student Perception；Discussion末段；脚注#（班级分配）；Data, Materials, and Software Availability。",
+    "can_support": "两种AI均提高辅助练习成绩；Base随后无辅助考试低于对照，Tutor与对照无显著差异。",
+    "cannot_support": "不能写Tutor显著提升独立学习、等效性已证明、长期能力衰退或某个对话机制已被单独随机识别。",
+    "data_status": "本会话已看见GitHub final_data.csv、脚本与字典；未运行。https://github.com/obastani/GenAICanHarmLearning",
+    "version_note": "17%为相对降幅；原文考试归一化分差为0.054，不能写下降17个百分点。",
+    "verification_provenance": {
+      "checked_by": "学习证据子任务直接核查原始来源",
+      "record_file": "D:/Super-Essay/manuscript/paper1_capability_renewal_2026-11-07/learning_sources.json",
+      "prior_id": "LE01"
+    },
+    "ai_checked_date": "2026-11-07",
+    "human_verification_pending": true,
+    "human_verification_note": "待作者核对所引原文、版本、定位及最终稿句子；未作人工签核。"
+  },
+  {
+    "id": "E06",
+    "title": "AI tutoring outperforms in-class active learning: an RCT introducing a novel research-based design in an authentic educational setting",
+    "authors": [
+      "Greg Kestin",
+      "Kelly Miller",
+      "Anna Klales",
+      "Timothy Milbourne",
+      "Gregorio Ponti"
+    ],
+    "year": 2025,
+    "venue_and_status": "Scientific Reports正式论文，15:17458",
+    "doi": "10.1038/s41598-025-97652-6",
+    "url": "https://doi.org/10.1038/s41598-025-97652-6",
+    "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12179260/",
+    "evidence_type": "交叉教学实验",
+    "reading_level": "全文定向重读研究人群、交叉设计、附加控制、学习测量和局限；未独立核验全部补充测试材料。",
+    "locator": "Methods—Study population、Study design、Additional controls；Results—Time on task、Learning gains；Context, limitations, and future directions。",
+    "can_support": "该AI教学方案产生更高即时课后测验成绩；效果依赖具体教学实施，构成AI必然损害学习的反例。",
+    "cannot_support": "不是裸模型对教师的单因素试验；未测长期保持、真实教学能力或多人团队能力更新。不能称已严格识别某个脚手架组件。",
+    "data_status": "公共仓库入口存在，但本会话未取得文件目录/数据字段。https://github.com/HarvardAItutor/Study-Data-v4",
+    "version_note": "课后测验不能自动命名为长期独立能力；本轮未核实全部防外部工具措施，不夸称严格随机撤除AI。",
+    "verification_provenance": {
+      "checked_by": "学习证据子任务直接核查原始来源",
+      "record_file": "D:/Super-Essay/manuscript/paper1_capability_renewal_2026-11-07/learning_sources.json",
+      "prior_id": "LE02"
+    },
+    "ai_checked_date": "2026-11-07",
+    "human_verification_pending": true,
+    "human_verification_note": "待作者核对所引原文、版本、定位及最终稿句子；未作人工签核。"
+  },
+  {
+    "id": "E07",
+    "title": "How AI Impacts Skill Formation",
+    "authors": [
+      "Judy Hanwen Shen",
+      "Alex Tamkin"
+    ],
+    "year": 2026,
+    "venue_and_status": "arXiv:2601.20245v2，预印本",
+    "doi": "10.48550/arXiv.2601.20245",
+    "url": "https://arxiv.org/abs/2601.20245v2",
+    "full_text_url": "https://arxiv.org/html/2601.20245v2",
+    "evidence_type": "技能形成随机实验；预印本",
+    "reading_level": "全文重读§4、§5、§6分析与§7局限；版本元数据复核。",
+    "locator": "§4.2 Evaluation Design；§4.3 Study Design；§5.2 Main Study；§6交互模式；§7.1 Future Work。",
+    "can_support": "AI组即时测验较弱，平均完成时间改善未显著；交互模式与学习结果有关。",
+    "cannot_support": "新库技能形成不足不等于原有技能衰退；模式为事后观察；未测生产环境故障诊断、长期保持或教学传承。",
+    "data_status": "仓库公开标注对话和任务；未证实完整成绩微观数据。https://github.com/safety-research/how-ai-impacts-skill-formation",
+    "version_note": "版本史v2为2026-02-01；HTML页首显示2026-08-24，不能把渲染页日期当新版本。主文分数百分比表述有歧义，建议稿件只报已核实d=0.738及即时测验方向，不重复有歧义的17%。",
+    "verification_provenance": {
+      "checked_by": "学习证据子任务直接核查原始来源",
+      "record_file": "D:/Super-Essay/manuscript/paper1_capability_renewal_2026-11-07/learning_sources.json",
+      "prior_id": "LE03"
+    },
+    "ai_checked_date": "2026-11-07",
+    "human_verification_pending": true,
+    "human_verification_note": "待作者核对所引原文、版本、定位及最终稿句子；未作人工签核。"
+  },
+  {
+    "id": "E08",
+    "title": "Generative AI at Work",
+    "authors": [
+      "Erik Brynjolfsson",
+      "Danielle Li",
+      "Lindsey Raymond"
+    ],
+    "year": 2025,
+    "venue_and_status": "Quarterly Journal of Economics正式论文，140(2):889–942",
+    "doi": "10.1093/qje/qjae044",
+    "url": "https://academic.oup.com/qje/article/140/2/889/7990658",
+    "full_text_url": "https://academic.oup.com/qje/article/140/2/889/7990658",
+    "evidence_type": "分期部署观察研究及技术停机分析",
+    "reading_level": "正式全文定向阅读研究设计、技能异质性、§VI.B停机与学习、数据声明；未逐项重跑附录。",
+    "locator": "§VI.B Worker Learning；Figure VII及图注；Online Appendix Table A.VIII的正文指向；Data Availability。",
+    "can_support": "AI使用经历较长者停机时仍更快处理聊天，与学习保留相符。",
+    "cannot_support": "停机稀少且影响对象不一；结局仅聊天时长，没有同粒度解决率；构成差异和噪声限制因果解释。不是长期独立能力的随机实验。",
+    "data_status": "期刊公开声明提供代码 https://doi.org/10.7910/DVN/FSV1X7 ；本轮未核验复现包内容，不把企业微观数据当开放。",
+    "version_note": "采用2025正式版本，样本5172；不混用早期稿样本或14%结果。",
+    "verification_provenance": {
+      "checked_by": "学习证据子任务直接核查原始来源",
+      "record_file": "D:/Super-Essay/manuscript/paper1_capability_renewal_2026-11-07/learning_sources.json",
+      "prior_id": "LE04"
+    },
+    "ai_checked_date": "2026-11-07",
+    "human_verification_pending": true,
+    "human_verification_note": "待作者核对所引原文、版本、定位及最终稿句子；未作人工签核。"
+  },
+  {
+    "id": "E09",
+    "title": "Tutor CoPilot: A Human-AI Approach for Scaling Real-Time Expertise",
+    "authors": [
+      "Rose E. Wang",
+      "Ana Trindade Ribeiro",
+      "Carly D. Robinson",
+      "Susanna Loeb",
+      "Dorottya Demszky"
+    ],
+    "year": 2025,
+    "venue_and_status": "EdWorkingPaper，2025-11修订；未核验正式期刊发表",
+    "doi": "10.26300/81nh-8262",
+    "url": "https://doi.org/10.26300/81nh-8262",
+    "full_text_url": "https://edworkingpapers.com/sites/default/files/ai24_1054_v2.pdf",
+    "evidence_type": "导师层随机分配实验；工作论文",
+    "reading_level": "全文定向阅读结果、方法、分析方案变化、局限和数据声明；附录B/D定向核对。",
+    "locator": "PDF页码按封面为1：pp.4–5结果；pp.11–13参与者/随机化/分析；p.14数据声明；pp.22、28–29长期结果边界。",
+    "can_support": "导师获得AI建议时，学生当次退出测验掌握概率提高约4个百分点，提示改善教学互动的可行路径。",
+    "cannot_support": "原预注册年末MAP结局因暴露不稳定改以课次结局为重；未证明导师撤除AI后的教学能力，亦不能把年末成绩外推值当实验结果。",
+    "data_status": "学生数据受协议限制、需向作者申请；代码仓库实际可见scripts与README。https://github.com/scale-nssa/tutorcopilot_analysis",
+    "version_note": "DOI落地页写24-1056，PDF封面及文件名写24-1054；本稿保留题名、DOI和版本日期并标注不一致。",
+    "verification_provenance": {
+      "checked_by": "学习证据子任务直接核查原始来源",
+      "record_file": "D:/Super-Essay/manuscript/paper1_capability_renewal_2026-11-07/learning_sources.json",
+      "prior_id": "LE05"
+    },
+    "ai_checked_date": "2026-11-07",
+    "human_verification_pending": true,
+    "human_verification_note": "待作者核对所引原文、版本、定位及最终稿句子；未作人工签核。"
+  },
+  {
+    "id": "E10",
+    "title": "Propagation and preservation of AI-discovered problem-solving strategies in human culture",
+    "authors": [
+      "Levin Brinkmann",
+      "Thomas F. Eisenmann",
+      "Anne-Marie Nussberger",
+      "Maxime Derex",
+      "Sara Bonati",
+      "Valerii Chirkov",
+      "Iyad Rahwan"
+    ],
+    "year": 2026,
+    "venue_and_status": "Nature Communications；正式论文",
+    "doi": "10.1038/s41467-026-76113-2",
+    "url": "https://www.nature.com/articles/s41467-026-76113-2",
+    "full_text_url": "https://arxiv.org/html/2506.17741v1",
+    "evidence_type": "真人文化传递实验，另含强化学习/群体模拟",
+    "reading_level": "团队已读正式期刊索引摘要/结果；详细方法读2025作者预印本，正式全文访问失败，版本差异未完全核查。",
+    "locator": "正式论文摘要/结果；预印本实验方法；旧来源IH09。",
+    "can_support": "机器发现的策略可以经人类社会学习在机器退出后保留。",
+    "cannot_support": "不能将策略保存写成跨任务迁移，或把奖励网络实验视为LLM工作团队的长期组织证据。",
+    "data_status": "核实实验体验界面，未核实原始行为数据仓库；界面不是数据。",
+    "version_note": "正式论文与预印本不是两项独立研究；避免把预印本样本数字直接归入正式版。",
+    "verification_provenance": {
+      "checked_by": "创新/HCI子任务；本汇编读取既有核查记录",
+      "record_file": "D:/Super-Essay/research/ai_superteams_research_agenda_2026-11-07/innovation_hci_sources.json",
+      "prior_id": "IH09"
+    },
+    "ai_checked_date": "2026-11-07",
+    "human_verification_pending": true,
+    "human_verification_note": "待作者核对原文、完整书目及最终稿所引主张；未作人工签核。"
+  },
+  {
+    "id": "E11",
+    "title": "Generative organizational learning: Affordances for new modes of knowledge search, creation, transfer, and forgetting with LLMs",
+    "authors": [
+      "Batia M. Wiesenfeld",
+      "Katherine C. Kellogg"
+    ],
+    "year": 2026,
+    "venue_and_status": "Strategic Organization 24(2)；2025在线、2026卷期",
+    "doi": "10.1177/14761270251408580",
+    "url": "https://journals.sagepub.com/doi/full/10.1177/14761270251408580",
+    "full_text_url": "https://journals.sagepub.com/doi/full/10.1177/14761270251408580",
+    "evidence_type": "19个月医疗组织质性案例及概念发展",
+    "reading_level": "理论/组织子任务定向读开放全文摘要、方法、表格、部分发现及unintended consequences；本汇编未重新阅读全文。",
+    "locator": "情境与方法、资料表、概念表及unintended consequences。",
+    "can_support": "LLM组织学习涉及专家、知识整理和护栏，并可能与个体学习产生不同后果。",
+    "cannot_support": "不能把作者标为推测的后果写成已验证长期损失，或用单案例识别支持措施的独立因果作用。",
+    "data_status": "论文开放；内部访谈和观察记录未核实开放。",
+    "version_note": "区分2025在线与2026卷期。",
+    "verification_provenance": {
+      "checked_by": "组织子任务及理论审查子任务；本汇编读取记录",
+      "record_file": "D:/Super-Essay/manuscript/paper1_capability_renewal_2026-11-07/venue_and_theory_audit.md",
+      "prior_id": "ORG-S11"
+    },
+    "ai_checked_date": "2026-11-07",
+    "human_verification_pending": true,
+    "human_verification_note": "待作者核对原文、完整书目及最终稿所引主张；未作人工签核。"
+  },
+  {
+    "id": "E12",
+    "title": "On the Dangers of Large-Language Model Mediated Learning for Human Capital",
+    "authors": [
+      "Dirk Lindebaum",
+      "Eimear Nolan",
+      "Juani Swart"
+    ],
+    "year": 2026,
+    "venue_and_status": "Human Resource Management Journal 36(3):430–440；Provocations",
+    "doi": "10.1111/1748-8583.70036",
+    "url": "https://onlinelibrary.wiley.com/doi/10.1111/1748-8583.70036",
+    "full_text_url": "https://onlinelibrary.wiley.com/doi/10.1111/1748-8583.70036",
+    "evidence_type": "概念性Provocations，非新因果实验",
+    "reading_level": "理论审查子任务定向读官方全文摘要、引言及讨论；本汇编依据已存记录，未重读全文。",
+    "locator": "Abstract、Introduction、Discussion；文章类型更正记录。",
+    "can_support": "合成输入替代第一手经验对人力资本的潜在影响已有直接理论讨论。",
+    "cannot_support": "不能把该论证当现实人才危机已发生的证明，也不能推断真实经验普遍优于模拟。",
+    "data_status": "概念文，无本轮可复用的新参与者数据。",
+    "version_note": "2026-07-01更正文章类型；应写Provocations，不写Invited Review。",
+    "verification_provenance": {
+      "checked_by": "理论审查子任务",
+      "record_file": "D:/Super-Essay/manuscript/paper1_capability_renewal_2026-11-07/venue_and_theory_audit.md"
+    },
+    "ai_checked_date": "2026-11-07",
+    "human_verification_pending": true,
+    "human_verification_note": "待作者核对原文、完整书目及最终稿所引主张；未作人工签核。"
+  },
+  {
+    "id": "E13",
+    "title": "Cheap, Fallible Cognition and the Political Economy of Expertise",
+    "authors": [
+      "Christophe Kolb",
+      "Jim Caron"
+    ],
+    "year": 2026,
+    "venue_and_status": "arXiv:2608.11512，2026-08-11预印本；理论框架",
+    "doi": "10.48550/arXiv.2608.11512",
+    "url": "https://arxiv.org/abs/2608.11512",
+    "full_text_url": "https://arxiv.org/html/2608.11512",
+    "evidence_type": "概念与形式模型；预印本",
+    "reading_level": "全文定向阅读摘要、§6、§7、§8与结论；重点核对原始理论而非转述。",
+    "locator": "§7 Apprenticeship, expertise, and the hidden product of junior work；式(20)–(23)；§6残余任务与入门门槛。",
+    "can_support": "已经把初级任务拆成当前产出与学习产物，讨论AI替代或增强练习及专家存量演化。",
+    "cannot_support": "这是理论近邻而非专家管线已经受损的经验事实；模型条件不能当已证实规律。",
+    "data_status": "全文公开；没有供本题复现的新参与者数据。",
+    "version_note": "必须与其他2026能力/专家管线论文并列对照，不能因其为预印本而忽略重叠。",
+    "verification_provenance": {
+      "checked_by": "学习证据子任务直接核查原始来源",
+      "record_file": "D:/Super-Essay/manuscript/paper1_capability_renewal_2026-11-07/learning_sources.json",
+      "prior_id": "LE06"
+    },
+    "ai_checked_date": "2026-11-07",
+    "human_verification_pending": true,
+    "human_verification_note": "待作者核对所引原文、版本、定位及最终稿句子；未作人工签核。"
+  },
+  {
+    "id": "E14",
+    "title": "The Capability Transfer: Cohort Reversal, Codified Expertise, and the Adaptability Tax of AI Transformation",
+    "authors": [
+      "Ina Catrinescu"
+    ],
+    "year": 2026,
+    "venue_and_status": "arXiv:2610.33102v1；2026-10-22提交的工作论文",
+    "doi": "10.48550/arXiv.2610.33102",
+    "url": "https://arxiv.org/abs/2610.33102",
+    "full_text_url": "https://arxiv.org/pdf/2610.33102",
+    "evidence_type": "初级/资深队列形式模型及情景校准",
+    "reading_level": "report_audit子任务对原文全文作定向核查：模型相关段、命题5及§6.1、§6.4–7；本汇编读取其审查记录，并已直接核对arXiv元数据与摘要。此范围不等于全文逐页通读或模型证明复算。",
+    "locator": "arXiv:2610.33102v1 PDF物理页8（§3.4）、9–10（命题5）、21（§6.1）、23（§6.4第三、四种回应）、24（§6.5第五项）、24–25（§7）；元数据另见arXiv Abstract与Submission history。",
+    "can_support": "专家补充管线与短期自动化激励的动态张力已有明确模型。",
+    "cannot_support": "关键参数未测，情景数值不是就业或专家能力的现实预测。",
+    "data_status": "未核实完整模型代码或可复用经验数据。",
+    "version_note": "当前按v1与2026-10-22记录；未确认同行评审发表。",
+    "verification_provenance": {
+      "checked_by": "/root/report_audit原文定向核查；本汇编直接核查摘要及作者，并汇入上述核查记录",
+      "record_file": "D:/Super-Essay/manuscript/paper1_capability_renewal_2026-11-07/final_manuscript/novelty_and_claims_review.md"
+    },
+    "ai_checked_date": "2026-11-07",
+    "human_verification_pending": true,
+    "human_verification_note": "待作者核对原文、完整书目及最终稿所引主张；未作人工签核。"
+  },
+  {
+    "id": "E15",
+    "title": "Measuring transactive memory systems in the field: Scale development and validation",
+    "authors": [
+      "Kyle Lewis"
+    ],
+    "year": 2003,
+    "venue_and_status": "Journal of Applied Psychology 88(4):587–604；正式论文",
+    "doi": "10.1037/0021-9010.88.4.587",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/12940401/",
+    "full_text_url": null,
+    "evidence_type": "交互记忆系统量表开发及验证",
+    "reading_level": "理论审查子任务读原始摘要与元数据；本汇编未取得全文。",
+    "locator": "PubMed摘要与书目。",
+    "can_support": "集体能力可依赖成员专长分工、知道谁知道什么及协调，不要求人人掌握全部知识。",
+    "cannot_support": "不能把原量表视为AI团队纠错覆盖或长期专长接续的已验证测量。",
+    "data_status": "未审计公开微观数据或完整量表复用条件。",
+    "version_note": null,
+    "verification_provenance": {
+      "checked_by": "理论审查子任务",
+      "record_file": "D:/Super-Essay/manuscript/paper1_capability_renewal_2026-11-07/venue_and_theory_audit.md"
+    },
+    "ai_checked_date": "2026-11-07",
+    "human_verification_pending": true,
+    "human_verification_note": "待作者核对原文、完整书目及最终稿所引主张；未作人工签核。"
+  },
+  {
+    "id": "E16",
+    "title": "When combinations of humans and AI are useful: A systematic review and meta-analysis",
+    "authors": [
+      "Michelle Vaccaro",
+      "Abdullah Almaatouq",
+      "Thomas W. Malone"
+    ],
+    "year": 2024,
+    "venue_and_status": "Nature Human Behaviour 8:2293–2303；正式论文",
+    "doi": "10.1038/s41562-024-02024-1",
+    "url": "https://www.nature.com/articles/s41562-024-02024-1",
+    "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11659167/",
+    "evidence_type": "预注册系统综述与元分析",
+    "reading_level": "先前学习/团队子任务读原文方法、结果与数据声明；本汇编复用已存审计，未重新全文阅读。",
+    "locator": "元分析基线、任务调节与Data/Code Availability。",
+    "can_support": "相对人类基线的增强与相对较强单独主体的协同是不同判断。",
+    "cannot_support": "不能将截至2023年中的人机组合结果直接视为2026多人团队或长期能力接续证据。",
+    "data_status": "作者声明OSF有数据代码；本会话多次未读到文件内容，未复现。https://osf.io/wrq7c/",
+    "version_note": "一个人与AI的组合不等于多人互动团队；相同研究多效应不能重复视为独立样本。",
+    "verification_provenance": {
+      "checked_by": "先前团队文献子任务",
+      "record_file": "D:/Super-Essay/research/ai_superteams_2026-11-07/literature_audit.md"
+    },
+    "ai_checked_date": "2026-11-07",
+    "human_verification_pending": true,
+    "human_verification_note": "待作者核对原文、完整书目及最终稿所引主张；未作人工签核。"
+  },
+  {
+    "id": "E17",
+    "title": "Cognitive Offloading",
+    "authors": [
+      "E. F. Risko",
+      "S. J. Gilbert"
+    ],
+    "year": 2016,
+    "venue_and_status": "Trends in Cognitive Sciences 20(9):676–688；正式综述",
+    "doi": "10.1016/j.tics.2016.07.002",
+    "url": "https://discovery.ucl.ac.uk/id/eprint/1508770/",
+    "full_text_url": null,
+    "evidence_type": "认知卸载综述及元认知框架",
+    "reading_level": "本汇编直接读UCL原始机构元数据与摘要；未打开作者稿全文。",
+    "locator": "UCL页面Abstract和书目信息。",
+    "can_support": "外部工具可改变任务的信息加工需求，卸载及其认知后果需要分别研究。",
+    "cannot_support": "认知卸载不等于技能损失；摘要不能支持特定AI团队长期因果结论。",
+    "data_status": "UCL列有开放作者稿下载入口；未审计原始数据。",
+    "version_note": "作者保留机构元数据中的姓名首字母，不未经核实补写全名。",
+    "verification_provenance": {
+      "checked_by": "本汇编直接核查；红队亦核过摘要",
+      "record_file": "D:/Super-Essay/manuscript/paper1_capability_renewal_2026-11-07/adversarial_review.md"
+    },
+    "ai_checked_date": "2026-11-07",
+    "human_verification_pending": true,
+    "human_verification_note": "待作者核对原文、完整书目及最终稿所引主张；未作人工签核。"
+  },
+  {
+    "id": "E18",
+    "title": "What it takes to control AI by design: human learning",
+    "authors": [
+      "Dov Te’eni",
+      "Inbal Yahav",
+      "David Schwartz"
+    ],
+    "year": 2026,
+    "venue_and_status": "AI & Society 41:237–250；Open Forum；2025-08-24在线",
+    "doi": "10.1007/s00146-025-02401-y",
+    "url": "https://link.springer.com/article/10.1007/s00146-025-02401-y",
+    "full_text_url": "https://link.springer.com/article/10.1007/s00146-025-02401-y",
+    "evidence_type": "系统理论框架与控制设计示例；未独立审计效果识别",
+    "reading_level": "根任务与本汇编直接读原文摘要、§1及部分控制/反馈段落；未通读全部设计与评估。",
+    "locator": "Abstract；§1 Introduction；§3.3 Feedback design。",
+    "can_support": "持续人类学习及不同控制反馈回路已被明确纳入人机系统设计。",
+    "cannot_support": "不能据未审计示例宣称轮转异常任务可因果改善新人能力或长期团队可靠性。",
+    "data_status": "原文开放；未审计人类数据与代码可得性。",
+    "version_note": "引用2026卷期并注明2025在线；不当作全新尚未发表预印本。",
+    "verification_provenance": {
+      "checked_by": "根任务及本汇编直接定向核查",
+      "record_file": null
+    },
+    "ai_checked_date": "2026-11-07",
+    "human_verification_pending": true,
+    "human_verification_note": "待作者核对原文、完整书目及最终稿所引主张；未作人工签核。"
+  },
+  {
+    "id": "E19",
+    "title": "Human–AI collaborative decision-making as an organization design problem",
+    "authors": [
+      "Phanish Puranam"
+    ],
+    "year": 2021,
+    "venue_and_status": "Journal of Organization Design 10:75–80；Point of View",
+    "doi": "10.1007/s41469-021-00095-2",
+    "url": "https://link.springer.com/article/10.1007/s41469-021-00095-2",
+    "full_text_url": "https://link.springer.com/article/10.1007/s41469-021-00095-2",
+    "evidence_type": "组织设计概念分析",
+    "reading_level": "组织子任务定向读开放全文摘要、引言及设计分类；本汇编复用已存记录。",
+    "locator": "摘要、引言、设计分类；旧来源ORG-S07。",
+    "can_support": "人机协作可作为劳动分工与学习配置的组织设计问题。",
+    "cannot_support": "概念分类不提供不同任务分配政策对长期能力的因果估计。",
+    "data_status": "理论文章，无本轮核实的新参与者数据。",
+    "version_note": "E19固定指2021单作者文章，不指Puranam等2014组织形式论文。",
+    "verification_provenance": {
+      "checked_by": "组织子任务",
+      "record_file": "D:/Super-Essay/research/ai_superteams_research_agenda_2026-11-07/organization_sources.json",
+      "prior_id": "ORG-S07"
+    },
+    "ai_checked_date": "2026-11-07",
+    "human_verification_pending": true,
+    "human_verification_note": "待作者核对原文、完整书目及最终稿所引主张；未作人工签核。"
+  },
+  {
+    "id": "E20",
+    "title": "Human–AI Cognitive Division of Labor: A Structured Narrative Review and Integrative Framework",
+    "authors": [
+      "Chen Chen",
+      "Guili Li",
+      "Shuai Yuan",
+      "Qisheng Xu",
+      "Chenyang Cai"
+    ],
+    "year": 2026,
+    "venue_and_status": "Applied Sciences 16(21):10970；2026-11-05发表；结构化叙述综述",
+    "doi": "10.3390/app162110970",
+    "url": "https://www.mdpi.com/2076-3417/16/21/10970",
+    "full_text_url": "https://www.mdpi.com/2076-3417/16/21/10970",
+    "evidence_type": "结构化叙述综述与整合框架，非新的团队因果实验",
+    "reading_level": "根任务直接读原文摘要、引言、§4.5及§4.6并提供完整书目；本汇编访问遭429，未独立重读。",
+    "locator": "Abstract、Introduction、§4.5、§4.6；该定位由根任务报告。",
+    "can_support": "人机认知分工已有专门的综合框架，本文需与其作概念区别。",
+    "cannot_support": "不能把综述命题当有指导异常轮转效果或专长接续的直接经验验证。",
+    "data_status": "原文入口公开；本汇编未审计其文献编码、检索记录或任何复制材料。",
+    "version_note": "作者英文姓名按根任务元数据记录；不推测中文姓名，完整书目仍待人工复核。",
+    "verification_provenance": {
+      "checked_by": "根任务2026-11-07原文核查；本汇编如实记录其范围",
+      "record_file": null
+    },
+    "ai_checked_date": "2026-11-07",
+    "human_verification_pending": true,
+    "human_verification_note": "待作者核对原文、完整书目及最终稿所引主张；未作人工签核。"
+  }
+]

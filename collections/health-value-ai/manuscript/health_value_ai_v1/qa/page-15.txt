@@ -1,0 +1,44 @@
+Health economic value in the AI era | Author review draft 
+15 
+References 
+1. Grossman, M. On the concept of health capital and the demand for health. Journal of Political Economy 80, 
+223–255 (1972). https://doi.org/10.1086/259880. 
+2. Becker, G. S. A theory of the allocation of time. The Economic Journal 75, 493–517 (1965). 325 
+https://doi.org/10.2307/2228949. 
+3. Marx, K. The working-day. Capital, Vol. I, ch. 10. Marxists Internet Archive (n.d.). 
+https://www.marxists.org/archive/marx/works/1867-c1/ch10.htm. Accessed 6 November 2026. 
+4. Ruger, J. P. Health capability: conceptualization and operationalization. American Journal of Public Health 
+100, 41–49 (2010). https://doi.org/10.2105/AJPH.2008.143651. 330 
+5. Finkelstein, A., Luttmer, E. F. P. & Notowidigdo, M. J. What good is wealth without health? The effect of 
+health on the marginal utility of consumption. Journal of the European Economic Association 11 (Suppl. 
+1), 221–258 (2013). https://doi.org/10.1111/j.1542-4774.2012.01101.x. 
+6. Bernheim, B. D. & Rangel, A. Beyond revealed preference: choice-theoretic foundations for behavioral 
+welfare economics. The Quarterly Journal of Economics 124, 51–104 (2009). 335 
+https://doi.org/10.1162/qjec.2009.124.1.51. 
+7. Ryan, R. M. & Deci, E. L. Self-determination theory and the facilitation of intrinsic motivation, social 
+development, and well-being. American Psychologist 55, 68–78 (2000). https://doi.org/10.1037/0003-
+066X.55.1.68. 
+8. Office for Health Improvement and Disparities. Cost consequence analysis: health economic studies. 340 
+GOV.UK (2020). https://www.gov.uk/guidance/cost-consequence-analysis-health-economic-studies. 
+Accessed 6 November 2026. 
+9. Thokala, P. et al. Multiple criteria decision analysis for health care decision making—an introduction: 
+Report 1 of the ISPOR MCDA Emerging Good Practices Task Force. Value in Health 19, 1–13 (2016). 
+https://doi.org/10.1016/j.jval.2015.12.003. 345 
+10. Ottawa Hospital Research Institute. Ottawa Personal Decision Guide. Patient Decision Aids (2025). 
+https://decisionaid.ohri.ca/decguide.html. Accessed 6 November 2026. 
+11. EuroQol Research Foundation. What is the difference between the EQ-5D descriptive system, the EQ VAS 
+and the EQ-5D index values? EuroQol (2023). https://euroqol.org/faq/what-is-the-difference-between-the-
+eq-5d-5l-descriptive-system-the-eq-vas-and-the-eq-5d-index-values/. Accessed 6 November 2026. 350 
+12. Noy, S. & Zhang, W. Experimental evidence on the productivity effects of generative artificial intelligence. 
+Science 381, 187–192 (2023). https://doi.org/10.1126/science.adh2586. 
+13. Bastani, H. et al. Generative AI without guardrails can harm learning: Evidence from high school 
+mathematics. Proceedings of the National Academy of Sciences 122, e2422633122 (2025). 
+https://doi.org/10.1073/pnas.2422633122. 355 
+14. De Freitas, J., Oğuz-Uğuralp, Z., Uğuralp, A. K. & Puntoni, S. AI companions reduce loneliness. Journal 
+of Consumer Research 52, 1126–1148 (2026). https://doi.org/10.1093/jcr/ucaf040. 
+15. Bean, A. M. et al. Reliability of LLMs as medical assistants for the general public: a randomized 
+preregistered study. Nature Medicine 32, 609–615 (2026). https://doi.org/10.1038/s41591-025-04074-y. 
+16. Allcott, H., Braghieri, L., Eichmeyer, S. & Gentzkow, M. The welfare effects of social media. American 360 
+Economic Review 110, 629–676 (2020). https://doi.org/10.1257/aer.20190658. 
+17. Ivic, R. K., Ratzan, S. C. & Parker, R. M. Building health-literate artificial intelligence. Nature Human 
+Behaviour, Advance online publication (2026). https://doi.org/10.1038/s41562-026-02595-1. 

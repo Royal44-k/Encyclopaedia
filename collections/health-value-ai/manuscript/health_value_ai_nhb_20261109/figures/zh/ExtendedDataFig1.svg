@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="467.7165354330709" height="232.96225902796635" preserveAspectRatio="xMinYMin meet" viewBox="0 0 467 232" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="467.7165354330709" height="232.96225902796635"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-232)" style="clip-path: url(#clip)">
+		<g transform="">
+			<g transform=" matrix(0.896009,0,0,0.896009,0,0)">
+				<g transform="">
+					<text x="0" y="244" style="font-family: CNHei; font-size: 8.928484848484848px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,488) scale(1,-1)">a</text>
+					<text x="18" y="244" style="font-family: CNHei; font-size: 7.812424242424242px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,488) scale(1,-1)">确定比较对象</text>
+					<text x="18" y="224" style="font-family: CNHei; font-size: 7.812424242424242px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,448) scale(1,-1)">现实可行的方案 A / B</text>
+					<text x="292" y="224" style="font-family: CNHei; font-size: 7.812424242424242px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,448) scale(1,-1)">共同观察期限 · 相关基线状态</text>
+					<path d="M 18,211 L 504,211 Z" style="stroke: rgb(80%,84%,85%); stroke-linecap: butt; stroke-width: 0.7;"/>
+					<text x="0" y="189" style="font-family: CNHei; font-size: 8.928484848484848px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,378) scale(1,-1)">b</text>
+					<text x="18" y="189" style="font-family: CNHei; font-size: 7.812424242424242px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,378) scale(1,-1)">分别记录各类后果，保留原有单位</text>
+					<path d="M 4,170 L 120,170 Z" style="stroke: rgb(8%,49%,50%); stroke-linecap: butt; stroke-width: 2;"/>
+					<text x="4" y="150" style="font-family: CNHei; font-size: 7.812424242424242px;fill: rgb(8%,49%,50%); stroke:none;" transform="translate(0,300) scale(1,-1)">资源与时间</text>
+					<text x="4" y="132" style="font-family: CNHei; font-size: 7.812424242424242px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,264) scale(1,-1)">净收入变化</text>
+					<text x="4" y="118" style="font-family: CNHei; font-size: 7.812424242424242px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,236) scale(1,-1)">工时与活动安排</text>
+					<path d="M 138,170 L 254,170 Z" style="stroke: rgb(22%,39%,62%); stroke-linecap: butt; stroke-width: 2;"/>
+					<text x="138" y="150" style="font-family: CNHei; font-size: 7.812424242424242px;fill: rgb(22%,39%,62%); stroke:none;" transform="translate(0,300) scale(1,-1)">健康与功能</text>
+					<text x="138" y="132" style="font-family: CNHei; font-size: 7.812424242424242px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,264) scale(1,-1)">症状与检验结果</text>
+					<text x="138" y="118" style="font-family: CNHei; font-size: 7.812424242424242px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,236) scale(1,-1)">日常功能表现</text>
+					<path d="M 272,170 L 388,170 Z" style="stroke: rgb(71%,37%,25%); stroke-linecap: butt; stroke-width: 2;"/>
+					<text x="272" y="150" style="font-family: CNHei; font-size: 7.812424242424242px;fill: rgb(71%,37%,25%); stroke:none;" transform="translate(0,300) scale(1,-1)">主观体验</text>
+					<text x="272" y="132" style="font-family: CNHei; font-size: 7.812424242424242px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,264) scale(1,-1)">愉悦、缓解与痛苦</text>
+					<text x="272" y="118" style="font-family: CNHei; font-size: 7.812424242424242px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,236) scale(1,-1)">活动中及活动后</text>
+					<path d="M 406,170 L 522,170 Z" style="stroke: rgb(50%,40%,60%); stroke-linecap: butt; stroke-width: 2;"/>
+					<text x="406" y="150" style="font-family: CNHei; font-size: 7.812424242424242px;fill: rgb(50%,40%,60%); stroke:none;" transform="translate(0,300) scale(1,-1)">能力与自主性</text>
+					<text x="406" y="132" style="font-family: CNHei; font-size: 7.812424242424242px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,264) scale(1,-1)">独立完成任务</text>
+					<text x="406" y="118" style="font-family: CNHei; font-size: 7.812424242424242px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,236) scale(1,-1)">生活目标与决定权</text>
+					<path d="M 62,101 L 62,89 Z" style="stroke: rgb(80%,84%,85%); stroke-linecap: butt; stroke-width: 0.8;"/>
+					<path d="M 196,101 L 196,89 Z" style="stroke: rgb(80%,84%,85%); stroke-linecap: butt; stroke-width: 0.8;"/>
+					<path d="M 330,101 L 330,89 Z" style="stroke: rgb(80%,84%,85%); stroke-linecap: butt; stroke-width: 0.8;"/>
+					<path d="M 464,101 L 464,89 Z" style="stroke: rgb(80%,84%,85%); stroke-linecap: butt; stroke-width: 0.8;"/>
+					<path d="M 62,89 L 464,89 Z" style="stroke: rgb(80%,84%,85%); stroke-linecap: butt; stroke-width: 0.8;"/>
+					<path d="M 263,89 L 263,74 Z" style="stroke: rgb(8%,49%,50%); stroke-linecap: butt; stroke-width: 1;"/>
+					<polygon points="263 74, 260.5 79, 265.5 79" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(8%,49%,50%); fill-rule: evenodd;"/>
+					<text x="0" y="58" style="font-family: CNHei; font-size: 8.928484848484848px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,116) scale(1,-1)">c</text>
+					<text x="18" y="58" style="font-family: CNHei; font-size: 7.812424242424242px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,116) scale(1,-1)">结合个人目标与现实约束评价差异</text>
+					<text x="18" y="37" style="font-family: CNHei; font-size: 7.812424242424242px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,74) scale(1,-1)">收益是什么？负担是什么？何时发生？由谁承担？</text>
+					<text x="18" y="16" style="font-family: CNHei; font-size: 7.812424242424242px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,32) scale(1,-1)">证据与不确定性贯穿整个比较过程。</text>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

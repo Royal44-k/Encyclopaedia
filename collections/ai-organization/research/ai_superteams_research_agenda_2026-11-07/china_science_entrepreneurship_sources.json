@@ -1,0 +1,192 @@
+[
+  {
+    "id": "C01",
+    "title": "使用生成式人工智能对员工创造力评价的影响",
+    "authors": "梁宇畅、何刚、金孟子",
+    "year": 2024,
+    "venue": "外国经济与管理 46(10):71–88,104",
+    "doi": "10.16538/j.cnki.fem.20240901.101",
+    "url": "https://qks.sufe.edu.cn/mv_html/j00002/202410/G8f8ROFq-rXe8-aPC9-3gZX-E7OM7tqKfjFy_WEB.htm",
+    "reading_level": "原刊摘要、实验方法与质性结果段落；未通读全文",
+    "evidence_design": "150名有效参与者的情景实验，另有32名访谈对象",
+    "key_finding": "实验中AI使用者受到较低创造力评价，合作意愿也降低；访谈补充归因线索。",
+    "limitations": "情景中的评价及合作意愿不是长期真实合作网络；中介解释不能单凭统计中介确证。",
+    "data_status": "原刊全文入口可检索；未核实可下载原始数据。",
+    "topic_ids": [
+      "T08",
+      "T19"
+    ]
+  },
+  {
+    "id": "C02",
+    "title": "生成式人工智能的使用如何影响员工创新绩效？基于启发式-捷径式取向的视角",
+    "authors": "李育辉、薛嘉欣",
+    "year": 2026,
+    "venue": "南开管理评论，2026-10-10在线；正式卷期待复核",
+    "doi": null,
+    "url": "https://nbr.nankai.edu.cn/nkglpl/article/abstract/250512104",
+    "reading_level": "原刊摘要及元数据",
+    "evidence_design": "量表开发与验证；多来源、多时点452份匹配数据",
+    "key_finding": "启发式与捷径式使用取向与AI使用—想法生成—创新绩效关系的异质性有关。",
+    "limitations": "非随机研究；使用取向可能与原有能力、动机和环境相关。",
+    "data_status": "页面有PDF入口但本次未成功读取；未核实开放微观数据。",
+    "topic_ids": [
+      "T05",
+      "T06"
+    ]
+  },
+  {
+    "id": "C03",
+    "title": "人工智能驱动的组织管理范式革命：从分工范式至端到端范式",
+    "authors": "魏炜、张鹏程、马勇斌、张坤、徐哲淇",
+    "year": 2026,
+    "venue": "管理学报 23(1)，起始页1",
+    "doi": null,
+    "url": "https://manu68.magtech.com.cn/glxb/CN/Y2026/V23/I1/1",
+    "reading_level": "原刊摘要与元数据",
+    "evidence_design": "理论建构、六项命题及酷开科技说明案例",
+    "key_finding": "提出人机融合主体、动态任务流与端到端组织范式。",
+    "limitations": "概念及说明案例不等于普遍因果规律；动态任务流与端到端本身已非全新主张。",
+    "data_status": "未核实开放案例原始资料。",
+    "topic_ids": [
+      "T01",
+      "T02",
+      "T04"
+    ]
+  },
+  {
+    "id": "C04",
+    "title": "生成式人工智能使用的前因及其对工作绩效的影响：数字化工作重塑视角",
+    "authors": "林俐、朱晶晶",
+    "year": 2025,
+    "venue": "中国人力资源开发 42(2):57–78",
+    "doi": "10.16471/j.cnki.11-2822/c.2025.2.004",
+    "url": "https://zrzk.cbpt.cnki.net/portal/journal/portal/client/paper/fb3d3da663ebd27943f07d1d3fa35f40",
+    "reading_level": "期刊官方摘要；作者机构主页交叉核对书目",
+    "evidence_design": "29份访谈的建构式扎根理论",
+    "key_finding": "从工作重塑解释使用AI的动机与任务匹配条件。",
+    "limitations": "用于机制生成，不能估计平均处理效应，也不能确认普遍的绩效改善。",
+    "data_status": "未核实开放访谈数据。",
+    "topic_ids": [
+      "T04",
+      "T07",
+      "T20"
+    ]
+  },
+  {
+    "id": "S01",
+    "title": "Artificial intelligence tools expand scientists’ impact but contract science’s focus",
+    "authors": "Qianyue Hao, Fengli Xu, Yong Li, James Evans",
+    "year": 2026,
+    "venue": "Nature 649:1237–1243",
+    "doi": "10.1038/s41586-025-09922-y",
+    "url": "https://www.nature.com/articles/s41586-025-09922-y",
+    "reading_level": "作者机构托管论文的摘要、方法、局限与数据段；代码README",
+    "evidence_design": "4130万自然科学论文的观察研究与模型分类",
+    "key_finding": "AI使用与个体科学影响扩大、集体研究关注范围收窄同时相关。",
+    "limitations": "作者明确不能完全识别因果；覆盖多代AI，不能全部解释为ChatGPT效应；AI分类和向量范围测量有误差。",
+    "data_status": "已读GitHub目录及README，列Zenodo15779090；未成功读取该数据文件目录、未运行。OpenAlex公开，WoS/JCR另受许可约束。",
+    "topic_ids": [
+      "T13",
+      "T14"
+    ],
+    "extra_urls": [
+      "https://fi.ee.tsinghua.edu.cn/public/publications/35f947be-f27c-11f0-b382-2aaffa21d846.pdf",
+      "https://github.com/tsinghua-fib-lab/AI-Impacts-Science"
+    ]
+  },
+  {
+    "id": "S02",
+    "title": "Large teams develop and small teams disrupt science and technology",
+    "authors": "Lingfei Wu, Dashun Wang, James A. Evans",
+    "year": 2019,
+    "venue": "Nature 566:378–382",
+    "doi": "10.1038/s41586-019-0941-9",
+    "url": "https://www.nature.com/articles/s41586-019-0941-9",
+    "reading_level": "原刊检索摘要、扩展数据说明及数据声明",
+    "evidence_design": "论文、专利、软件的大规模历史观察研究",
+    "key_finding": "较小和较大团队在颠覆性与发展既有方向的指标上呈现不同模式。",
+    "limitations": "历史关联不能推出缩编会提升创新；作者数量、团队边界与引用指标均需验证。",
+    "data_status": "论文列作者数据入口，未逐文件核验；部分底层数据库商业许可。",
+    "topic_ids": [
+      "T13",
+      "T14"
+    ]
+  },
+  {
+    "id": "S03",
+    "title": "Dataset artefacts can partially drive the measured decline in disruption",
+    "authors": "Vincent Holst, Andres Algaba, Floriano Tori, Sylvia Wenmackers, Vincent Ginis",
+    "year": 2026,
+    "venue": "Nature，Matters Arising",
+    "doi": "10.1038/s41586-026-10787-y",
+    "url": "https://www.nature.com/articles/s41586-026-10787-y",
+    "reading_level": "原刊可检索段落、作者机构研究说明；未读完整技术附录",
+    "evidence_design": "颠覆性指标数据与分析的复核评论",
+    "key_finding": "指出数据瑕疵可能影响颠覆性下降的测量。",
+    "limitations": "原作者发表争议回应，不能将评论视为已经推翻原结论；本次未裁决双方技术争议。",
+    "data_status": "原刊列被评论论文的公开Zenodo数据；本次未复算。",
+    "topic_ids": [
+      "T14"
+    ],
+    "extra_urls": [
+      "https://press.vub.ac.be/vub-onderzoek-zet-wereldwijd-debat-over-wetenschappelijke-innovatie-op-losse-schroeven"
+    ]
+  },
+  {
+    "id": "S04",
+    "title": "Reply to: Dataset artefacts can partially drive the measured decline in disruption",
+    "authors": "Michael Park, Erin Leahey, Russell J. Funk",
+    "year": 2026,
+    "venue": "Nature 656:E14–E21，Matters Arising",
+    "doi": "10.1038/s41586-026-10788-x",
+    "url": "https://www.nature.com/articles/s41586-026-10788-x",
+    "reading_level": "原刊公开预览正文与书目；未读订阅后完整正文",
+    "evidence_design": "对复核评论的回应分析",
+    "key_finding": "主张修正后趋势仍在，并质疑评论数据中的文献类型混杂。",
+    "limitations": "方法争议需双向复现；不应用单一颠覆性分数等同科学价值。",
+    "data_status": "未核验本回应的独立完整复现包。",
+    "topic_ids": [
+      "T14"
+    ]
+  },
+  {
+    "id": "E01",
+    "title": "The Uneven Impact of Generative Artificial Intelligence on Entrepreneurial Performance: Evidence from a Field Experiment in Kenya",
+    "authors": "Nicholas G. Otis, Rowan Clarke, Solène Delecourt, David Holtz, Rembrand Koning",
+    "year": 2026,
+    "venue": "Management Science，2026-07-10在线",
+    "doi": "10.1287/mnsc.2024.06909",
+    "url": "https://pubsonline.informs.org/doi/10.1287/mnsc.2024.06909",
+    "reading_level": "正式刊摘要、招募及实验设计、主要结果、机制分析段落",
+    "evidence_design": "640名肯尼亚小企业经营者的随机实验",
+    "key_finding": "未检出平均收入利润改善；基线表现组间处理效应有差异，提示开放经营任务中的收益分配问题。",
+    "limitations": "未显著不等于零效应；实施建议的机制分析是探索性的；年轻、相对高教育的样本限制外推。",
+    "data_status": "尚未核实可直接下载的微观数据；不能承诺公开数据复现。",
+    "topic_ids": [
+      "T06",
+      "T16"
+    ]
+  },
+  {
+    "id": "E02",
+    "title": "Generative AI Fuels Solo Entrepreneurship, but Teams Still Lead at the Top",
+    "authors": "Hyunso Kim, Hyo Kang, Jaeyong Song",
+    "year": 2026,
+    "venue": "arXiv:2605.10291v1，预印本",
+    "doi": "10.48550/arXiv.2605.10291",
+    "url": "https://arxiv.org/abs/2605.10291",
+    "reading_level": "摘要、情境、变量、经验策略与讨论相关段落",
+    "evidence_design": "Product Hunt 160143次产品发布的观察研究",
+    "key_finding": "报告单人发布增长与高排名成果中团队优势并存。",
+    "limitations": "maker数不等于员工数；排名不等于盈利；ChatGPT共同发布时间与单人/团队差异不能排除同期冲击。",
+    "data_status": "论文可公开读；未找到作者完整数据包。平台可见性不等于可免费批量研究使用。",
+    "topic_ids": [
+      "T15",
+      "T16"
+    ],
+    "extra_urls": [
+      "https://arxiv.org/html/2605.10291v1"
+    ]
+  }
+]

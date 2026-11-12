@@ -1,0 +1,28 @@
+{
+  "revision": 3,
+  "author": "Richard T.Millian",
+  "affiliation": "Hangzhou Normal University",
+  "running_header": {
+    "zh": "让 AI 方法成为团队的共同积累",
+    "en": "AI know-how that teams can build on"
+  },
+  "authorship_source": "Author name and affiliation supplied by the user; no additional roles or credentials inferred.",
+  "scenes": [
+    {
+      "id": 1,
+      "file": "scenario_handover.png",
+      "zh_title": "把方法交给另一岗位",
+      "en_title": "Handing a method to a colleague in another role",
+      "zh_caption": "同事已经能生成每日简报，但需要了解的是产品何时可用，原方法却侧重模型能力。交接仍需核对关注范围、来源和交付要求。情境示意。",
+      "en_caption": "A colleague can generate the daily brief but needs to know when a product becomes available; the original method emphasizes model capabilities. The handover still needs to address scope, sources and output requirements. Illustrative scenario."
+    },
+    {
+      "id": 2,
+      "file": "scenario_revision.png",
+      "zh_title": "让修订到达下一位使用者",
+      "en_title": "Getting a revision to the next user",
+      "zh_caption": "接收者补上了遗漏的来源链接。如果修改只留在个人副本，下一位同事仍可能拿到旧版。回传之后，还需要核查并更新共享材料。情境示意。",
+      "en_caption": "A recipient adds a missing source link. If the change stays in a personal copy, the next colleague may still receive the old version. Returning the revision must be followed by review and an update to shared materials. Illustrative scenario."
+    }
+  ]
+}

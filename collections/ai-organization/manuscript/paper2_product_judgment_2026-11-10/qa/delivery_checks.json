@@ -1,0 +1,193 @@
+{
+  "zh": {
+    "pages": 7,
+    "embedded_docx_images": 3,
+    "external_images": 0,
+    "body_bold_runs": [],
+    "page_checks": [
+      {
+        "page": 1,
+        "fonts": {
+          "BCDEEE+MicrosoftYaHei": 32,
+          "BCDFEE+ArialMT": 32,
+          "BCDGEE+Arial-BoldMT": 20,
+          "BCDHEE+MicrosoftYaHei-Bold": 8,
+          "BCDIEE+SimSun": 869,
+          "BCDJEE+TimesNewRomanPSMT": 30
+        },
+        "images": 0,
+        "outside_horizontal_margins": "",
+        "characters": 991
+      },
+      {
+        "page": 2,
+        "fonts": {
+          "BCDHEE+MicrosoftYaHei-Bold": 19,
+          "BCDGEE+Arial-BoldMT": 2,
+          "BCDIEE+SimSun": 1047,
+          "BCDKEE+TimesNewRomanPSMT": 4,
+          "BCDJEE+TimesNewRomanPSMT": 48
+        },
+        "images": 0,
+        "outside_horizontal_margins": "。，",
+        "characters": 1120
+      },
+      {
+        "page": 3,
+        "fonts": {
+          "BCDIEE+SimSun": 637,
+          "BCDJEE+TimesNewRomanPSMT": 35,
+          "BCDHEE+MicrosoftYaHei-Bold": 9,
+          "BCDGEE+Arial-BoldMT": 1,
+          "BCDEEE+MicrosoftYaHei": 99,
+          "BCDFEE+ArialMT": 5,
+          "BCDKEE+TimesNewRomanPSMT": 2
+        },
+        "images": 1,
+        "outside_horizontal_margins": "。 ，",
+        "characters": 788
+      },
+      {
+        "page": 4,
+        "fonts": {
+          "BCDIEE+SimSun": 526,
+          "BCDJEE+TimesNewRomanPSMT": 34,
+          "BCDHEE+MicrosoftYaHei-Bold": 23,
+          "BCDGEE+Arial-BoldMT": 2,
+          "BCDEEE+MicrosoftYaHei": 100,
+          "BCDFEE+ArialMT": 5,
+          "BCDKEE+TimesNewRomanPSMT": 1
+        },
+        "images": 1,
+        "outside_horizontal_margins": "",
+        "characters": 691
+      },
+      {
+        "page": 5,
+        "fonts": {
+          "BCDIEE+SimSun": 597,
+          "BCDKEE+TimesNewRomanPSMT": 1,
+          "BCDJEE+TimesNewRomanPSMT": 17,
+          "BCDEEE+MicrosoftYaHei": 113,
+          "BCDFEE+ArialMT": 7,
+          "BCDHEE+MicrosoftYaHei-Bold": 12,
+          "BCDGEE+Arial-BoldMT": 1
+        },
+        "images": 1,
+        "outside_horizontal_margins": "，",
+        "characters": 748
+      },
+      {
+        "page": 6,
+        "fonts": {
+          "BCDIEE+SimSun": 1089,
+          "BCDJEE+TimesNewRomanPSMT": 36,
+          "BCDHEE+MicrosoftYaHei-Bold": 17,
+          "BCDGEE+Arial-BoldMT": 2,
+          "BCDKEE+TimesNewRomanPSMT": 6
+        },
+        "images": 0,
+        "outside_horizontal_margins": "。。。",
+        "characters": 1150
+      },
+      {
+        "page": 7,
+        "fonts": {
+          "BCDIEE+SimSun": 222,
+          "BCDJEE+TimesNewRomanPSMT": 2455,
+          "BCDHEE+MicrosoftYaHei-Bold": 4,
+          "BCDGEE+Arial-BoldMT": 1,
+          "BCDKEE+TimesNewRomanPSMT": 97
+        },
+        "images": 0,
+        "outside_horizontal_margins": "",
+        "characters": 2779
+      }
+    ],
+    "pdf_sha256": "2b59bf297724b8711fb6e7f6ddc9f630f8bffdde6443be8d108e489843c33858"
+  },
+  "en": {
+    "pages": 7,
+    "embedded_docx_images": 3,
+    "external_images": 0,
+    "body_bold_runs": [],
+    "page_checks": [
+      {
+        "page": 1,
+        "fonts": {
+          "BCDEEE+ArialMT": 158,
+          "BCDFEE+Arial-BoldMT": 54,
+          "BCDGEE+TimesNewRomanPSMT": 2998
+        },
+        "images": 0,
+        "outside_horizontal_margins": "",
+        "characters": 3210
+      },
+      {
+        "page": 2,
+        "fonts": {
+          "BCDGEE+TimesNewRomanPSMT": 3781,
+          "BCDFEE+Arial-BoldMT": 79
+        },
+        "images": 0,
+        "outside_horizontal_margins": "",
+        "characters": 3860
+      },
+      {
+        "page": 3,
+        "fonts": {
+          "BCDGEE+TimesNewRomanPSMT": 2190,
+          "BCDFEE+Arial-BoldMT": 34,
+          "BCDEEE+ArialMT": 341
+        },
+        "images": 1,
+        "outside_horizontal_margins": "",
+        "characters": 2565
+      },
+      {
+        "page": 4,
+        "fonts": {
+          "BCDGEE+TimesNewRomanPSMT": 1768,
+          "BCDFEE+Arial-BoldMT": 31,
+          "BCDEEE+ArialMT": 399
+        },
+        "images": 1,
+        "outside_horizontal_margins": "",
+        "characters": 2198
+      },
+      {
+        "page": 5,
+        "fonts": {
+          "BCDFEE+Arial-BoldMT": 39,
+          "BCDGEE+TimesNewRomanPSMT": 2088,
+          "BCDEEE+ArialMT": 444
+        },
+        "images": 1,
+        "outside_horizontal_margins": "",
+        "characters": 2571
+      },
+      {
+        "page": 6,
+        "fonts": {
+          "BCDFEE+Arial-BoldMT": 55,
+          "BCDGEE+TimesNewRomanPSMT": 3698
+        },
+        "images": 0,
+        "outside_horizontal_margins": "",
+        "characters": 3753
+      },
+      {
+        "page": 7,
+        "fonts": {
+          "BCDFEE+Arial-BoldMT": 45,
+          "BCDGEE+TimesNewRomanPSMT": 3723,
+          "BCDHEE+TimesNewRomanPSMT": 97
+        },
+        "images": 0,
+        "outside_horizontal_margins": "",
+        "characters": 3865
+      }
+    ],
+    "pdf_sha256": "9dca62c375d8df4efcdfbaf59f429d278fb80c4025e7ae381bc9042193e04d6e"
+  }
+}

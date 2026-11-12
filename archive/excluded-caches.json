@@ -1,0 +1,122 @@
+[
+  {
+    "source": "manuscript/health_value_ai_final_20261109/__pycache__/figure_translations.cpython-312.pyc",
+    "reason": "rebuildable Python bytecode cache",
+    "bytes": 8548
+  },
+  {
+    "source": "manuscript/health_value_ai_final_20261109/__pycache__/figures_cases.cpython-312.pyc",
+    "reason": "rebuildable Python bytecode cache",
+    "bytes": 5824
+  },
+  {
+    "source": "manuscript/health_value_ai_final_20261109/__pycache__/figures_original.cpython-312.pyc",
+    "reason": "rebuildable Python bytecode cache",
+    "bytes": 31592
+  },
+  {
+    "source": "manuscript/health_value_ai_final_20261109/__pycache__/figures_revised.cpython-312.pyc",
+    "reason": "rebuildable Python bytecode cache",
+    "bytes": 16449
+  },
+  {
+    "source": "manuscript/health_value_ai_final_bilingual/__pycache__/figure_translations.cpython-312.pyc",
+    "reason": "rebuildable Python bytecode cache",
+    "bytes": 8549
+  },
+  {
+    "source": "manuscript/health_value_ai_final_bilingual/__pycache__/figures_original.cpython-312.pyc",
+    "reason": "rebuildable Python bytecode cache",
+    "bytes": 31593
+  },
+  {
+    "source": "manuscript/health_value_ai_nhb_20261109/__pycache__/figure_translations.cpython-312.pyc",
+    "reason": "rebuildable Python bytecode cache",
+    "bytes": 8546
+  },
+  {
+    "source": "manuscript/health_value_ai_nhb_20261109/__pycache__/figures_original.cpython-312.pyc",
+    "reason": "rebuildable Python bytecode cache",
+    "bytes": 31590
+  },
+  {
+    "source": "manuscript/health_value_ai_nhb_20261109/__pycache__/figures_revised.cpython-312.pyc",
+    "reason": "rebuildable Python bytecode cache",
+    "bytes": 16447
+  },
+  {
+    "source": "manuscript/health_value_ai_perspective/__pycache__/figure_translations.cpython-312.pyc",
+    "reason": "rebuildable Python bytecode cache",
+    "bytes": 8545
+  },
+  {
+    "source": "manuscript/health_value_ai_perspective/__pycache__/figures_cases.cpython-312.pyc",
+    "reason": "rebuildable Python bytecode cache",
+    "bytes": 5821
+  },
+  {
+    "source": "manuscript/health_value_ai_perspective/__pycache__/figures_original.cpython-312.pyc",
+    "reason": "rebuildable Python bytecode cache",
+    "bytes": 31589
+  },
+  {
+    "source": "manuscript/health_value_ai_perspective/__pycache__/figures_revised.cpython-312.pyc",
+    "reason": "rebuildable Python bytecode cache",
+    "bytes": 16469
+  },
+  {
+    "source": "manuscript/health_value_ai_restored_20261110/__pycache__/cjk_citations.cpython-312.pyc",
+    "reason": "rebuildable Python bytecode cache",
+    "bytes": 4404
+  },
+  {
+    "source": "manuscript/health_value_ai_restored_20261110/__pycache__/figure_translations.cpython-312.pyc",
+    "reason": "rebuildable Python bytecode cache",
+    "bytes": 8551
+  },
+  {
+    "source": "manuscript/health_value_ai_restored_20261110/__pycache__/figures_cases.cpython-312.pyc",
+    "reason": "rebuildable Python bytecode cache",
+    "bytes": 5827
+  },
+  {
+    "source": "manuscript/health_value_ai_restored_20261110/__pycache__/figures_original.cpython-312.pyc",
+    "reason": "rebuildable Python bytecode cache",
+    "bytes": 31595
+  },
+  {
+    "source": "manuscript/health_value_ai_restored_20261110/__pycache__/figures_revised.cpython-312.pyc",
+    "reason": "rebuildable Python bytecode cache",
+    "bytes": 16452
+  },
+  {
+    "source": "manuscript/health_value_ai_revised/__pycache__/figure_translations.cpython-312.pyc",
+    "reason": "rebuildable Python bytecode cache",
+    "bytes": 8541
+  },
+  {
+    "source": "manuscript/health_value_ai_revised/__pycache__/figures_original.cpython-312.pyc",
+    "reason": "rebuildable Python bytecode cache",
+    "bytes": 31585
+  },
+  {
+    "source": "manuscript/health_value_ai_revised/__pycache__/figures_revised.cpython-312.pyc",
+    "reason": "rebuildable Python bytecode cache",
+    "bytes": 16465
+  },
+  {
+    "source": "manuscript/health_value_ai_v3/__pycache__/figures_v3.cpython-312.pyc",
+    "reason": "rebuildable Python bytecode cache",
+    "bytes": 31574
+  },
+  {
+    "source": "manuscript/paper1_reusable_team_capability_2026-11-08/__pycache__/build_documents.cpython-312.pyc",
+    "reason": "rebuildable Python bytecode cache",
+    "bytes": 18128
+  },
+  {
+    "source": "manuscript/paper1_reusable_team_capability_2026-11-08/__pycache__/build_reader.cpython-312.pyc",
+    "reason": "rebuildable Python bytecode cache",
+    "bytes": 19196
+  }
+]

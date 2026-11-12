@@ -1,0 +1,40 @@
+const fs = require('fs');
+const path = require('path');
+const {pathToFileURL} = require('url');
+const {chromium} = require('C:/Users/lenovo/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules/playwright');
+(async () => {
+  const qa = path.join(__dirname, 'qa', 'reader');fs.mkdirSync(qa,{recursive:true});
+  const browser = await chromium.launch({executablePath:'C:/Program Files (x86)/Microsoft/Edge/Application/msedge.exe',headless:true});
+  try {
+    const page=await browser.newPage({viewport:{width:1440,height:1100},deviceScaleFactor:1});
+    const errors=[];page.on('pageerror',e=>errors.push(e.message));
+    await page.goto(pathToFileURL(path.join(__dirname,'deliverables','illustrated_reader.html')).href);
+    await page.screenshot({path:path.join(qa,'desktop-zh.png')});
+    const checks={zhVisible:await page.locator('article[data-language="zh"]').isVisible(),navLinks:await page.locator('#toc a').count(),figures:await page.locator('article[data-language="zh"] figure').count()};
+    await page.locator('#zh-fig2 .figure-button').click();
+    checks.zoomOpens=await page.locator('dialog').isVisible();
+    await page.keyboard.press('Escape');checks.zoomCloses=!(await page.locator('dialog').isVisible());
+    await page.locator('button[data-size="1"]').click();
+    checks.fontIncreases=(await page.evaluate(()=>getComputedStyle(document.documentElement).getPropertyValue('--size').trim()))==='19px';
+    await page.locator('button[data-language="en"]').click();
+    checks.enVisible=await page.locator('article[data-language="en"]').isVisible();
+    checks.enPDF=(await page.locator('#pdf').getAttribute('href'))==='paper1_en.pdf';
+    await page.evaluate(()=>scrollTo({top:0,behavior:'instant'}));
+    await page.screenshot({path:path.join(qa,'desktop-en.png')});
+    await page.locator('#en-fig3').scrollIntoViewIfNeeded();
+    await page.screenshot({path:path.join(qa,'desktop-figure.png')});
+    await page.setViewportSize({width:390,height:844});
+    await page.reload();await page.evaluate(()=>scrollTo({top:0,behavior:'instant'}));
+    await page.screenshot({path:path.join(qa,'mobile-zh.png')});
+    checks.mobileNoHorizontalOverflow=await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth);
+    await page.setViewportSize({width:320,height:800});
+    checks.narrowMobileNoHorizontalOverflow=await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth);
+    await page.setViewportSize({width:390,height:844});
+    await page.locator('#zh-fig2').scrollIntoViewIfNeeded();
+    await page.screenshot({path:path.join(qa,'mobile-figure.png')});
+    checks.consoleErrors=errors;
+    fs.writeFileSync(path.join(qa,'checks.json'),JSON.stringify(checks,null,2));
+    process.stdout.write(JSON.stringify(checks));
+    if(Object.values(checks).some(v=>v===false)||errors.length)process.exitCode=1;
+  } finally {await browser.close();}
+})();

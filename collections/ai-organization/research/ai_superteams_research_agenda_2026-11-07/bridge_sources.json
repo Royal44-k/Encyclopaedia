@@ -1,0 +1,68 @@
+[
+  {
+    "id": "B01",
+    "title": "When combinations of humans and AI are useful: A systematic review and meta-analysis",
+    "authors": [
+      "Michelle Vaccaro",
+      "Abdullah Almaatouq",
+      "Thomas W. Malone"
+    ],
+    "year": 2024,
+    "venue": "Nature Human Behaviour 8:2293–2303",
+    "doi": "10.1038/s41562-024-02024-1",
+    "url": "https://www.nature.com/articles/s41562-024-02024-1",
+    "reading_level": "上一轮已核验原文设计及基线区分；本轮复核原刊摘要",
+    "evidence_design": "预注册综述及元分析，106项实验、370效应",
+    "key_finding": "相对人类的增强与超过人或AI中最优者的协同是不同问题；联合不保证协同。",
+    "limitations": "跨技术、任务和配置异质性；元分析与其原始研究不能当独立效应重复计数。",
+    "data_status": "作者列OSF wrq7c；本轮未读取数据文件或重新计算。",
+    "topic_ids": [
+      "T10",
+      "T17",
+      "T18"
+    ]
+  },
+  {
+    "id": "B02",
+    "title": "The Cybernetic Teammate: A Field Experiment on Generative AI and Teamwork",
+    "authors": "Fabrizio Dell’Acqua et al.",
+    "year": 2026,
+    "venue": "Organization Science，2026-06-12在线",
+    "doi": "10.1287/orsc.2025.20702",
+    "url": "https://pubsonline.informs.org/doi/10.1287/orsc.2025.20702",
+    "reading_level": "上一轮已读设计、样本口径及结果；本轮复核正式论文首页与摘要",
+    "evidence_design": "791名完成工作坊的专业人员，个体/两人团队×AI的预注册现场实验；776为完整后测口径",
+    "key_finding": "特定创新任务中AI可帮助个体取得类似无AI团队的表现，并帮助整合专业视角；生成与选择环节作用不同。",
+    "limitations": "短期产品创新情境；不等于真实长期团队可被替代，也不是所有任务的协同证明。",
+    "data_status": "已确认公开附录；未核实可下载原始微观数据。",
+    "topic_ids": [
+      "T04",
+      "T10",
+      "T18",
+      "T20"
+    ]
+  },
+  {
+    "id": "B03",
+    "title": "How social influence can undermine the wisdom of crowd effect",
+    "authors": [
+      "Jan Lorenz",
+      "Heiko Rauhut",
+      "Frank Schweitzer",
+      "Dirk Helbing"
+    ],
+    "year": 2011,
+    "venue": "Proceedings of the National Academy of Sciences 108(22):9020–9025",
+    "doi": "10.1073/pnas.1008636108",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3107299/",
+    "reading_level": "原始全文摘要、引言与机制说明；未通读附录",
+    "evidence_design": "144名参与者的估计任务实验",
+    "key_finding": "轻度社会影响即可使答案趋同而未相应提高集体准确性，并影响信心。",
+    "limitations": "非AI研究；简单估计与复杂团队不同，不能推出交流或共享AI一定有害。",
+    "data_status": "本轮未审计逐轮原始数据。",
+    "topic_ids": [
+      "T09",
+      "T17"
+    ]
+  }
+]

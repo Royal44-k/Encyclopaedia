@@ -1,0 +1,34 @@
+{
+  "date": "2026-11-09",
+  "checks": {
+    "en_PDF": {
+      "pages": 14,
+      "complete_prose": 49,
+      "complete_captions": 14,
+      "page_assignment": "passed"
+    },
+    "en_Word": {
+      "pages": 14,
+      "complete_prose": 49,
+      "complete_captions": 14,
+      "page_assignment": "passed"
+    },
+    "zh_PDF": {
+      "pages": 14,
+      "complete_prose": 49,
+      "complete_captions": 14,
+      "page_assignment": "passed"
+    },
+    "zh_Word": {
+      "pages": 14,
+      "complete_prose": 49,
+      "complete_captions": 14,
+      "page_assignment": "passed"
+    }
+  },
+  "unchanged_evidence_files": true,
+  "paired_paragraph_citations": "qa/checks.json",
+  "human_scientific_verification": false,
+  "new_empirical_validation": false,
+  "visual_review": "design-qa.md"
+}

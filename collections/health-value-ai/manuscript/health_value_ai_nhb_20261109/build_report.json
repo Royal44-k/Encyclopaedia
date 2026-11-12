@@ -1,0 +1,303 @@
+{
+  "en_main": {
+    "file": "Health_value_NHB_EN.docx",
+    "references": {
+      "E001": 1,
+      "E002": 2,
+      "E004": 3,
+      "E005": 4,
+      "E006": 5,
+      "E009": 6,
+      "E007": 7,
+      "E011": 8,
+      "E026": 9,
+      "E012": 10,
+      "E013": 11,
+      "E014": 12,
+      "E015": 13,
+      "E024": 14,
+      "E017": 15,
+      "E018": 16,
+      "E019": 17,
+      "E020": 18,
+      "E027": 19,
+      "E021": 20,
+      "E022": 21
+    },
+    "numbered_reference_count": 21,
+    "web_sources_in_text": [
+      "E003",
+      "E008",
+      "E010",
+      "E016",
+      "E025"
+    ],
+    "superscript_groups": 28,
+    "crossreferences": [
+      "F1",
+      "ED1",
+      "ST1",
+      "ED2",
+      "ST2",
+      "F2",
+      "F3",
+      "F3",
+      "F4a",
+      "F4b",
+      "F4c",
+      "F4d",
+      "ED3",
+      "ST3",
+      "ED4"
+    ]
+  },
+  "en_support": {
+    "file": "Supporting_information_EN.docx",
+    "references": {
+      "E004": 1,
+      "E017": 2,
+      "E009": 3,
+      "E021": 4,
+      "E011": 5,
+      "E026": 6,
+      "E013": 7,
+      "E014": 8
+    },
+    "numbered_reference_count": 8,
+    "web_sources_in_text": [
+      "E016"
+    ],
+    "superscript_groups": 5,
+    "crossreferences": []
+  },
+  "zh_main": {
+    "file": "Health_value_NHB_ZH.docx",
+    "references": {
+      "E001": 1,
+      "E002": 2,
+      "E004": 3,
+      "E005": 4,
+      "E006": 5,
+      "E009": 6,
+      "E007": 7,
+      "E011": 8,
+      "E026": 9,
+      "E012": 10,
+      "E013": 11,
+      "E014": 12,
+      "E015": 13,
+      "E024": 14,
+      "E017": 15,
+      "E018": 16,
+      "E019": 17,
+      "E020": 18,
+      "E027": 19,
+      "E021": 20,
+      "E022": 21
+    },
+    "numbered_reference_count": 21,
+    "web_sources_in_text": [
+      "E003",
+      "E008",
+      "E010",
+      "E016",
+      "E025"
+    ],
+    "superscript_groups": 28,
+    "crossreferences": [
+      "F1",
+      "ED1",
+      "ST1",
+      "ED2",
+      "ST2",
+      "F2",
+      "F3",
+      "F3",
+      "F4a",
+      "F4b",
+      "F4c",
+      "F4d",
+      "ED3",
+      "ST3",
+      "ED4"
+    ]
+  },
+  "zh_support": {
+    "file": "Supporting_information_ZH.docx",
+    "references": {
+      "E004": 1,
+      "E017": 2,
+      "E009": 3,
+      "E021": 4,
+      "E011": 5,
+      "E026": 6,
+      "E013": 7,
+      "E014": 8
+    },
+    "numbered_reference_count": 8,
+    "web_sources_in_text": [
+      "E016"
+    ],
+    "superscript_groups": 5,
+    "crossreferences": [
+      "ST1",
+      "ED1"
+    ]
+  },
+  "figures": {
+    "en_Fig1": {
+      "width_mm": 165,
+      "height_pt": 225.79418951941352,
+      "standard_label_pt": [
+        5.5,
+        7
+      ],
+      "panel_label_pt": 8
+    },
+    "en_Fig2": {
+      "width_mm": 165,
+      "height_pt": 232.96225902796635,
+      "standard_label_pt": [
+        5.5,
+        7
+      ],
+      "panel_label_pt": 8
+    },
+    "en_Fig3": {
+      "width_mm": 165,
+      "height_pt": 376.32364919902255,
+      "standard_label_pt": [
+        5.5,
+        7
+      ],
+      "panel_label_pt": 8
+    },
+    "en_Fig4": {
+      "width_mm": 165,
+      "height_pt": 369.1555796904697,
+      "standard_label_pt": [
+        5.5,
+        7
+      ],
+      "panel_label_pt": 8
+    },
+    "en_ExtendedDataFig1": {
+      "width_mm": 165,
+      "height_pt": 232.96225902796635,
+      "standard_label_pt": [
+        5.5,
+        7
+      ],
+      "panel_label_pt": 8
+    },
+    "en_ExtendedDataFig2": {
+      "width_mm": 165,
+      "height_pt": 250.88243279934838,
+      "standard_label_pt": [
+        5.5,
+        7
+      ],
+      "panel_label_pt": 8
+    },
+    "en_ExtendedDataFig3": {
+      "width_mm": 165,
+      "height_pt": 155.90551181102364,
+      "standard_label_pt": [
+        5.5,
+        7
+      ],
+      "panel_label_pt": 8
+    },
+    "en_ExtendedDataFig4": {
+      "width_mm": 165,
+      "height_pt": 167.55362476242195,
+      "standard_label_pt": [
+        5.5,
+        7
+      ],
+      "panel_label_pt": 8
+    },
+    "zh_Fig1": {
+      "width_mm": 165,
+      "height_pt": 225.79418951941352,
+      "standard_label_pt": [
+        5.5,
+        7
+      ],
+      "panel_label_pt": 8
+    },
+    "zh_Fig2": {
+      "width_mm": 165,
+      "height_pt": 232.96225902796635,
+      "standard_label_pt": [
+        5.5,
+        7
+      ],
+      "panel_label_pt": 8
+    },
+    "zh_Fig3": {
+      "width_mm": 165,
+      "height_pt": 376.32364919902255,
+      "standard_label_pt": [
+        5.5,
+        7
+      ],
+      "panel_label_pt": 8
+    },
+    "zh_Fig4": {
+      "width_mm": 165,
+      "height_pt": 369.1555796904697,
+      "standard_label_pt": [
+        5.5,
+        7
+      ],
+      "panel_label_pt": 8
+    },
+    "zh_ExtendedDataFig1": {
+      "width_mm": 165,
+      "height_pt": 232.96225902796635,
+      "standard_label_pt": [
+        5.5,
+        7
+      ],
+      "panel_label_pt": 8
+    },
+    "zh_ExtendedDataFig2": {
+      "width_mm": 165,
+      "height_pt": 250.88243279934838,
+      "standard_label_pt": [
+        5.5,
+        7
+      ],
+      "panel_label_pt": 8
+    },
+    "zh_ExtendedDataFig3": {
+      "width_mm": 165,
+      "height_pt": 155.90551181102364,
+      "standard_label_pt": [
+        5.5,
+        7
+      ],
+      "panel_label_pt": 8
+    },
+    "zh_ExtendedDataFig4": {
+      "width_mm": 165,
+      "height_pt": 167.55362476242195,
+      "standard_label_pt": [
+        5.5,
+        7
+      ],
+      "panel_label_pt": 8
+    }
+  },
+  "word_counts": {
+    "en": {
+      "abstract": 140,
+      "main": 3280
+    },
+    "zh": {
+      "abstract": 30,
+      "main": 818
+    }
+  }
+}

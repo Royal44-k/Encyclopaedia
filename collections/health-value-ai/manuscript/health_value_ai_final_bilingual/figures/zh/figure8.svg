@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="522" height="235" preserveAspectRatio="xMinYMin meet" viewBox="0 0 522 235" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="522" height="235"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-235)" style="clip-path: url(#clip)">
+		<g transform="">
+			<text x="0" y="220" style="font-family: SansBold; font-size: 11px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,440) scale(1,-1)">a</text>
+			<text x="17" y="220" style="font-family: CNHei; font-size: 10px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,440) scale(1,-1)">个人选择嵌入制度条件</text>
+			<text x="62.8" y="190" style="font-family: CNHei; font-size: 8.6px;fill: rgb(22%,39%,62%); stroke:none;" transform="translate(0,380) scale(1,-1)">工作场所</text>
+			<text x="63.2" y="175" style="font-family: CNHei; font-size: 8.4px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,350) scale(1,-1)">工作强度</text>
+			<text x="63.2" y="163" style="font-family: CNHei; font-size: 8.4px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,326) scale(1,-1)">拒绝能力</text>
+			<path d="M 80,148 L 80,131 Z" style="stroke: rgb(22%,39%,62%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="80 131, 77.5 136, 82.5 136" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(22%,39%,62%); fill-rule: evenodd;"/>
+			<text x="252.4" y="190" style="font-family: CNHei; font-size: 8.6px;fill: rgb(50%,40%,60%); stroke:none;" transform="translate(0,380) scale(1,-1)">平台</text>
+			<text x="240.0" y="175" style="font-family: CNHei; font-size: 8.4px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,350) scale(1,-1)">界面与激励</text>
+			<text x="235.8" y="163" style="font-family: CNHei; font-size: 8.4px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,326) scale(1,-1)">可用替代方案</text>
+			<path d="M 261,148 L 261,131 Z" style="stroke: rgb(50%,40%,60%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="261 131, 258.5 136, 263.5 136" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(50%,40%,60%); fill-rule: evenodd;"/>
+			<text x="421.5" y="190" style="font-family: CNHei; font-size: 8.6px;fill: rgb(8%,49%,50%); stroke:none;" transform="translate(0,380) scale(1,-1)">家庭与服务</text>
+			<text x="426.2" y="175" style="font-family: CNHei; font-size: 8.4px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,350) scale(1,-1)">照护需求</text>
+			<text x="417.8" y="163" style="font-family: CNHei; font-size: 8.4px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,326) scale(1,-1)">信息与可及性</text>
+			<path d="M 443,148 L 443,131 Z" style="stroke: rgb(8%,49%,50%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="443 131, 440.5 136, 445.5 136" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(8%,49%,50%); fill-rule: evenodd;"/>
+			<path d="M 80,130 L 443,130 Z" style="stroke: rgb(80%,84%,85%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 261,130 L 261,116 Z" style="stroke: rgb(34%,41%,45%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="261 116, 258.5 121, 263.5 121" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(34%,41%,45%); fill-rule: evenodd;"/>
+			<g transform=" matrix(0.43,0,0,0.43,58,74)">
+				<circle cx="0" cy="58" r="12" style="stroke: rgb(22%,39%,62%); stroke-linecap: butt; stroke-width: 1.1; fill: rgb(86%,90%,93%); fill-rule: evenodd;"/>
+				<path d="M -7 44 C -22 42 -24 31 -27 15 L -32 -6 C -33 -12 -27 -14 -24 -9 L -15 18 L -13 -12 L -15 -53 C -14 -60 -5 -59 -5 -52 L 0 -17 L 5 -52 C 5 -59 14 -60 15 -53 L 13 -12 L 15 18 L 24 -9 C 27 -14 33 -12 32 -6 L 27 15 C 24 31 22 42 7 44 Z " style="stroke: rgb(22%,39%,62%); stroke-linecap: butt; stroke-width: 1.2; fill: rgb(91%,94%,95%); fill-rule: evenodd;"/>
+			</g>
+			<text x="108" y="106" style="font-family: CNHei; font-size: 11px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,212) scale(1,-1)">个体比较真正可行的方案</text>
+			<text x="108" y="89" style="font-family: CNHei; font-size: 9px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,178) scale(1,-1)">收入、时间、功能、体验和可行能力</text>
+			<text x="108" y="76" style="font-family: CNHei; font-size: 9px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,152) scale(1,-1)">决策支持能够揭示约束，但不会自行消除约束。</text>
+			<path d="M 0,47 L 522,47 Z" style="stroke: rgb(80%,84%,85%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<text x="0" y="30" style="font-family: SansBold; font-size: 11px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,60) scale(1,-1)">b</text>
+			<text x="17" y="30" style="font-family: CNHei; font-size: 10px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,60) scale(1,-1)">追踪谁获得收益、谁承担负担</text>
+			<text x="17" y="11" style="font-family: CNHei; font-size: 8.7px;fill: rgb(22%,39%,62%); stroke:none;" transform="translate(0,22) scale(1,-1)">个人账目</text>
+			<path d="M 130,14 L 150,14 Z" style="stroke: rgb(34%,41%,45%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="150 14, 145 11.5, 145 16.5" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(34%,41%,45%); fill-rule: evenodd;"/>
+			<text x="163" y="11" style="font-family: CNHei; font-size: 8.7px;fill: rgb(8%,49%,50%); stroke:none;" transform="translate(0,22) scale(1,-1)">家庭账目</text>
+			<path d="M 282,14 L 302,14 Z" style="stroke: rgb(34%,41%,45%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="302 14, 297 11.5, 297 16.5" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(34%,41%,45%); fill-rule: evenodd;"/>
+			<text x="315" y="11" style="font-family: CNHei; font-size: 8.7px;fill: rgb(50%,40%,60%); stroke:none;" transform="translate(0,22) scale(1,-1)">组织与社会账目</text>
+		</g>
+	</g>
+</svg>

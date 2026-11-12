@@ -1,0 +1,321 @@
+[
+  {
+    "title": "Experimental evidence on the productivity effects of generative artificial intelligence",
+    "authors": [
+      "Shakked Noy",
+      "Whitney Zhang"
+    ],
+    "year": 2023,
+    "venue": "Science 381(6654), 187–192；正式期刊论文",
+    "url": "https://www.science.org/doi/10.1126/science.adh2586",
+    "doi": "10.1126/science.adh2586",
+    "reading_level": "正式版本摘要及MIT机构报告；另读作者2023年3月早期稿部分。未通读最终期刊全文。",
+    "evidence_design": "正式版本为453名受过高等教育的专业人员写作任务随机实验；处理组在第二项任务可使用ChatGPT。早期稿444人与最终样本不可混用。",
+    "key_finding": "平均完成时间减少约40%，质量提高约18%；任务内表现差距缩小。",
+    "limitations": "短期、限定写作任务；不识别长期技能积累、总工时、工资或就业变化。个体任务表现差距不等于劳动力市场收入差距。",
+    "data_status": "B：作者/期刊给出OSF入口 https://osf.io/xd7qw/ ；本轮未核对文件目录或下载数据，不能称已可复现。作者早期稿 https://economics.mit.edu/sites/default/files/inline-files/Noy_Zhang_1.pdf 。",
+    "topic_ids": [
+      "LL1",
+      "LL2",
+      "LL4"
+    ]
+  },
+  {
+    "title": "Generative AI without guardrails can harm learning: Evidence from high school mathematics",
+    "authors": [
+      "Hamsa Bastani",
+      "Osbert Bastani",
+      "Alp Sungu",
+      "Haosen Ge",
+      "Özge Kabakcı",
+      "Rei Mariman"
+    ],
+    "year": 2025,
+    "venue": "Proceedings of the National Academy of Sciences 122(26), e2422633122；正式期刊论文",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12232635/",
+    "doi": "10.1073/pnas.2422633122",
+    "reading_level": "全文定向阅读：设计、结果、局限、数据可用性；另读GitHub目录及变量字典。",
+    "evidence_design": "土耳其高中近1000名学生、约50个9至11年级班级；四次数学学习课，比较GPT Base、带教学保护措施的GPT Tutor与对照。",
+    "key_finding": "练习阶段表现提高，但移除工具后的考试中GPT Base表现下降；引导式Tutor大幅缓解该损害。",
+    "limitations": "特定数学课程、地点与实现；不能推出所有AI辅导降低学习，也不能把即时无辅助测验解释为永久去技能化。",
+    "data_status": "A：实际看见 https://github.com/obastani/GenAICanHarmLearning 的final_data.csv、main regressions、additional results、text analysis与变量字典；含Student_ID、Class、Session、Part2Tot、Part3Tot、GPTBase、GPTTutor等。未下载或运行，缺失模式、许可和文本覆盖范围仍待审计。",
+    "topic_ids": [
+      "LL1"
+    ]
+  },
+  {
+    "title": "AI tutoring outperforms in-class active learning: an RCT introducing a novel research-based design in an authentic educational setting",
+    "authors": [
+      "Greg Kestin",
+      "Kelly Miller",
+      "Anna Klales",
+      "Timothy Milbourne",
+      "Gregorio Ponti"
+    ],
+    "year": 2025,
+    "venue": "Scientific Reports 15, 17458；正式期刊论文",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12179260/",
+    "doi": "10.1038/s41598-025-97652-6",
+    "reading_level": "全文定向阅读：方法、结果、数据可用性。",
+    "evidence_design": "哈佛大学入门物理课程194名纳入学生；两组在相邻两周交叉接受研究型AI辅导和课堂主动学习。",
+    "key_finding": "该设计下AI辅导组在即时学习测验中提高更多、用时更少；构成AI必然损害学习的反证。",
+    "limitations": "AI条件与课堂条件同时存在场景、交互与时间安排差异；即时测验不等于长期保持或迁移；不能外推所有模型或教师。",
+    "data_status": "B：论文指向 https://github.com/HarvardAItutor/Study-Data-v4 ；已确认公共仓库页面存在，但工具未成功读取文件清单，GitHub API也失败，尚未核实数据粒度。",
+    "topic_ids": [
+      "LL1"
+    ]
+  },
+  {
+    "title": "How AI Impacts Skill Formation",
+    "authors": [
+      "Judy Hanwen Shen",
+      "Alex Tamkin"
+    ],
+    "year": 2026,
+    "venue": "arXiv:2601.20245 v2（2026-02-01）；预印本，未核验正式期刊发表",
+    "url": "https://arxiv.org/html/2601.20245v2",
+    "doi": "10.48550/arXiv.2601.20245",
+    "reading_level": "全文定向阅读：实验、结果、附录、数据说明；另读公开仓库README和目录。",
+    "evidence_design": "主要实验52名具有Python经验但不熟悉Trio的开发者，26人/组，随机给予AI编码辅助；完成新库任务后进行技能测验。",
+    "key_finding": "AI组即时技能测验约50%，对照约67%，相差约17个百分点；完成速度的提高未达统计显著。较主动的使用模式与较好学习相关。",
+    "limitations": "小样本、新库、短时学习；使用模式为事后观察，不能把模式关联当随机化机制证据；不证明长期能力衰退。",
+    "data_status": "A（有限范围）：https://github.com/safety-research/how-ai-impacts-skill-formation 实际可见annotated_transcripts、final_task、README等；明确公开任务和标注对话，未证实完整参与者测验微观数据或所有录像开放。预注册 https://osf.io/w49e7 。",
+    "topic_ids": [
+      "LL1"
+    ]
+  },
+  {
+    "title": "Shifting Work Patterns with Generative AI",
+    "authors": [
+      "Eleanor Wiske Dillon",
+      "Sonia Jaffe",
+      "Nicole Immorlica",
+      "Christopher Stanton"
+    ],
+    "year": 2025,
+    "venue": "NBER Working Paper 33795；另有arXiv:2504.11436；工作论文",
+    "url": "https://www.nber.org/papers/w33795",
+    "doi": "10.3386/w33795",
+    "reading_level": "全文定向阅读arXiv v1 https://arxiv.org/html/2504.11436v1 ；核对NBER摘要及修订入口。效应版本不混用。",
+    "evidence_design": "66家企业7137名知识工作者，六个月随机提供Microsoft 365 Copilot，依据数字工作日志衡量行为。",
+    "key_finding": "邮件投入下降，会议时间未明显改变；工具能改变个人行为，但涉及他人的共同工作方式较难改变。",
+    "limitations": "邮件/会议日志不是完整劳动时间、工作质量或心理压力；使用者估计与分配处理效应不同；长期任务扩张可能在观测范围之外。",
+    "data_status": "C：研究使用企业/Microsoft遥测，本轮未找到可公开取得的个体日志。可提取论文层面效应，不应承诺原始数据复现。",
+    "topic_ids": [
+      "LL2",
+      "LL5"
+    ]
+  },
+  {
+    "title": "Evidence of a social evaluation penalty for using AI",
+    "authors": [
+      "Jessica A. Reif",
+      "Richard P. Larrick",
+      "Jack B. Soll"
+    ],
+    "year": 2025,
+    "venue": "Proceedings of the National Academy of Sciences 122(19)；正式期刊论文",
+    "url": "https://doi.org/10.1073/pnas.2426766122",
+    "doi": "10.1073/pnas.2426766122",
+    "reading_level": "出版商检索可读的摘要、方法、讨论与数据声明；未获得完整PDF。",
+    "evidence_design": "四项预注册在线实验，包含预期评价、对他人评价和招聘情境；已核实研究1最终497人，未据不完整信息合计总样本。",
+    "key_finding": "使用AI可引发负面的努力/能力判断；评价者自身使用情况及任务适合程度影响评价。",
+    "limitations": "情境与便利样本证据；不等于真实招聘、晋升或职业身份被损害。声誉、专业身份、羞耻与技能应分别测量。",
+    "data_status": "B：作者明确声明数据、代码、材料和预注册在 https://osf.io/beun6/ ；本轮访问403，尚未核实文件。",
+    "topic_ids": [
+      "LL3"
+    ]
+  },
+  {
+    "title": "No Person Is an Island: Unpacking the Work and After-Work Consequences of Interacting With Artificial Intelligence",
+    "authors": [
+      "Pok Man Tang",
+      "Joel Koopman",
+      "Ke Michael Mai",
+      "David De Cremer",
+      "Jack H. Zhang",
+      "Philipp Reynders",
+      "Chin Tung Stewart Ng",
+      "I-Heng Chen"
+    ],
+    "year": 2023,
+    "venue": "Journal of Applied Psychology 108(11), 1766–1789；正式期刊论文",
+    "url": "https://www.apa.org/pubs/journals/releases/apl-apl0001103.pdf",
+    "doi": "10.1037/apl0001103",
+    "reading_level": "出版商全文PDF定向阅读：理论、四项研究概述、方法、结果与透明度说明。",
+    "evidence_design": "四项研究总N=794，覆盖台湾、印尼、美国和马来西亚，结合调查、现场实验和模拟；并非全部为生成式AI。",
+    "key_finding": "AI互动可能同时引发联结需求及助人行为，也与孤独和工作外后果相关，呈现双向社会机制。",
+    "limitations": "部分数据早于ChatGPT；自报、观察和实验设计混合，不能一并解释为因果；未预注册。孤独/失眠等指标不是临床诊断。",
+    "data_status": "B：正文给出OSF补充资源 https://osf.io/acym6/?view_only=6dac73046224421c8af6781f733b3f95 ；未核实其是否含完整微观数据及复用许可。",
+    "topic_ids": [
+      "LL5"
+    ]
+  },
+  {
+    "title": "Still Waters, Rapid Currents: Early Labor Market Transformation under Generative AI",
+    "authors": [
+      "Anders Humlum",
+      "Emilie Vestergaard"
+    ],
+    "year": 2026,
+    "venue": "工作论文，2026-03-13作者修订版；2025旧题Large Language Models, Small Labor Market Effects；NBER 33777",
+    "url": "https://www.andershumlum.com/s/chatbots_260313.pdf",
+    "doi": null,
+    "reading_level": "2026修订版全文定向阅读摘要、引言、数据与识别说明；不是把2025摘要当最新版本。",
+    "evidence_design": "丹麦2023和2024采用调查连接雇主—雇员行政记录；2024约25000名劳动者、7000家工作单位、11类高暴露职业；双重差分至2024年底。",
+    "key_finding": "平均工资、收入和记录工时变化接近零；任务重组已经出现。年轻劳动者在高暴露职业的就业下滑，不能简单归因于实际采用聊天机器人的企业。",
+    "limitations": "采用并非随机；DID依赖识别假设；截至2024年底、丹麦和所选职业，不排除后期、其他地区或异质性影响；记录工时非工作强度。",
+    "data_status": "C：连接丹麦限制访问行政数据；没有核实无需申请即可取得的个体数据。公开论文和附录可作研究级证据编码。",
+    "topic_ids": [
+      "LL2",
+      "LL4"
+    ]
+  },
+  {
+    "title": "Canaries in the Coal Mine? Six Facts about the Recent Employment Effects of Artificial Intelligence",
+    "authors": [
+      "Erik Brynjolfsson",
+      "Bharat Chandar",
+      "Ruyu Chen"
+    ],
+    "year": 2026,
+    "venue": "Stanford Digital Economy Lab工作论文，原稿2025，核验作者页面2026-08-12修订；未核验同行评议发表",
+    "url": "https://digitaleconomy.stanford.edu/publication/canaries-in-the-coal-mine-six-facts-about-the-recent-employment-effects-of-artificial-intelligence/",
+    "doi": null,
+    "reading_level": "作者机构原始页面的修订摘要、结果及限制说明；未通读2026修订PDF。",
+    "evidence_design": "ADP工资单覆盖的大规模美国就业资料，研究年龄与职业AI暴露度的就业趋势；作者页面报告延伸到2026年6月。",
+    "key_finding": "高AI暴露职业的早期职业群体就业更弱；效应随数据源、教育控制和基期设定变化。",
+    "limitations": "作者明确作为描述性早期指标而非因果估计；存在部分前趋势，控制教育后衰减，ADP模式较全国调查更明显。不能把暴露度当实际采用。",
+    "data_status": "C：ADP个体工资单不是本轮可公开复用数据；作者提供公开AI Economic Indicators，但未核对下载表格。CPS可作独立公共数据检验，不是复现ADP。",
+    "topic_ids": [
+      "LL4"
+    ]
+  },
+  {
+    "title": "The Autonomy Paradox: The Implications of Mobile Email Devices for Knowledge Professionals",
+    "authors": [
+      "Melissa Mazmanian",
+      "Wanda J. Orlikowski",
+      "JoAnne Yates"
+    ],
+    "year": 2013,
+    "venue": "Organization Science 24(5), 1337–1357；正式期刊论文",
+    "url": "https://pubsonline.informs.org/doi/10.1287/orsc.1120.0806",
+    "doi": "10.1287/orsc.1120.0806",
+    "reading_level": "出版商摘要与元数据；作者机构全文入口已定位，未通读。",
+    "evidence_design": "关于知识工作者使用移动邮件设备的质性研究；本轮未核实样本量，不填估计数字。",
+    "key_finding": "个体即时灵活性可转化为集体持续在线规范，进而压缩自主性。",
+    "limitations": "非AI研究，支持机制类比而非生成式AI效应量；不能据此推断必然加班。",
+    "data_status": "D：未核实公开访谈原始数据。MIT作者稿 https://dspace.mit.edu/server/api/core/bitstreams/53dbc8e3-8008-4083-b1ed-1ee83ab93c25/content 。",
+    "topic_ids": [
+      "LL2",
+      "LL5"
+    ]
+  },
+  {
+    "title": "Shadow Learning: Building Robotic Surgical Skill When Approved Means Fail",
+    "authors": [
+      "Matthew Beane"
+    ],
+    "year": 2019,
+    "venue": "Administrative Science Quarterly 64(1), 87–123；2018在线、2019卷期；正式期刊论文",
+    "url": "https://journals.sagepub.com/doi/full/10.1177/0001839217751692?journalCode=asqa",
+    "doi": "10.1177/0001839217751692",
+    "reading_level": "出版商摘要和元数据；全文链接实际重定向摘要/付费页面。",
+    "evidence_design": "两年五地点比较民族志，比较机器人与传统手术，并辅以美国13家教学医院的盲访谈研究；未核实参与者人数。",
+    "key_finding": "技术改变新手参与实践的机会；少数学习者通过非正式方式取得练习并形成技能。",
+    "limitations": "特定专业场景、质性机制；不能替代LLM教育实验，不能证明平均学习损害或提出临床规避规则建议。",
+    "data_status": "D：未核实开放民族志、访谈或编码数据。",
+    "topic_ids": [
+      "LL1",
+      "LL3"
+    ]
+  },
+  {
+    "title": "Algorithms at Work: The New Contested Terrain of Control",
+    "authors": [
+      "Katherine C. Kellogg",
+      "Melissa A. Valentine",
+      "Angèle Christin"
+    ],
+    "year": 2020,
+    "venue": "Academy of Management Annals 14(1), 366–410；综述论文",
+    "url": "https://angelechristin.com/wp-content/uploads/2020/01/Algorithms-at-Work_Annals.pdf",
+    "doi": "10.5465/annals.2018.0174",
+    "reading_level": "作者公开全文，定向阅读摘要、引言和控制机制框架；未逐篇重新核验该综述纳入文献。",
+    "evidence_design": "跨学科整合性综述；不是新的单一实验或可作独立样本的效应量。",
+    "key_finding": "算法通过限制/建议、记录/评级、替换/奖励组织劳动控制；员工争议和抵抗是研究对象。",
+    "limitations": "控制与自主权并非新概念；框架不直接证明生成式AI导致压力或效率，不能与原始研究重复计数。",
+    "data_status": "不适用：框架综述可公开阅读，未核实机器可读研究编码表。",
+    "topic_ids": [
+      "LL2",
+      "LL3",
+      "LL5"
+    ]
+  },
+  {
+    "title": "The Skill Content of Recent Technological Change: An Empirical Exploration",
+    "authors": [
+      "David H. Autor",
+      "Frank Levy",
+      "Richard J. Murnane"
+    ],
+    "year": 2003,
+    "venue": "The Quarterly Journal of Economics 118(4), 1279–1333；正式期刊论文",
+    "url": "https://doi.org/10.1162/003355303322552801",
+    "doi": "10.1162/003355303322552801",
+    "reading_level": "摘要、元数据和MIT作者稿开头；未通读所有实证附录。",
+    "evidence_design": "任务框架与1960—1998年美国职业/技能输入及计算机化的实证分析。",
+    "key_finding": "常规任务替代与非例行认知任务互补，为区分技术、任务和技能需求提供经典框架。",
+    "limitations": "历史计算机化的结果不能作为LLM不会替代非例行认知劳动的证据；任务暴露和职业净就业不同。",
+    "data_status": "D：本轮未审计原论文复现包。可用官方CPS与O*NET建立新的公开数据分析，但不等于原样复现。作者稿 https://economics.mit.edu/sites/default/files/publications/the%20skill%20content%202003.pdf 。",
+    "topic_ids": [
+      "LL4"
+    ]
+  },
+  {
+    "title": "The Impact of Generative AI on Critical Thinking: Self-Reported Reductions in Cognitive Effort and Confidence Effects From a Survey of Knowledge Workers",
+    "authors": [
+      "Hao-Ping (Hank) Lee",
+      "Advait Sarkar",
+      "Lev Tankelevitch",
+      "Ian Drosos",
+      "Sean Rintel",
+      "Richard Banks",
+      "Nicholas Wilson"
+    ],
+    "year": 2025,
+    "venue": "CHI 2025, Article 1121；正式会议论文",
+    "url": "https://www.microsoft.com/en-us/research/publication/the-impact-of-generative-ai-on-critical-thinking-self-reported-reductions-in-cognitive-effort-and-confidence-effects-from-a-survey-of-knowledge-workers/",
+    "doi": "10.1145/3706598.3713778",
+    "reading_level": "官方研究页面摘要与作者PDF入口；本轮未通读全文方法和补充文件。",
+    "evidence_design": "319名知识工作者，936个自报的工作使用案例；调查设计。",
+    "key_finding": "对AI的高信心与较少自报思考努力相关；思考工作可能转向验证、整合和监督。",
+    "limitations": "自报努力不是客观能力；相关关系不是AI造成去技能化；没有客观长期迁移或保持测验。",
+    "data_status": "D：未核实公开参与者级数据或代码。作者PDF https://www.microsoft.com/en-us/research/wp-content/uploads/2025/01/lee_2025_ai_critical_thinking_survey.pdf 。",
+    "topic_ids": [
+      "LL1",
+      "LL5"
+    ]
+  },
+  {
+    "title": "AI Doesn’t Reduce Work—It Intensifies It",
+    "authors": [
+      "Aruna Ranganathan",
+      "Xingqi Maggie Ye"
+    ],
+    "year": 2026,
+    "venue": "Harvard Business Review，2026-02-09；研究面向实践的文章，非同行评议实证期刊论文",
+    "url": "https://hbr.org/2026/02/ai-doesnt-reduce-work-it-intensifies-it",
+    "doi": null,
+    "reading_level": "只核验HBR题名、作者、日期；实质研究说明依据作者本人公开研究页面 https://www.arunaranganathan.com/research-topics/ai-at-work 。未通读HBR付费全文。",
+    "evidence_design": "作者页面说明采用质性方法研究AI工作实践；本轮没有从原始方法报告核实常被媒体引用的样本与时长，因此不填写。",
+    "key_finding": "作者研究页面提出任务范围扩张、多任务处理和非工作时间溢出作为待量化机制。",
+    "limitations": "补充性问题生成来源，不作为已核验因果效应或元分析输入；不能写成AI对全部工作者必然增压。",
+    "data_status": "D：未核实公开原始访谈、观察或代码；以作者研究页面为理论线索。",
+    "topic_ids": [
+      "LL2",
+      "LL5"
+    ]
+  }
+]

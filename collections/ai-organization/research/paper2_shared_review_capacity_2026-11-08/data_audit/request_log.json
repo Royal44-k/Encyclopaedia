@@ -1,0 +1,52 @@
+{
+  "purpose": "Metadata and limited field feasibility only; no effect estimation",
+  "date": "2026-11-08T20:01:32.778630+08:00",
+  "requests": [
+    {
+      "url": "https://huggingface.co/api/datasets/hao-li/AIDev/refs",
+      "status": 200,
+      "path": "refs.json",
+      "bytes": 714,
+      "sha256": "9e50cb38239e8d4ea390808f1c779245729819d543d65cc1dd4d1474bd26d694"
+    },
+    {
+      "url": "https://huggingface.co/api/datasets/hao-li/AIDev/tree/v3",
+      "status": 200,
+      "path": "tree_v3.json",
+      "bytes": 6712,
+      "sha256": "d8f3c825572ba146dd9da18c022ffab13d03ae7cf2a348aa962a37030d1b4230"
+    },
+    {
+      "url": "https://huggingface.co/datasets/hao-li/AIDev/resolve/v3/README.md",
+      "status": 200,
+      "path": "README_v3.md",
+      "bytes": 15808,
+      "sha256": "90c878d05f07c356737e2cfde6afebfdf6c4ba1445bf686761007570b73833a9"
+    },
+    {
+      "url": "https://datasets-server.huggingface.co/rows?dataset=hao-li%2FAIDev&config=pull_request&split=train&offset=0&length=20",
+      "status": 200,
+      "path": "pull_request_sample_main.json",
+      "bytes": 23159,
+      "sha256": "2d111bc8b2df56de9748ae5df662fb7abe4592f74641a71f2d7a65426b55d7b2"
+    },
+    {
+      "url": "https://datasets-server.huggingface.co/rows?dataset=hao-li%2FAIDev&config=human_pull_request&split=train&offset=0&length=20",
+      "error": "HTTPError: HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://datasets-server.huggingface.co/rows?dataset=hao-li%2FAIDev&config=pr_reviews&split=train&offset=0&length=20",
+      "status": 200,
+      "path": "pr_reviews_sample_main.json",
+      "bytes": 70083,
+      "sha256": "11e28ad35638de72a2978484905e6ac46bcf5bdef74a90a7d6a7b26a75b0c5a5"
+    },
+    {
+      "url": "https://datasets-server.huggingface.co/rows?dataset=hao-li%2FAIDev&config=pr_timeline&split=train&offset=0&length=20",
+      "status": 200,
+      "path": "pr_timeline_sample_main.json",
+      "bytes": 5145,
+      "sha256": "c1e8eec4a6e51c307fa8e39f5091db417f517b81aa88193a7f90a936da87b614"
+    }
+  ]
+}

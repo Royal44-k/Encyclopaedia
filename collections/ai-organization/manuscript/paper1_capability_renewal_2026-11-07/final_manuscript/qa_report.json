@@ -1,0 +1,54 @@
+{
+  "date": "2026-11-07",
+  "bilingual_citation_sequence_equal": true,
+  "citation_groups": 47,
+  "references_in_manuscript": 18,
+  "figure_count_each": 2,
+  "evidence_table_rows_each": 6,
+  "docx_pdf_content_and_reference_checks": "passed",
+  "renderer": "Microsoft Word native PDF export; Poppler page rasterization",
+  "visual_review": "completed: every current page inspected; corrected figure clipping, title border, isolated table header, reference wrapping and final-page overflow",
+  "human_source_verification": "pending",
+  "submission_ready": false,
+  "files": [
+    {
+      "path": "D:\\Super-Essay\\manuscript\\paper1_capability_renewal_2026-11-07\\final_manuscript\\deliverables\\paper1_en.docx",
+      "bytes": 485363,
+      "sha256": "b85ae619862a82d587bda1fd187a5fb6a9090b29b143fe10a9fa2e79f3139ede"
+    },
+    {
+      "path": "D:\\Super-Essay\\manuscript\\paper1_capability_renewal_2026-11-07\\final_manuscript\\deliverables\\paper1_en.pdf",
+      "bytes": 805986,
+      "sha256": "d59ba2af27992efd657fd9d2e6c9840cadda3c960d4f755ea5d54745d4f9aeb0"
+    },
+    {
+      "path": "D:\\Super-Essay\\manuscript\\paper1_capability_renewal_2026-11-07\\final_manuscript\\deliverables\\paper1_en.md",
+      "bytes": 36001,
+      "sha256": "09153bedadc144476d8728c3dfbed64a1936cf06ad52eb2776794ead322d8969"
+    },
+    {
+      "path": "D:\\Super-Essay\\manuscript\\paper1_capability_renewal_2026-11-07\\final_manuscript\\deliverables\\paper1_zh.docx",
+      "bytes": 459182,
+      "sha256": "bf1d00466aa260a0e0d72508e1abc79bc6ad8386358624d34f8ff9f1daa97924"
+    },
+    {
+      "path": "D:\\Super-Essay\\manuscript\\paper1_capability_renewal_2026-11-07\\final_manuscript\\deliverables\\paper1_zh.pdf",
+      "bytes": 982831,
+      "sha256": "df67a32d77cdaa77a59718ac3d116b46a91cf040f796520fb1a292bdf4c8ff97"
+    },
+    {
+      "path": "D:\\Super-Essay\\manuscript\\paper1_capability_renewal_2026-11-07\\final_manuscript\\deliverables\\paper1_zh.md",
+      "bytes": 31171,
+      "sha256": "952f6d48ad4aa0226acb26130df33c378f92d9be700d41e75ec75a4fe0a1483d"
+    }
+  ],
+  "pages": {
+    "en": 11,
+    "zh": 10
+  },
+  "visual_review_provenance": {
+    "english": "report_audit pages 1-8; journal_methods pages 9-11; final English content unchanged after approval",
+    "chinese": "journal_methods pages 1-5; root pages 6-10; root rechecked pages 5-7 after final sentence shortening"
+  },
+  "checks_do_not_certify": "Journal acceptance, theoretical priority, or accountable human verification of sources"
+}

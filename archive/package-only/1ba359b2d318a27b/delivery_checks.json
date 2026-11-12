@@ -1,0 +1,38 @@
+{
+  "manuscripts": {
+    "zh": {
+      "pages": 9,
+      "figures": 3,
+      "references": 10,
+      "citation_groups": 16,
+      "source_sha256": "aa37e106d893868b4996636cf93ba39d5a42f2665a2a431c34574cabcf92ce21",
+      "han_characters": 7450
+    },
+    "en": {
+      "pages": 9,
+      "figures": 3,
+      "references": 10,
+      "citation_groups": 16,
+      "source_sha256": "beb738fa4d10e8a67e312f4b369fa056789ed4a7803c20c66edf2412f7ba04d7",
+      "words_including_captions": 4031
+    }
+  },
+  "human_verification": "pending",
+  "submission_ready": false,
+  "reader": {
+    "zhVisible": true,
+    "navLinks": 8,
+    "figures": 3,
+    "zoomOpens": true,
+    "zoomCloses": true,
+    "fontIncreases": true,
+    "enVisible": true,
+    "enPDF": true,
+    "mobileNoHorizontalOverflow": true,
+    "narrowMobileNoHorizontalOverflow": true,
+    "consoleErrors": []
+  },
+  "bilingual_citation_sequences_match": true,
+  "source_references_close": true,
+  "notes": "Mechanical checks complement separate page-image inspection; they do not certify scientific truth or journal acceptance."
+}

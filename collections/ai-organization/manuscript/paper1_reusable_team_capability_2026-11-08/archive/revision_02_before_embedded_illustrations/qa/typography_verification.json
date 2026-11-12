@@ -1,0 +1,1049 @@
+{
+  "checked_at": "2026-11-08T18:10:03.234073+08:00",
+  "scope": "Rebuilt native Word DOCX/PDF typography; actual per-character fonts and PDF text drawing modes",
+  "baseline": {
+    "zh_pdf_sha256": "10017d0cf36f04f3fec2b5bba1ef9fe5853a09e07584970b873b53dbf5aa630b",
+    "zh_has_ms_gothic": true,
+    "zh_has_calibri": true,
+    "zh_fill_stroke_text_operators": 16,
+    "zh_fill_stroke_by_page": {
+      "1": 5,
+      "2": 2,
+      "3": 1,
+      "5": 3,
+      "6": 2,
+      "8": 2,
+      "9": 1
+    },
+    "en_has_calibri": true,
+    "baseline_source": "typography_audit.md and prior tool inspection before rebuild"
+  },
+  "current": {
+    "zh": {
+      "pdf_sha256": "2158eb92af3a6f3ae1b3c3163aa29cc0c21ffb1db870425de1815d5bff9555bd",
+      "docx_sha256": "9bc8e676a25e98c746e8eac64f125693d58a95889620d8a668a5f24fec10edef",
+      "remaining_style_rFonts_theme_attributes": [],
+      "theme_font_language": [
+        {
+          "val": "en-US",
+          "eastAsia": "zh-CN"
+        }
+      ],
+      "default_language": [
+        {
+          "val": "en-US",
+          "eastAsia": "zh-CN",
+          "bidi": "ar-SA"
+        }
+      ],
+      "active_styles": {
+        "Normal": {
+          "rFonts": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman",
+            "cs": "Times New Roman",
+            "eastAsia": "SimSun"
+          },
+          "b": {
+            "val": "0"
+          },
+          "i": {
+            "val": "0"
+          },
+          "color": {
+            "val": "000000"
+          },
+          "sz": {
+            "val": "23"
+          },
+          "u": {
+            "val": "none"
+          },
+          "szCs": {
+            "val": "23"
+          },
+          "bCs": {
+            "val": "0"
+          },
+          "iCs": {
+            "val": "0"
+          },
+          "lang": {
+            "val": "en-US",
+            "eastAsia": "zh-CN"
+          }
+        },
+        "Title": {
+          "rFonts": {
+            "ascii": "Arial",
+            "hAnsi": "Arial",
+            "cs": "Arial",
+            "eastAsia": "Microsoft YaHei"
+          },
+          "b": {
+            "val": "0"
+          },
+          "i": {
+            "val": "0"
+          },
+          "color": {
+            "val": "000000"
+          },
+          "sz": {
+            "val": "50"
+          },
+          "u": {
+            "val": "none"
+          },
+          "szCs": {
+            "val": "50"
+          },
+          "bCs": {
+            "val": "0"
+          },
+          "iCs": {
+            "val": "0"
+          },
+          "lang": {
+            "val": "en-US",
+            "eastAsia": "zh-CN"
+          }
+        },
+        "Subtitle": {
+          "rFonts": {
+            "ascii": "Arial",
+            "hAnsi": "Arial",
+            "cs": "Arial",
+            "eastAsia": "Microsoft YaHei"
+          },
+          "b": {
+            "val": "0"
+          },
+          "i": {
+            "val": "0"
+          },
+          "color": {
+            "val": "000000"
+          },
+          "sz": {
+            "val": "21"
+          },
+          "u": {
+            "val": "none"
+          },
+          "szCs": {
+            "val": "21"
+          },
+          "bCs": {
+            "val": "0"
+          },
+          "iCs": {
+            "val": "0"
+          },
+          "lang": {
+            "val": "en-US",
+            "eastAsia": "zh-CN"
+          }
+        },
+        "Heading1": {
+          "rFonts": {
+            "ascii": "Arial",
+            "hAnsi": "Arial",
+            "cs": "Arial",
+            "eastAsia": "Microsoft YaHei"
+          },
+          "b": {},
+          "i": {
+            "val": "0"
+          },
+          "color": {
+            "val": "000000"
+          },
+          "sz": {
+            "val": "28"
+          },
+          "u": {
+            "val": "none"
+          },
+          "szCs": {
+            "val": "28"
+          },
+          "bCs": {
+            "val": "1"
+          },
+          "iCs": {
+            "val": "0"
+          },
+          "lang": {
+            "val": "en-US",
+            "eastAsia": "zh-CN"
+          }
+        },
+        "Heading2": {
+          "rFonts": {
+            "ascii": "Arial",
+            "hAnsi": "Arial",
+            "cs": "Arial",
+            "eastAsia": "Microsoft YaHei"
+          },
+          "b": {},
+          "i": {
+            "val": "0"
+          },
+          "color": {
+            "val": "000000"
+          },
+          "sz": {
+            "val": "24"
+          },
+          "u": {
+            "val": "none"
+          },
+          "szCs": {
+            "val": "24"
+          },
+          "bCs": {
+            "val": "1"
+          },
+          "iCs": {
+            "val": "0"
+          },
+          "lang": {
+            "val": "en-US",
+            "eastAsia": "zh-CN"
+          }
+        },
+        "Caption": {
+          "rFonts": {
+            "ascii": "Arial",
+            "hAnsi": "Arial",
+            "cs": "Arial",
+            "eastAsia": "Microsoft YaHei"
+          },
+          "b": {
+            "val": "0"
+          },
+          "i": {
+            "val": "0"
+          },
+          "color": {
+            "val": "000000"
+          },
+          "sz": {
+            "val": "18"
+          },
+          "u": {
+            "val": "none"
+          },
+          "szCs": {
+            "val": "19"
+          },
+          "bCs": {
+            "val": "0"
+          },
+          "iCs": {
+            "val": "0"
+          },
+          "lang": {
+            "val": "en-US",
+            "eastAsia": "zh-CN"
+          }
+        }
+      },
+      "page_count": 9,
+      "pdf_fonts": {
+        "/BCDEEE+MicrosoftYaHei": {
+          "weight": 400,
+          "subtype": "/Type0"
+        },
+        "/BCDFEE+ArialMT": {
+          "weight": 400,
+          "subtype": "/TrueType"
+        },
+        "/BCDGEE+MicrosoftYaHei-Bold": {
+          "weight": 700,
+          "subtype": "/Type0"
+        },
+        "/BCDHEE+Arial-BoldMT": {
+          "weight": 700,
+          "subtype": "/TrueType"
+        },
+        "/BCDIEE+SimSun": {
+          "weight": 400,
+          "subtype": "/Type0"
+        },
+        "/BCDJEE+TimesNewRomanPSMT": {
+          "weight": 400,
+          "subtype": "/TrueType"
+        },
+        "/BCDKEE+TimesNewRomanPSMT": {
+          "weight": 400,
+          "subtype": "/Type0"
+        }
+      },
+      "font_embedding": {
+        "/BCDEEE+MicrosoftYaHei": {
+          "embedded": true,
+          "embedded_stream_bytes": {
+            "/FontFile2": 312240
+          },
+          "weight": 400
+        },
+        "/BCDFEE+ArialMT": {
+          "embedded": true,
+          "embedded_stream_bytes": {
+            "/FontFile2": 73864
+          },
+          "weight": 400
+        },
+        "/BCDGEE+MicrosoftYaHei-Bold": {
+          "embedded": true,
+          "embedded_stream_bytes": {
+            "/FontFile2": 187536
+          },
+          "weight": 700
+        },
+        "/BCDHEE+Arial-BoldMT": {
+          "embedded": true,
+          "embedded_stream_bytes": {
+            "/FontFile2": 51968
+          },
+          "weight": 700
+        },
+        "/BCDIEE+SimSun": {
+          "embedded": true,
+          "embedded_stream_bytes": {
+            "/FontFile2": 418936
+          },
+          "weight": 400
+        },
+        "/BCDJEE+TimesNewRomanPSMT": {
+          "embedded": true,
+          "embedded_stream_bytes": {
+            "/FontFile2": 110908
+          },
+          "weight": 400
+        },
+        "/BCDKEE+TimesNewRomanPSMT": {
+          "embedded": true,
+          "embedded_stream_bytes": {
+            "/FontFile2": 110908
+          },
+          "weight": 400
+        }
+      },
+      "text_rendering_modes_by_page": {
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {},
+        "6": {},
+        "7": {},
+        "8": {},
+        "9": {}
+      },
+      "fill_stroke_text_operators": 0,
+      "forbidden_pdf_font_names": [],
+      "heading_lines": [
+        {
+          "page": 1,
+          "top": 63.6,
+          "size": 24.96,
+          "text": "AI",
+          "font_segments": [
+            {
+              "font": "BCDFEE+ArialMT",
+              "text": "AI"
+            }
+          ]
+        },
+        {
+          "page": 1,
+          "top": 64.7,
+          "size": 24.96,
+          "text": "个人经验怎样成为团队可复用的能力",
+          "font_segments": [
+            {
+              "font": "BCDEEE+MicrosoftYaHei",
+              "text": "个人经验怎样成为团队可复用的能力"
+            }
+          ]
+        },
+        {
+          "page": 1,
+          "top": 144.3,
+          "size": 14.04,
+          "text": "摘要",
+          "font_segments": [
+            {
+              "font": "BCDGEE+MicrosoftYaHei-Bold",
+              "text": "摘要"
+            }
+          ]
+        },
+        {
+          "page": 1,
+          "top": 313.7,
+          "size": 14.04,
+          "text": "假期结束以后工具为什么还在用",
+          "font_segments": [
+            {
+              "font": "BCDGEE+MicrosoftYaHei-Bold",
+              "text": "假期结束以后工具为什么还在用"
+            }
+          ]
+        },
+        {
+          "page": 2,
+          "top": 439.8,
+          "size": 14.04,
+          "text": "为什么做出来和交出去之间仍有距离",
+          "font_segments": [
+            {
+              "font": "BCDGEE+MicrosoftYaHei-Bold",
+              "text": "为什么做出来和交出去之间仍有距离"
+            }
+          ]
+        },
+        {
+          "page": 3,
+          "top": 476.4,
+          "size": 14.04,
+          "text": "交接的是一套工作方法",
+          "font_segments": [
+            {
+              "font": "BCDGEE+MicrosoftYaHei-Bold",
+              "text": "交接的是一套工作方法"
+            }
+          ]
+        },
+        {
+          "page": 5,
+          "top": 187.9,
+          "size": 14.04,
+          "text": "改动怎样回到团队",
+          "font_segments": [
+            {
+              "font": "BCDGEE+MicrosoftYaHei-Bold",
+              "text": "改动怎样回到团队"
+            }
+          ]
+        },
+        {
+          "page": 6,
+          "top": 126.0,
+          "size": 14.04,
+          "text": "从公开材料到行为检验",
+          "font_segments": [
+            {
+              "font": "BCDGEE+MicrosoftYaHei-Bold",
+              "text": "从公开材料到行为检验"
+            }
+          ]
+        },
+        {
+          "page": 8,
+          "top": 501.7,
+          "size": 14.04,
+          "text": "从奖励制作者到支持共同工作",
+          "font_segments": [
+            {
+              "font": "BCDGEE+MicrosoftYaHei-Bold",
+              "text": "从奖励制作者到支持共同工作"
+            }
+          ]
+        },
+        {
+          "page": 9,
+          "top": 187.9,
+          "size": 14.04,
+          "text": "参考文献",
+          "font_segments": [
+            {
+              "font": "BCDGEE+MicrosoftYaHei-Bold",
+              "text": "参考文献"
+            }
+          ]
+        }
+      ],
+      "all_character_font_counts": {
+        "BCDEEE+MicrosoftYaHei": 516,
+        "BCDFEE+ArialMT": 102,
+        "BCDGEE+MicrosoftYaHei-Bold": 77,
+        "BCDHEE+Arial-BoldMT": 8,
+        "BCDIEE+SimSun": 7532,
+        "BCDJEE+TimesNewRomanPSMT": 2167,
+        "BCDKEE+TimesNewRomanPSMT": 23
+      },
+      "title_nonspace_character_fonts": {
+        "BCDEEE+MicrosoftYaHei": 16,
+        "BCDFEE+ArialMT": 2
+      },
+      "heading_nonspace_character_fonts": {
+        "BCDGEE+MicrosoftYaHei-Bold": 77
+      },
+      "body_font_check": {
+        "main_body_size": 11.52,
+        "han_character_fonts": {
+          "BCDIEE+SimSun": 6962
+        },
+        "latin_alphanumeric_fonts": {
+          "BCDJEE+TimesNewRomanPSMT": 163
+        },
+        "expected_han_family": "SimSun",
+        "expected_latin_family": "TimesNewRomanPSMT"
+      },
+      "checks": {
+        "no_theme_font_attributes": true,
+        "no_ms_gothic_or_calibri": true,
+        "no_fill_stroke_fake_bold": true,
+        "section_headings_use_true_bold": true,
+        "main_title_is_regular_by_design": true,
+        "main_body_han_uses_simsun": true,
+        "main_body_latin_uses_times_new_roman": true,
+        "all_pdf_fonts_embedded": true
+      }
+    },
+    "en": {
+      "pdf_sha256": "6c84eddac09c21a384ab1cdf3652a228ce386ca3cebaf8466564fd3fda572ca9",
+      "docx_sha256": "bb1948a8d0926d4b11c7de5a2db645703b2d08cdb374dc25fb4ac01ac85d51a3",
+      "remaining_style_rFonts_theme_attributes": [],
+      "theme_font_language": [
+        {
+          "val": "en-US",
+          "eastAsia": "zh-CN"
+        }
+      ],
+      "default_language": [
+        {
+          "val": "en-US",
+          "eastAsia": "zh-CN",
+          "bidi": "ar-SA"
+        }
+      ],
+      "active_styles": {
+        "Normal": {
+          "rFonts": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman",
+            "cs": "Times New Roman",
+            "eastAsia": "Times New Roman"
+          },
+          "b": {
+            "val": "0"
+          },
+          "i": {
+            "val": "0"
+          },
+          "color": {
+            "val": "000000"
+          },
+          "sz": {
+            "val": "23"
+          },
+          "u": {
+            "val": "none"
+          },
+          "szCs": {
+            "val": "23"
+          },
+          "bCs": {
+            "val": "0"
+          },
+          "iCs": {
+            "val": "0"
+          },
+          "lang": {
+            "val": "en-US",
+            "eastAsia": "zh-CN"
+          }
+        },
+        "Title": {
+          "rFonts": {
+            "ascii": "Arial",
+            "hAnsi": "Arial",
+            "cs": "Arial",
+            "eastAsia": "Arial"
+          },
+          "b": {
+            "val": "0"
+          },
+          "i": {
+            "val": "0"
+          },
+          "color": {
+            "val": "000000"
+          },
+          "sz": {
+            "val": "50"
+          },
+          "u": {
+            "val": "none"
+          },
+          "szCs": {
+            "val": "50"
+          },
+          "bCs": {
+            "val": "0"
+          },
+          "iCs": {
+            "val": "0"
+          },
+          "lang": {
+            "val": "en-US",
+            "eastAsia": "zh-CN"
+          }
+        },
+        "Subtitle": {
+          "rFonts": {
+            "ascii": "Arial",
+            "hAnsi": "Arial",
+            "cs": "Arial",
+            "eastAsia": "Arial"
+          },
+          "b": {
+            "val": "0"
+          },
+          "i": {
+            "val": "0"
+          },
+          "color": {
+            "val": "000000"
+          },
+          "sz": {
+            "val": "21"
+          },
+          "u": {
+            "val": "none"
+          },
+          "szCs": {
+            "val": "21"
+          },
+          "bCs": {
+            "val": "0"
+          },
+          "iCs": {
+            "val": "0"
+          },
+          "lang": {
+            "val": "en-US",
+            "eastAsia": "zh-CN"
+          }
+        },
+        "Heading1": {
+          "rFonts": {
+            "ascii": "Arial",
+            "hAnsi": "Arial",
+            "cs": "Arial",
+            "eastAsia": "Arial"
+          },
+          "b": {},
+          "i": {
+            "val": "0"
+          },
+          "color": {
+            "val": "000000"
+          },
+          "sz": {
+            "val": "28"
+          },
+          "u": {
+            "val": "none"
+          },
+          "szCs": {
+            "val": "28"
+          },
+          "bCs": {
+            "val": "1"
+          },
+          "iCs": {
+            "val": "0"
+          },
+          "lang": {
+            "val": "en-US",
+            "eastAsia": "zh-CN"
+          }
+        },
+        "Heading2": {
+          "rFonts": {
+            "ascii": "Arial",
+            "hAnsi": "Arial",
+            "cs": "Arial",
+            "eastAsia": "Arial"
+          },
+          "b": {},
+          "i": {
+            "val": "0"
+          },
+          "color": {
+            "val": "000000"
+          },
+          "sz": {
+            "val": "24"
+          },
+          "u": {
+            "val": "none"
+          },
+          "szCs": {
+            "val": "24"
+          },
+          "bCs": {
+            "val": "1"
+          },
+          "iCs": {
+            "val": "0"
+          },
+          "lang": {
+            "val": "en-US",
+            "eastAsia": "zh-CN"
+          }
+        },
+        "Caption": {
+          "rFonts": {
+            "ascii": "Arial",
+            "hAnsi": "Arial",
+            "cs": "Arial",
+            "eastAsia": "Arial"
+          },
+          "b": {
+            "val": "0"
+          },
+          "i": {
+            "val": "0"
+          },
+          "color": {
+            "val": "000000"
+          },
+          "sz": {
+            "val": "18"
+          },
+          "u": {
+            "val": "none"
+          },
+          "szCs": {
+            "val": "19"
+          },
+          "bCs": {
+            "val": "0"
+          },
+          "iCs": {
+            "val": "0"
+          },
+          "lang": {
+            "val": "en-US",
+            "eastAsia": "zh-CN"
+          }
+        }
+      },
+      "page_count": 9,
+      "pdf_fonts": {
+        "/BCDEEE+ArialMT": {
+          "weight": 400,
+          "subtype": "/TrueType"
+        },
+        "/BCDFEE+Arial-BoldMT": {
+          "weight": 700,
+          "subtype": "/TrueType"
+        },
+        "/BCDGEE+TimesNewRomanPSMT": {
+          "weight": 400,
+          "subtype": "/TrueType"
+        },
+        "/BCDHEE+TimesNewRomanPSMT": {
+          "weight": 400,
+          "subtype": "/Type0"
+        },
+        "/BCDIEE+ArialMT": {
+          "weight": 400,
+          "subtype": "/Type0"
+        }
+      },
+      "font_embedding": {
+        "/BCDEEE+ArialMT": {
+          "embedded": true,
+          "embedded_stream_bytes": {
+            "/FontFile2": 101512
+          },
+          "weight": 400
+        },
+        "/BCDFEE+Arial-BoldMT": {
+          "embedded": true,
+          "embedded_stream_bytes": {
+            "/FontFile2": 70304
+          },
+          "weight": 700
+        },
+        "/BCDGEE+TimesNewRomanPSMT": {
+          "embedded": true,
+          "embedded_stream_bytes": {
+            "/FontFile2": 113340
+          },
+          "weight": 400
+        },
+        "/BCDHEE+TimesNewRomanPSMT": {
+          "embedded": true,
+          "embedded_stream_bytes": {
+            "/FontFile2": 113340
+          },
+          "weight": 400
+        },
+        "/BCDIEE+ArialMT": {
+          "embedded": true,
+          "embedded_stream_bytes": {
+            "/FontFile2": 101512
+          },
+          "weight": 400
+        }
+      },
+      "text_rendering_modes_by_page": {
+        "1": {},
+        "2": {},
+        "3": {},
+        "4": {},
+        "5": {},
+        "6": {},
+        "7": {},
+        "8": {},
+        "9": {}
+      },
+      "fill_stroke_text_operators": 0,
+      "forbidden_pdf_font_names": [],
+      "heading_lines": [
+        {
+          "page": 1,
+          "top": 55.7,
+          "size": 24.96,
+          "text": "MakingpersonalAIknow-how",
+          "font_segments": [
+            {
+              "font": "BCDEEE+ArialMT",
+              "text": "MakingpersonalAIknow-how"
+            }
+          ]
+        },
+        {
+          "page": 1,
+          "top": 84.5,
+          "size": 24.96,
+          "text": "workacrossateam",
+          "font_segments": [
+            {
+              "font": "BCDEEE+ArialMT",
+              "text": "workacrossateam"
+            }
+          ]
+        },
+        {
+          "page": 1,
+          "top": 151.6,
+          "size": 14.04,
+          "text": "Abstract",
+          "font_segments": [
+            {
+              "font": "BCDFEE+Arial-BoldMT",
+              "text": "Abstract"
+            }
+          ]
+        },
+        {
+          "page": 1,
+          "top": 351.2,
+          "size": 14.04,
+          "text": "Whythetoolwasstillinuseaftertheholiday",
+          "font_segments": [
+            {
+              "font": "BCDFEE+Arial-BoldMT",
+              "text": "Whythetoolwasstillinuseaftertheholiday"
+            }
+          ]
+        },
+        {
+          "page": 2,
+          "top": 507.3,
+          "size": 14.04,
+          "text": "Whybuildingamethoddoesnotcompletethehandover",
+          "font_segments": [
+            {
+              "font": "BCDFEE+Arial-BoldMT",
+              "text": "Whybuildingamethoddoesnotcompletethehandover"
+            }
+          ]
+        },
+        {
+          "page": 3,
+          "top": 610.1,
+          "size": 14.04,
+          "text": "Handingoverawayofworking",
+          "font_segments": [
+            {
+              "font": "BCDFEE+Arial-BoldMT",
+              "text": "Handingoverawayofworking"
+            }
+          ]
+        },
+        {
+          "page": 5,
+          "top": 382.6,
+          "size": 14.04,
+          "text": "Bringingchangesbackintosharedwork",
+          "font_segments": [
+            {
+              "font": "BCDFEE+Arial-BoldMT",
+              "text": "Bringingchangesbackintosharedwork"
+            }
+          ]
+        },
+        {
+          "page": 6,
+          "top": 331.6,
+          "size": 14.04,
+          "text": "Frompublicmaterialstobehavioraltests",
+          "font_segments": [
+            {
+              "font": "BCDFEE+Arial-BoldMT",
+              "text": "Frompublicmaterialstobehavioraltests"
+            }
+          ]
+        },
+        {
+          "page": 8,
+          "top": 646.6,
+          "size": 14.04,
+          "text": "Fromrecognizingmakerstosupportingsharedwork",
+          "font_segments": [
+            {
+              "font": "BCDFEE+Arial-BoldMT",
+              "text": "Fromrecognizingmakerstosupportingsharedwork"
+            }
+          ]
+        },
+        {
+          "page": 9,
+          "top": 338.5,
+          "size": 14.04,
+          "text": "References",
+          "font_segments": [
+            {
+              "font": "BCDFEE+Arial-BoldMT",
+              "text": "References"
+            }
+          ]
+        }
+      ],
+      "all_character_font_counts": {
+        "BCDEEE+ArialMT": 1895,
+        "BCDFEE+Arial-BoldMT": 282,
+        "BCDGEE+TimesNewRomanPSMT": 27539,
+        "BCDHEE+TimesNewRomanPSMT": 403,
+        "BCDIEE+ArialMT": 1
+      },
+      "title_nonspace_character_fonts": {
+        "BCDEEE+ArialMT": 39
+      },
+      "heading_nonspace_character_fonts": {
+        "BCDFEE+Arial-BoldMT": 236
+      },
+      "body_font_check": {
+        "main_body_size": 11.52,
+        "han_character_fonts": {},
+        "latin_alphanumeric_fonts": {
+          "BCDGEE+TimesNewRomanPSMT": 21330,
+          "BCDHEE+TimesNewRomanPSMT": 320
+        },
+        "expected_han_family": "SimSun",
+        "expected_latin_family": "TimesNewRomanPSMT",
+        "han_check_note": "Not applicable: no Han characters in English main body."
+      },
+      "checks": {
+        "no_theme_font_attributes": true,
+        "no_ms_gothic_or_calibri": true,
+        "no_fill_stroke_fake_bold": true,
+        "section_headings_use_true_bold": true,
+        "main_title_is_regular_by_design": true,
+        "main_body_han_uses_simsun": null,
+        "main_body_latin_uses_times_new_roman": true,
+        "all_pdf_fonts_embedded": true
+      }
+    }
+  },
+  "expected_design": {
+    "word_main_titles": "25 pt regular 400; Chinese Microsoft YaHei, Latin Arial",
+    "word_section_headings": "14 pt true Bold; Chinese Microsoft YaHei Bold, Latin Arial Bold",
+    "main_body": "Chinese SimSun regular, Latin Times New Roman regular",
+    "html_titles": "Chinese Microsoft YaHei 700; English Georgia 400; independently checked by root",
+    "note": "Do not require main Word titles to be bold; regular weight is deliberate."
+  },
+  "result": "PASS after fresh inspection of the latest regenerated DOCX/PDF files: declared regular main titles, true-bold section headings, correct main-body families, all font resources embedded, no MS-Gothic/Calibri or fill-stroke simulated bold. Prior baseline and verified-rebuild comparison retained; no new full-page visual review was performed in this refresh.",
+  "visual_spot_checks": [
+    {
+      "artifact": "paper1_zh.pdf",
+      "page": 1,
+      "scale": 3,
+      "region": "Title, subtitle, abstract, first section heading",
+      "result": "pass: main title has uniform regular Chinese face; section headings have consistent true-bold glyph shapes; main body uses regular serif text"
+    },
+    {
+      "artifact": "paper1_zh.pdf",
+      "page": 2,
+      "scale": 3,
+      "region": "Second section heading including previously mixed characters 为 and 间",
+      "result": "pass: all Chinese characters use the same Microsoft YaHei Bold face"
+    },
+    {
+      "artifact": "paper1_en.pdf",
+      "page": 1,
+      "scale": 3,
+      "region": "Title, subtitle, Abstract",
+      "result": "pass: regular Arial title and real Arial Bold section heading match the declared hierarchy"
+    }
+  ],
+  "verified_rebuild_history": [
+    {
+      "checked_at": "2026-11-08T17:59:07.538480+08:00",
+      "artifacts": {
+        "zh": {
+          "pdf_sha256": "0fdca23fc8bf42808f60c87efe1f428394e66aa4cc6294cdb2c868d8f3e13785",
+          "docx_sha256": "c4e6e93a4506d5e2f46f397e62b893161df91c0911b96bcd5d91e2bfd7c4803c",
+          "page_count": 9,
+          "fill_stroke_text_operators": 0,
+          "forbidden_pdf_font_names": [],
+          "checks": {
+            "no_theme_font_attributes": true,
+            "no_ms_gothic_or_calibri": true,
+            "no_fill_stroke_fake_bold": true,
+            "section_headings_use_true_bold": true,
+            "main_title_is_regular_by_design": true,
+            "main_body_han_uses_simsun": true,
+            "main_body_latin_uses_times_new_roman": true,
+            "all_pdf_fonts_embedded": true
+          }
+        },
+        "en": {
+          "pdf_sha256": "b0b9dc8575bde9d45ff8aafb03d039d5f27772e90081f713a006f451a2cb1318",
+          "docx_sha256": "8026a4fd7e03a3f47faa39e782419929d0b679478d1a815f5abece1079cb3e78",
+          "page_count": 9,
+          "fill_stroke_text_operators": 0,
+          "forbidden_pdf_font_names": [],
+          "checks": {
+            "no_theme_font_attributes": true,
+            "no_ms_gothic_or_calibri": true,
+            "no_fill_stroke_fake_bold": true,
+            "section_headings_use_true_bold": true,
+            "main_title_is_regular_by_design": true,
+            "main_body_han_uses_simsun": null,
+            "main_body_latin_uses_times_new_roman": true,
+            "all_pdf_fonts_embedded": true
+          }
+        }
+      },
+      "note": "Previously verified rebuild, before the final Figure 3 Chinese caption wording adjustment."
+    }
+  ],
+  "visual_spot_checks_artifact_hashes": {
+    "zh": "0fdca23fc8bf42808f60c87efe1f428394e66aa4cc6294cdb2c868d8f3e13785",
+    "en": "b0b9dc8575bde9d45ff8aafb03d039d5f27772e90081f713a006f451a2cb1318"
+  },
+  "visual_spot_checks_note": "These 3x visual spot checks belong to the preceding verified rebuild. They were not repeated after the final caption-only wording edit; root checks final Chinese pages 7–9.",
+  "latest_refresh_reason": "Final Chinese Figure 3 caption wording changed; regenerated Word and PDF files require fresh file-level and glyph-level checks, not hash-only substitution."
+}

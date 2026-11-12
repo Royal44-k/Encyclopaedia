@@ -1,0 +1,17 @@
+{
+  "document_id": "health-value-ai-v1",
+  "date": "2026-11-06",
+  "study_design": "conceptual_perspective",
+  "draft_status": "author_review_draft",
+  "submission_ready": false,
+  "human_source_verification_complete": false,
+  "reporting_guideline": "Narrative conceptual Perspective; no claim of PRISMA, CONSORT or CHEERS compliance",
+  "data": "No original participant data; numerical findings belong to cited studies; scenarios are hypothetical",
+  "missing": [
+    "author correspondence email",
+    "full sponsor identity and support details",
+    "author contribution statement and final approval",
+    "human source and claim sign-off",
+    "final journal-specific formatting"
+  ]
+}

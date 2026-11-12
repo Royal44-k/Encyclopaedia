@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1950" height="1800" viewBox="0 0 1950 1800">
+<rect width="100%" height="100%" fill="white"/>
+<rect x="90" y="30" width="1770" height="220" fill="#f2f4f5" stroke="#59636b" stroke-width="3"/>
+<text x="120" y="93" font-family="Arial,sans-serif" font-size="39" font-weight="700">1  Define the comparison</text>
+<text x="120" y="149" font-family="Arial,sans-serif" font-size="34" font-weight="400">Feasible alternatives • Common calendar horizon • Individual or societal perspective</text>
+<text x="120" y="198" font-family="Arial,sans-serif" font-size="34" font-weight="400">Ability to refuse • Baseline circumstances • Relevant people affected</text>
+<path d="M 975 250 L 975 305 M 960 281 L 975 305 L 990 281" fill="none" stroke="#333333" stroke-width="5"/>
+<rect x="90" y="315" width="855" height="240" fill="#f2f4f5" stroke="#59636b" stroke-width="3"/>
+<text x="120" y="378" font-family="Arial,sans-serif" font-size="39" font-weight="700">2a  Resources and time</text>
+<text x="120" y="434" font-family="Arial,sans-serif" font-size="34" font-weight="400">Incremental money and total work</text>
+<text x="120" y="483" font-family="Arial,sans-serif" font-size="34" font-weight="400">Checking, rework and added tasks</text>
+<text x="120" y="532" font-family="Arial,sans-serif" font-size="34" font-weight="400">Activities displaced or enabled</text>
+<rect x="1005" y="315" width="855" height="240" fill="#f2f4f5" stroke="#59636b" stroke-width="3"/>
+<text x="1035" y="378" font-family="Arial,sans-serif" font-size="39" font-weight="700">2b  Health and functioning</text>
+<text x="1035" y="434" font-family="Arial,sans-serif" font-size="34" font-weight="400">Decision-relevant symptoms and function</text>
+<text x="1035" y="483" font-family="Arial,sans-serif" font-size="34" font-weight="400">Observed follow-up and recovery</text>
+<text x="1035" y="532" font-family="Arial,sans-serif" font-size="34" font-weight="400">Clinical outcomes where appropriate</text>
+<rect x="90" y="585" width="855" height="240" fill="#f2f4f5" stroke="#59636b" stroke-width="3"/>
+<text x="120" y="648" font-family="Arial,sans-serif" font-size="39" font-weight="700">2c  Experience</text>
+<text x="120" y="704" font-family="Arial,sans-serif" font-size="34" font-weight="400">Enjoyment, relief and distress</text>
+<text x="120" y="753" font-family="Arial,sans-serif" font-size="34" font-weight="400">During and after the activity</text>
+<text x="120" y="802" font-family="Arial,sans-serif" font-size="34" font-weight="400">Immediate and persistent effects</text>
+<rect x="1005" y="585" width="855" height="240" fill="#f2f4f5" stroke="#59636b" stroke-width="3"/>
+<text x="1035" y="648" font-family="Arial,sans-serif" font-size="39" font-weight="700">2d  Capabilities and agency</text>
+<text x="1035" y="704" font-family="Arial,sans-serif" font-size="34" font-weight="400">Assisted and unaided performance</text>
+<text x="1035" y="753" font-family="Arial,sans-serif" font-size="34" font-weight="400">Valued goals and perceived volition</text>
+<text x="1035" y="802" font-family="Arial,sans-serif" font-size="34" font-weight="400">Actual discretion and constraints</text>
+<rect x="90" y="855" width="1770" height="180" fill="#ffffff" stroke="#59636b" stroke-width="3"/>
+<text x="120" y="918" font-family="Arial,sans-serif" font-size="39" font-weight="700">Evidence accompanies every predicted consequence</text>
+<text x="120" y="974" font-family="Arial,sans-serif" font-size="34" font-weight="400">Population • Comparator • Outcome • Horizon • Uncertainty • Unknowns</text>
+<path d="M 975 1035 L 975 1090 M 960 1066 L 975 1090 L 990 1066" fill="none" stroke="#333333" stroke-width="5"/>
+<rect x="90" y="1100" width="1770" height="230" fill="#f2f4f5" stroke="#59636b" stroke-width="3"/>
+<text x="120" y="1163" font-family="Arial,sans-serif" font-size="39" font-weight="700">3  Appraise with the person</text>
+<text x="120" y="1219" font-family="Arial,sans-serif" font-size="34" font-weight="400">Explain the trade-off using stated goals and constraints</text>
+<text x="120" y="1268" font-family="Arial,sans-serif" font-size="34" font-weight="400">Permit unresolved ordering; aggregate only with defensible preference assumptions</text>
+<path d="M 975 1330 L 975 1385 M 960 1361 L 975 1385 L 990 1361" fill="none" stroke="#333333" stroke-width="5"/>
+<rect x="90" y="1395" width="1770" height="230" fill="#f2f4f5" stroke="#59636b" stroke-width="3"/>
+<text x="120" y="1458" font-family="Arial,sans-serif" font-size="39" font-weight="700">4  Test the added decision support</text>
+<text x="120" y="1514" font-family="Arial,sans-serif" font-size="34" font-weight="400">Compare with established support using the same factual information</text>
+<text x="120" y="1563" font-family="Arial,sans-serif" font-size="34" font-weight="400">Assess understanding, transfer and burden; a chosen lifestyle is not the criterion</text>
+<text x="90" y="1712" font-family="Arial,sans-serif" font-size="32" font-weight="400">Proposed assessment sequence • No participant data • Arrows are procedural</text>
+</svg>

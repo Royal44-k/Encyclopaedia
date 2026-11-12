@@ -1,0 +1,43 @@
+{
+  "article_type": "Conceptual Perspective",
+  "human_verification_complete": false,
+  "submission_ready": false,
+  "original_participant_data": false,
+  "paired_languages": [
+    "en",
+    "zh"
+  ],
+  "references": {
+    "E001": 1,
+    "E002": 2,
+    "E003": 3,
+    "E004": 4,
+    "E005": 5,
+    "E006": 6,
+    "E009": 7,
+    "E008": 8,
+    "E010": 9,
+    "E025": 10,
+    "E007": 11,
+    "E011": 12,
+    "E026": 13,
+    "E012": 14,
+    "E013": 15,
+    "E014": 16,
+    "E015": 17,
+    "E024": 18,
+    "E016": 19,
+    "E017": 20,
+    "E018": 21,
+    "E019": 22,
+    "E020": 23,
+    "E027": 24,
+    "E021": 25,
+    "E022": 26
+  },
+  "figures_per_edition": 11,
+  "tables_per_edition": 3,
+  "source_version": "health_value_ai_final_20261109",
+  "citation_style": "Nature numbered superscript",
+  "reader_facing_metadata_placeholders": false
+}

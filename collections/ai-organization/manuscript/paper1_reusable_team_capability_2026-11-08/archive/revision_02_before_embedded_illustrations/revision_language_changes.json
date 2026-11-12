@@ -1,0 +1,195 @@
+[
+  {
+    "language": "zh",
+    "before": "腾讯研究院报告中的共享 Skill 表明，一项跟踪任务可以经共同调用与迭代进入日常工作，但没有揭示个人方法转为团队实践的完整过程。",
+    "after": "腾讯研究院报告记载，一项 AI 动态追踪 Skill 经团队共同使用和修改，在假期结束后仍继续使用。这为研究持续复用提供了线索，但未追踪个人方法转为团队实践的完整过程。",
+    "occurrences": 1
+  },
+  {
+    "language": "zh",
+    "before": "图示还原这些动作",
+    "after": "图示概括报告记载的动作",
+    "occurrences": 1
+  },
+  {
+    "language": "zh",
+    "before": "报告第 73 页还用新同事加入小组的场景，描述同事把可运行的 Skill 交给他人，接收者使用、修改，再把改动送回。后一段是作者对日常机制的场景式说明，并非一位具名员工的访谈实录。",
+    "after": "报告第 73 页还以新同事加入小组的假设情景，说明他如何接到可运行的 Skill，使用、修改，再将改动送回。",
+    "occurrences": 1
+  },
+  {
+    "language": "zh",
+    "before": "制作者成功完成任务，是方法可能有用的证据；接收者能完成自己的任务，是交接有效的证据；后续任务和条件变化时仍能继续使用，则需要进一步解释。",
+    "after": "制作者完成任务，说明方法在原场景中可能有用；接收者借助该方法完成自己的任务，提供了复用的直接证据；它能否适用于后续任务和变化的条件，仍需继续观察。",
+    "occurrences": 1
+  },
+  {
+    "language": "zh",
+    "before": "只有当接收者把它用于自己的任务，双方原先没有说出的条件才可能显现。",
+    "after": "接收者把它用于自己的任务时，双方原先没有说出的条件可能逐渐显现。",
+    "occurrences": 1
+  },
+  {
+    "language": "zh",
+    "before": "我们提出分别观察方法能否执行、接收者如何判断适用范围，以及改动怎样回到共同材料。三者能否同步转移，构成比“多写文档有没有帮助”更具体的问题。",
+    "after": "我们因此分别考察三个问题：同事能否运行这套方法，能否判断它何时适用，以及有用的修改能否进入其他同事随后使用的版本。",
+    "occurrences": 1
+  },
+  {
+    "language": "zh",
+    "before": "例如，一份自动生成的简报已经能被第二人顺利打开，最初的制作者便可能认为交接结束。",
+    "after": "例如，同事已经能用共享方法生成一份简报，最初的制作者便可能认为交接结束。",
+    "occurrences": 1
+  },
+  {
+    "language": "zh",
+    "before": "生成式 AI 的研究价值在于考察能够以日常语言制作和修改的方法，如何在不同岗位间移动，而不是把知识转移本身宣布为新现象。",
+    "after": "对生成式 AI，可以进一步考察以日常语言制作和修改的工作方法如何在不同岗位间被使用和调整。",
+    "occurrences": 1
+  },
+  {
+    "language": "zh",
+    "before": "以下“每日 AI 简报方法页”是本文提出的设计示意，并非报告公开的 Skill 原件。",
+    "after": "以下“每日 AI 简报方法页”是本文提出的设计示意；报告并未公开该 Skill 的原始材料。",
+    "occurrences": 1
+  },
+  {
+    "language": "zh",
+    "before": "这种方法页还应让接收者看见调整入口。更换关注主题、缩短篇幅与改变来源范围，可能涉及不同程度的修改。哪些选项可以自行改变，哪些改动会影响其他使用者，哪里可以提出需求，需要有清楚的入口。",
+    "after": "方法页还应说明哪些部分可以修改，以及同事可以向谁提出修改需求。更换关注主题、缩短篇幅与改变来源范围，可能涉及不同程度的修改；应说明哪些选项可以自行改变，哪些改动会影响其他使用者。",
+    "occurrences": 1
+  },
+  {
+    "language": "zh",
+    "before": "关于能力形成的理论提出，低频、难以从反复实践中积累经验的任务也可能从知识编码中受益；这是一项理论主张，并非本交接方案的实证效果。",
+    "after": "能力形成理论提示，低频任务难以通过反复实践积累经验，也可能从知识编码中受益。",
+    "occurrences": 1
+  },
+  {
+    "language": "zh",
+    "before": "## 5. 怎样用公开材料检验",
+    "after": "## 5. 从公开材料到行为检验",
+    "occurrences": 1
+  },
+  {
+    "language": "zh",
+    "before": "A 为提示词，B 为可运行方法，C 为可运行方法加交接与维护支持。",
+    "after": "A 为提示词和基本任务说明，B 为可运行方法，C 为同一可运行方法加交接、适配与维护支持。",
+    "occurrences": 1
+  },
+  {
+    "language": "zh",
+    "before": "基础模型、源方法、任务池和总支持预算保持可比；",
+    "after": "AI 模型、原始工作方法和任务集合保持相同，各组设置相同的支持预算上限；",
+    "occurrences": 1
+  },
+  {
+    "language": "zh",
+    "before": "共同的基础模型、源方法和任务池，并设置相同的总支持预算",
+    "after": "相同的 AI 模型、原始工作方法和任务集合，并设置相同的支持预算上限",
+    "occurrences": 1
+  },
+  {
+    "language": "zh",
+    "before": "源方法",
+    "after": "原始工作方法",
+    "occurrences": 2
+  },
+  {
+    "language": "en",
+    "before": "A shared Skill described in a Tencent Research Institute report illustrates how repeated use and revision can bring a tracking task into everyday work, without revealing the full transition from personal method to team practice.",
+    "after": "A Tencent Research Institute report describes a team using and revising an AI news-tracking Skill and continuing to use it after the holiday. This account provides a starting point for studying sustained reuse, but does not trace the full transition from personal method to team practice.",
+    "occurrences": 1
+  },
+  {
+    "language": "en",
+    "before": "The figure depicts these actions",
+    "after": "The figure summarizes the reported actions",
+    "occurrences": 1
+  },
+  {
+    "language": "en",
+    "before": "Page 73 of the report also presents a scenario in which someone joins the group, receives a runnable Skill from a colleague, uses and modifies it, and returns the changes. This is an illustrative account of an everyday arrangement, not an interview transcript from an identified employee.",
+    "after": "Page 73 also uses a hypothetical newcomer scenario to illustrate receiving a runnable Skill from a colleague, using and modifying it, and returning the changes.",
+    "occurrences": 1
+  },
+  {
+    "language": "en",
+    "before": "A maker's successful task completion suggests that a method may be useful; a recipient's completion of their own task provides evidence about the handover; continued use on later tasks and under changed conditions requires further explanation.",
+    "after": "A maker's task completion suggests that the method may be useful in its original setting. A recipient completing their own task with the method provides direct evidence of reuse. Whether it remains usable on subsequent tasks and under changed conditions requires further observation.",
+    "occurrences": 1
+  },
+  {
+    "language": "en",
+    "before": "Conditions left unstated by both parties may become apparent only when recipients apply it to their own tasks.",
+    "after": "Applying the method to recipients' own tasks may reveal conditions that neither party had made explicit.",
+    "occurrences": 1
+  },
+  {
+    "language": "en",
+    "before": "We propose separately observing whether a method executes, how recipients judge its applicability, and how revisions return to shared materials. Whether these transfer together is a more specific question than whether additional documentation helps.",
+    "after": "We therefore distinguish three questions: can a colleague run the method, judge when it applies, and return useful revisions to the version others subsequently use?",
+    "occurrences": 1
+  },
+  {
+    "language": "en",
+    "before": "Consider an automatically generated briefing that a second person can readily open. Its maker may regard the handover as complete.",
+    "after": "For example, a colleague may already be able to generate a briefing with the shared method, leading its maker to regard the handover as complete.",
+    "occurrences": 1
+  },
+  {
+    "language": "en",
+    "before": "The research opportunity lies in studying how methods that can be created and modified in everyday language move between roles, rather than declaring knowledge transfer itself a new phenomenon.",
+    "after": "In generative AI settings, research can examine how methods created and modified in everyday language are used and adapted across roles.",
+    "occurrences": 1
+  },
+  {
+    "language": "en",
+    "before": "The sheet should also make routes for adjustment visible. Changing a topic, shortening the output, and altering the source range may require different modifications. Recipients need to know which options they can change, which revisions affect others, and where to request changes.",
+    "after": "The sheet should also explain which elements can be changed and whom colleagues can approach to request a revision. Changing a topic, shortening the output, and altering the source range may require different modifications. Recipients need to know which options they can change themselves and which revisions affect others.",
+    "occurrences": 1
+  },
+  {
+    "language": "en",
+    "before": "Theory on capability development also proposes that knowledge codification can benefit infrequent tasks for which experience is difficult to accumulate through repetition. This is a theoretical argument, not an observed effect of the present handover design.",
+    "after": "Theory on capability development suggests that codification may also benefit infrequent tasks, for which experience is difficult to accumulate through repetition.",
+    "occurrences": 1
+  },
+  {
+    "language": "en",
+    "before": "## 5. Investigating reuse with public materials",
+    "after": "## 5. From public materials to behavioral tests",
+    "occurrences": 1
+  },
+  {
+    "language": "en",
+    "before": "A receives a prompt, B a runnable method, and C a runnable method with handover and maintenance support. Model, source method, task pool, and total support budgets remain comparable.",
+    "after": "A receives a prompt and basic task instructions, B a runnable method, and C the same runnable method with handover, adaptation, and maintenance support. The AI model, underlying working method, and set of tasks are held constant, with equal support-budget ceilings.",
+    "occurrences": 1
+  },
+  {
+    "language": "en",
+    "before": "All groups use a common foundation model, source method, and task pool, with equal total support budgets.",
+    "after": "All groups use the same AI model, underlying working method, and set of tasks, with equal support-budget ceilings.",
+    "occurrences": 1
+  },
+  {
+    "language": "en",
+    "before": "source methods",
+    "after": "underlying working methods",
+    "occurrences": 1
+  },
+  {
+    "language": "en",
+    "before": "source method",
+    "after": "underlying working method",
+    "occurrences": 1
+  },
+  {
+    "kind": "final_caption_precision",
+    "language": "zh",
+    "before": "首次使用、延后再用，以及分别改变输入或工具版本时的表现构成不同观察时点。",
+    "after": "观察涵盖首次使用、延后再用，以及分别改变输入或工具版本时的表现。",
+    "occurrences": 1
+  }
+]

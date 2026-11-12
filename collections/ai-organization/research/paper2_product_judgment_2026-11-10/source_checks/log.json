@@ -1,0 +1,305 @@
+[
+  {
+    "key": "crossref_01",
+    "url": "https://api.crossref.org/works/10.1002/smj.3580",
+    "resolved_url": "https://api.crossref.org/works/10.1002/smj.3580",
+    "status": "saved",
+    "bytes": 13756,
+    "file": "crossref_01.json",
+    "title": [
+      "A scientific approach to entrepreneurial decision‐making: Large‐scale replication and extension"
+    ],
+    "authors": [
+      "Arnaldo Camuffo",
+      "Alfonso Gambardella",
+      "Danilo Messinese",
+      "Elena Novelli",
+      "Emilio Paolucci",
+      "Chiara Spina"
+    ],
+    "year": {
+      "date-parts": [
+        [
+          2024,
+          3,
+          25
+        ]
+      ]
+    },
+    "volume": "45",
+    "issue": "6",
+    "page": "1209-1237"
+  },
+  {
+    "key": "crossref_02",
+    "url": "https://api.crossref.org/works/10.1287/orsc.2023.17590",
+    "resolved_url": "https://api.crossref.org/works/10.1287/orsc.2023.17590",
+    "status": "saved",
+    "bytes": 13412,
+    "file": "crossref_02.json",
+    "title": [
+      "Does a Theory-of-Value Add Value? Evidence from a Randomized Control Trial with Tanzanian Entrepreneurs"
+    ],
+    "authors": [
+      "Rajshree Agarwal",
+      "Francesca Bacco",
+      "Arnaldo Camuffo",
+      "Andrea Coali",
+      "Alfonso Gambardella",
+      "Haji Msangi",
+      "Steven Sonka",
+      "Anna Temu",
+      "Betty Waized",
+      "Audra Wormald"
+    ],
+    "year": {
+      "date-parts": [
+        [
+          2025,
+          3
+        ]
+      ]
+    },
+    "volume": "36",
+    "issue": "2",
+    "page": "601-625"
+  },
+  {
+    "key": "crossref_03",
+    "url": "https://api.crossref.org/works/10.1287/mnsc.2021.4209",
+    "resolved_url": "https://api.crossref.org/works/10.1287/mnsc.2021.4209",
+    "status": "saved",
+    "bytes": 10686,
+    "file": "crossref_03.json",
+    "title": [
+      "Experimentation and Start-up Performance: Evidence from A/B Testing"
+    ],
+    "authors": [
+      "Rembrand Koning",
+      "Sharique Hasan",
+      "Aaron Chatterji"
+    ],
+    "year": {
+      "date-parts": [
+        [
+          2022,
+          9
+        ]
+      ]
+    },
+    "volume": "68",
+    "issue": "9",
+    "page": "6434-6453"
+  },
+  {
+    "key": "crossref_04",
+    "url": "https://api.crossref.org/works/10.1287/mnsc.1080.0877",
+    "resolved_url": "https://api.crossref.org/works/10.1287/mnsc.1080.0877",
+    "status": "saved",
+    "bytes": 10632,
+    "file": "crossref_04.json",
+    "title": [
+      "Look Before You Leap: Market Opportunity Identification in Emerging Technology Firms"
+    ],
+    "authors": [
+      "Marc Gruber",
+      "Ian C. MacMillan",
+      "James D. Thompson"
+    ],
+    "year": {
+      "date-parts": [
+        [
+          2008,
+          9
+        ]
+      ]
+    },
+    "volume": "54",
+    "issue": "9",
+    "page": "1652-1665"
+  },
+  {
+    "key": "crossref_05",
+    "url": "https://api.crossref.org/works/10.1287/mnsc.2024.06909",
+    "resolved_url": "https://api.crossref.org/works/10.1287/mnsc.2024.06909",
+    "status": "saved",
+    "bytes": 16746,
+    "file": "crossref_05.json",
+    "title": [
+      "The Uneven Impact of Generative Artificial Intelligence on Entrepreneurial Performance: Evidence from a Field Experiment in Kenya"
+    ],
+    "authors": [
+      "Nicholas G. Otis",
+      "Rowan Clarke",
+      "Solène Delecourt",
+      "David Holtz",
+      "Rembrand Koning"
+    ],
+    "year": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          10
+        ]
+      ]
+    },
+    "volume": null,
+    "issue": null,
+    "page": null
+  },
+  {
+    "key": "crossref_06",
+    "url": "https://api.crossref.org/works/10.1109/TEM.2024.3484750",
+    "resolved_url": "https://api.crossref.org/works/10.1109/TEM.2024.3484750",
+    "status": "saved",
+    "bytes": 10719,
+    "file": "crossref_06.json",
+    "title": [
+      "Too Much AI Hype, Too Little Emphasis on Learning? Entrepreneurs Designing Business Models Through Learning-by-Conversing With Generative AI"
+    ],
+    "authors": [
+      "Angelos Kostis",
+      "Johan Lidström",
+      "Sujith Nair",
+      "Jonny Holmström"
+    ],
+    "year": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "volume": "71",
+    "issue": null,
+    "page": "15278-15291"
+  },
+  {
+    "key": "crossref_07",
+    "url": "https://api.crossref.org/works/10.3724/SP.J.1042.2026.2121",
+    "resolved_url": "https://api.crossref.org/works/10.3724/SP.J.1042.2026.2121",
+    "status": "saved",
+    "bytes": 1751,
+    "file": "crossref_07.json",
+    "title": [
+      "The effect of the AI-augmented scientific approach to entrepreneurial decision-making on new venture idea formation"
+    ],
+    "authors": [
+      "TAO Yida",
+      "YU Xiaoyu"
+    ],
+    "year": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "volume": "34",
+    "issue": "12",
+    "page": "2121"
+  },
+  {
+    "key": "crossref_08",
+    "url": "https://api.crossref.org/works/10.1016/j.jbusres.2018.01.063",
+    "resolved_url": "https://api.crossref.org/works/10.1016/j.jbusres.2018.01.063",
+    "status": "saved",
+    "bytes": 19811,
+    "file": "crossref_08.json",
+    "title": [
+      "Do entrepreneurs always benefit from business failure experience?"
+    ],
+    "authors": [
+      "Nathaniel Boso",
+      "Ifedapo Adeleye",
+      "Francis Donbesuur",
+      "Michael Gyensare"
+    ],
+    "year": {
+      "date-parts": [
+        [
+          2019,
+          5
+        ]
+      ]
+    },
+    "volume": "98",
+    "issue": null,
+    "page": "370-379"
+  },
+  {
+    "key": "crossref_09",
+    "url": "https://api.crossref.org/works/10.1037/0022-0663.95.2.393",
+    "resolved_url": "https://api.crossref.org/works/10.1037/0022-0663.95.2.393",
+    "status": "saved",
+    "bytes": 15072,
+    "file": "crossref_09.json",
+    "title": [
+      "Learning and transfer: A general role for analogical encoding."
+    ],
+    "authors": [
+      "Dedre Gentner",
+      "Jeffrey Loewenstein",
+      "Leigh Thompson"
+    ],
+    "year": {
+      "date-parts": [
+        [
+          2003,
+          6
+        ]
+      ]
+    },
+    "volume": "95",
+    "issue": "2",
+    "page": "393-408"
+  },
+  {
+    "key": "crossref_10",
+    "url": "https://api.crossref.org/works/10.1509/jm.14.0057",
+    "resolved_url": "https://api.crossref.org/works/10.1509/jm.14.0057",
+    "status": "saved",
+    "bytes": 12251,
+    "file": "crossref_10.json",
+    "title": [
+      "The Effectiveness of Customer Participation in New Product Development: A Meta-Analysis"
+    ],
+    "authors": [
+      "Woojung Chang",
+      "Steven A. Taylor"
+    ],
+    "year": {
+      "date-parts": [
+        [
+          2016,
+          1
+        ]
+      ]
+    },
+    "volume": "80",
+    "issue": "1",
+    "page": "47-64"
+  },
+  {
+    "key": "kostis",
+    "url": "https://biopen.bi.no/bi-xmlui/bitstream/handle/11250/3172555/Too%20much%20AI%20Hype_2024.pdf?isAllowed=y&sequence=4",
+    "status": "failed",
+    "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>"
+  },
+  {
+    "key": "tao",
+    "url": "https://journal.psych.ac.cn/xlkxjz/CN/abstract/abstract7912.shtml",
+    "resolved_url": "https://journal.psych.ac.cn/xlkxjz/CN/abstract/abstract7912.shtml",
+    "status": "saved",
+    "bytes": 83660,
+    "file": "tao.html",
+    "pdf_links": []
+  },
+  {
+    "key": "transfer",
+    "url": "https://groups.psych.northwestern.edu/gentner/papers/GentnerLoewensteinThompson03.pdf",
+    "status": "failed",
+    "error": "No module named 'fitz'"
+  }
+]

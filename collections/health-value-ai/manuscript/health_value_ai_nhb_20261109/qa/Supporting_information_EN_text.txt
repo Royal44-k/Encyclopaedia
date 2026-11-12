@@ -1,0 +1,168 @@
+Perspective Supporting information 
+1 / 9 
+Health economic value and choice in the age of 
+artificial intelligence 
+Richard T. Millian 
+Hangzhou Normal University 
+Supporting information 
+Supplementary Tables 1–3, Extended Data Figs. 1–4 and Supplementary References. 
+ 
+
+Perspective Supporting information 
+2 / 9 
+Supplementary Table 1 | Minimum comparison record. Proposed fields, not a validated scale. Health 
+capability, ICF, WHO-5, MCDA and decision-quality research inform the distinctions1–4 
+(https://www.who.int/standards/classifications/international-classification-of-functioning-disability-and-
+health). 
+Domain Record Interpretation 
+Decision Feasible options; ability to refuse; 
+common horizon 
+Distinguish nominal options from 
+real opportunities 
+Resources and time Net income change; total work; 
+displaced activities 
+Record where saved time is used 
+Health and functioning Relevant symptoms, function or clinical 
+outcomes 
+Interpret against baseline and 
+clinical context 
+Experience Enjoyment, relief or distress; during 
+and after 
+Separate immediate responses from 
+sustained change 
+Capabilities and 
+agency 
+Independent performance; valued 
+activities; discretion 
+Include accessibility gains from 
+assistance 
+Evidence and 
+appraisal 
+Population; comparator; horizon; 
+uncertainty; goals 
+Retain unknowns and differences in 
+priorities 
+ICF, International Classification of Functioning, Disability and Health; WHO-5, World Health Organization-
+Five Well-Being Index; MCDA, multicriteria decision analysis. 
+ 
+
+Perspective Supporting information 
+3 / 9 
+Supplementary Table 2 | Different levels of AI outcomes. Studies illustrate task efficiency, experience 
+and judgement; their designs and endpoints differ. 
+Setting and design Main finding Interpretive scope 
+Professional writing5 
+Randomized; n = 453 
+Faster task completion and better 
+output quality 
+Full-day allocation and health not 
+measured 
+Customer support6 
+Staggered rollout; n = 
+5,172 
+About 15% higher resolutions per hour; 
+outcome availability varies 
+Causal assumptions; allocation of 
+saved time not measured 
+AI companionship7 
+Seven-day Study 3 
+Immediate loneliness relief; persistent 
+pre-interaction benefit not 
+demonstrated 
+Differential attrition; control not time-
+matched 
+Medical scenarios8 
+n = 1,298 
+Control versus pooled AI: identification 
+OR 1.76 (95% CI 1.45–2.13) 
+Scenario performance, not clinical 
+morbidity 
+AI, artificial intelligence; OR, odds ratio; CI, confidence interval. 
+ 
+
+Perspective Supporting information 
+4 / 9 
+Supplementary Table 3 | Testable propositions and disconfirming observations. Each comparison 
+requires prespecified estimands and outcomes. 
+Proposition Key comparison Potentially disconfirming result 
+Discretion affects 
+allocation of AI time 
+savings 
+Similar task gains; credible differences 
+in control over workload 
+No meaningful allocation difference, 
+with sufficiently precise estimates 
+Immediate relief and 
+sustained benefit may 
+diverge 
+Matched comparator; repeated pre-
+use, post-use and follow-up measures 
+Stable pre-use improvement 
+comparable to immediate relief 
+The module improves 
+decision quality 
+Same guide, with or without the added 
+module 
+No gain in understanding or 
+transfer, or burden exceeds benefit 
+ 
+
+Perspective Supporting information 
+5 / 9 
+ 
+Extended Data Fig. 1 | A framework for comparing health-related consequences. Feasible 
+alternatives and a common horizon define the comparison. Resources and time, health and functioning, 
+experience, and capabilities and agency remain distinct. Priorities inform appraisal. Connections 
+represent analytical steps, not estimated causal effects. 
+ 
+
+
+Perspective Supporting information 
+6 / 9 
+ 
+Extended Data Fig. 2 | Task savings and the allocation of a day. a, The accounting identity includes 
+prompting, verification and rework in T1, additional tasks in A and other work -time changes in B. b, 
+Hypothetical 24-hour budgets with an 8-hour baseline workday, a 4-hour task saving and B = 0. Non-work 
+time is not assigned a health effect. 
+ 
+
+
+Perspective Supporting information 
+7 / 9 
+ 
+Extended Data Fig. 3 | Two research questions and their evaluation paths. Mechanism research 
+explains how outcomes arise; tool evaluation tests the added comparison module. An active comparator 
+gives both groups the same facts and established guide. The proposed design is not a completed trial.  
+ 
+
+
+Perspective Supporting information 
+8 / 9 
+ 
+Extended Data Fig. 4 | Conditions of choice and distribution of consequences. Workplace, platform 
+and household conditions shape feasible options. Income, time and care burdens may accrue to different 
+people. Arrows organize evaluation questions rather than depict estimated causal effects.  
+ 
+
+
+Perspective Supporting information 
+9 / 9 
+Supplementary references 
+1. Ruger, J. P. Health capability: conceptualization and operationalization. Am. J. Public Health 100, 41–49 
+(2010). https://doi.org/10.2105/AJPH.2008.143651 
+2. World Health Organization. The World Health Organization-Five Well-Being Index (WHO-5) (World 
+Health Organization, 2024). WHO/UCN/MSD/MHE/2024.01. 
+3. Thokala, P. et al. Multiple criteria decision analysis for health care decision making—an introduction: 
+Report 1 of the ISPOR MCDA Emerging Good Practices Task Force. Value Health 19, 1–13 (2016). 
+https://doi.org/10.1016/j.jval.2015.12.003 
+4. Sepucha, K. R. et al. Establishing the effectiveness of patient decision aids: key constructs and measurement 
+instruments. BMC Med. Inform. Decis. Mak. 13 (Suppl. 2), S12 (2013). https://doi.org/10.1186/1472-
+6947-13-S2-S12 
+5. Noy, S. & Zhang, W. Experimental evidence on the productivity effects of generative artificial intelligence. 
+Science 381, 187–192 (2023). https://doi.org/10.1126/science.adh2586 
+6. Brynjolfsson, E., Li, D. & Raymond, L. Generative AI at work. Q. J. Econ. 140, 889–942 (2025). 
+https://doi.org/10.1093/qje/qjae044 
+7. De Freitas, J., Oğuz-Uğuralp, Z., Uğuralp, A. K. & Puntoni, S. AI companions reduce loneliness. J. Consum. 
+Res. 52, 1126–1148 (2026). https://doi.org/10.1093/jcr/ucaf040 
+8. Bean, A. M. et al. Reliability of LLMs as medical assistants for the general public: a randomized 
+preregistered study. Nat. Med. 32, 609–615 (2026). https://doi.org/10.1038/s41591-025-04074-y 

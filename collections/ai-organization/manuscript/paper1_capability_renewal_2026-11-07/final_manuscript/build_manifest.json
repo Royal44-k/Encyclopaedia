@@ -1,0 +1,43 @@
+{
+  "reference_mapping": {
+    "E15": 1,
+    "E17": 2,
+    "E19": 3,
+    "E02": 4,
+    "E05": 5,
+    "E07": 6,
+    "E06": 7,
+    "E08": 8,
+    "E09": 9,
+    "E10": 10,
+    "E01": 11,
+    "E03": 12,
+    "E04": 13,
+    "E11": 14,
+    "E12": 15,
+    "E13": 16,
+    "E14": 17,
+    "E21": 18
+  },
+  "builds": [
+    {
+      "language": "en",
+      "paragraphs": 46,
+      "references": 18,
+      "figures": 2,
+      "table_rows": 6,
+      "source_sha256": "d4bdfabf91b5106241caa5d5bb63dc1a47517a0c70a0febccc903dc907280572",
+      "docx": "D:\\Super-Essay\\manuscript\\paper1_capability_renewal_2026-11-07\\final_manuscript\\deliverables\\paper1_en.docx"
+    },
+    {
+      "language": "zh",
+      "paragraphs": 46,
+      "references": 18,
+      "figures": 2,
+      "table_rows": 6,
+      "source_sha256": "c0304071740f101d9553fb171a2f0f78ce792690550bfc299704036326971beb",
+      "docx": "D:\\Super-Essay\\manuscript\\paper1_capability_renewal_2026-11-07\\final_manuscript\\deliverables\\paper1_zh.docx"
+    }
+  ],
+  "submission_ready": false
+}

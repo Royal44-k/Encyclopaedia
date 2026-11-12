@@ -1,0 +1,3 @@
+# Preserve archived bytes, including historical hashes and Windows line endings.
+collections/** -text
+archive/** -text

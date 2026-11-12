@@ -1,0 +1,373 @@
+[
+  {
+    "id": "ORG-S01",
+    "title": "Organization Design: An Information Processing View",
+    "authors": [
+      "Jay R. Galbraith"
+    ],
+    "year": 1974,
+    "venue": "Interfaces, 4(3), 28–36",
+    "url": "https://pubsonline.informs.org/doi/epdf/10.1287/inte.4.3.28",
+    "doi": "10.1287/inte.4.3.28",
+    "reading_level": "出版社摘要；作者网站全文定点阅读（未逐页通读）",
+    "evidence_design": "组织设计概念理论",
+    "key_finding": "任务不确定性带来信息处理需求；组织可以减少信息需求或增加处理能力，自包含任务有专业化收益的权衡。",
+    "limitations": "不能直接推出生成式 AI 必然使组织扁平化；并非 AI 情境下的因果检验。",
+    "data_status": "理论论文，无待复用实证数据；作者版 https://jaygalbraith.com/wp-content/uploads/2024/03/infoprocess1974.pdf",
+    "topic_ids": [
+      "ORG-01",
+      "ORG-05"
+    ],
+    "accessed_at": "2026-11-07",
+    "publication_status": "published",
+    "verification_note": "以期刊、作者或机构原文/摘要校准；reading_level 为本轮实际阅读范围。"
+  },
+  {
+    "id": "ORG-S02",
+    "title": "Formal and Real Authority in Organizations",
+    "authors": [
+      "Philippe Aghion",
+      "Jean Tirole"
+    ],
+    "year": 1997,
+    "venue": "Journal of Political Economy, 105(1), 1–29",
+    "url": "https://dash.harvard.edu/entities/publication/73120378-825e-6bd4-e053-0100007fdf3b",
+    "doi": "10.1086/262063",
+    "reading_level": "作者机构存储库元数据与摘要",
+    "evidence_design": "组织经济学形式模型",
+    "key_finding": "区分正式决策权与实际控制权；信息结构影响授权、主动性和控制之间的权衡。",
+    "limitations": "模型结论受信息与激励假设约束；不能以文件审批权限直接代理全部实际权力。",
+    "data_status": "理论模型；机构存储库提供作者稿，未复算模型。",
+    "topic_ids": [
+      "ORG-01",
+      "ORG-02"
+    ],
+    "accessed_at": "2026-11-07",
+    "publication_status": "published",
+    "verification_note": "以期刊、作者或机构原文/摘要校准；reading_level 为本轮实际阅读范围。"
+  },
+  {
+    "id": "ORG-S03",
+    "title": "Two Types of Bureaucracy: Enabling and Coercive",
+    "authors": [
+      "Paul S. Adler",
+      "Bryan Borys"
+    ],
+    "year": 1996,
+    "venue": "Administrative Science Quarterly, 41(1), 61–89",
+    "url": "https://arken.nmbu.no/~sigury/AOS_234/AOS234%20files/Adler_96_Two%20types%20of%20bureaucracy.pdf",
+    "doi": null,
+    "reading_level": "原文 PDF 标题、摘要与引言定点阅读；ERIC 元数据交叉核对",
+    "evidence_design": "组织理论概念分析",
+    "key_finding": "正式化可帮助成员掌握工作，也可主要服务于强制合规；不能仅按规则数量判断组织控制性质。",
+    "limitations": "概念分类本身并非 AI 系统效果的识别设计；本轮未独立核准 DOI，故留空。",
+    "data_status": "理论文章；无本轮可核实的原始开放数据。ERIC: https://eric.ed.gov/?id=EJ525938",
+    "topic_ids": [
+      "ORG-02"
+    ],
+    "accessed_at": "2026-11-07",
+    "publication_status": "published",
+    "verification_note": "以期刊、作者或机构原文/摘要校准；reading_level 为本轮实际阅读范围。"
+  },
+  {
+    "id": "ORG-S04",
+    "title": "Reconceptualizing Organizational Routines as a Source of Flexibility and Change",
+    "authors": [
+      "Martha S. Feldman",
+      "Brian T. Pentland"
+    ],
+    "year": 2003,
+    "venue": "Administrative Science Quarterly, 48(1), 94–118",
+    "url": "https://journals.sagepub.com/doi/10.2307/3556620",
+    "doi": "10.2307/3556620",
+    "reading_level": "出版社摘要；作者机构全文 PDF 概念段落定点阅读",
+    "evidence_design": "组织惯例理论重构",
+    "key_finding": "惯例的抽象理解与具体执行相互作用，可形成稳定也可形成变化；写成文档的流程不等于实际惯例。",
+    "limitations": "不能由共享 Skill 文件存在推断团队已形成可持续能力。",
+    "data_status": "理论文章；作者原文 https://socialecology.uci.edu/sites/socialecology.uci.edu/files/users/feldmanm/Feldman_and_Pentland_2003.pdf",
+    "topic_ids": [
+      "ORG-04"
+    ],
+    "accessed_at": "2026-11-07",
+    "publication_status": "published",
+    "verification_note": "以期刊、作者或机构原文/摘要校准；reading_level 为本轮实际阅读范围。"
+  },
+  {
+    "id": "ORG-S05",
+    "title": "Algorithms at Work: The New Contested Terrain of Control",
+    "authors": [
+      "Katherine C. Kellogg",
+      "Melissa A. Valentine",
+      "Angèle Christin"
+    ],
+    "year": 2020,
+    "venue": "Academy of Management Annals, 14(1), 366–410",
+    "url": "https://journals.aom.org/doi/10.5465/annals.2018.0174",
+    "doi": "10.5465/annals.2018.0174",
+    "reading_level": "出版社摘要；作者版关于控制与员工回应的段落定点阅读",
+    "evidence_design": "跨学科文献综述与理论综合",
+    "key_finding": "归纳算法限制、推荐、记录、评级、替换和奖励等控制机制，以及劳动者抵抗与协商。",
+    "limitations": "非生成式 AI 的随机实验，不能把六类控制当成已经验证的统一量表或 AI 的必然后果。",
+    "data_status": "综述；作者版 https://mvalentine.github.io/pdfs/algorithms-at-work.pdf；未验证可直接复用的编码数据库。",
+    "topic_ids": [
+      "ORG-01",
+      "ORG-02"
+    ],
+    "accessed_at": "2026-11-07",
+    "publication_status": "published",
+    "verification_note": "以期刊、作者或机构原文/摘要校准；reading_level 为本轮实际阅读范围。"
+  },
+  {
+    "id": "ORG-S06",
+    "title": "Make Way for the Algorithms: Symbolic Actions and Change in a Regime of Knowing",
+    "authors": [
+      "Stella Pachidi",
+      "Hans Berends",
+      "Samer Faraj",
+      "Marleen Huysman"
+    ],
+    "year": 2021,
+    "online_year": 2020,
+    "venue": "Organization Science, 32(1), 18–41",
+    "url": "https://pubsonline.informs.org/doi/10.1287/orsc.2020.1377",
+    "doi": "10.1287/orsc.2020.1377",
+    "reading_level": "出版社摘要与元数据；机构作者稿摘要、开头定点阅读",
+    "evidence_design": "销售组织算法采用的质性过程研究",
+    "key_finding": "员工象征性顺应与技术人员倡导共同参与了何种知识被认为有效的转变。",
+    "limitations": "特定非生成式 AI 场景；不可直接推广到所有行业，不能从算法采用推断因果权力转移。",
+    "data_status": "作者稿公开；原始访谈/观察资料未核实开放。https://api.repository.cam.ac.uk/server/api/core/bitstreams/8729a75e-5630-4931-91be-bbdc51706b76/content",
+    "topic_ids": [
+      "ORG-01",
+      "ORG-03"
+    ],
+    "accessed_at": "2026-11-07",
+    "publication_status": "published",
+    "verification_note": "以期刊、作者或机构原文/摘要校准；reading_level 为本轮实际阅读范围。"
+  },
+  {
+    "id": "ORG-S07",
+    "title": "Human–AI collaborative decision-making as an organization design problem",
+    "authors": [
+      "Phanish Puranam"
+    ],
+    "year": 2021,
+    "venue": "Journal of Organization Design, 10, 75–80",
+    "url": "https://link.springer.com/article/10.1007/s41469-021-00095-2",
+    "doi": "10.1007/s41469-021-00095-2",
+    "reading_level": "开放全文摘要与引言、设计分类定点阅读",
+    "evidence_design": "Point of View；组织设计概念分析",
+    "key_finding": "人机联合决策可以从劳动分工与学习配置分析，而不只是比较模型和人的单独准确率。",
+    "limitations": "提供分类框架而非不同配置效果的实证估计。",
+    "data_status": "开放理论文章，无原始实验数据。",
+    "topic_ids": [
+      "ORG-01",
+      "ORG-05"
+    ],
+    "accessed_at": "2026-11-07",
+    "publication_status": "published",
+    "verification_note": "以期刊、作者或机构原文/摘要校准；reading_level 为本轮实际阅读范围。"
+  },
+  {
+    "id": "ORG-S08",
+    "title": "Generative AI, Emerging Technology, and Organizing: Towards a theory of progressive encapsulation",
+    "authors": [
+      "Pamela Hinds",
+      "Georg von Krogh"
+    ],
+    "year": 2024,
+    "venue": "Organization Theory, 5(4)",
+    "url": "https://journals.sagepub.com/doi/full/10.1177/26317877241293478",
+    "doi": "10.1177/26317877241293478",
+    "reading_level": "开放全文摘要、引言和理论展开定点阅读，非逐页通读",
+    "evidence_design": "关系视角理论建构与思想实验",
+    "key_finding": "提出渐进封装，讨论技术逐渐吸纳组织活动与关系后，人们对内部过程的可见性和控制如何变化。",
+    "limitations": "是理论命题而非已观察到的组织普遍规律；不同部署的记忆、上下文更新与模型参数学习必须区分。",
+    "data_status": "开放理论文章；无新实证样本。",
+    "topic_ids": [
+      "ORG-01",
+      "ORG-02",
+      "ORG-04"
+    ],
+    "accessed_at": "2026-11-07",
+    "publication_status": "published",
+    "verification_note": "以期刊、作者或机构原文/摘要校准；reading_level 为本轮实际阅读范围。"
+  },
+  {
+    "id": "ORG-S09",
+    "title": "Combining Human and Artificial Intelligence: Hybrid Problem-Solving in Organizations",
+    "authors": [
+      "Sebastian Raisch",
+      "Kateryna Fomina"
+    ],
+    "year": 2025,
+    "online_year": 2024,
+    "venue": "Academy of Management Review, 50(2)",
+    "url": "https://journals.aom.org/doi/abs/10.5465/amr.2021.0421",
+    "doi": "10.5465/amr.2021.0421",
+    "reading_level": "出版社元数据与摘要；作者校样首页核对",
+    "evidence_design": "混合问题解决的概念理论",
+    "key_finding": "区分自主、顺序和交互搜索配置，提出它们与不同问题解决路径之间的理论关联。",
+    "limitations": "不可把理论预期写成三种配置已被随机验证的优劣排序；正式卷期为 2025，在线版本为 2024。",
+    "data_status": "理论文章，作者校样公开；无本轮可核验原始数据。",
+    "topic_ids": [
+      "ORG-03",
+      "ORG-05"
+    ],
+    "accessed_at": "2026-11-07",
+    "publication_status": "published",
+    "verification_note": "以期刊、作者或机构原文/摘要校准；reading_level 为本轮实际阅读范围。"
+  },
+  {
+    "id": "ORG-S10",
+    "title": "Skill Deprioritization: Reorganizing in the Age of Generative Artificial Intelligence",
+    "authors": [
+      "Matteo Devigili",
+      "Erdem Dogukan Yilmaz",
+      "Vibha Gaba",
+      "Henrich Greve"
+    ],
+    "year": 2026,
+    "venue": "Management Science, online publication",
+    "url": "https://pubsonline.informs.org/doi/10.1287/mnsc.2025.01859",
+    "doi": "10.1287/mnsc.2025.01859",
+    "reading_level": "开放全文摘要、引言、样本与识别方法、结果表定点阅读",
+    "evidence_design": "1,820 家美国上市公司、ChatGPT 发布前后各约 12 个月的招聘需求面板；依据生成式 AI 暴露度比较，含企业/时间固定效应",
+    "key_finding": "较高暴露企业对部分组织类技能的招聘需求下降，技能类别间存在差异；讨论组织任务重新配置。",
+    "limitations": "招聘表述不等于已实现组织重构；暴露度不等于实际采用；同期冲击和趋势假设仍需审查。不能因前趋势不显著便认定无混淆。",
+    "data_status": "底层包括 Lightcast、Compustat、Revelio 商业数据。论文有补充材料入口，但本轮未下载验证其足以重建原始样本；不能列为完全开放数据。",
+    "topic_ids": [
+      "ORG-01",
+      "ORG-03",
+      "ORG-05"
+    ],
+    "accessed_at": "2026-11-07",
+    "publication_status": "published",
+    "verification_note": "以期刊、作者或机构原文/摘要校准；reading_level 为本轮实际阅读范围。"
+  },
+  {
+    "id": "ORG-S11",
+    "title": "Generative organizational learning: Affordances for new modes of knowledge search, creation, transfer, and forgetting with LLMs",
+    "authors": [
+      "Batia M. Wiesenfeld",
+      "Katherine C. Kellogg"
+    ],
+    "year": 2026,
+    "online_year": 2025,
+    "venue": "Strategic Organization, 24(2)",
+    "url": "https://journals.sagepub.com/doi/full/10.1177/14761270251408580",
+    "doi": "10.1177/14761270251408580",
+    "reading_level": "开放全文摘要、情境和方法、资料表、部分发现与概念表定点阅读",
+    "evidence_design": "大型学术医疗体系 19 个月的质性案例研究（2023 年春至 2024 年 11 月）",
+    "key_finding": "提出 LLM 组织学习的多种可供性，强调组织中的专家、目标、知识整理和护栏对搜索、创造、转移和遗忘的影响。",
+    "limitations": "有集中 AI 战略的单一案例；不能识别各项组织支持措施的独立因果效应，不能把知识生成量等同组织学习。",
+    "data_status": "论文开放；本轮未确认原始访谈、内部会议与观察记录可开放取得。",
+    "topic_ids": [
+      "ORG-03",
+      "ORG-04",
+      "ORG-05"
+    ],
+    "accessed_at": "2026-11-07",
+    "publication_status": "published",
+    "verification_note": "以期刊、作者或机构原文/摘要校准；reading_level 为本轮实际阅读范围。"
+  },
+  {
+    "id": "ORG-S12",
+    "title": "人与人工智能的研究及其对组织管理的意义",
+    "authors": [
+      "张志学",
+      "贺伟"
+    ],
+    "year": 2024,
+    "venue": "外国经济与管理, 46(10), 3–17",
+    "url": "https://qks.sufe.edu.cn/J/WJGL/Article/Details/A0iYoEoh27-wCPJ-DIAx-NX8H-jrV9slzWXOgq/CN",
+    "doi": "10.16538/j.cnki.fem.20240907.101",
+    "reading_level": "期刊检索结果的摘要/元数据及 PDF 首页面信息；网页读取不稳定，未通读全文",
+    "evidence_design": "专题导论、研究回顾与议程",
+    "key_finding": "讨论人和 AI 研究对组织管理的意义，覆盖决策、交互等多个层次，而非仅以生产率解释 AI 影响。",
+    "limitations": "不能当作新的因果实验；本轮阅读深度有限，不据此归纳细分机制的强证据。",
+    "data_status": "期刊提供 PDF 入口；未核实可复用的系统编码或个体数据。",
+    "topic_ids": [
+      "ORG-02",
+      "ORG-03",
+      "ORG-05"
+    ],
+    "accessed_at": "2026-11-07",
+    "publication_status": "published",
+    "verification_note": "以期刊、作者或机构原文/摘要校准；reading_level 为本轮实际阅读范围。"
+  },
+  {
+    "id": "ORG-S13",
+    "title": "人工智能驱动的组织管理范式革命：从分工范式至端到端范式",
+    "authors": [
+      "魏炜",
+      "张鹏程",
+      "马勇斌",
+      "张坤",
+      "徐哲淇"
+    ],
+    "year": 2026,
+    "venue": "管理学报, 23(1)",
+    "url": "https://manu68.magtech.com.cn/glxb/CN/Y2026/V23/I1/1",
+    "doi": null,
+    "reading_level": "期刊官方索引摘要、作者与日期；正文页面读取失败，未通读全文",
+    "evidence_design": "提出六项命题的理论研究与案例说明",
+    "key_finding": "提出端到端范式、智慧体与任务流等组织构想；因此端到端/智慧体这些概念本身不能再作为未有先例的贡献。",
+    "limitations": "标题中的范式革命不等于经因果研究确认的普遍转型；案例说明与六项理论命题不能替代比较性检验。",
+    "data_status": "本轮未核实 DOI 或原始案例数据开放性；不能假定可以公开重现。",
+    "topic_ids": [
+      "ORG-01",
+      "ORG-03",
+      "ORG-05"
+    ],
+    "accessed_at": "2026-11-07",
+    "publication_status": "published",
+    "verification_note": "以期刊、作者或机构原文/摘要校准；reading_level 为本轮实际阅读范围。"
+  },
+  {
+    "id": "ORG-S14",
+    "title": "Dismantling Knowledge Boundaries at NASA: The Critical Role of Professional Identity in Open Innovation",
+    "authors": [
+      "Hila Lifshitz-Assaf"
+    ],
+    "year": 2018,
+    "venue": "Administrative Science Quarterly",
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/0001839217747876",
+    "doi": "10.1177/0001839217747876",
+    "reading_level": "出版社摘要；开放全文/作者版专业认同与边界发现部分定点阅读",
+    "evidence_design": "NASA 开放创新的纵向质性研究",
+    "key_finding": "专业认同如何界定工作，会影响成员保护或拆除知识边界；工具带来的外部答案并不自动使边界消失。",
+    "limitations": "开放创新不同于生成式 AI；不是随机分配专业认同的实验。",
+    "data_status": "全文公开 https://pmc.ncbi.nlm.nih.gov/articles/PMC6201168/；原始田野资料未核实开放。",
+    "topic_ids": [
+      "ORG-03"
+    ],
+    "accessed_at": "2026-11-07",
+    "publication_status": "published",
+    "verification_note": "以期刊、作者或机构原文/摘要校准；reading_level 为本轮实际阅读范围。"
+  },
+  {
+    "id": "ORG-S15",
+    "title": "What’s “New” About New Forms of Organizing?",
+    "authors": [
+      "Phanish Puranam",
+      "Oliver Alexy",
+      "Markus Reitzig"
+    ],
+    "year": 2014,
+    "venue": "Academy of Management Review, 39(2), 162–180",
+    "url": "https://strategy.univie.ac.at/fileadmin/user_upload/p_strategy/Corporate/Puranam_Alexy_Reitzig_AMR_2014.pdf",
+    "doi": "10.5465/amr.2011.0436",
+    "reading_level": "作者机构原文 PDF 的标题、摘要、引言和组织问题框架定点阅读",
+    "evidence_design": "组织形式的概念框架与案例说明",
+    "key_finding": "用任务分工、任务分配、信息和激励等基本组织问题的解决组合判断组织形式的新颖性。",
+    "limitations": "新名称、较少层级或采用 AI 均不足以自动构成新的组织形式。",
+    "data_status": "理论文章与示例案例，无本轮核实的可直接复用微观样本。",
+    "topic_ids": [
+      "ORG-01",
+      "ORG-05"
+    ],
+    "accessed_at": "2026-11-07",
+    "publication_status": "published",
+    "verification_note": "以期刊、作者或机构原文/摘要校准；reading_level 为本轮实际阅读范围。"
+  }
+]

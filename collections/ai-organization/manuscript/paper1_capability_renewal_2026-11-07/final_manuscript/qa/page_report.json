@@ -1,0 +1,138 @@
+{
+  "en": {
+    "pages": 11,
+    "page_details": [
+      {
+        "page": 1,
+        "text_chars": 3646,
+        "first": "Expertise renewal in human AI teams \nAuthor-review draft  ·   1 \nTask routing and expertise renewal in human AI \nteams \nWho learns to recover  \nPerspective  ·  ",
+        "last": "ers a diagnostic problem, what each member can subsequently do, and how \nthe team recovers under a specified change in personnel or task demands. Its contribution is a coordinated "
+      },
+      {
+        "page": 2,
+        "text_chars": 4194,
+        "first": "Expertise renewal in human AI teams \nAuthor-review draft  ·   2 \nmeasurement and testing agenda. The comparisons hold training resources and support as stable a",
+        "last": "s recent theoretical preprint explicitly treats the allocation of work and \nconsequences to learners, including circumstances in which senior approval redirects the learning loop, "
+      },
+      {
+        "page": 3,
+        "text_chars": 4115,
+        "first": "Expertise renewal in human AI teams \nAuthor-review draft  ·   3 \nand considers whether assisted practice can substitute for other experience. It also recognizes",
+        "last": ". These records document observable actions and outcomes; generated explanations \nalone do not supply that evidence. The deployment choices determine which diagnostic steps remain "
+      },
+      {
+        "page": 4,
+        "text_chars": 4291,
+        "first": "Expertise renewal in human AI teams \nAuthor-review draft  ·   4 \navailable to people and who encounters the uncertainty surrounding a correction. The same workf",
+        "last": "counterbalancing for difficulty, and actual time and assistance would still \nbe recorded rather than assumed equal. The comparison asks whether recipient-case combinations explain "
+      },
+      {
+        "page": 5,
+        "text_chars": 4206,
+        "first": "Expertise renewal in human AI teams \nAuthor-review draft  ·   5 \nsubsequent capability beyond these totals. If arrangements produce equivalent capability distri",
+        "last": " when a prespecified baseline specialist is unavailable than when the full team \nis present. This prediction concerns the error classes targeted by training and assumes sufficient "
+      },
+      {
+        "page": 6,
+        "text_chars": 4085,
+        "first": "Expertise renewal in human AI teams \nAuthor-review draft  ·   6 \npreparation to benefit from both arrangements. The primary causal comparison is the interaction",
+        "last": "tion should be chosen after observing which arrangement looks favourable. \nDetection, diagnostic explanation, correction, verification and escalation should be assessed separately "
+      },
+      {
+        "page": 7,
+        "text_chars": 3542,
+        "first": "Expertise renewal in human AI teams \nAuthor-review draft  ·   7 \nwhere they have different functional requirements. Self-confidence and satisfaction may help ex",
+        "last": "he developmental consequences of work allocation visible alongside delivery, while keeping the \ntransition from individual learning to collective recovery an empirical question. \n "
+      },
+      {
+        "page": 8,
+        "text_chars": 2381,
+        "first": "Expertise renewal in human AI teams \nAuthor-review draft  ·   8 \nTable 1 Evidence boundaries and proposed tests \nEvidence domain Bounded support Inference not e",
+        "last": " \ncoverage alone is sufficient for \nrecovery. \nTest the interaction directly and \nmeasure role-specific capability, \ncoordination, escalation, tool \naccess and costs separately. \n "
+      },
+      {
+        "page": 9,
+        "text_chars": 832,
+        "first": "Expertise renewal in human AI teams \nAuthor-review draft  ·   9 \nFigure 1 \n \nFigure 1 | Proposed links between task routing and expertise renewal. The conceptua",
+        "last": "ability matrix establishes the full \nteam-level causal pathway. Tests must distinguish bundled participation-and-support interventions from routing under \nstandardized support. \n \n"
+      },
+      {
+        "page": 10,
+        "text_chars": 1163,
+        "first": "Expertise renewal in human AI teams \nAuthor-review draft  ·   10 \nFigure 2 \n \nFigure 2 | Why aggregate capability does not determine coverage under a specified ",
+        "last": "in a real study. Coordination, correlated mistakes, external support and costs must be \nassessed separately; broader coverage alone does not establish greater team reliability. \n \n"
+      },
+      {
+        "page": 11,
+        "text_chars": 4157,
+        "first": "Expertise renewal in human AI teams \nAuthor-review draft  ·   11 \nReferences \n1. Lewis, K. Measuring transactive memory systems in the field: Scale development ",
+        "last": "t production. Figure 2 is an explicitly labelled logical example. \nAccountable authors must verify the sources and final claims and confirm authorship and submission declarations. "
+      }
+    ]
+  },
+  "zh": {
+    "pages": 10,
+    "page_details": [
+      {
+        "page": 1,
+        "text_chars": 1163,
+        "first": "AI团队的专长接续 \n作者审阅稿  ·   1 \n生成式 AI团队中的任务分配与专长接续 \n谁有机会学会纠错  \n前瞻性观点论文  ·   作者审阅版  ·   2026年 11月 7日 \n摘要 \n生成式 AI不仅改变工作如何完成，也改变谁有机会接触那些能够促成专长发展的问题。本文考察\n由不同经验水平成员组成的团队，如",
+        "last": "职责的能力。 \n本文将工作场所学习和团队交叉训练，与 AI介入工作中的三个相连观察对象联系起来：谁接触了\n诊断问题，每位成员随后能够做什么，以及人员或任务要求发生指定变化时，团队如何纠错恢复。\n本文的贡献是一套协调的测量与检验议程。各项比较在可行范围内尽量稳定训练资源与支持，同\n时改变经验的分配，使研究者能在考察交付成本的同时，考察部署选择带来的培养后果。 "
+      },
+      {
+        "page": 2,
+        "text_chars": 1444,
+        "first": "AI团队的专长接续 \n作者审阅稿  ·   2 \n学习研究已经说明了什么 \n练习时的表现与持久学习结果之间的区分，早于生成式 AI。Soderstrom与 Bjork的整合性综述强\n调，有利于即时表现的条件，未必有利于保持和迁移。⁠4 AI辅助使这一区分更具现实意义，却没有\n使它成为新问题。完成一项任务所衡量的是某种具",
+        "last": "化可能暴露总量指标掩盖的缺口。⁠17 \n交叉训练研究为联系跨角色经历、团队认知和团队表现提供了直接先例。在两项真人团队实验中，\nMarks等人报告，交叉训练后，成员共享的团队互动模型更强，且这些模型、协调与绩效之间存在\n关联；关于所需训练深度的结果则有所差异。⁠18 本文将这些既有问题置于 AI介入的工作中，并明\n确需要比较的诊断经历、后续能力与部署条件。 "
+      },
+      {
+        "page": 3,
+        "text_chars": 1414,
+        "first": "AI团队的专长接续 \n作者审阅稿  ·   3 \n经验如何分配，能力如何记录 \n学习机会不等同于接触信息。在本框架中，可观察的单位是：特定成员在一个案例的特定阶段，\n有机会作出与目标能力相关的判断或尝试，并获得可能纠正该判断或尝试的反馈。这是以工作参\n与为基础提出的操作化方案，并非经过验证的量表。⁠12 它将发现异常、",
+        "last": "观察压缩\n为一个分数。错误类别应体现领域内有意义的区别，并在不依赖已观察到的学习增益的情况下确\n定。工具是否可用、能否获得监督，以及被测角色承担什么职责，都是解释单元格含义的组成部\n分。 \n这种表示方式让两种局限更加清楚。平均个体得分可能掩盖：究竟是同样的少数人覆盖了所有关\n键类别，还是能力分布在不同成员之间。然而，即使个体覆盖看起来完整，也不能据此认定团队"
+      },
+      {
+        "page": 4,
+        "text_chars": 1361,
+        "first": "AI团队的专长接续 \n作者审阅稿  ·   4 \n可靠。正如交互记忆研究所表明的，知道专长在哪里，以及协调使用这些专长，是另外两项要求。\n⁠1 因此，图 1将经历分配、个体能力和团队纠错恢复分开，而不把它们当作可以相互替代的指标。 \n区分任务分配与额外支持的作用 \n第一项比较针对一种实际安排：反复将任务交给既有专家，或",
+        "last": "直接先例。⁠4,⁠17 如果先独立尝试\n会超出学习者的准备水平，那么先学习解题示例、再进行练习，可能更加有益。如果观察也能带\n来等效迁移，就应否定“最初的无辅助尝试是必要条件”这一主张。 \n因此，应尽可能分别操纵任务分派和呈现顺序。如果集中分派总是提供现成答案，而轮转总是包\n含尝试和反馈，就无法区分二者的作用。可以通过连续研究，先在共同支持程序下检验接收者分"
+      },
+      {
+        "page": 5,
+        "text_chars": 1387,
+        "first": "AI团队的专长接续 \n作者审阅稿  ·   5 \n配，再考察呈现顺序。组合干预仍可能值得采用，但对其估计效应的解释应保留“组合”的含义。\n仅凭交互日志，无法在事后将这些干预拆开。 \n第三项比较考察：当真实诊断工作仍然集中时，替代练习能否补足能力。非专家角色的成员，可\n以获得 AI支持的案例，配有可评估的反馈、匹配的难度",
+        "last": "I系统，还可能使\n看似冗余的个体反应没有表面上那么独立。这些是需要测量的其他作用过程，而不是据此假定个\n体能力矩阵能够决定团队结果的理由。分析时，应区分专长的分布与其组织运用。⁠1,⁠3 \n正确升级处理尤其重要。成员可以通过发现自身边界、提出恰当的诊断问题并及时获得支持来履\n行职责，而不必亲自修复每一个故障。评估应同时记录未及时升级处理和不必要的升级处理，对"
+      },
+      {
+        "page": 6,
+        "text_chars": 1279,
+        "first": "AI团队的专长接续 \n作者审阅稿  ·   6 \n后者还应结合其成本与后果判断。成员能否独立恢复，能否借助稳定工具恢复，以及能否通过获\n授权的专家恢复，是不同的能力。认知卸载不等于技能损失，日常依赖可靠的外部服务也不必被\n视为组织弱点。⁠2 \n因此，扩大内部能力覆盖是否有价值，取决于条件。如果角色稳定、专家能可靠到位，",
+        "last": "配团队，或机械控制后续 AI使用与练\n习，可能移除部分干预效应，也可能引入选择。更适当的做法是同时报告交付成本和学习结果，\n并利用基线熟练程度检验预先规定的异质性。关于分布的预测需要分布层面的证据，包括相关“成\n员-类别”的变化、覆盖判断的不确定性，以及指定挑战下的表现。零效应或相反结果也有助于修正\n解释，尤其当估计足够精确，能够排除具有实际意义的效应时。 "
+      },
+      {
+        "page": 7,
+        "text_chars": 1158,
+        "first": "AI团队的专长接续 \n作者审阅稿  ·   7 \n公开材料可以支持初步测量审计，但不能提供完整检验。数学与编程研究的相关材料，可用于考\n察研究如何区分辅助工作与后续测验，具体仍取决于实际开放字段与复用条件。⁠5,⁠6 公开的修复讨论\n可以帮助判断：可见事件中的不同阶段，能否被可靠编码。但这些材料无法揭示所有私下获得的\n",
+        "last": "类别”分布及指定扰动。 \n团队交叉训练、分\n散专长与外部支持\n⁠1,⁠2,⁠3,⁠18 \n交叉训练研究报告了共享\n团队模型及与协调有关的\n结果；集体能力也依赖专\n业化与工具。 \n已证实所提出的“分派方式×\n成员参与状态”交互作用，或\n仅凭内部能力覆盖就足以保\n证恢复。 \n直接检验交互作用，并分别测\n量角色对应的能力、协调、升\n级处理、工具可得性与成本。 \n "
+      },
+      {
+        "page": 8,
+        "text_chars": 240,
+        "first": "AI团队的专长接续 \n作者审阅稿  ·   8 \n图 1 \n \n图 1｜任务分派与专长接续之间的拟议联系。 该概念框架将当前工作表现、学习机会分配、成员后续能力及团队纠错恢复分\n别呈现。一项机会包括案例中明确的阶段、接收者、可用信息、尝试或判断，以及反馈。AI支持的演练与可靠外部协助是替\n代路径。连接机会、能力与恢复的",
+        "last": "当前工作表现、学习机会分配、成员后续能力及团队纠错恢复分\n别呈现。一项机会包括案例中明确的阶段、接收者、可用信息、尝试或判断，以及反馈。AI支持的演练与可靠外部协助是替\n代路径。连接机会、能力与恢复的箭头表示假说；个体学习证据或观察到的能力矩阵，都不能证明完整的团队层面因果路径。\n检验必须区分同时包含参与和支持的组合干预，与规范支持条件下的任务分派。 \n \n"
+      },
+      {
+        "page": 9,
+        "text_chars": 381,
+        "first": "AI团队的专长接续 \n作者审阅稿  ·   9 \n图 2 \n \n图 2｜为什么能力总量不能决定特定成员缺席时的覆盖。 这是逻辑示意，不是经验数据、模拟输出或经过验证的测量工具。\n行表示三名假想成员，列表示三类假想错误。数值 1表示在明确的评估条件下满足预设能力判据，0表示不满足。示意矩阵\n为 A = [[1,1,1],",
+        "last": "0,1]]。两者均包含六个达标单元格，各列合计分别为 3/2/1和 2/2/2。在\n预先指定的成员 1缺席条件下，A的第 3类错误不再有达标成员；B的每一类仍至少保留一名达标成员。图中不主张任何任\n务分派干预会产生这两个矩阵。真实研究需要独立确定阈值、工具条件及相关职责。协调、相关错误、外部支持和成本须另\n行评估；更广的覆盖本身，不能证明团队更可靠。 \n \n"
+      },
+      {
+        "page": 10,
+        "text_chars": 3745,
+        "first": "AI团队的专长接续 \n作者审阅稿  ·   10 \n参考文献 \n1. Lewis, K. Measuring transactive memory systems in the field: Scale development and validation. Journal of Applied \nPsychology",
+        "last": "oi.org/10.1037/0021-9010.87.1.3 \n稿件透明度说明 \n本文为基于公开文献的前瞻性论证与检验议程，不报告新实证数据。OpenAI Codex辅助文献发现与原文定位、证据整\n理、论证和拟议检验的形成与修订，以及起草、翻译、语言编辑、图表和排版。图 2为明确标示的逻辑示例。署名作\n者尚须核验来源与最终论点，并核定作者信息及投稿声明。 "
+      }
+    ]
+  }
+}

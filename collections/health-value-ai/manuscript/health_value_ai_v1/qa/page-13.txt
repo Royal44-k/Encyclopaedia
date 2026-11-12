@@ -1,0 +1,39 @@
+Health economic value in the AI era | Author review draft 
+13 
+Table 1 305 
+Minimum record for a comparative health consequence profile. These are proposed fields, 
+not a validated scale. The record can be shortened when a field is irrelevant, with the reason 
+documented. Sources informing the distinctions include health capability, ICF, WHO-5, MCDA 
+and decision-quality research.[4, 9, 18, 19, 23] 
+Domain Minimum information Interpretation boundary 
+Decision and feasibility Available alternatives; ability to 
+refuse; shared calendar window; 
+whose perspective 
+A nominal option may be unavailable 
+in practice 
+Resources and time Incremental disposable income or 
+expense; total work; prompting, 
+checking and rework; displaced 
+activities 
+Task savings are not automatically 
+leisure or health gains 
+Health and functioning Relevant symptoms, functioning or 
+clinical outcomes; baseline and 
+follow-up 
+A biomarker or appearance does not 
+rank a person's overall health or worth 
+Experience Enjoyment, relief or distress during 
+and after an activity 
+Immediate benefit need not be a lasting 
+health effect 
+Capabilities and agency Relevant unaided performance; 
+capacity to pursue valued goals; 
+perceived volition and actual 
+discretion 
+Assistance is not synonymous with loss 
+of autonomy 
+Evidence and appraisal Population, comparator, horizon, 
+uncertainty; personal goals; rationale 
+and unresolved questions 
+Unknown is not zero; preferences and 
+evidence must remain distinguishable 

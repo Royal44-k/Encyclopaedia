@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="522" height="285" preserveAspectRatio="xMinYMin meet" viewBox="0 0 522 285" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="522" height="285"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-285)" style="clip-path: url(#clip)">
+		<g transform="">
+			<text x="0" y="270" style="font-family: SansBold; font-size: 11px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,540) scale(1,-1)">a</text>
+			<text x="17" y="270" style="font-family: SansBold; font-size: 10px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,540) scale(1,-1)">Test the added value of the comparison module</text>
+			<text x="165.3017578125" y="246" style="font-family: SansBold; font-size: 10px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,492) scale(1,-1)">COMMON FACTS + FEASIBLE OPTIONS</text>
+			<path d="M 261,238 L 261,221 Z" style="stroke: rgb(34%,41%,45%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="261 221, 258.5 226, 263.5 226" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(34%,41%,45%); fill-rule: evenodd;"/>
+			<path d="M 125,220 L 398,220 Z" style="stroke: rgb(34%,41%,45%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 125,220 L 125,204 Z" style="stroke: rgb(34%,41%,45%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="125 204, 122.5 209, 127.5 209" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(34%,41%,45%); fill-rule: evenodd;"/>
+			<path d="M 398,220 L 398,204 Z" style="stroke: rgb(34%,41%,45%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="398 204, 395.5 209, 400.5 209" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(34%,41%,45%); fill-rule: evenodd;"/>
+			<rect x="15" y="150" width="220" height="49" style="stroke: none; stroke-linecap: butt; stroke-width: 0.8; fill: rgb(92%,94%,96%); fill-rule: evenodd;"/>
+			<rect x="287" y="150" width="220" height="49" style="stroke: none; stroke-linecap: butt; stroke-width: 0.8; fill: rgb(90%,95%,93%); fill-rule: evenodd;"/>
+			<text x="77.935791015625" y="180" style="font-family: SansBold; font-size: 11px;fill: rgb(22%,39%,62%); stroke:none;" transform="translate(0,360) scale(1,-1)">Established guide</text>
+			<text x="90.7509765625" y="164" style="font-family: Sans; font-size: 8.5px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,328) scale(1,-1)">Active comparator</text>
+			<text x="321.2919921875" y="180" style="font-family: SansBold; font-size: 10px;fill: rgb(8%,49%,50%); stroke:none;" transform="translate(0,360) scale(1,-1)">Same guide + proposed module</text>
+			<text x="333.1957763671875" y="164" style="font-family: Sans; font-size: 8.3px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,328) scale(1,-1)">Time • consequences • uncertainty</text>
+			<path d="M 125,149 L 125,135 Z" style="stroke: rgb(34%,41%,45%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="125 135, 122.5 140, 127.5 140" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(34%,41%,45%); fill-rule: evenodd;"/>
+			<path d="M 398,149 L 398,135 Z" style="stroke: rgb(34%,41%,45%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="398 135, 395.5 140, 400.5 140" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(34%,41%,45%); fill-rule: evenodd;"/>
+			<path d="M 125,134 L 398,134 Z" style="stroke: rgb(34%,41%,45%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 261,134 L 261,119 Z" style="stroke: rgb(34%,41%,45%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="261 119, 258.5 124, 263.5 124" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(34%,41%,45%); fill-rule: evenodd;"/>
+			<text x="38.3052978515625" y="104" style="font-family: SansBold; font-size: 9.5px;fill: rgb(22%,39%,62%); stroke:none;" transform="translate(0,208) scale(1,-1)">UNDERSTANDING</text>
+			<text x="42.84375000000001" y="89" style="font-family: Sans; font-size: 8.2px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,178) scale(1,-1)">Independent scoring</text>
+			<text x="20.29375000000001" y="77" style="font-family: Sans; font-size: 8.2px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,154) scale(1,-1)">Comparator, horizon, uncertainty</text>
+			<text x="235.139404296875" y="104" style="font-family: SansBold; font-size: 9.5px;fill: rgb(8%,49%,50%); stroke:none;" transform="translate(0,208) scale(1,-1)">TRANSFER</text>
+			<text x="226.364208984375" y="89" style="font-family: Sans; font-size: 8.2px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,178) scale(1,-1)">Unfamiliar decision</text>
+			<text x="213.363525390625" y="77" style="font-family: Sans; font-size: 8.2px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,154) scale(1,-1)">Does learning generalize?</text>
+			<text x="423.6802978515625" y="104" style="font-family: SansBold; font-size: 9.5px;fill: rgb(71%,37%,25%); stroke:none;" transform="translate(0,208) scale(1,-1)">BURDEN</text>
+			<text x="397.736865234375" y="89" style="font-family: Sans; font-size: 8.2px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,178) scale(1,-1)">Time and non-completion</text>
+			<text x="385.649072265625" y="77" style="font-family: Sans; font-size: 8.2px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,154) scale(1,-1)">Include people who stop using it</text>
+			<path d="M 0,59 L 522,59 Z" style="stroke: rgb(80%,84%,85%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<text x="0" y="43" style="font-family: SansBold; font-size: 11px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,86) scale(1,-1)">b</text>
+			<text x="17" y="43" style="font-family: SansBold; font-size: 10px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,86) scale(1,-1)">Specify what would count against the proposal</text>
+			<text x="17" y="27" style="font-family: Sans; font-size: 8.6px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,54) scale(1,-1)">No added understanding  •  Failure to transfer  •  Excess burden  •  Unequal access</text>
+			<text x="17" y="14" style="font-family: Sans; font-size: 8.6px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,28) scale(1,-1)">A preferred lifestyle or lower-paid job is not a correctness criterion.</text>
+		</g>
+	</g>
+</svg>

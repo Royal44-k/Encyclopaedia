@@ -1,0 +1,39 @@
+[
+  {
+    "id": "E21",
+    "title": "The impact of cross-training on team effectiveness",
+    "authors": [
+      "Michelle A. Marks",
+      "Mark J. Sabella",
+      "C. Shawn Burke",
+      "Stephen J. Zaccaro"
+    ],
+    "year": 2002,
+    "venue": "Journal of Applied Psychology",
+    "volume": "87",
+    "issue": "1",
+    "pages": "3–13",
+    "doi": "10.1037/0021-9010.87.1.3",
+    "pmid": "11916213",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/11916213/",
+    "publisher_url": "https://doi.org/10.1037/0021-9010.87.1.3",
+    "bibliography": "Marks, M. A., Sabella, M. J., Burke, C. S., & Zaccaro, S. J. (2002). The impact of cross-training on team effectiveness. Journal of Applied Psychology, 87(1), 3–13. https://doi.org/10.1037/0021-9010.87.1.3",
+    "reading_level": "原始摘要与书目（PubMed）；ResearchGate的APA publisher-preview页面核到相同摘要和元数据，未取得完整方法与结果正文。不得标作全文阅读。",
+    "evidence_design": "两项真人团队实验，使用计算机模拟任务；实验1为45组，实验2为49组。原摘要未提供足够信息让本次审查核准随机化细节及各条件的精确训练剂量。这里computer simulation不是LLM代理模拟。",
+    "key_finding": "摘要报告交叉训练促进共享团队互动心智模型；协调在共享模型与绩效关系中呈中介模式；所需训练深度的结果并不完全一致。",
+    "limitations": "未核完整分析，不能把摘要中的mediation提升为已经独立随机识别的因果中介。不能据此声称已检验生成式AI、成员×错误类型覆盖或当前稿所拟成员暂缺交互。",
+    "data_status": "未确认公开数据或代码；本次未读取原始数据文件。",
+    "supports": "交叉训练、角色知识、团队认知、协调及绩效是本文必须承认的直接前例；不能让贡献表述暗示这条链首次被提出。",
+    "manuscript_status": "已纳入2026-11-07终审修订稿；人类作者核验仍待完成",
+    "verified_on": "2026-11-07",
+    "search_queries": [
+      "Marks Sabella Burke Zaccaro 2002 impact cross-training team effectiveness 87 1 3 13",
+      "\"The impact of cross-training on team effectiveness\" site:pubmed.ncbi.nlm.nih.gov",
+      "\"The impact of cross-training on team effectiveness\" site:psycnet.apa.org",
+      "\"Marks\" \"Sabella\" \"2002\" \"cross-training\" \"pdf\" site:gmu.edu",
+      "\"The impact of cross-training on team effectiveness\" \"pdf\" site:edu"
+    ],
+    "access_limits": "DOI入口本次工具不可访问；PsycNet robots限制；作者/机构定向搜索未取得完整期刊稿。核准依据为PubMed刊载的原始摘要与期刊元数据，未以其他论文引文代替。",
+    "human_verification_pending": true
+  }
+]

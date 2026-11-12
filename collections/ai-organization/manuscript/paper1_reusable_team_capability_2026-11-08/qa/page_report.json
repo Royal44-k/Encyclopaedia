@@ -1,0 +1,132 @@
+{
+  "en": {
+    "pages": 10,
+    "page_details": [
+      {
+        "page": 1,
+        "text_chars": 1960,
+        "first": "AI know-how that teams can build on \n1 \nPerspective \nMaking personal AI know-how \nwork across a team \nRichard T.Millian \nHangzhou Normal University \nAbstract \nA",
+        "last": " a set of working instructions and associated materials that AI can invoke. \nAnthropic's implementation, for example, organizes instructions and optional scripts and resources in \n"
+      },
+      {
+        "page": 2,
+        "text_chars": 3771,
+        "first": "AI know-how that teams can build on \n2 \nfolders. The Tencent case does not make the original artifact available, so its specific format cannot be \nestablished f",
+        "last": "The latter workshop experiment, however, does not test whether one \nemployee’s method can be handed to another, reused later, and maintained. We focus on that subsequent \nprocess. "
+      },
+      {
+        "page": 3,
+        "text_chars": 2321,
+        "first": "AI know-how that teams can build on \n3 \n \nScenario A  Handing a method to a colleague in another role. A colleague can generate the \ndaily brief but needs to kn",
+        "last": "rranging updates also warrants examination.[8] The questions are \nwhether a colleague can run the method, judge when it applies, and return useful revisions to subsequent \nusers. \n"
+      },
+      {
+        "page": 4,
+        "text_chars": 3508,
+        "first": "AI know-how that teams can build on \n4 \nOnce a colleague can generate a briefing, its maker may regard the handover as complete. The recipient \nmay nevertheless",
+        "last": "specify what a new use requires, they may develop a version suited to subsequent work. This process \naccords with research treating knowledge transfer as a continuing activity.[3] "
+      },
+      {
+        "page": 5,
+        "text_chars": 2184,
+        "first": "AI know-how that teams can build on \n5 \n \nFigure 2  A working method that can be handed over. The daily AI briefing example specifies scope, sources and \naccess",
+        "last": "ing revisions suggests a role for recipients in improving the method, but \nreturned changes still require decisions. A summary length preferred by sales may not suit research and \n"
+      },
+      {
+        "page": 6,
+        "text_chars": 2387,
+        "first": "AI know-how that teams can build on \n6 \ndevelopment; adding sources may broaden coverage while extending another user's screening time. \nMerging all changes may",
+        "last": "ences between recipients' tasks. Requiring everyone to use one version \nneed not increase sustained reuse when those tasks differ substantially. Documented, maintainable variants \n"
+      },
+      {
+        "page": 7,
+        "text_chars": 3175,
+        "first": "AI know-how that teams can build on \n7 \nmay improve fit while increasing update costs. Where variants merely solve the same problem, a common \nrevision may inst",
+        "last": "formance with a method that already runs. The A–B \ndifference also includes the convenience of automated execution and cannot be attributed wholly to \nimproved knowledge transfer. "
+      },
+      {
+        "page": 8,
+        "text_chars": 2241,
+        "first": "AI know-how that teams can build on \n8 \n \nFigure 3  Proposed handover comparison. A receives a prompt and basic task instructions, B a runnable method, \nand C t",
+        "last": "se, delayed reuse, and changed conditions. Delayed tasks can retain the \noriginal scope while changing content, so remembering answers is not mistaken for reusability. Changes to \n"
+      },
+      {
+        "page": 9,
+        "text_chars": 4028,
+        "first": "AI know-how that teams can build on \n9 \ninput requirements or tool versions should be introduced separately, holding other conditions constant, \nwith unchanged ",
+        "last": "s credit with the work of \ncollaboration. Whether handover and maintenance deserve further investment depends on task outcomes \nand total effort, rather than hours spent using AI. "
+      },
+      {
+        "page": 10,
+        "text_chars": 2825,
+        "first": "AI know-how that teams can build on \n10 \nNot every method warrants wider use. Rarely repeated tasks may be better completed directly; where roles \nserve differe",
+        "last": "3.3.339.2780 \n10. Li, X. et al. SkillsBench: Benchmarking How Well Agent Skills Work Across Diverse Tasks. Preprint (13 February 2026). \nhttps://www.skillsbench.ai/skillsbench.pdf "
+      }
+    ]
+  },
+  "zh": {
+    "pages": 10,
+    "page_details": [
+      {
+        "page": 1,
+        "text_chars": 673,
+        "first": "让 AI 方法成为团队的共同积累 \n1 \n观点论文 \n个人 AI 经验怎样成为团队可复用的能力 \nRichard T.Millian \nHangzhou Normal University \n摘要 \n一项 AI 方法能否成为团队可以依靠的工作资源，需要在交接之后判断。本文从共享新闻跟踪实践\n出发，结合知识转移与组织惯例",
+        "last": "  新闻跟踪方法的持续使用。图示概括报告记载的共享、调用、迭代和节后使用过程。持续使用不等于已经证明净\n收益；报告未提供质量对照、维护工时或完整使用日志。[1] \nSkill 可以理解为供 AI 调用的一套工作指令和相关材料。例如，Anthropic 的实现把指令及可选的\n脚本、资源组织在文件夹中；腾讯案例未公开原件，不能据此确定它采用的具体格式。[2] \n"
+      },
+      {
+        "page": 2,
+        "text_chars": 1109,
+        "first": "让 AI 方法成为团队的共同积累 \n2 \n这类延续使一次任务中的投入有机会服务后来的工作。报告还以新成员加入团队的假设情境，说\n明同事如何交出可运行的 Skill，接收者如何使用、修改，再将改动送回。[1] 从交出方法到接回修\n订，经验不再只由最初的制作者掌握。 \n这一案例呈现的是共同使用，尚未追踪方法最初由谁提出、怎",
+        "last": " 和 Kellogg 的质性研究讨论了 LLM 如何参与\n知识搜索、创造、转移和遗忘，以及相关的组织安排。[5] 一项现场实验也已直接检验 AI 如何改\n变个体与团队的产品创新任务表现。[6] 这些研究为理解 AI 的组织作用提供了基础，但后一项工\n作坊实验没有检验某位员工的方法交给第二个人后，能否延后复用及如何维护。本文将这一后续\n过程作为具体研究对象。 "
+      },
+      {
+        "page": 3,
+        "text_chars": 845,
+        "first": "让 AI 方法成为团队的共同积累 \n3 \n \n情境 A  把方法交给另一岗位。 同事已经能生成每日简报，但需要了解的是产品何时可用，原方\n法却侧重模型能力。交接仍需核对关注范围、来源和交付要求。情境示意。 \n本文把团队可复用能力界定为：原制作者之外的成员能够在既定任务范围内持续完成工作，并恰\n当地处理超出范围或无法完成",
+        "last": "用者。 \n例如，同事能用共享方法生成简报后，制作者可能认为交接已经结束。接收者却开始面向另一岗\n位发送简报，改变关注范围，并反复请求补充信息。文件看似相同，承担的工作却已变化。能够\n运行降低了尝试门槛，并不足以保证适合新用途。传统自动化同样面临这一问题；生成式 AI 值得\n进一步研究之处，在于以日常语言制作和修改的方法如何被不同岗位的人理解、采用和调整。 \n"
+      },
+      {
+        "page": 4,
+        "text_chars": 884,
+        "first": "让 AI 方法成为团队的共同积累 \n4 \n交接的是一套工作方法 \n以每日 AI 简报为例，一份可交接的方法应先让同事弄清楚：为谁整理、关注什么，以及哪些问题\n不在处理范围内。随后列出可用来源、所需材料和访问条件，让接收者能开始工作，而不是等运\n行失败后再逐项猜测。图 2 是据此提出的方法页示意，并非报告中的原始 Ski",
+        "last": "无法容纳全部默会经验。有些问题要到同事处理自己的任务时才会显现：简报运行正常，\n选出的新闻却对另一个业务团队没有用。这可能是关注范围不同，并非执行故障。让接收者先试\n用，再讨论具体调整，能把原先没有说清的判断带入交接。制作者解释来源选择，接收者说明新\n用途需要的信息，双方才有机会形成适合后续工作的版本。这一过程与将知识转移视为持续活动\n的研究相呼应。[3] "
+      },
+      {
+        "page": 5,
+        "text_chars": 691,
+        "first": "让 AI 方法成为团队的共同积累 \n5 \n \n图 2  一页可交接的工作方法。以每日 AI 简报为例，展示任务范围、来源与访问条件、运行步骤、输出样例、可调整\n部分及更新入口。这是作者提出的设计示意，不是腾讯案例的原始文件，也不表示所有工作都需要同样的材料。它的\n效果应通过接收者完成任务的表现及双方投入检验。 \n由此可",
+        "last": "发现链接已经\n失效。这些问题可以逐个交回制作者，也可以更新共享材料，或保留服务于不同岗位的版本。每\n一种选择都涉及时间。团队需要判断哪些修改值得共同维护，并为承担这项工作的人留出时间。 \n报告所描述的修订回传提示了接收者参与改进的可能，但回传之后仍需取舍。销售团队偏好的摘\n要长度，未必适合研发团队；增加来源可以扩充信息，也可能延长另一岗位的筛选时间。把所有\n"
+      },
+      {
+        "page": 6,
+        "text_chars": 818,
+        "first": "让 AI 方法成为团队的共同积累 \n6 \n修改合并到一版，可能消除重复劳动，也可能破坏原有用途。共享版本可以保留稳定部分，通过\n明确选项或独立变体处理岗位差异。版本应怎样划分，取决于任务的相似程度与维护成本。 \n \n情境 B  让修订到达下一位使用者。 接收者补上了遗漏的来源链接。如果修改只留在个人副本，\n下一位同事仍",
+        "last": "\n版本。 \n这里提出第二个预测：接收者任务差异较大时，强制所有人使用同一版本未必带来更多持续复用；\n允许有说明、可维护的岗位变体，可能提高适配，但也增加更新负担。若所谓变体只是在解决同\n一类问题，统一修订反而可能更节省劳动。检验时需要同时记录变体服务的任务差异与后续维护，\n避免把版本数量的增加直接解释为能力扩散。第三个预测则关注劳动分配：当支持需求集中在一\n"
+      },
+      {
+        "page": 7,
+        "text_chars": 904,
+        "first": "让 AI 方法成为团队的共同积累 \n7 \n个制作者身上时，使用人数增长可能伴随服务等待和维护投入上升，直到继续分发的收益下降。\n若更新足够稳定、支持能够自助完成，这种趋势也可能不出现。 \n从公开材料到行为检验 \n研究可以从公开工作流、工具说明和版本记录开始，而不需要先假定能够取得企业内部数据。第\n一步是界定可检查的材料",
+        "last": "得到提示词和基本任务说明，B 组得到\n可运行的方法，C 组得到同一可运行方法及交接、适配和维护支持。三组使用相同的 AI 模型、原\n始工作方法和任务集合，并设置相同的支持预算上限。B 与 C 的比较尤其重要：它让研究聚焦于\n一个已经能够运行的方法，增加交接支持后是否改变接收者的工作表现。A 与 B 的差异还包含自\n动执行的便利，不能全部解释为知识转移改善。 "
+      },
+      {
+        "page": 8,
+        "text_chars": 781,
+        "first": "让 AI 方法成为团队的共同积累 \n8 \n \n图 3  拟议的交接比较。A 为提示词和基本任务说明，B 为可运行方法，C 为同一可运行方法加交接、适配与维护支持。\nAI 模型、原始工作方法和任务集合保持相同，各组设置相同的支持预算上限。观察涵盖首次使用、延后再用，以及分\n别改变输入或工具版本时的表现。成果质量、失败与放",
+        "last": "流。公开材料可用于构造可共享的任务包，但在公开任务上得\n到的效果仍需检验能否推广到企业日常工作。 \n评价需要覆盖首次使用、延后再用和遇到变化三类情况。延后任务可以与初次任务范围相同，但\n更换具体内容，避免把记住答案误认为方法能够复用。变化任务应分别改变输入要求或工具版本，\n保留其他条件，并与同时点的未变化任务比较，随机或平衡任务顺序。否则，阶段差异会混入时\n"
+      },
+      {
+        "page": 9,
+        "text_chars": 1274,
+        "first": "让 AI 方法成为团队的共同积累 \n9 \n间与熟悉度影响，不能归因于条件变化。若同时改动模型、来源与任务目标，失败的原因也无法\n区分。研究须在观察结果前说明适用任务范围、最低可接受质量及主要比较。 \n过程记录应与本文区分的三个环节对应：能否启动并产出结果，对预设适用与不适用任务作何判\n断和处置，修订是否通过事先约定的核",
+        "last": "有人持续更新和答疑。承认这些劳动，才能让奖励与实际协作相对应。投入交\n接与维护是否值得，应由任务结果和总体投入判断，而非使用 AI 的时长。 \n并非每种方法都值得推广。很少重复的任务可能直接完成更合适；岗位目标差异较大时，借鉴思\n路可能比复制工具更有用；涉及特殊权限或专业责任的工作，则需要限定接收者与使用范围。清\n楚说明何时不应使用，也是共同方法的一部分。 "
+      },
+      {
+        "page": 10,
+        "text_chars": 2047,
+        "first": "让 AI 方法成为团队的共同积累 \n10 \n个人 AI 经验的价值，最终要在同事的工作中得到检验：接手者能否完成任务，过一段时间能否继\n续使用，以及谁承担了让方法保持可用的劳动。以这些问题追踪交接，既能保留员工自主探索的\n空间，也能识别哪些经验值得沉淀、怎样维护，以及何时应当停止复用。 \n参考文献 \n1. 腾讯研究院.",
+        "last": "3.3.339.2780 \n10. Li, X. et al. SkillsBench: Benchmarking How Well Agent Skills Work Across Diverse Tasks. Preprint (13 February 2026). \nhttps://www.skillsbench.ai/skillsbench.pdf "
+      }
+    ]
+  }
+}

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="467.7165354330709" height="376.32364919902255" preserveAspectRatio="xMinYMin meet" viewBox="0 0 467 376" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="467.7165354330709" height="376.32364919902255"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-376)" style="clip-path: url(#clip)">
+		<g transform="">
+			<g transform=" matrix(0.896009,0,0,0.896009,0,0)">
+				<g transform="">
+					<text x="0" y="405" style="font-family: SansBold; font-size: 8.928484848484848px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,810) scale(1,-1)">a</text>
+					<text x="17" y="405" style="font-family: CNHei; font-size: 7.812424242424242px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,810) scale(1,-1)">长工作时间</text>
+					<g transform="">
+						<text x="17" y="390" style="font-family: CNHei; font-size: 7.812424242424242px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,780) scale(1,-1)">7 项队列 </text>
+						<text x="52.155909090909084" y="390" style="font-family: Sans; font-size: 7.812424242424242px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,780) scale(1,-1)">•</text>
+						<text x="54.89102050781249" y="390" style="font-family: CNHei; font-size: 7.812424242424242px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,780) scale(1,-1)"> 162,644 人</text>
+					</g>
+					<text x="17" y="365" style="font-family: SansBold; font-size: 7.812424242424242px;fill: rgb(8%,49%,50%); stroke:none;" transform="translate(0,730) scale(1,-1)">RR 1.35</text>
+					<text x="17" y="348" style="font-family: CNHei; font-size: 7.812424242424242px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,696) scale(1,-1)">95% 置信区间 1.13–1.61</text>
+					<path d="M 30,283 L 217,283 Z" style="stroke: rgb(34%,41%,45%); stroke-linecap: butt; stroke-width: 0.7;"/>
+					<path d="M 58.424578,288 L 58.424578,323 Z" style="stroke: rgb(34%,41%,45%); stroke-linecap: butt; stroke-width: 0.7; stroke-dasharray: 2, 2;"/>
+					<path d="M 91.396937,305 L 186.904927,305 Z" style="stroke: rgb(8%,49%,50%); stroke-linecap: butt; stroke-width: 2;"/>
+					<path d="M 91.396937,300 L 91.396937,310 Z" style="stroke: rgb(8%,49%,50%); stroke-linecap: butt; stroke-width: 1.2;"/>
+					<path d="M 186.904927,300 L 186.904927,310 Z" style="stroke: rgb(8%,49%,50%); stroke-linecap: butt; stroke-width: 1.2;"/>
+					<circle cx="139.3879876348562" cy="305" r="3.6" style="stroke: rgb(8%,49%,50%); stroke-linecap: butt; stroke-width: 1; fill: rgb(8%,49%,50%); fill-rule: evenodd;"/>
+					<path d="M 58.424578,283 L 58.424578,279 Z" style="stroke: rgb(34%,41%,45%); stroke-linecap: butt; stroke-width: 0.7;"/>
+					<text x="56.252129447827556" y="267" style="font-family: Sans; font-size: 7.812424242424242px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,534) scale(1,-1)">1</text>
+					<path d="M 107.612012,283 L 107.612012,279 Z" style="stroke: rgb(34%,41%,45%); stroke-linecap: butt; stroke-width: 0.7;"/>
+					<text x="102.18184346422048" y="267" style="font-family: Sans; font-size: 7.812424242424242px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,534) scale(1,-1)">1.2</text>
+					<path d="M 167.812566,283 L 167.812566,279 Z" style="stroke: rgb(34%,41%,45%); stroke-linecap: butt; stroke-width: 0.7;"/>
+					<text x="162.38239720815724" y="267" style="font-family: Sans; font-size: 7.812424242424242px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,534) scale(1,-1)">1.5</text>
+					<path d="M 217,283 L 217,279 Z" style="stroke: rgb(34%,41%,45%); stroke-linecap: butt; stroke-width: 0.7;"/>
+					<text x="211.5698310990767" y="267" style="font-family: Sans; font-size: 7.812424242424242px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,534) scale(1,-1)">1.8</text>
+					<text x="17" y="245" style="font-family: CNHei; font-size: 7.812424242424242px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,490) scale(1,-1)">卒中发生；对数比率刻度</text>
+					<text x="17" y="234" style="font-family: CNHei; font-size: 7.812424242424242px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,468) scale(1,-1)">每周 ≥55 与 35–40 小时比较</text>
+					<text x="270" y="405" style="font-family: SansBold; font-size: 8.928484848484848px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,810) scale(1,-1)">b</text>
+					<text x="287" y="405" style="font-family: CNHei; font-size: 7.812424242424242px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,810) scale(1,-1)">饮食构成</text>
+					<g transform="">
+						<text x="287" y="390" style="font-family: CNHei; font-size: 7.812424242424242px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,780) scale(1,-1)">随机交叉试验 </text>
+						<text x="337.78075757575755" y="390" style="font-family: Sans; font-size: 7.812424242424242px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,780) scale(1,-1)">•</text>
+						<text x="340.51586899266096" y="390" style="font-family: CNHei; font-size: 7.812424242424242px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,780) scale(1,-1)"> 20 名成人</text>
+					</g>
+					<text x="287" y="365" style="font-family: CNHei; font-size: 7.812424242424242px;fill: rgb(71%,37%,25%); stroke:none;" transform="translate(0,730) scale(1,-1)">+508 千卡/天</text>
+					<text x="287" y="348" style="font-family: CNHei; font-size: 7.812424242424242px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,696) scale(1,-1)">±1 标准误（106 千卡/天）</text>
+					<path d="M 300,283 L 487,283 Z" style="stroke: rgb(34%,41%,45%); stroke-linecap: butt; stroke-width: 0.7;"/>
+					<path d="M 374.8,288 L 374.8,323 Z" style="stroke: rgb(34%,41%,45%); stroke-linecap: butt; stroke-width: 0.7; stroke-dasharray: 2, 2;"/>
+					<path d="M 434.9392,305 L 466.6544,305 Z" style="stroke: rgb(71%,37%,25%); stroke-linecap: butt; stroke-width: 2;"/>
+					<path d="M 434.9392,300 L 434.9392,310 Z" style="stroke: rgb(71%,37%,25%); stroke-linecap: butt; stroke-width: 1.2;"/>
+					<path d="M 466.6544,300 L 466.6544,310 Z" style="stroke: rgb(71%,37%,25%); stroke-linecap: butt; stroke-width: 1.2;"/>
+					<circle cx="450.79679999999996" cy="305" r="3.6" style="stroke: rgb(71%,37%,25%); stroke-linecap: butt; stroke-width: 1; fill: rgb(71%,37%,25%); fill-rule: evenodd;"/>
+					<path d="M 300,283 L 300,279 Z" style="stroke: rgb(34%,41%,45%); stroke-linecap: butt; stroke-width: 0.7;"/>
+					<text x="291.20148607658615" y="267" style="font-family: Sans; font-size: 7.812424242424242px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,534) scale(1,-1)">−500</text>
+					<path d="M 374.8,283 L 374.8,279 Z" style="stroke: rgb(34%,41%,45%); stroke-linecap: butt; stroke-width: 0.7;"/>
+					<text x="372.6275509736032" y="267" style="font-family: Sans; font-size: 7.812424242424242px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,534) scale(1,-1)">0</text>
+					<path d="M 449.6,283 L 449.6,279 Z" style="stroke: rgb(34%,41%,45%); stroke-linecap: butt; stroke-width: 0.7;"/>
+					<text x="443.08265292080966" y="267" style="font-family: Sans; font-size: 7.812424242424242px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,534) scale(1,-1)">500</text>
+					<text x="287" y="245" style="font-family: CNHei; font-size: 7.812424242424242px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,490) scale(1,-1)">能量摄入差异</text>
+					<text x="287" y="234" style="font-family: CNHei; font-size: 7.812424242424242px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,468) scale(1,-1)">超加工与未加工饮食比较</text>
+					<path d="M 0,215 L 522,215 Z" style="stroke: rgb(80%,84%,85%); stroke-linecap: butt; stroke-width: 0.7;"/>
+					<path d="M 255,226 L 255,410 Z" style="stroke: rgb(80%,84%,85%); stroke-linecap: butt; stroke-width: 0.7;"/>
+					<text x="0" y="192" style="font-family: SansBold; font-size: 8.928484848484848px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,384) scale(1,-1)">c</text>
+					<text x="17" y="192" style="font-family: CNHei; font-size: 7.812424242424242px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,384) scale(1,-1)">延长睡眠</text>
+					<g transform="">
+						<text x="17" y="177" style="font-family: CNHei; font-size: 7.812424242424242px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,354) scale(1,-1)">随机分配 81 人 </text>
+						<text x="75.59318181818182" y="177" style="font-family: Sans; font-size: 7.812424242424242px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,354) scale(1,-1)">•</text>
+						<text x="78.32829323508523" y="177" style="font-family: CNHei; font-size: 7.812424242424242px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,354) scale(1,-1)"> 分析集 80 人</text>
+					</g>
+					<g transform="">
+						<text x="17" y="152" style="font-family: Sans; font-size: 7.812424242424242px;fill: rgb(22%,39%,62%); stroke:none;" transform="translate(0,304) scale(1,-1)">−</text>
+						<text x="21.56233368844697" y="152" style="font-family: CNHei; font-size: 7.812424242424242px;fill: rgb(22%,39%,62%); stroke:none;" transform="translate(0,304) scale(1,-1)">270 千卡/天</text>
+					</g>
+					<g transform="">
+						<text x="17" y="135" style="font-family: CNHei; font-size: 7.812424242424242px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,270) scale(1,-1)">95% 置信区间 </text>
+						<text x="67.78075757575758" y="135" style="font-family: Sans; font-size: 7.812424242424242px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,270) scale(1,-1)">−</text>
+						<text x="72.34309126420455" y="135" style="font-family: CNHei; font-size: 7.812424242424242px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,270) scale(1,-1)">393 至 </text>
+						<text x="99.6865761126894" y="135" style="font-family: Sans; font-size: 7.812424242424242px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,270) scale(1,-1)">−</text>
+						<text x="104.24890980113636" y="135" style="font-family: CNHei; font-size: 7.812424242424242px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,270) scale(1,-1)">147</text>
+					</g>
+					<path d="M 30,70 L 217,70 Z" style="stroke: rgb(34%,41%,45%); stroke-linecap: butt; stroke-width: 0.7;"/>
+					<path d="M 104.8,75 L 104.8,110 Z" style="stroke: rgb(34%,41%,45%); stroke-linecap: butt; stroke-width: 0.7; stroke-dasharray: 2, 2;"/>
+					<path d="M 46.0072,92 L 82.8088,92 Z" style="stroke: rgb(22%,39%,62%); stroke-linecap: butt; stroke-width: 2;"/>
+					<path d="M 46.0072,87 L 46.0072,97 Z" style="stroke: rgb(22%,39%,62%); stroke-linecap: butt; stroke-width: 1.2;"/>
+					<path d="M 82.8088,87 L 82.8088,97 Z" style="stroke: rgb(22%,39%,62%); stroke-linecap: butt; stroke-width: 1.2;"/>
+					<circle cx="64.408" cy="92" r="3.6" style="stroke: rgb(22%,39%,62%); stroke-linecap: butt; stroke-width: 1; fill: rgb(22%,39%,62%); fill-rule: evenodd;"/>
+					<path d="M 30,70 L 30,66 Z" style="stroke: rgb(34%,41%,45%); stroke-linecap: butt; stroke-width: 0.7;"/>
+					<text x="21.201486076586175" y="54" style="font-family: Sans; font-size: 7.812424242424242px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,108) scale(1,-1)">−500</text>
+					<path d="M 104.8,70 L 104.8,66 Z" style="stroke: rgb(34%,41%,45%); stroke-linecap: butt; stroke-width: 0.7;"/>
+					<text x="102.62755097360322" y="54" style="font-family: Sans; font-size: 7.812424242424242px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,108) scale(1,-1)">0</text>
+					<path d="M 179.6,70 L 179.6,66 Z" style="stroke: rgb(34%,41%,45%); stroke-linecap: butt; stroke-width: 0.7;"/>
+					<text x="173.08265292080966" y="54" style="font-family: Sans; font-size: 7.812424242424242px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,108) scale(1,-1)">500</text>
+					<text x="17" y="32" style="font-family: CNHei; font-size: 7.812424242424242px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,64) scale(1,-1)">相对对照组的能量摄入变化</text>
+					<text x="17" y="21" style="font-family: CNHei; font-size: 7.812424242424242px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,42) scale(1,-1)">超重且睡眠较短的成人</text>
+					<text x="270" y="192" style="font-family: SansBold; font-size: 8.928484848484848px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,384) scale(1,-1)">d</text>
+					<text x="287" y="192" style="font-family: CNHei; font-size: 7.812424242424242px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,384) scale(1,-1)">AI 医疗信息</text>
+					<g transform="">
+						<text x="287" y="177" style="font-family: CNHei; font-size: 7.812424242424242px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,354) scale(1,-1)">随机研究 </text>
+						<text x="322.15590909090906" y="177" style="font-family: Sans; font-size: 7.812424242424242px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,354) scale(1,-1)">•</text>
+						<text x="324.89102050781247" y="177" style="font-family: CNHei; font-size: 7.812424242424242px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,354) scale(1,-1)"> 1,298 人</text>
+					</g>
+					<text x="287" y="152" style="font-family: SansBold; font-size: 7.812424242424242px;fill: rgb(50%,40%,60%); stroke:none;" transform="translate(0,304) scale(1,-1)">OR 1.76</text>
+					<text x="287" y="135" style="font-family: CNHei; font-size: 7.812424242424242px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,270) scale(1,-1)">95% 置信区间 1.45–2.13</text>
+					<path d="M 300,70 L 487,70 Z" style="stroke: rgb(34%,41%,45%); stroke-linecap: butt; stroke-width: 0.7;"/>
+					<path d="M 336.621545,75 L 336.621545,110 Z" style="stroke: rgb(34%,41%,45%); stroke-linecap: butt; stroke-width: 0.7; stroke-dasharray: 2, 2;"/>
+					<path d="M 397.601267,92 L 460.71366,92 Z" style="stroke: rgb(50%,40%,60%); stroke-linecap: butt; stroke-width: 2;"/>
+					<path d="M 397.601267,87 L 397.601267,97 Z" style="stroke: rgb(50%,40%,60%); stroke-linecap: butt; stroke-width: 1.2;"/>
+					<path d="M 460.71366,87 L 460.71366,97 Z" style="stroke: rgb(50%,40%,60%); stroke-linecap: butt; stroke-width: 1.2;"/>
+					<circle cx="429.3988855377843" cy="92" r="3.6" style="stroke: rgb(50%,40%,60%); stroke-linecap: butt; stroke-width: 1; fill: rgb(50%,40%,60%); fill-rule: evenodd;"/>
+					<path d="M 336.621545,70 L 336.621545,66 Z" style="stroke: rgb(34%,41%,45%); stroke-linecap: butt; stroke-width: 0.7;"/>
+					<text x="334.44909616618276" y="54" style="font-family: Sans; font-size: 7.812424242424242px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,108) scale(1,-1)">1</text>
+					<path d="M 403.165072,70 L 403.165072,66 Z" style="stroke: rgb(34%,41%,45%); stroke-linecap: butt; stroke-width: 0.7;"/>
+					<text x="397.7349026142641" y="54" style="font-family: Sans; font-size: 7.812424242424242px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,108) scale(1,-1)">1.5</text>
+					<path d="M 450.378455,70 L 450.378455,66 Z" style="stroke: rgb(34%,41%,45%); stroke-linecap: butt; stroke-width: 0.7;"/>
+					<text x="448.20600578102363" y="54" style="font-family: Sans; font-size: 7.812424242424242px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,108) scale(1,-1)">2</text>
+					<text x="287" y="32" style="font-family: CNHei; font-size: 7.812424242424242px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,64) scale(1,-1)">相关病情识别</text>
+					<text x="287" y="21" style="font-family: CNHei; font-size: 7.812424242424242px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,42) scale(1,-1)">对照与合并 AI 组比较；对数刻度</text>
+					<path d="M 255,15 L 255,197 Z" style="stroke: rgb(80%,84%,85%); stroke-linecap: butt; stroke-width: 0.7;"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

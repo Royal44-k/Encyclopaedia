@@ -1,0 +1,25 @@
+{
+  "status": "user_declared_draft",
+  "author": {
+    "name": "Richard T. Millian",
+    "affiliation": "Hangzhou Normal University",
+    "email": null,
+    "final_approval": false,
+    "credit_statement": null
+  },
+  "administrative_contact": {
+    "name": "Mason Matthew",
+    "role": "assistant, not a coauthor",
+    "email": "e1237966@outlook.com",
+    "acknowledgement_permission": null
+  },
+  "funding": {
+    "name_as_supplied": "Altman",
+    "type": "individual",
+    "full_identity": null,
+    "role": "User states sponsor provided support only and had no participation",
+    "support_details": null
+  },
+  "competing_interests": "User declares none; funding separately disclosed",
+  "external_transmission": "No manuscript submission, editor contact or external manuscript upload performed"
+}

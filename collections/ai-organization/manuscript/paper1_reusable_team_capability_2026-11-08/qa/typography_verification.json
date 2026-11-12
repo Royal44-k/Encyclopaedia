@@ -1,0 +1,760 @@
+{
+  "revision": 3,
+  "checked_at": "2026-11-08T19:25:10.639530+08:00",
+  "artifacts": {
+    "zh": {
+      "pdf_sha256": "6c1cb56564a3d8663a44fbb6b6c8e11f28c0cadfec4ed1587e2630a185c05713",
+      "docx_sha256": "319dcd33562088c63015794708696619b8d757b14aad7ccea6a7949620703e3a",
+      "page_count": 10,
+      "active_word_styles": {
+        "Normal": {
+          "rFonts": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman",
+            "cs": "Times New Roman",
+            "eastAsia": "SimSun"
+          },
+          "b": {
+            "val": "0"
+          },
+          "i": {
+            "val": "0"
+          },
+          "color": {
+            "val": "000000"
+          },
+          "sz": {
+            "val": "23"
+          },
+          "u": {
+            "val": "none"
+          },
+          "szCs": {
+            "val": "23"
+          },
+          "bCs": {
+            "val": "0"
+          },
+          "iCs": {
+            "val": "0"
+          },
+          "lang": {
+            "val": "en-US",
+            "eastAsia": "zh-CN"
+          }
+        },
+        "Header": {
+          "rFonts": {
+            "ascii": "Arial",
+            "hAnsi": "Arial",
+            "cs": "Arial",
+            "eastAsia": "Microsoft YaHei"
+          },
+          "b": {
+            "val": "0"
+          },
+          "i": {
+            "val": "0"
+          },
+          "color": {
+            "val": "000000"
+          },
+          "sz": {
+            "val": "19"
+          },
+          "u": {
+            "val": "none"
+          },
+          "szCs": {
+            "val": "19"
+          },
+          "bCs": {
+            "val": "0"
+          },
+          "iCs": {
+            "val": "0"
+          },
+          "lang": {
+            "val": "en-US",
+            "eastAsia": "zh-CN"
+          }
+        },
+        "Footer": {
+          "rFonts": {
+            "ascii": "Arial",
+            "hAnsi": "Arial",
+            "cs": "Arial",
+            "eastAsia": "Microsoft YaHei"
+          },
+          "b": {
+            "val": "0"
+          },
+          "i": {
+            "val": "0"
+          },
+          "color": {
+            "val": "000000"
+          },
+          "sz": {
+            "val": "19"
+          },
+          "u": {
+            "val": "none"
+          },
+          "szCs": {
+            "val": "19"
+          },
+          "bCs": {
+            "val": "0"
+          },
+          "iCs": {
+            "val": "0"
+          },
+          "lang": {
+            "val": "en-US",
+            "eastAsia": "zh-CN"
+          }
+        },
+        "Heading1": {
+          "rFonts": {
+            "ascii": "Arial",
+            "hAnsi": "Arial",
+            "cs": "Arial",
+            "eastAsia": "Microsoft YaHei"
+          },
+          "b": {},
+          "i": {
+            "val": "0"
+          },
+          "color": {
+            "val": "000000"
+          },
+          "sz": {
+            "val": "28"
+          },
+          "u": {
+            "val": "none"
+          },
+          "szCs": {
+            "val": "28"
+          },
+          "bCs": {
+            "val": "1"
+          },
+          "iCs": {
+            "val": "0"
+          },
+          "lang": {
+            "val": "en-US",
+            "eastAsia": "zh-CN"
+          }
+        },
+        "Title": {
+          "rFonts": {
+            "ascii": "Arial",
+            "hAnsi": "Arial",
+            "cs": "Arial",
+            "eastAsia": "Microsoft YaHei"
+          },
+          "b": {
+            "val": "0"
+          },
+          "i": {
+            "val": "0"
+          },
+          "color": {
+            "val": "000000"
+          },
+          "sz": {
+            "val": "50"
+          },
+          "u": {
+            "val": "none"
+          },
+          "szCs": {
+            "val": "50"
+          },
+          "bCs": {
+            "val": "0"
+          },
+          "iCs": {
+            "val": "0"
+          },
+          "lang": {
+            "val": "en-US",
+            "eastAsia": "zh-CN"
+          }
+        },
+        "Caption": {
+          "rFonts": {
+            "ascii": "Arial",
+            "hAnsi": "Arial",
+            "cs": "Arial",
+            "eastAsia": "Microsoft YaHei"
+          },
+          "b": {
+            "val": "0"
+          },
+          "i": {
+            "val": "0"
+          },
+          "color": {
+            "val": "000000"
+          },
+          "sz": {
+            "val": "19"
+          },
+          "u": {
+            "val": "none"
+          },
+          "szCs": {
+            "val": "19"
+          },
+          "bCs": {
+            "val": "0"
+          },
+          "iCs": {
+            "val": "0"
+          },
+          "lang": {
+            "val": "en-US",
+            "eastAsia": "zh-CN"
+          }
+        },
+        "Author": {
+          "rFonts": {
+            "ascii": "Arial",
+            "hAnsi": "Arial",
+            "cs": "Arial",
+            "eastAsia": "Microsoft YaHei"
+          },
+          "b": {},
+          "i": {
+            "val": "0"
+          },
+          "color": {
+            "val": "000000"
+          },
+          "sz": {
+            "val": "22"
+          },
+          "u": {
+            "val": "none"
+          },
+          "szCs": {
+            "val": "22"
+          },
+          "bCs": {
+            "val": "1"
+          },
+          "iCs": {
+            "val": "0"
+          },
+          "lang": {
+            "val": "en-US",
+            "eastAsia": "zh-CN"
+          }
+        },
+        "Affiliation": {
+          "rFonts": {
+            "ascii": "Arial",
+            "hAnsi": "Arial",
+            "cs": "Arial",
+            "eastAsia": "Microsoft YaHei"
+          },
+          "b": {
+            "val": "0"
+          },
+          "i": {
+            "val": "0"
+          },
+          "color": {
+            "val": "000000"
+          },
+          "sz": {
+            "val": "20"
+          },
+          "u": {
+            "val": "none"
+          },
+          "szCs": {
+            "val": "20"
+          },
+          "bCs": {
+            "val": "0"
+          },
+          "iCs": {
+            "val": "0"
+          },
+          "lang": {
+            "val": "en-US",
+            "eastAsia": "zh-CN"
+          }
+        },
+        "Articletype": {
+          "rFonts": {
+            "ascii": "Arial",
+            "hAnsi": "Arial",
+            "cs": "Arial",
+            "eastAsia": "Microsoft YaHei"
+          },
+          "b": {
+            "val": "0"
+          },
+          "i": {
+            "val": "0"
+          },
+          "color": {
+            "val": "000000"
+          },
+          "sz": {
+            "val": "18"
+          },
+          "u": {
+            "val": "none"
+          },
+          "szCs": {
+            "val": "18"
+          },
+          "bCs": {
+            "val": "0"
+          },
+          "iCs": {
+            "val": "0"
+          },
+          "lang": {
+            "val": "en-US",
+            "eastAsia": "zh-CN"
+          }
+        }
+      },
+      "pdf_font_resources": {
+        "/BCDEEE+MicrosoftYaHei": {
+          "weight": 400,
+          "embedded": true
+        },
+        "/BCDFEE+ArialMT": {
+          "weight": 400,
+          "embedded": true
+        },
+        "/BCDGEE+Arial-BoldMT": {
+          "weight": 700,
+          "embedded": true
+        },
+        "/BCDHEE+MicrosoftYaHei-Bold": {
+          "weight": 700,
+          "embedded": true
+        },
+        "/BCDIEE+SimSun": {
+          "weight": 400,
+          "embedded": true
+        },
+        "/BCDJEE+TimesNewRomanPSMT": {
+          "weight": 400,
+          "embedded": true
+        },
+        "/BCDKEE+TimesNewRomanPSMT": {
+          "weight": 400,
+          "embedded": true
+        }
+      },
+      "text_rendering_mode_counts": {},
+      "heading_character_fonts": {
+        "BCDHEE+MicrosoftYaHei-Bold": 77
+      },
+      "title_character_fonts": {
+        "BCDEEE+MicrosoftYaHei": 16,
+        "BCDFEE+ArialMT": 2
+      },
+      "body_han_character_fonts": {
+        "BCDIEE+SimSun": 6169
+      },
+      "body_latin_character_fonts": {
+        "BCDJEE+TimesNewRomanPSMT": 141
+      },
+      "checks": {
+        "no_theme_font_attributes": true,
+        "no_ms_gothic_or_calibri": true,
+        "all_pdf_fonts_embedded": true,
+        "no_fill_stroke_simulated_bold": true,
+        "headings_use_true_bold": true,
+        "main_title_regular_by_design": true,
+        "main_body_han_simsun": true,
+        "main_body_latin_times": true
+      }
+    },
+    "en": {
+      "pdf_sha256": "5a20f881577a5867f0b94c59594e8fe9c4b6d943b1a5ac088f50e43ab73f9ba3",
+      "docx_sha256": "2e0499265113d3d4a737b26c082b688428318feded127c53d1c677f70d842f69",
+      "page_count": 10,
+      "active_word_styles": {
+        "Normal": {
+          "rFonts": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman",
+            "cs": "Times New Roman",
+            "eastAsia": "Times New Roman"
+          },
+          "b": {
+            "val": "0"
+          },
+          "i": {
+            "val": "0"
+          },
+          "color": {
+            "val": "000000"
+          },
+          "sz": {
+            "val": "23"
+          },
+          "u": {
+            "val": "none"
+          },
+          "szCs": {
+            "val": "23"
+          },
+          "bCs": {
+            "val": "0"
+          },
+          "iCs": {
+            "val": "0"
+          },
+          "lang": {
+            "val": "en-US",
+            "eastAsia": "zh-CN"
+          }
+        },
+        "Header": {
+          "rFonts": {
+            "ascii": "Arial",
+            "hAnsi": "Arial",
+            "cs": "Arial",
+            "eastAsia": "Arial"
+          },
+          "b": {
+            "val": "0"
+          },
+          "i": {
+            "val": "0"
+          },
+          "color": {
+            "val": "000000"
+          },
+          "sz": {
+            "val": "19"
+          },
+          "u": {
+            "val": "none"
+          },
+          "szCs": {
+            "val": "19"
+          },
+          "bCs": {
+            "val": "0"
+          },
+          "iCs": {
+            "val": "0"
+          },
+          "lang": {
+            "val": "en-US",
+            "eastAsia": "zh-CN"
+          }
+        },
+        "Footer": {
+          "rFonts": {
+            "ascii": "Arial",
+            "hAnsi": "Arial",
+            "cs": "Arial",
+            "eastAsia": "Arial"
+          },
+          "b": {
+            "val": "0"
+          },
+          "i": {
+            "val": "0"
+          },
+          "color": {
+            "val": "000000"
+          },
+          "sz": {
+            "val": "19"
+          },
+          "u": {
+            "val": "none"
+          },
+          "szCs": {
+            "val": "19"
+          },
+          "bCs": {
+            "val": "0"
+          },
+          "iCs": {
+            "val": "0"
+          },
+          "lang": {
+            "val": "en-US",
+            "eastAsia": "zh-CN"
+          }
+        },
+        "Heading1": {
+          "rFonts": {
+            "ascii": "Arial",
+            "hAnsi": "Arial",
+            "cs": "Arial",
+            "eastAsia": "Arial"
+          },
+          "b": {},
+          "i": {
+            "val": "0"
+          },
+          "color": {
+            "val": "000000"
+          },
+          "sz": {
+            "val": "28"
+          },
+          "u": {
+            "val": "none"
+          },
+          "szCs": {
+            "val": "28"
+          },
+          "bCs": {
+            "val": "1"
+          },
+          "iCs": {
+            "val": "0"
+          },
+          "lang": {
+            "val": "en-US",
+            "eastAsia": "zh-CN"
+          }
+        },
+        "Title": {
+          "rFonts": {
+            "ascii": "Arial",
+            "hAnsi": "Arial",
+            "cs": "Arial",
+            "eastAsia": "Arial"
+          },
+          "b": {
+            "val": "0"
+          },
+          "i": {
+            "val": "0"
+          },
+          "color": {
+            "val": "000000"
+          },
+          "sz": {
+            "val": "50"
+          },
+          "u": {
+            "val": "none"
+          },
+          "szCs": {
+            "val": "50"
+          },
+          "bCs": {
+            "val": "0"
+          },
+          "iCs": {
+            "val": "0"
+          },
+          "lang": {
+            "val": "en-US",
+            "eastAsia": "zh-CN"
+          }
+        },
+        "Caption": {
+          "rFonts": {
+            "ascii": "Arial",
+            "hAnsi": "Arial",
+            "cs": "Arial",
+            "eastAsia": "Arial"
+          },
+          "b": {
+            "val": "0"
+          },
+          "i": {
+            "val": "0"
+          },
+          "color": {
+            "val": "000000"
+          },
+          "sz": {
+            "val": "19"
+          },
+          "u": {
+            "val": "none"
+          },
+          "szCs": {
+            "val": "19"
+          },
+          "bCs": {
+            "val": "0"
+          },
+          "iCs": {
+            "val": "0"
+          },
+          "lang": {
+            "val": "en-US",
+            "eastAsia": "zh-CN"
+          }
+        },
+        "Author": {
+          "rFonts": {
+            "ascii": "Arial",
+            "hAnsi": "Arial",
+            "cs": "Arial",
+            "eastAsia": "Arial"
+          },
+          "b": {},
+          "i": {
+            "val": "0"
+          },
+          "color": {
+            "val": "000000"
+          },
+          "sz": {
+            "val": "22"
+          },
+          "u": {
+            "val": "none"
+          },
+          "szCs": {
+            "val": "22"
+          },
+          "bCs": {
+            "val": "1"
+          },
+          "iCs": {
+            "val": "0"
+          },
+          "lang": {
+            "val": "en-US",
+            "eastAsia": "zh-CN"
+          }
+        },
+        "Affiliation": {
+          "rFonts": {
+            "ascii": "Arial",
+            "hAnsi": "Arial",
+            "cs": "Arial",
+            "eastAsia": "Arial"
+          },
+          "b": {
+            "val": "0"
+          },
+          "i": {
+            "val": "0"
+          },
+          "color": {
+            "val": "000000"
+          },
+          "sz": {
+            "val": "20"
+          },
+          "u": {
+            "val": "none"
+          },
+          "szCs": {
+            "val": "20"
+          },
+          "bCs": {
+            "val": "0"
+          },
+          "iCs": {
+            "val": "0"
+          },
+          "lang": {
+            "val": "en-US",
+            "eastAsia": "zh-CN"
+          }
+        },
+        "Articletype": {
+          "rFonts": {
+            "ascii": "Arial",
+            "hAnsi": "Arial",
+            "cs": "Arial",
+            "eastAsia": "Arial"
+          },
+          "b": {
+            "val": "0"
+          },
+          "i": {
+            "val": "0"
+          },
+          "color": {
+            "val": "000000"
+          },
+          "sz": {
+            "val": "18"
+          },
+          "u": {
+            "val": "none"
+          },
+          "szCs": {
+            "val": "18"
+          },
+          "bCs": {
+            "val": "0"
+          },
+          "iCs": {
+            "val": "0"
+          },
+          "lang": {
+            "val": "en-US",
+            "eastAsia": "zh-CN"
+          }
+        }
+      },
+      "pdf_font_resources": {
+        "/BCDEEE+ArialMT": {
+          "weight": 400,
+          "embedded": true
+        },
+        "/BCDFEE+Arial-BoldMT": {
+          "weight": 700,
+          "embedded": true
+        },
+        "/BCDGEE+TimesNewRomanPSMT": {
+          "weight": 400,
+          "embedded": true
+        },
+        "/BCDHEE+TimesNewRomanPSMT": {
+          "weight": 400,
+          "embedded": true
+        },
+        "/BCDIEE+ArialMT": {
+          "weight": 400,
+          "embedded": true
+        }
+      },
+      "text_rendering_mode_counts": {},
+      "heading_character_fonts": {
+        "BCDFEE+Arial-BoldMT": 236
+      },
+      "title_character_fonts": {
+        "BCDEEE+ArialMT": 39
+      },
+      "body_han_character_fonts": {},
+      "body_latin_character_fonts": {
+        "BCDGEE+TimesNewRomanPSMT": 19372,
+        "BCDHEE+TimesNewRomanPSMT": 169
+      },
+      "checks": {
+        "no_theme_font_attributes": true,
+        "no_ms_gothic_or_calibri": true,
+        "all_pdf_fonts_embedded": true,
+        "no_fill_stroke_simulated_bold": true,
+        "headings_use_true_bold": true,
+        "main_title_regular_by_design": true,
+        "main_body_han_simsun": null,
+        "main_body_latin_times": true
+      }
+    }
+  },
+  "scope": "Fresh current-file OOXML, PDF font-resource, text-rendering and extracted-glyph checks. Rasterized figure lettering is covered by separate visual review.",
+  "result": "PASS; full-page visual review is recorded separately in revision03_visual.md."
+}

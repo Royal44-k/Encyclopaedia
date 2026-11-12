@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1140" height="890" viewBox="0 0 1140 890">
+<defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10Z" fill="#52697d"/></marker></defs>
+<rect width="1140" height="890" fill="white"/><style>text{font-family:Arial,'Microsoft YaHei',sans-serif;fill:#162d3b}.title{font-size:34px;font-weight:700}.head{font-size:28px;font-weight:700}.body{font-size:26px}.small{font-size:24px;fill:#455a6c}.arrow{fill:none;stroke:#52697d;stroke-width:3;stroke-dasharray:9 7;marker-end:url(#a)}</style>
+<text x="40" y="48" class="title" text-anchor="start">Equal totals can conceal different coverage</text>
+<text x="40" y="91" class="small" text-anchor="start">Logical illustration only · Not data or model estimates</text>
+<text x="265" y="160" class="head" text-anchor="middle">Configuration A</text>
+<text x="200" y="218" class="small" text-anchor="middle">Error 1</text>
+<text x="300" y="218" class="small" text-anchor="middle">Error 2</text>
+<text x="400" y="218" class="small" text-anchor="middle">Error 3</text>
+<text x="90" y="286" class="small" text-anchor="middle">M1</text>
+<circle cx="200" cy="276" r="16" fill="#255b72" stroke="#255b72" stroke-width="3"/>
+<circle cx="300" cy="276" r="16" fill="#255b72" stroke="#255b72" stroke-width="3"/>
+<circle cx="400" cy="276" r="16" fill="#255b72" stroke="#255b72" stroke-width="3"/>
+<text x="90" y="371" class="small" text-anchor="middle">M2</text>
+<circle cx="200" cy="361" r="16" fill="#255b72" stroke="#255b72" stroke-width="3"/>
+<circle cx="300" cy="361" r="16" fill="#255b72" stroke="#255b72" stroke-width="3"/>
+<circle cx="400" cy="361" r="16" fill="white" stroke="#255b72" stroke-width="3"/>
+<text x="90" y="456" class="small" text-anchor="middle">M3</text>
+<circle cx="200" cy="446" r="16" fill="#255b72" stroke="#255b72" stroke-width="3"/>
+<circle cx="300" cy="446" r="16" fill="white" stroke="#255b72" stroke-width="3"/>
+<circle cx="400" cy="446" r="16" fill="white" stroke="#255b72" stroke-width="3"/>
+<text x="265" y="535" class="body" text-anchor="middle">Six qualifying cells in total</text>
+<text x="265" y="580" class="small" text-anchor="middle">With member 1 unavailable</text>
+<rect x="155" y="610" width="90" height="65" rx="8" fill="#edf3f8" stroke="#aebfcc"/>
+<text x="200" y="653" class="head" text-anchor="middle">2</text>
+<rect x="255" y="610" width="90" height="65" rx="8" fill="#edf3f8" stroke="#aebfcc"/>
+<text x="300" y="653" class="head" text-anchor="middle">1</text>
+<rect x="355" y="610" width="90" height="65" rx="8" fill="#f2e8dc" stroke="#aebfcc"/>
+<text x="400" y="653" class="head" text-anchor="middle">0</text>
+<text x="265" y="719" class="small" text-anchor="middle">Qualifying members per error class</text>
+<text x="840" y="160" class="head" text-anchor="middle">Configuration B</text>
+<text x="775" y="218" class="small" text-anchor="middle">Error 1</text>
+<text x="875" y="218" class="small" text-anchor="middle">Error 2</text>
+<text x="975" y="218" class="small" text-anchor="middle">Error 3</text>
+<text x="665" y="286" class="small" text-anchor="middle">M1</text>
+<circle cx="775" cy="276" r="16" fill="#255b72" stroke="#255b72" stroke-width="3"/>
+<circle cx="875" cy="276" r="16" fill="#255b72" stroke="#255b72" stroke-width="3"/>
+<circle cx="975" cy="276" r="16" fill="white" stroke="#255b72" stroke-width="3"/>
+<text x="665" y="371" class="small" text-anchor="middle">M2</text>
+<circle cx="775" cy="361" r="16" fill="white" stroke="#255b72" stroke-width="3"/>
+<circle cx="875" cy="361" r="16" fill="#255b72" stroke="#255b72" stroke-width="3"/>
+<circle cx="975" cy="361" r="16" fill="#255b72" stroke="#255b72" stroke-width="3"/>
+<text x="665" y="456" class="small" text-anchor="middle">M3</text>
+<circle cx="775" cy="446" r="16" fill="#255b72" stroke="#255b72" stroke-width="3"/>
+<circle cx="875" cy="446" r="16" fill="white" stroke="#255b72" stroke-width="3"/>
+<circle cx="975" cy="446" r="16" fill="#255b72" stroke="#255b72" stroke-width="3"/>
+<text x="840" y="535" class="body" text-anchor="middle">Six qualifying cells in total</text>
+<text x="840" y="580" class="small" text-anchor="middle">With member 1 unavailable</text>
+<rect x="730" y="610" width="90" height="65" rx="8" fill="#edf3f8" stroke="#aebfcc"/>
+<text x="775" y="653" class="head" text-anchor="middle">1</text>
+<rect x="830" y="610" width="90" height="65" rx="8" fill="#edf3f8" stroke="#aebfcc"/>
+<text x="875" y="653" class="head" text-anchor="middle">1</text>
+<rect x="930" y="610" width="90" height="65" rx="8" fill="#edf3f8" stroke="#aebfcc"/>
+<text x="975" y="653" class="head" text-anchor="middle">2</text>
+<text x="840" y="719" class="small" text-anchor="middle">Qualifying members per error class</text>
+<text x="40" y="788" class="small" text-anchor="start">Filled circle: stipulated task criterion met. Open circle: criterion not met.</text>
+<text x="40" y="832" class="small" text-anchor="start">No claim that routing caused these patterns, or that B performs better overall.</text>
+</svg>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="522" height="215" preserveAspectRatio="xMinYMin meet" viewBox="0 0 522 215" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="522" height="215"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-215)" style="clip-path: url(#clip)">
+		<g transform="">
+			<text x="0" y="200" style="font-family: SansBold; font-size: 11px;fill: rgb(6%,9%,12%); stroke:none;" transform="translate(0,400) scale(1,-1)">a</text>
+			<text x="16" y="200" style="font-family: SansBold; font-size: 9.5px;fill: rgb(6%,9%,12%); stroke:none;" transform="translate(0,400) scale(1,-1)">Long working hours</text>
+			<text x="178" y="200" style="font-family: SansBold; font-size: 11px;fill: rgb(6%,9%,12%); stroke:none;" transform="translate(0,400) scale(1,-1)">b</text>
+			<text x="194" y="200" style="font-family: SansBold; font-size: 9.5px;fill: rgb(6%,9%,12%); stroke:none;" transform="translate(0,400) scale(1,-1)">Controlled diet trial</text>
+			<path d="M 168,14 L 168,212 Z" style="stroke: rgb(85%,87%,89%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<text x="356" y="200" style="font-family: SansBold; font-size: 11px;fill: rgb(6%,9%,12%); stroke:none;" transform="translate(0,400) scale(1,-1)">c</text>
+			<text x="372" y="200" style="font-family: SansBold; font-size: 9.5px;fill: rgb(6%,9%,12%); stroke:none;" transform="translate(0,400) scale(1,-1)">Sleep extension trial</text>
+			<path d="M 346,14 L 346,212 Z" style="stroke: rgb(85%,87%,89%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 39.064408,71 L 39.064408,67 Z" style="stroke: rgb(34%,39%,41%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<text x="36.83979895974659" y="53" style="font-family: Sans; font-size: 8px;fill: rgb(6%,9%,12%); stroke:none;" transform="translate(0,106) scale(1,-1)">1</text>
+			<path d="M 73.78495,71 L 73.78495,67 Z" style="stroke: rgb(34%,39%,41%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<text x="68.22440302980738" y="53" style="font-family: Sans; font-size: 8px;fill: rgb(6%,9%,12%); stroke:none;" transform="translate(0,106) scale(1,-1)">1.2</text>
+			<path d="M 116.279458,71 L 116.279458,67 Z" style="stroke: rgb(34%,39%,41%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<text x="110.71891155493921" y="53" style="font-family: Sans; font-size: 8px;fill: rgb(6%,9%,12%); stroke:none;" transform="translate(0,106) scale(1,-1)">1.5</text>
+			<path d="M 151,71 L 151,67 Z" style="stroke: rgb(34%,39%,41%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<text x="145.439453125" y="53" style="font-family: Sans; font-size: 8px;fill: rgb(6%,9%,12%); stroke:none;" transform="translate(0,106) scale(1,-1)">1.8</text>
+			<path d="M 19,71 L 151,71 Z" style="stroke: rgb(34%,39%,41%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 39.064408,80 L 39.064408,143 Z" style="stroke: rgb(34%,39%,41%); stroke-linecap: butt; stroke-width: 0.6; stroke-dasharray: 2, 2;"/>
+			<path d="M 62.339014,112 L 129.756419,112 Z" style="stroke: rgb(9%,49%,53%); stroke-linecap: butt; stroke-width: 2;"/>
+			<path d="M 62.339014,107 L 62.339014,117 Z" style="stroke: rgb(9%,49%,53%); stroke-linecap: butt; stroke-width: 1.2;"/>
+			<path d="M 129.756419,107 L 129.756419,117 Z" style="stroke: rgb(9%,49%,53%); stroke-linecap: butt; stroke-width: 1.2;"/>
+			<circle cx="96.21505009519262" cy="112" r="3.5" style="stroke: rgb(9%,49%,53%); stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,49%,53%); fill-rule: evenodd;"/>
+			<text x="57.486572265625" y="164" style="font-family: SansBold; font-size: 15px;fill: rgb(6%,9%,12%); stroke:none;" transform="translate(0,328) scale(1,-1)">RR 1.35</text>
+			<text x="48.97363281249999" y="146" style="font-family: Sans; font-size: 9px;fill: rgb(6%,9%,12%); stroke:none;" transform="translate(0,292) scale(1,-1)">95% CI 1.13–1.61</text>
+			<text x="33.64023437499999" y="35" style="font-family: Sans; font-size: 8.4px;fill: rgb(6%,9%,12%); stroke:none;" transform="translate(0,70) scale(1,-1)">Stroke incidence · log scale</text>
+			<text x="31.662109375" y="19" style="font-family: Sans; font-size: 8px;fill: rgb(6%,9%,12%); stroke:none;" transform="translate(0,38) scale(1,-1)">≥55 versus 35–40 hours/week</text>
+			<path d="M 191,71 L 325,71 Z" style="stroke: rgb(34%,39%,41%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 191,71 L 191,67 Z" style="stroke: rgb(34%,39%,41%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<text x="181.990234375" y="53" style="font-family: Sans; font-size: 8px;fill: rgb(6%,9%,12%); stroke:none;" transform="translate(0,106) scale(1,-1)">−500</text>
+			<path d="M 244.6,71 L 244.6,67 Z" style="stroke: rgb(34%,39%,41%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<text x="242.375390625" y="53" style="font-family: Sans; font-size: 8px;fill: rgb(6%,9%,12%); stroke:none;" transform="translate(0,106) scale(1,-1)">0</text>
+			<path d="M 298.2,71 L 298.2,67 Z" style="stroke: rgb(34%,39%,41%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<text x="291.526171875" y="53" style="font-family: Sans; font-size: 8px;fill: rgb(6%,9%,12%); stroke:none;" transform="translate(0,106) scale(1,-1)">500</text>
+			<path d="M 244.6,80 L 244.6,143 Z" style="stroke: rgb(34%,39%,41%); stroke-linecap: butt; stroke-width: 0.6; stroke-dasharray: 2, 2;"/>
+			<path d="M 287.6944,112 L 310.4208,112 Z" style="stroke: rgb(77%,38%,24%); stroke-linecap: butt; stroke-width: 2;"/>
+			<path d="M 287.6944,107 L 287.6944,117 Z" style="stroke: rgb(77%,38%,24%); stroke-linecap: butt; stroke-width: 1.2;"/>
+			<path d="M 310.4208,107 L 310.4208,117 Z" style="stroke: rgb(77%,38%,24%); stroke-linecap: butt; stroke-width: 1.2;"/>
+			<circle cx="299.0576" cy="112" r="3.5" style="stroke: rgb(77%,38%,24%); stroke-linecap: butt; stroke-width: 1; fill: rgb(77%,38%,24%); fill-rule: evenodd;"/>
+			<text x="214.60048828125" y="164" style="font-family: SansBold; font-size: 13.4px;fill: rgb(6%,9%,12%); stroke:none;" transform="translate(0,328) scale(1,-1)">+508 kcal/day</text>
+			<text x="234.551953125" y="146" style="font-family: Sans; font-size: 8.8px;fill: rgb(6%,9%,12%); stroke:none;" transform="translate(0,292) scale(1,-1)">±1 SE (106)</text>
+			<text x="197.18388671875" y="35" style="font-family: Sans; font-size: 7.9px;fill: rgb(6%,9%,12%); stroke:none;" transform="translate(0,70) scale(1,-1)">Energy intake difference (kcal/day)</text>
+			<path d="M 369,71 L 503,71 Z" style="stroke: rgb(34%,39%,41%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 369,71 L 369,67 Z" style="stroke: rgb(34%,39%,41%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<text x="359.990234375" y="53" style="font-family: Sans; font-size: 8px;fill: rgb(6%,9%,12%); stroke:none;" transform="translate(0,106) scale(1,-1)">−500</text>
+			<path d="M 422.6,71 L 422.6,67 Z" style="stroke: rgb(34%,39%,41%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<text x="420.375390625" y="53" style="font-family: Sans; font-size: 8px;fill: rgb(6%,9%,12%); stroke:none;" transform="translate(0,106) scale(1,-1)">0</text>
+			<path d="M 476.2,71 L 476.2,67 Z" style="stroke: rgb(34%,39%,41%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<text x="469.526171875" y="53" style="font-family: Sans; font-size: 8px;fill: rgb(6%,9%,12%); stroke:none;" transform="translate(0,106) scale(1,-1)">500</text>
+			<path d="M 422.6,80 L 422.6,143 Z" style="stroke: rgb(34%,39%,41%); stroke-linecap: butt; stroke-width: 0.6; stroke-dasharray: 2, 2;"/>
+			<path d="M 380.4704,112 L 406.8416,112 Z" style="stroke: rgb(23%,37%,57%); stroke-linecap: butt; stroke-width: 2;"/>
+			<path d="M 380.4704,107 L 380.4704,117 Z" style="stroke: rgb(23%,37%,57%); stroke-linecap: butt; stroke-width: 1.2;"/>
+			<path d="M 406.8416,107 L 406.8416,117 Z" style="stroke: rgb(23%,37%,57%); stroke-linecap: butt; stroke-width: 1.2;"/>
+			<circle cx="393.656" cy="112" r="3.5" style="stroke: rgb(23%,37%,57%); stroke-linecap: butt; stroke-width: 1; fill: rgb(23%,37%,57%); fill-rule: evenodd;"/>
+			<text x="392.60048828125" y="164" style="font-family: SansBold; font-size: 13.4px;fill: rgb(6%,9%,12%); stroke:none;" transform="translate(0,328) scale(1,-1)">−270 kcal/day</text>
+			<text x="394.4126953125" y="146" style="font-family: Sans; font-size: 8.8px;fill: rgb(6%,9%,12%); stroke:none;" transform="translate(0,292) scale(1,-1)">95% CI −393 to −147</text>
+			<text x="375.18388671875" y="35" style="font-family: Sans; font-size: 7.9px;fill: rgb(6%,9%,12%); stroke:none;" transform="translate(0,70) scale(1,-1)">Energy intake difference (kcal/day)</text>
+			<text x="195.3021484375" y="19" style="font-family: Sans; font-size: 7.7px;fill: rgb(6%,9%,12%); stroke:none;" transform="translate(0,38) scale(1,-1)">Ultra-processed versus unprocessed</text>
+			<text x="390.41796875" y="19" style="font-family: Sans; font-size: 8px;fill: rgb(6%,9%,12%); stroke:none;" transform="translate(0,38) scale(1,-1)">Change relative to control</text>
+		</g>
+	</g>
+</svg>

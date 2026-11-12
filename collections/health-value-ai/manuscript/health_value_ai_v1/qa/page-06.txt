@@ -1,0 +1,32 @@
+Health economic value in the AI era | Author review draft 
+6 
+A comparative health consequence profile 
+The proposed profile begins with a feasible decision, not a health score. For an individual i, an 
+option a is compared with an available alternative b over horizon T. The record contains changes 
+in disposable resources, the allocation of time, physical and mental functioning, experience, and 
+relevant capabilities, together with constraints and the provenance of each prediction. Figure 1 135 
+summarizes these stages. Table 1 specifies a minimum record rather than an item bank that every 
+study must administer. 
+The first step is to make the counterfactual complete. A week of overtime followed by three 
+weeks of ordinary activity cannot be compared with four weeks of overtime while ignoring the 
+remaining weeks in the first option. Costs should be incremental and attributable to the option: 140 
+total income is different from an overtime supplement, and a medical expenditure is different 
+from a health loss. The profile should also identify effects on other people. An individual 
+account and a household or societal account may require different perspectives; they should not 
+be silently merged. 
+The second step is to distinguish outcomes from their determinants. Sleep schedules, diet and 145 
+sedentary time can be exposures or intermediate variables; symptoms, functioning and clinical 
+outcomes belong to other parts of the causal account. Counting each stage as an independent 
+welfare loss can duplicate the same consequence. WHO's ICF framework provides a useful 
+distinction between functioning and its environmental context.[18] For this application, skin 
+symptoms, vision, muscle function or metabolic measures should be included when they have a 150 
+defined role in the decision, not because a larger testing panel appears more comprehensive. 
+There is no universally favourable direction for every laboratory value. 
+The third step is to match measures to their constructs and time scales. For example, WHO-5 
+measures mental well-being over the preceding two weeks; it is not a measure of total health 
+value or a diagnostic conclusion.[19] Independent task performance, perceived autonomy and 155 
+immediate enjoyment require their own interpretation. A person can value an activity's pleasure 
+without claiming that it improves long-term health. Equally, a short-term functional change 
+should not be described as permanent damage without evidence of persistence and mechanism. 
+The fourth step is to make uncertainty visible. Each predicted consequence should specify its 
+source population, comparison, outcome, horizon and uncertainty, and distinguish an observed 160 

@@ -1,0 +1,33 @@
+{
+  "status": "hypothetical",
+  "ai_time": [
+    {
+      "saved_minutes": 240,
+      "added_task_minutes": 0,
+      "other_work_minutes": 0,
+      "work_change_minutes": -240,
+      "nonwork_change_if_fixed_budget": 240
+    },
+    {
+      "saved_minutes": 240,
+      "added_task_minutes": 180,
+      "other_work_minutes": 0,
+      "work_change_minutes": -60,
+      "nonwork_change_if_fixed_budget": 60
+    },
+    {
+      "saved_minutes": 240,
+      "added_task_minutes": 300,
+      "other_work_minutes": 0,
+      "work_change_minutes": 60,
+      "nonwork_change_if_fixed_budget": -60
+    }
+  ],
+  "overtime": {
+    "shared_window_days": 28,
+    "extra_supplement_CNY": 90000,
+    "extra_overtime_days": 21
+  },
+  "health_effects": "not estimated",
+  "welfare_ranking": "not determined"
+}

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="522" height="275" preserveAspectRatio="xMinYMin meet" viewBox="0 0 522 275" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="522" height="275"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-275)" style="clip-path: url(#clip)">
+		<g transform="">
+			<text x="0" y="260" style="font-family: SansBold; font-size: 11px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,520) scale(1,-1)">a</text>
+			<text x="17" y="260" style="font-family: CNHei; font-size: 10px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,520) scale(1,-1)">使测量与构念相匹配</text>
+			<ellipse cx="258.0" cy="150.0" rx="66.0" ry="85.0" style="stroke: rgb(80%,84%,85%); stroke-linecap: butt; stroke-width: 0.8; fill: none; fill-rule: evenodd;"/>
+			<g transform=" matrix(1.15,0,0,1.15,258,133)">
+				<circle cx="0" cy="58" r="12" style="stroke: rgb(22%,39%,62%); stroke-linecap: butt; stroke-width: 1.1; fill: rgb(86%,90%,93%); fill-rule: evenodd;"/>
+				<path d="M -7 44 C -22 42 -24 31 -27 15 L -32 -6 C -33 -12 -27 -14 -24 -9 L -15 18 L -13 -12 L -15 -53 C -14 -60 -5 -59 -5 -52 L 0 -17 L 5 -52 C 5 -59 14 -60 15 -53 L 13 -12 L 15 18 L 24 -9 C 27 -14 33 -12 32 -6 L 27 15 C 24 31 22 42 7 44 Z " style="stroke: rgb(22%,39%,62%); stroke-linecap: butt; stroke-width: 1.2; fill: rgb(91%,94%,95%); fill-rule: evenodd;"/>
+			</g>
+			<text x="0" y="215" style="font-family: CNHei; font-size: 9px;fill: rgb(50%,40%,60%); stroke:none;" transform="translate(0,430) scale(1,-1)">认知与注意</text>
+			<text x="0" y="200" style="font-family: CNHei; font-size: 8.2px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,400) scale(1,-1)">独立任务表现</text>
+			<text x="0" y="188" style="font-family: CNHei; font-size: 8.2px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,376) scale(1,-1)">自觉困难程度</text>
+			<path d="M 208,205 L 187,205 Z" style="stroke: rgb(50%,40%,60%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<path d="M 187,205 L 166,205 Z" style="stroke: rgb(50%,40%,60%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<circle cx="208" cy="205" r="2.6" style="stroke: rgb(50%,40%,60%); stroke-linecap: butt; stroke-width: 1; fill: rgb(50%,40%,60%); fill-rule: evenodd;"/>
+			<text x="350" y="215" style="font-family: CNHei; font-size: 9px;fill: rgb(50%,40%,60%); stroke:none;" transform="translate(0,430) scale(1,-1)">心理福祉</text>
+			<text x="350" y="200" style="font-family: CNHei; font-size: 8.2px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,400) scale(1,-1)">WHO-5：此前两周</text>
+			<text x="350" y="188" style="font-family: CNHei; font-size: 8.2px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,376) scale(1,-1)">并非诊断工具</text>
+			<path d="M 308,205 L 324.5,205 Z" style="stroke: rgb(50%,40%,60%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<path d="M 324.5,205 L 341,205 Z" style="stroke: rgb(50%,40%,60%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<circle cx="308" cy="205" r="2.6" style="stroke: rgb(50%,40%,60%); stroke-linecap: butt; stroke-width: 1; fill: rgb(50%,40%,60%); fill-rule: evenodd;"/>
+			<text x="0" y="155" style="font-family: CNHei; font-size: 9px;fill: rgb(22%,39%,62%); stroke:none;" transform="translate(0,310) scale(1,-1)">视力与皮肤</text>
+			<text x="0" y="140" style="font-family: CNHei; font-size: 8.2px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,280) scale(1,-1)">相关症状</text>
+			<text x="0" y="128" style="font-family: CNHei; font-size: 8.2px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,256) scale(1,-1)">对日常活动的影响</text>
+			<path d="M 192,145 L 179,145 Z" style="stroke: rgb(22%,39%,62%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<path d="M 179,145 L 166,145 Z" style="stroke: rgb(22%,39%,62%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<circle cx="192" cy="145" r="2.6" style="stroke: rgb(22%,39%,62%); stroke-linecap: butt; stroke-width: 1; fill: rgb(22%,39%,62%); fill-rule: evenodd;"/>
+			<text x="350" y="155" style="font-family: CNHei; font-size: 9px;fill: rgb(22%,39%,62%); stroke:none;" transform="translate(0,310) scale(1,-1)">代谢指标</text>
+			<text x="350" y="140" style="font-family: CNHei; font-size: 8.2px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,280) scale(1,-1)">血糖或血脂指标</text>
+			<text x="350" y="128" style="font-family: CNHei; font-size: 8.2px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,256) scale(1,-1)">需有明确临床作用</text>
+			<path d="M 324,145 L 332.5,145 Z" style="stroke: rgb(22%,39%,62%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<path d="M 332.5,145 L 341,145 Z" style="stroke: rgb(22%,39%,62%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<circle cx="324" cy="145" r="2.6" style="stroke: rgb(22%,39%,62%); stroke-linecap: butt; stroke-width: 1; fill: rgb(22%,39%,62%); fill-rule: evenodd;"/>
+			<text x="0" y="95" style="font-family: CNHei; font-size: 9px;fill: rgb(8%,49%,50%); stroke:none;" transform="translate(0,190) scale(1,-1)">身体能力</text>
+			<text x="0" y="80" style="font-family: CNHei; font-size: 8.2px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,160) scale(1,-1)">肌肉功能或力量</text>
+			<text x="0" y="68" style="font-family: CNHei; font-size: 8.2px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,136) scale(1,-1)">活动受限</text>
+			<path d="M 216,85 L 191,85 Z" style="stroke: rgb(8%,49%,50%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<path d="M 191,85 L 166,85 Z" style="stroke: rgb(8%,49%,50%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<circle cx="216" cy="85" r="2.6" style="stroke: rgb(8%,49%,50%); stroke-linecap: butt; stroke-width: 1; fill: rgb(8%,49%,50%); fill-rule: evenodd;"/>
+			<text x="350" y="95" style="font-family: CNHei; font-size: 9px;fill: rgb(71%,37%,25%); stroke:none;" transform="translate(0,190) scale(1,-1)">体验与能动性</text>
+			<text x="350" y="80" style="font-family: CNHei; font-size: 8.2px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,160) scale(1,-1)">愉悦、痛苦与选择</text>
+			<text x="350" y="68" style="font-family: CNHei; font-size: 8.2px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,136) scale(1,-1)">目标与真实决定权</text>
+			<path d="M 300,85 L 320.5,85 Z" style="stroke: rgb(71%,37%,25%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<path d="M 320.5,85 L 341,85 Z" style="stroke: rgb(71%,37%,25%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<circle cx="300" cy="85" r="2.6" style="stroke: rgb(71%,37%,25%); stroke-linecap: butt; stroke-width: 1; fill: rgb(71%,37%,25%); fill-rule: evenodd;"/>
+			<path d="M 0,58 L 522,58 Z" style="stroke: rgb(80%,84%,85%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<text x="0" y="43" style="font-family: SansBold; font-size: 11px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,86) scale(1,-1)">b</text>
+			<text x="17" y="43" style="font-family: CNHei; font-size: 10px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,86) scale(1,-1)">区分原因、测量与后果</text>
+			<text x="0" y="25" style="font-family: CNHei; font-size: 9px;fill: rgb(8%,49%,50%); stroke:none;" transform="translate(0,50) scale(1,-1)">暴露</text>
+			<g transform="">
+				<text x="0" y="10" style="font-family: CNHei; font-size: 7.7px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,20) scale(1,-1)">睡眠安排 </text>
+				<text x="34.65" y="10" style="font-family: Sans; font-size: 7.7px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,20) scale(1,-1)">•</text>
+				<text x="37.345751953124996" y="10" style="font-family: CNHei; font-size: 7.7px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,20) scale(1,-1)"> 饮食 </text>
+				<text x="60.445751953125" y="10" style="font-family: Sans; font-size: 7.7px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,20) scale(1,-1)">•</text>
+				<text x="63.141503906249994" y="10" style="font-family: CNHei; font-size: 7.7px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,20) scale(1,-1)"> 久坐</text>
+			</g>
+			<text x="185" y="25" style="font-family: CNHei; font-size: 9px;fill: rgb(22%,39%,62%); stroke:none;" transform="translate(0,50) scale(1,-1)">观察状态</text>
+			<g transform="">
+				<text x="185" y="10" style="font-family: CNHei; font-size: 7.7px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,20) scale(1,-1)">症状 </text>
+				<text x="204.25" y="10" style="font-family: Sans; font-size: 7.7px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,20) scale(1,-1)">•</text>
+				<text x="206.945751953125" y="10" style="font-family: CNHei; font-size: 7.7px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,20) scale(1,-1)"> 功能 </text>
+				<text x="230.045751953125" y="10" style="font-family: Sans; font-size: 7.7px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,20) scale(1,-1)">•</text>
+				<text x="232.74150390625002" y="10" style="font-family: CNHei; font-size: 7.7px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,20) scale(1,-1)"> 检查</text>
+			</g>
+			<text x="371" y="25" style="font-family: CNHei; font-size: 9px;fill: rgb(71%,37%,25%); stroke:none;" transform="translate(0,50) scale(1,-1)">被重视的后果</text>
+			<g transform="">
+				<text x="371" y="10" style="font-family: CNHei; font-size: 7.7px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,20) scale(1,-1)">日常生活 </text>
+				<text x="405.65" y="10" style="font-family: Sans; font-size: 7.7px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,20) scale(1,-1)">•</text>
+				<text x="408.345751953125" y="10" style="font-family: CNHei; font-size: 7.7px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,20) scale(1,-1)"> 体验 </text>
+				<text x="431.445751953125" y="10" style="font-family: Sans; font-size: 7.7px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,20) scale(1,-1)">•</text>
+				<text x="434.14150390625" y="10" style="font-family: CNHei; font-size: 7.7px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,20) scale(1,-1)"> 能动性</text>
+			</g>
+			<path d="M 160,24 L 177,24 Z" style="stroke: rgb(34%,41%,45%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="177 24, 172 21.5, 172 26.5" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(34%,41%,45%); fill-rule: evenodd;"/>
+			<path d="M 346,24 L 363,24 Z" style="stroke: rgb(34%,41%,45%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="363 24, 358 21.5, 358 26.5" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(34%,41%,45%); fill-rule: evenodd;"/>
+		</g>
+	</g>
+</svg>

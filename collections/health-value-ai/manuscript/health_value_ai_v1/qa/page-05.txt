@@ -1,0 +1,33 @@
+Health economic value in the AI era | Author review draft 
+5 
+Equation (1) is an accounting identity, not an estimated behavioural relationship. Under the 100 
+additional assumption of a fixed total time budget, non-work time changes by −ΔW; its 
+composition remains undetermined. In a hypothetical example, saving 240 minutes while adding 
+300 minutes of work, with B = 0, increases total work by 60 minutes. This example contains no 
+health coefficient. Establishing a health pathway requires observing what activities change and 
+the relevant outcomes, rather than converting minutes saved directly into health gains. 105 
+Second, assisted performance and independent capability may diverge. A classroom experiment 
+comparing different generative AI tutoring arrangements showed that the design of assistance 
+matters for later unaided mathematics performance.[13] The outcome concerns learning in a 
+particular educational setting, not general cognitive deterioration. The implication for assessment 
+is to distinguish successful performance with assistance, retained ability without it, and the 110 
+person's reasons for delegating a task. Delegation can be valuable even when independent 
+mastery is not the objective. 
+Third, immediate experience and lasting functioning answer different questions. In the 
+longitudinal component of research on AI companions, interaction relieved loneliness 
+immediately, but the reported pattern did not establish persistent improvement before subsequent 115 
+interactions.[14] In medical information tasks, evaluating the user matters as much as evaluating 
+the model: a randomized study found that ordinary information sources outperformed pooled AI-
+assisted users in identifying relevant conditions in hypothetical scenarios.[15] Neither finding 
+supports a general conclusion that AI is beneficial or harmful. Earlier research on Facebook 
+deactivation likewise illustrates that different welfare-relevant outcomes can move in different 120 
+directions, although that study is not evidence about generative AI.[16] 
+These distinctions motivate a common comparison procedure across work, information use and 
+leisure. They do not imply that all digital activities share an exposure or mechanism. 
+Recommendation feeds, conversational companions, clinical prediction tools and writing 
+assistants should be recorded separately, with their versions, uses and alternatives. 125 
+Recent work on health-literate AI already emphasizes comprehension, agency, accountability 
+and proportionality.[17] This closely related argument reinforces the need to define a narrower 
+contribution. The proposed profile focuses on the economic comparison of feasible activities 
+over time and on whether an additional comparison module improves decisions. Supporting 
+understanding or invoking agency alone would not distinguish it from existing work. 130 

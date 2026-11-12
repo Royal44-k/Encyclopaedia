@@ -1,0 +1,56 @@
+[
+  {
+    "id": "A01",
+    "authors": ["Anthropic"],
+    "title": "Equipping agents for the real world with Agent Skills",
+    "year": 2025,
+    "venue": "Anthropic Engineering",
+    "url": "https://www.anthropic.com/research/equipping-agents-for-the-real-world-with-agent-skills",
+    "formatted_reference": "Anthropic. Equipping agents for the real world with Agent Skills. Anthropic Engineering (16 October 2025; updated 18 December 2025).",
+    "read_level": "Primary developer page, sections on anatomy, evaluation and security read on 2026-11-08",
+    "support": "A Skill can contain instructions and optional scripts/resources; product architecture definition only.",
+    "boundary": "Developer explanation is not independent evidence of team capability or productivity; Tencent implementation not inspected.",
+    "human_verification": "pending"
+  },
+  {
+    "id": "A02",
+    "authors": ["Xiangyi Li", "Wenbo Chen", "Yimin Liu", "et al."],
+    "title": "SkillsBench: Benchmarking How Well Agent Skills Work Across Diverse Tasks",
+    "year": 2026,
+    "venue": "Preprint, 13 February 2026",
+    "url": "https://www.skillsbench.ai/skillsbench.pdf",
+    "formatted_reference": "Li, X. et al. SkillsBench: Benchmarking How Well Agent Skills Work Across Diverse Tasks. Preprint (13 February 2026).",
+    "read_level": "Original PDF abstract and technical methodology, PDF pages 1–3, read on 2026-11-08",
+    "support": "Technical benchmark compares agents with no Skills, curated Skills and self-generated Skills, using task verifiers.",
+    "boundary": "Not a study of employee handover, long-term organizational reuse or human maintenance costs. Abstract/task count inconsistency noted; no numerical result used.",
+    "human_verification": "pending"
+  },
+  {
+    "id": "A03",
+    "authors": ["Gabriel Szulanski"],
+    "title": "Exploring internal stickiness: Impediments to the transfer of best practice within the firm",
+    "year": 1996,
+    "venue": "Strategic Management Journal 17(S2), 27–43",
+    "doi": "10.1002/smj.4250171105",
+    "url": "https://josephmahoney.web.illinois.edu/BADM504_Fall%202019/Szulanski%20(1996).pdf",
+    "formatted_reference": "Szulanski, G. Exploring internal stickiness: Impediments to the transfer of best practice within the firm. Strategic Management Journal 17(S2), 27–43 (1996).",
+    "read_level": "Original article PDF, abstract and transfer-process/conceptual sections, printed pp.27–30; publisher metadata matched on 2026-11-08",
+    "support": "Knowledge transfer problems relate to recipient absorptive capacity, causal ambiguity and source-recipient relations; transfer as a process rather than mere diffusion.",
+    "boundary": "Observational best-practice transfers in established firms, predates generative AI; no experimental causal identification of the proposed handover design.",
+    "human_verification": "pending"
+  },
+  {
+    "id": "A04",
+    "authors": ["Maurizio Zollo", "Sidney G. Winter"],
+    "title": "Deliberate Learning and the Evolution of Dynamic Capabilities",
+    "year": 2002,
+    "venue": "Organization Science 13(3), 339–351",
+    "doi": "10.1287/orsc.13.3.339.2780",
+    "url": "https://pubsonline.informs.org/doi/10.1287/orsc.13.3.339.2780",
+    "formatted_reference": "Zollo, M. & Winter, S. G. Deliberate learning and the evolution of dynamic capabilities. Organization Science 13(3), 339–351 (2002).",
+    "read_level": "Publisher abstract and bibliographic record opened and read on 2026-11-08; full text not read in this revision",
+    "support": "Conceptual analysis of experience, articulation and codification; effectiveness depends on task frequency, homogeneity and causal ambiguity; counterintuitive argument for codification at lower task frequency/homogeneity.",
+    "boundary": "Theory and hypotheses, not empirical support for the proposed AI method sheet; no claim to have read full paper.",
+    "human_verification": "pending"
+  }
+]

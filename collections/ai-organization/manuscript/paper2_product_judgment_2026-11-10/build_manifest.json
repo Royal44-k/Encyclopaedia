@@ -1,0 +1,42 @@
+{
+  "references": {
+    "R01": 1,
+    "R02": 2,
+    "R07": 3,
+    "R04": 4,
+    "R06": 5,
+    "R05": 6,
+    "R09": 7,
+    "R10": 8,
+    "R12": 9,
+    "R03": 10,
+    "R11": 11,
+    "R08": 12
+  },
+  "builds": [
+    {
+      "lang": "zh",
+      "title": "从快速试做到判断积累",
+      "figures": 3,
+      "scenarios": 0,
+      "author": "Richard T.Millian",
+      "affiliation": "Hangzhou Normal University",
+      "references": 12,
+      "paragraphs": 32,
+      "source_sha256": "59ded027f7bd8a1eb7adb1a63c73de5904939c0319210c581b336b9b87efea64"
+    },
+    {
+      "lang": "en",
+      "title": "Building product judgment through AI-assisted experimentation",
+      "figures": 3,
+      "scenarios": 0,
+      "author": "Richard T.Millian",
+      "affiliation": "Hangzhou Normal University",
+      "references": 12,
+      "paragraphs": 32,
+      "source_sha256": "c587a7cb2263cdfd23e018ce1254179dc297a70dfd382f88be57f9fe18550c94"
+    }
+  ],
+  "human_verification": "pending",
+  "submission_ready": false
+}

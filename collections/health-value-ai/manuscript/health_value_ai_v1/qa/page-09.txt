@@ -1,0 +1,32 @@
+Health economic value in the AI era | Author review draft 
+9 
+separate module on time allocation, intertemporal consequences and uncertainty. The original 220 
+Ottawa guide would remain intact.[10] This design tests the added package, including its burden. 
+It cannot attribute an effect to each component; a component study would require a separate 
+design. 
+Decision quality should be distinguished from the process of deciding and from what happens 
+afterwards.[23] The proposed primary outcome is independently scored understanding of the 225 
+common information, including the comparator, horizon and limits of inference. An unfamiliar 
+transfer task would assess whether any benefit extends beyond the presented layout. Confidence 
+calibration, time required, non-completion and follow-up participation are important additional 
+outcomes. A change towards a lower-paying job, less AI use or a preferred diet would not be 
+scored as intrinsically correct. People may rationally revise their priorities after receiving 230 
+information. 
+Evidence from treatment and screening decision aids supports the feasibility of improving 
+knowledge, but it does not determine the incremental effect of this module over an active 
+comparator.[24] Sample size should therefore follow a justified target difference and a pilot 
+assessment of outcome variability and retention, rather than importing a favourable pooled effect. 235 
+Outcome collection should invite all randomized participants, including those who stop using the 
+tool. Missing data, multiple outcomes, subgroup analyses and departures from the analysis plan 
+should be addressed prospectively. Initial fixed materials can keep information constant; 
+introducing a generative interface would create an additional intervention requiring separate 
+evaluation. 240 
+The framework should be revised if it adds burden without improving understanding, fails to 
+transfer, obscures important trade-offs or systematically excludes people with fewer resources. A 
+positive understanding result would support a decision aid, not establish a new theory of all 
+health value. Conversely, a null tool effect would not show that health consequences are 
+irrelevant to welfare. These distinctions make the programme capable of yielding informative 245 
+negative findings. 
+Structural implications and boundaries 
+Individual decision support has a limited remit. Recording that someone cannot refuse overtime 
+identifies a constraint; it does not remove it. Studying how employers, platforms, households and 

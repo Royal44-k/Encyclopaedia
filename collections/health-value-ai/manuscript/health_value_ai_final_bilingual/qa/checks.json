@@ -1,0 +1,85 @@
+{
+  "paired_sections": true,
+  "paired_paragraphs": true,
+  "editions": {
+    "EN": {
+      "native_equations": 3,
+      "editable_tables": 3,
+      "embedded_figures": 8,
+      "pages": 12,
+      "page_text_lengths": [
+        2365,
+        3463,
+        3721,
+        2657,
+        3485,
+        3770,
+        2441,
+        3112,
+        3262,
+        3246,
+        2990,
+        6165
+      ],
+      "rendered_all_pages": true
+    },
+    "ZH": {
+      "native_equations": 3,
+      "editable_tables": 3,
+      "embedded_figures": 8,
+      "pages": 12,
+      "page_text_lengths": [
+        763,
+        1158,
+        1257,
+        1166,
+        1225,
+        1168,
+        1000,
+        1081,
+        1021,
+        983,
+        964,
+        5930
+      ],
+      "rendered_all_pages": true
+    },
+    "Word_EN": {
+      "pages": 12,
+      "page_text_lengths": [
+        1826,
+        2993,
+        3789,
+        2232,
+        3567,
+        3176,
+        1823,
+        2773,
+        2748,
+        2805,
+        3060,
+        6273
+      ],
+      "rendered_all_pages": true
+    },
+    "Word_ZH": {
+      "pages": 12,
+      "page_text_lengths": [
+        582,
+        975,
+        1282,
+        931,
+        1257,
+        963,
+        642,
+        934,
+        841,
+        854,
+        989,
+        6033
+      ],
+      "rendered_all_pages": true
+    }
+  },
+  "arithmetic_checks": "passed"
+}

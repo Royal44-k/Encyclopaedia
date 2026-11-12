@@ -1,0 +1,22 @@
+{
+  "date": "2026-11-07",
+  "reviewer": "AI-assisted visual inspection",
+  "human_review": false,
+  "editions": {
+    "ZH_PDF": {"pages": 14, "all_pages_inspected": true},
+    "EN_PDF": {"pages": 14, "all_pages_inspected": true},
+    "ZH_DOCX_Word_export": {"pages": 14, "all_pages_inspected": true},
+    "EN_DOCX_Word_export": {"pages": 14, "all_pages_inspected": true}
+  },
+  "rendering": "Actual Word COM PDF exports for DOCX; PDFium page images for all editions.",
+  "checks": [
+    "Perspective running headers and page numbering",
+    "Figure placement, captions, column flow and table legibility",
+    "Three new conceptual case illustrations and accompanying numerical annotations",
+    "Native Word equations and rendered mathematical symbols",
+    "No observed clipping, overlapping text, missing figures or missing glyphs"
+  ],
+  "final_follow_up": "All actual Word-export pages inspected after final edits. Final PDF Chinese page 5, English page 8 and the Chinese case-page montage reinspected; layout and wording changes confirmed.",
+  "layout_notes": "Shorter sections retain deliberate lower-page whitespace. References remain on page 14 in each edition.",
+  "scope": "Visual and editorial inspection; not independent scientific validation or journal acceptance review."
+}

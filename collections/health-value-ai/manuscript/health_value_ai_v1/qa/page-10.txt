@@ -1,0 +1,31 @@
+Health economic value in the AI era | Author review draft 
+10 
+workers share gains and burdens requires evidence about those actors and the available 250 
+institutional alternatives. The Marxian motivation is retained as a question about control and 
+distribution, rather than treated as an empirical conclusion produced by the profile. Making 
+health consequences more visible must not become a way of transferring responsibility for 
+structural conditions to individuals. 
+This Perspective is based on purposive reading across economic theory, decision support and 255 
+selected health and AI studies. It is not a systematic review, and the examples do not estimate a 
+common effect. Their populations, interventions and horizons differ. The proposed measures 
+have not been validated together, preferences may change, and longer-term predictions can be 
+weak even when short-term causal evidence is strong. Restricting the record to what can be 
+measured may itself omit valued aspects of life; expanding it indefinitely can make it unusable. 260 
+Both problems need participatory development and empirical assessment. 
+Health economic evaluation in the AI era should make the relation between technical gains and 
+lived consequences explicit. The proposed framework standardizes the questions, comparisons 
+and evidence requirements while leaving room for different defensible choices. Its contribution 
+will depend on whether it improves understanding and makes constraints visible at an acceptable 265 
+burden. Productivity, enjoyment and health can each matter; the scientific task is to establish 
+how they change under feasible alternatives, and the evaluative task is to explain how those 
+changes bear on the lives people seek to lead. 
+Data and code availability 
+No new participant-level data were collected or analysed for this Perspective. The numerical 270 
+findings cited in the text and Table 2 are reported by the original studies. The arithmetic example 
+is hypothetical. The accompanying local evidence record and arithmetic script document this 
+draft; a public repository has not been established. 
+AI assistance 
+OpenAI Codex was used to assist public-source retrieval, evidence organization, drafting, 275 
+language revision and document preparation. Scientific Agent Skills workflows informed the 
+process.[25] No AI system is listed as an author. Author review of the scientific content, source 
+accuracy and declarations remains pending in this draft. 

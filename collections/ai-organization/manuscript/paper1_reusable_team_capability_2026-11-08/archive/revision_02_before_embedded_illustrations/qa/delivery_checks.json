@@ -1,0 +1,60 @@
+{
+  "manuscripts": {
+    "zh": {
+      "pages": 9,
+      "figures": 3,
+      "references": 10,
+      "citation_groups": 16,
+      "pdf_fonts": [
+        "/BCDEEE+MicrosoftYaHei",
+        "/BCDFEE+ArialMT",
+        "/BCDGEE+MicrosoftYaHei-Bold",
+        "/BCDHEE+Arial-BoldMT",
+        "/BCDIEE+SimSun",
+        "/BCDJEE+TimesNewRomanPSMT",
+        "/BCDKEE+TimesNewRomanPSMT"
+      ],
+      "source_sha256": "7e904826b5aa7a02660c89879e5aa7165c73a08f7f1a1afa65bebe1eda48547f",
+      "han_characters": 7415
+    },
+    "en": {
+      "pages": 9,
+      "figures": 3,
+      "references": 10,
+      "citation_groups": 16,
+      "pdf_fonts": [
+        "/BCDEEE+ArialMT",
+        "/BCDFEE+Arial-BoldMT",
+        "/BCDGEE+TimesNewRomanPSMT",
+        "/BCDHEE+TimesNewRomanPSMT",
+        "/BCDIEE+ArialMT"
+      ],
+      "source_sha256": "6ca3fb3535d409338b0edf432daf6efc9b18724ee0b111ea505b55bfabc6f90a",
+      "words_including_captions": 4022
+    }
+  },
+  "human_verification": "pending",
+  "submission_ready": false,
+  "reader": {
+    "zhVisible": true,
+    "navLinks": 8,
+    "figures": 5,
+    "zhHasThreeDiagrams": true,
+    "zhHasTwoScenarios": true,
+    "zoomOpens": true,
+    "zoomCloses": true,
+    "fontIncreases": true,
+    "enVisible": true,
+    "enPDF": true,
+    "enHasTwoScenarios": true,
+    "abstractLabelSameSize": true,
+    "mobileNoHorizontalOverflow": true,
+    "narrowMobileNoHorizontalOverflow": true,
+    "englishMobileNoHorizontalOverflow": true,
+    "englishNarrowMobileNoHorizontalOverflow": true,
+    "consoleErrors": []
+  },
+  "bilingual_citation_sequences_match": true,
+  "source_references_close": true,
+  "notes": "Mechanical checks complement separate page-image inspection; they do not certify scientific truth or journal acceptance."
+}

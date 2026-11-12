@@ -1,0 +1,32 @@
+Health economic value in the AI era | Author review draft 
+8 
+Food choices expose a different limitation. A controlled crossover trial found higher energy 190 
+intake during an ultra-processed diet than an unprocessed diet, while a sleep-extension trial 
+found reduced energy intake relative to control in adults with overweight and habitual short 
+sleep.[21, 22] These studies support attention to interactions among everyday activities. They do 
+not supply household food budgets, preparation costs or a universal ranking of people who 
+choose differently. Free meal provision, available time and actual purchasing conditions affect 195 
+the relevance of feeding-study results to daily decisions. Table 2 preserves the principal design 
+and interpretation limits. 
+Digital companionship provides a third application. Immediate relief may matter even if it does 
+not persist after an interaction.[14] The relevant alternative could be another form of 
+entertainment, human contact, unwanted isolation or sleep; assuming that everyone is replacing a 200 
+beneficial outdoor activity prejudges the comparison. A useful record would distinguish what the 
+person gains during the activity, what happens afterwards, and which activities are displaced. 
+Increasing or decreasing screen time is not by itself an adequate success criterion. 
+Together, these examples show why health-related choices can be economically meaningful 
+without a common currency. They also delimit the proposed contribution: a profile organizes the 205 
+comparison; it does not generate missing medical knowledge or establish that people have 
+overlooked consequences. That latter claim requires direct evidence of omission or 
+misunderstanding in the target population. 
+Testing whether the framework improves decisions 
+The framework needs two distinct tests. A mechanism study would investigate how access to a 210 
+specified AI system changes task time, total work, control over time, activity allocation and 
+subsequent outcomes. Randomizing access could identify an assignment effect in that 
+environment; it would not automatically randomize actual use, organizational practice or each 
+mediator. A credible analysis must distinguish the total effect of assignment from additional 
+assumptions required for mediation. Recording task quality and activities outside the software 215 
+prevents platform telemetry from being mistaken for a complete account of life. 
+A decision-support study addresses a different question: whether the proposed comparison 
+procedure adds value. We propose an active-control comparison between an established guide 
+with a common factual information pack and the same guide and facts supplemented by a 

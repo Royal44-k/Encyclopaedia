@@ -1,0 +1,19 @@
+{
+  "zhVisible": true,
+  "navLinks": 8,
+  "figures": 5,
+  "zhHasThreeDiagrams": true,
+  "zhHasTwoScenarios": true,
+  "zoomOpens": true,
+  "zoomCloses": true,
+  "fontIncreases": true,
+  "enVisible": true,
+  "enPDF": true,
+  "enHasTwoScenarios": true,
+  "abstractLabelSameSize": true,
+  "mobileNoHorizontalOverflow": true,
+  "narrowMobileNoHorizontalOverflow": true,
+  "englishMobileNoHorizontalOverflow": true,
+  "englishNarrowMobileNoHorizontalOverflow": true,
+  "consoleErrors": []
+}

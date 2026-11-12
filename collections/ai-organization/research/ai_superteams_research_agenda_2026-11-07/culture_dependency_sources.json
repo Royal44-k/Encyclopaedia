@@ -1,0 +1,47 @@
+[
+  {
+    "id": "B04",
+    "title": "Cultural bias and cultural alignment of large language models",
+    "authors": [
+      "Yan Tao",
+      "Olga Viberg",
+      "Ryan S. Baker",
+      "René F. Kizilcec"
+    ],
+    "year": 2024,
+    "venue": "PNAS Nexus 3(9):pgae346",
+    "doi": "10.1093/pnasnexus/pgae346",
+    "url": "https://doi.org/10.1093/pnasnexus/pgae346",
+    "reading_level": "原始出版商PDF可检索摘要、引言部分；arXiv书目交叉核验",
+    "evidence_design": "五种模型输出与World Values Survey对照及文化提示比较",
+    "key_finding": "研究发现特定模型的输出价值取向偏向部分英语/欧洲文化群体，提示方式能改变对齐程度。",
+    "limitations": "模型回答与国家调查均值对齐，不等于真实跨文化团队协作改善；旧模型结论不自动推广到2026系统；国家不等于个体文化。",
+    "data_status": "本轮未审计复现包、WVS具体数据和许可。",
+    "topic_ids": [
+      "T19"
+    ]
+  },
+  {
+    "id": "B05",
+    "title": "AI Models Exceed Individual Human Accuracy in Predicting Everyday Social Norms",
+    "authors": [
+      "Pontus Strimling",
+      "Simon Karlsson",
+      "Irina Vartanova",
+      "Kimmo Eriksson"
+    ],
+    "year": 2025,
+    "venue": "arXiv:2508.19004，预印本",
+    "doi": "10.48550/arXiv.2508.19004",
+    "url": "https://arxiv.org/abs/2508.19004",
+    "reading_level": "作者预印本摘要；未读完整方法和原始数据",
+    "evidence_design": "两项研究，比较模型预测与人类对555个日常情境的社会规范判断",
+    "key_finding": "部分模型很接近群体平均判断，同时不同模型表现出系统性相关误差。",
+    "limitations": "群体均值不是道德真理；个体人类比较与人机团队的错误传播不同；尚不能据此估计真实组织风险。",
+    "data_status": "本轮未核实公开微观数据。",
+    "topic_ids": [
+      "T17",
+      "T19"
+    ]
+  }
+]

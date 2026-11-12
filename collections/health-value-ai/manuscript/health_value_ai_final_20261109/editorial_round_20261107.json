@@ -1,0 +1,64 @@
+{
+  "date": "2026-11-07",
+  "purpose": "Case development, Chinese academic expression, and targeted evidence rechecking",
+  "reading_scope": "Selected original sections where accessible; indexed excerpts are explicitly distinguished from opened full text. No claim of reading every paper in full.",
+  "sources": [
+    {
+      "title": "中国人群健康相关生命质量概念框架构建：基于一般人群与疾病患者的质性研究",
+      "url": "https://journal.healthpolicy.cn/html/20240601.htm",
+      "access": "Publisher-indexed expanded sections: abstract, coding method, six themes and discussion 4.1; direct opening returned 502.",
+      "use": "Describe constructs through everyday activities and experiences; distinguish symptoms, bodily function, cognition and social life. No participant quotations or new empirical estimates copied."
+    },
+    {
+      "title": "国内外普适性健康效用量表综述研究",
+      "url": "https://journal.healthpolicy.cn/html/20200809.htm",
+      "access": "Publisher-indexed expanded abstract, measurement dimensions, discussion sections 3.1–3.3 and limitations; direct opening timed out.",
+      "use": "Separate health-state description, preference evaluation and instrument applicability. Historical statements about the absence of Chinese instruments were not repeated as current facts."
+    },
+    {
+      "title": "休闲方式你选对了吗？——基于主观幸福感的研究",
+      "url": "https://qks.sufe.edu.cn/mv_html/j00003/201706/9cd39ea4-e378-4844-aecd-3eb71e85d9a2_WEB.htm",
+      "access": "Original journal HTML opened; introduction, utility/time model, measurement discussion, results interpretation and conclusion read.",
+      "use": "Connect familiar leisure choices with time constraints. Did not adopt moralizing activity labels or convert observational associations into individual causal rankings. Style reference only."
+    },
+    {
+      "title": "基于大语言模型的自助式AI心理咨询系统构建及其效果评估",
+      "url": "https://journal.psych.ac.cn/xlxb/CN/article/downloadArticleFile.do?attachType=PDF&id=16187",
+      "access": "Indexed original PDF excerpts and published author-response excerpts about discussion structure and limitations; direct PDF opening timed out.",
+      "use": "Name specific psychological outcomes and follow-up periods rather than a general claim of psychological improvement. No new effect sizes used."
+    },
+    {
+      "title": "青少年手机压力与心理健康的关系：基于多元宇宙样分析和密集追踪方法",
+      "url": "https://www.sciengine.com/doi/pdf/BE4B265C7F7344C898954279EEBC6124",
+      "access": "Publisher-indexed original abstract, introduction, conclusion and measurement appendix; direct PDF unavailable.",
+      "use": "Specify measured experiences and time frames; do not treat device duration as a general cognitive or health diagnosis. No study result generalized to adult AI use."
+    },
+    {
+      "title": "Ultra-processed diets cause excess calorie intake and weight gain",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7946062/",
+      "access": "Original full-text record reopened: Summary, Food Intake, Glucose Tolerance/Figure 4, Limitations, Methods.",
+      "use": "Retain the original energy-intake estimate; add the short-term nonsignificant glucose findings to bound the claim. Distinguish controlled free meal provision from household decisions involving cost and convenience.",
+      "evidence_id": "E019"
+    },
+    {
+      "title": "Reliability of LLMs as medical assistants for the general public",
+      "url": "https://www.nature.com/articles/s41591-025-04074-y",
+      "access": "Original updated publisher record: abstract, main rationale, study design, performance results and user interactions.",
+      "use": "Confirm 1,298 participants and control-versus-pooled-AI recognition odds ratio 1.76 (95% CI 1.45–2.13); distinguish scenario performance from clinical outcomes.",
+      "evidence_id": "E014"
+    },
+    {
+      "title": "Generative AI at work",
+      "url": "https://academic.oup.com/qje/article/140/2/889/7990658",
+      "access": "Original publisher HTML: abstract, introduction, section VII.C and VIII conclusion.",
+      "use": "Confirm the 5,172-agent setting and average productivity result. Add that compensation data were unavailable; do not infer income or health gains directly from productivity.",
+      "evidence_id": "E026"
+    }
+  ],
+  "scientific_additions": [
+    "E019: no significant short-term between-diet glucose-tolerance or CGM differences; no equivalence inference",
+    "E026: compensation data unavailable",
+    "Four hypothetical cases with explicit baselines, alternatives, horizons and unknowns"
+  ],
+  "human_independent_verification": false
+}

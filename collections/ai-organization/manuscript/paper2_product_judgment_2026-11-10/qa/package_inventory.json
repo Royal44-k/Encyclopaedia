@@ -1,0 +1,191 @@
+{
+  "files": {
+    "deliverables/illustrated_reader.html": {
+      "bytes": 94083,
+      "sha256": "b9e49f4bc0c5cae0f684e3a8522b12f4abfbc6119b3da149449a1e2b4b90978c"
+    },
+    "deliverables/paper2_en.docx": {
+      "bytes": 1335628,
+      "sha256": "f0b184d6e7168878aeb4d8b9355caf4590eec53d63c8b84e14308702b240135d"
+    },
+    "deliverables/paper2_en.md": {
+      "bytes": 22272,
+      "sha256": "b5ad25ac8c3db85384e5f156efd60efa48c47e56c6e969762a81ce72cddd1548"
+    },
+    "deliverables/paper2_en.pdf": {
+      "bytes": 497128,
+      "sha256": "9dca62c375d8df4efcdfbaf59f429d278fb80c4025e7ae381bc9042193e04d6e"
+    },
+    "deliverables/paper2_zh.docx": {
+      "bytes": 1201620,
+      "sha256": "c4130d5440d44be509b2a394417b5bf5767767ef86855806d79f19cd0c69e450"
+    },
+    "deliverables/paper2_zh.md": {
+      "bytes": 19399,
+      "sha256": "f82d9e4af32c1cac9b4bc88170fce4f36ae4e2ff72dc256cf61bd8245e3bc05c"
+    },
+    "deliverables/paper2_zh.pdf": {
+      "bytes": 690662,
+      "sha256": "2b59bf297724b8711fb6e7f6ddc9f630f8bffdde6443be8d108e489843c33858"
+    },
+    "deliverables/research_protocol_en.md": {
+      "bytes": 9010,
+      "sha256": "54aa8fc09350e5ae0110f62c6e3eb0bdc23227403963a12c87c855d64aaf4085"
+    },
+    "deliverables/research_protocol_zh.md": {
+      "bytes": 8352,
+      "sha256": "35b8a1cfda40be086df7ff2bff4949753d2e140ef7074a6c073787d362f48df3"
+    },
+    "figures/figure1_en.svg": {
+      "bytes": 3577,
+      "sha256": "67dd9963f43e7f5384c7d562ccadfd0be5859b531f0e406798293d968198d46d"
+    },
+    "figures/figure1_zh.svg": {
+      "bytes": 3561,
+      "sha256": "5c3b8592f2a9575e521e3b98fc2c1f2f6ae8086bf6e34db8661ce86335c37513"
+    },
+    "figures/figure2_en.svg": {
+      "bytes": 3708,
+      "sha256": "b4a0c0f595677c09787088a85f368be064419b50b0c31e5a03cb6fb095d04011"
+    },
+    "figures/figure2_zh.svg": {
+      "bytes": 3693,
+      "sha256": "f5c931d96e04d97ed971d33b34c12e91058c26746c6a55539aaf186b581d9576"
+    },
+    "figures/figure3_en.svg": {
+      "bytes": 3595,
+      "sha256": "2667f1ee036ee9dcf83602d3d27f56a9d67be972af170b9b339f34e84578d66c"
+    },
+    "figures/figure3_zh.svg": {
+      "bytes": 3572,
+      "sha256": "7d6d14d56268a9365b461e6b2389455f4f946576bd44b248fade5ff397f0bd40"
+    },
+    "figures/figure1_en.png": {
+      "bytes": 608677,
+      "sha256": "115825390956fe33c03656a8320cdf7b2712f3ccae2f9a5fb74723fea54caa64"
+    },
+    "figures/figure1_zh.png": {
+      "bytes": 568719,
+      "sha256": "0d30cc0823681cba3dacfb703e0a417f4bad9788a9b71a01ce592b23a8ec9bca"
+    },
+    "figures/figure2_en.png": {
+      "bytes": 719848,
+      "sha256": "55279660e8b35c3d0a7455011f2e46a33e81cd3d483d140faf994c674c3b4077"
+    },
+    "figures/figure2_zh.png": {
+      "bytes": 668693,
+      "sha256": "438fa457455a95238409c93d9b532dd077a248acc346aad92dfcf7e9a8e93a84"
+    },
+    "figures/figure3_en.png": {
+      "bytes": 646942,
+      "sha256": "f847cba2f738af5d4af289662143d049639732c6c07f54e25f3a4613a4e79272"
+    },
+    "figures/figure3_zh.png": {
+      "bytes": 613120,
+      "sha256": "cece73748f7337cb4ac0da7f6dbf89d0282cdb6c72f22e04ece0129945a44754"
+    },
+    "README.md": {
+      "bytes": 1605,
+      "sha256": "091cde94642216feffcaa6eca0829448b41c5299ba2698181fa398c27ad35e72"
+    },
+    "author_work_record.md": {
+      "bytes": 8820,
+      "sha256": "251570ea1fa0a4c16844f221821721340a241c77d402fb8c2a21540629b2453c"
+    },
+    "manuscript_zh.md": {
+      "bytes": 16401,
+      "sha256": "59ded027f7bd8a1eb7adb1a63c73de5904939c0319210c581b336b9b87efea64"
+    },
+    "manuscript_en.md": {
+      "bytes": 19142,
+      "sha256": "c587a7cb2263cdfd23e018ce1254179dc297a70dfd382f88be57f9fe18550c94"
+    },
+    "sources.json": {
+      "bytes": 7605,
+      "sha256": "63fa35040846093071a4be765679b59faada079cd66d206481ee37ed5c791e8b"
+    },
+    "editorial_metadata.json": {
+      "bytes": 406,
+      "sha256": "9fa169a99e418425e484a2d13ce2d95ec9333214c2f0c07a17660b5cf81186d5"
+    },
+    "build_manifest.json": {
+      "bytes": 1049,
+      "sha256": "c0564b9c74937b55fa2ebf46a52a5269e041fc63a58ea467a56cab09c0147fc9"
+    },
+    "build_documents.py": {
+      "bytes": 12312,
+      "sha256": "a44bb9d3a0a8b076380f88884bba05001a269136245c55e6a445504ff7b4ff8f"
+    },
+    "build_reader.py": {
+      "bytes": 9836,
+      "sha256": "4353078ac21b9520fa8d5f925d869e6f757adbd315b587251d08e1e461973592"
+    },
+    "reader.css": {
+      "bytes": 8112,
+      "sha256": "148866f6830c28c4d50c6c13277bb0f2ae67adf4dc69c9e36b80ea1c8ba35b8f"
+    },
+    "setup_and_figures.py": {
+      "bytes": 9281,
+      "sha256": "02b9fb5cb5c80f00df4ff350df128a549e5307b6e6deb1daa1dc6371cff42159"
+    },
+    "prepare_delivery.py": {
+      "bytes": 3075,
+      "sha256": "c913cb2291fd3660af60f3b7fb62d2024f1e7f0fa52ed1d71feec6641155001e"
+    },
+    "render_figures.cjs": {
+      "bytes": 541,
+      "sha256": "581bb94faee04c1be75585f5bb440c5c797bab3c95c6cf99bb881d0c3b65280d"
+    },
+    "export_word_pdf.ps1": {
+      "bytes": 1064,
+      "sha256": "a7379077156e22d9c2bae0073cbe33047ca0e378dafa57aec301742f968b546d"
+    },
+    "check_delivery.py": {
+      "bytes": 3573,
+      "sha256": "f73a6493436b1c0ff829494a8ec8687a5539f4c57cbba5659f51fcf53258a661"
+    },
+    "check_reader.cjs": {
+      "bytes": 2195,
+      "sha256": "0e3c79c2cfee0a0c6448bf1c7fafdb63e53d20891521b1c50630ddb4a006de98"
+    },
+    "package_delivery.py": {
+      "bytes": 2668,
+      "sha256": "e66d06d60418ed6154f105a3d1cbd7435b1022cbe09e09db874e23d4b2b8fc00"
+    },
+    "qa/delivery_checks.json": {
+      "bytes": 5188,
+      "sha256": "c0bb5babb95b610b0db9d9aef10e67704f9e5dbd1fff7e8a159ccbc2446ffd79"
+    },
+    "qa/reader_checks.json": {
+      "bytes": 138,
+      "sha256": "04c381cf0f6b3379332eaa9abe6cc56f66a461725f24fa2e19a171db601a6e5a"
+    },
+    "qa/svg_audit.json": {
+      "bytes": 3405,
+      "sha256": "132614fc631fc7c617931c1444dcd04490437f695d57c9cd99718e488a36bff7"
+    }
+  },
+  "fonts": {
+    "zh": [
+      "BCDEEE+MicrosoftYaHei",
+      "BCDFEE+ArialMT",
+      "BCDGEE+Arial-BoldMT",
+      "BCDHEE+MicrosoftYaHei-Bold",
+      "BCDIEE+SimSun",
+      "BCDJEE+TimesNewRomanPSMT",
+      "BCDKEE+TimesNewRomanPSMT"
+    ],
+    "en": [
+      "BCDEEE+ArialMT",
+      "BCDFEE+Arial-BoldMT",
+      "BCDGEE+TimesNewRomanPSMT",
+      "BCDHEE+TimesNewRomanPSMT"
+    ]
+  },
+  "pages": {
+    "zh": 7,
+    "en": 7
+  },
+  "manual_page_review": "14 pages reviewed; final references rechecked",
+  "submission_ready": false
+}

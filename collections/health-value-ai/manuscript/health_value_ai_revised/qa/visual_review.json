@@ -1,0 +1,22 @@
+{
+  "date": "2026-11-07",
+  "reviewer": "AI-assisted visual inspection",
+  "scope": "Actual rendered manuscript pages, not layout mockups",
+  "editions": {
+    "PDF_ZH": {"pages_reviewed": [1,2,3,4,5,6,7,8,9,10,11]},
+    "PDF_EN": {"pages_reviewed": [1,2,3,4,5,6,7,8,9,10,11]},
+    "Word_ZH": {"pages_reviewed": [1,2,3,4,5,6,7,8,9,10,11]},
+    "Word_EN": {"pages_reviewed": [1,2,3,4,5,6,7,8,9,10,11]}
+  },
+  "checks": [
+    "Title wrapping, paragraph flow, margins, and reference page inspected",
+    "Eight figures and three tables present in each edition",
+    "Figure labels and captions checked for clipping and overlap",
+    "Lighter Chinese heading, caption, and table-header weights inspected in actual Word export",
+    "Universal and existential quantifiers repaired with a symbol font in PDF equation 2; both language page 4 renderings re-inspected",
+    "Native Word equations retained; final PDF-only font repair did not change DOCX files"
+  ],
+  "outstanding_visual_defects_observed": [],
+  "human_verification_complete": false,
+  "scope_limit": "Visual and semantic production review does not establish empirical validation or journal acceptance."
+}

@@ -1,0 +1,88 @@
+{
+  "manuscripts": {
+    "zh": {
+      "pages": 10,
+      "figures": 3,
+      "scenarios": 2,
+      "embedded_scene_images": {
+        "scenario_handover.png": true,
+        "scenario_revision.png": true
+      },
+      "pdf_scene_pages": [
+        3,
+        6
+      ],
+      "pdf_stroked_text_modes": 0,
+      "pdf_fonts_embedded": true,
+      "author": "Richard T.Millian",
+      "affiliation": "Hangzhou Normal University",
+      "running_header": "让 AI 方法成为团队的共同积累",
+      "references": 10,
+      "citation_groups": 16,
+      "pdf_fonts": [
+        "/BCDEEE+MicrosoftYaHei",
+        "/BCDFEE+ArialMT",
+        "/BCDGEE+Arial-BoldMT",
+        "/BCDHEE+MicrosoftYaHei-Bold",
+        "/BCDIEE+SimSun",
+        "/BCDJEE+TimesNewRomanPSMT",
+        "/BCDKEE+TimesNewRomanPSMT"
+      ],
+      "source_sha256": "49bf0e8dae7f26cc369060250891dcfbeb400475ac03d53525fc5b8258e09e12",
+      "han_characters": 6584
+    },
+    "en": {
+      "pages": 10,
+      "figures": 3,
+      "scenarios": 2,
+      "embedded_scene_images": {
+        "scenario_handover.png": true,
+        "scenario_revision.png": true
+      },
+      "pdf_scene_pages": [
+        3,
+        6
+      ],
+      "pdf_stroked_text_modes": 0,
+      "pdf_fonts_embedded": true,
+      "author": "Richard T.Millian",
+      "affiliation": "Hangzhou Normal University",
+      "running_header": "AI know-how that teams can build on",
+      "references": 10,
+      "citation_groups": 16,
+      "pdf_fonts": [
+        "/BCDEEE+ArialMT",
+        "/BCDFEE+Arial-BoldMT",
+        "/BCDGEE+TimesNewRomanPSMT",
+        "/BCDHEE+TimesNewRomanPSMT",
+        "/BCDIEE+ArialMT"
+      ],
+      "source_sha256": "3d5e28b274348b2a842f0db8b05c42ff20f29a6c4540b984a7d0c07e008aa2fa",
+      "words_including_captions": 3623
+    }
+  },
+  "human_verification": "pending",
+  "submission_ready": false,
+  "reader": {
+    "zhVisible": true,
+    "navLinks": 8,
+    "figures": 5,
+    "zhHasThreeDiagrams": true,
+    "zhHasTwoScenarios": true,
+    "zoomOpens": true,
+    "zoomCloses": true,
+    "fontIncreases": true,
+    "enVisible": true,
+    "enPDF": true,
+    "enHasTwoScenarios": true,
+    "abstractLabelSameSize": true,
+    "mobileNoHorizontalOverflow": true,
+    "narrowMobileNoHorizontalOverflow": true,
+    "englishMobileNoHorizontalOverflow": true,
+    "englishNarrowMobileNoHorizontalOverflow": true,
+    "consoleErrors": []
+  },
+  "bilingual_citation_sequences_match": true,
+  "source_references_close": true,
+  "notes": "Mechanical checks complement separate page-image inspection; they do not certify scientific truth or journal acceptance."
+}

@@ -1,0 +1,9 @@
+﻿figure,panel,evidence_id,quantity,estimate,lower,upper,interval,unit,status
+3,a,E018,stroke_incidence_RR,1.35,1.13,1.61,95% CI,relative risk,source_reported
+3,b,E019,energy_intake_difference,508,402,614,estimate +/- one SE; SE=106,kcal/day,endpoints derived from source-reported estimate and SE
+3,c,E020,energy_intake_change_vs_control,-270,-393,-147,95% CI,kcal/day,source_reported
+2,a,E900,work_change_no_added_tasks,-240,,,none,minutes,hypothetical
+2,a,E900,work_change_180_added,-60,,,none,minutes,hypothetical
+2,a,E900,work_change_300_added,60,,,none,minutes,hypothetical
+2,b,E900,extra_supplement,90000,,,none,CNY,hypothetical
+2,b,E900,extra_overtime_days,21,,,none,days,hypothetical

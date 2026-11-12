@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="522" height="180" preserveAspectRatio="xMinYMin meet" viewBox="0 0 522 180" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="522" height="180"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-180)" style="clip-path: url(#clip)">
+		<g transform="">
+			<text x="0" y="164" style="font-family: SansBold; font-size: 11px;fill: rgb(6%,9%,12%); stroke:none;" transform="translate(0,328) scale(1,-1)">a</text>
+			<text x="17" y="164" style="font-family: SansBold; font-size: 10px;fill: rgb(6%,9%,12%); stroke:none;" transform="translate(0,328) scale(1,-1)">Common factual information and feasible options</text>
+			<path d="M 17,153 L 505,153 Z" style="stroke: rgb(85%,87%,89%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 261,147 L 261,132 Z" style="stroke: rgb(34%,39%,41%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="261 132, 258 138, 264 138" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(34%,39%,41%); fill-rule: evenodd;"/>
+			<path d="M 126,130 L 396,130 Z" style="stroke: rgb(34%,39%,41%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 126,130 L 126,115 Z" style="stroke: rgb(34%,39%,41%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="126 115, 123 121, 129 121" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(34%,39%,41%); fill-rule: evenodd;"/>
+			<path d="M 396,130 L 396,115 Z" style="stroke: rgb(34%,39%,41%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="396 115, 393 121, 399 121" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(34%,39%,41%); fill-rule: evenodd;"/>
+			<text x="78.935791015625" y="101" style="font-family: SansBold; font-size: 11px;fill: rgb(6%,9%,12%); stroke:none;" transform="translate(0,202) scale(1,-1)">Established guide</text>
+			<text x="89.736328125" y="85" style="font-family: Sans; font-size: 9px;fill: rgb(6%,9%,12%); stroke:none;" transform="translate(0,170) scale(1,-1)">Active comparator</text>
+			<text x="312.72119140625" y="101" style="font-family: SansBold; font-size: 11px;fill: rgb(6%,9%,12%); stroke:none;" transform="translate(0,202) scale(1,-1)">Same guide + proposed module</text>
+			<text x="311.6661376953125" y="85" style="font-family: Sans; font-size: 8.5px;fill: rgb(6%,9%,12%); stroke:none;" transform="translate(0,170) scale(1,-1)">Time allocation · consequences · uncertainty</text>
+			<path d="M 126,76 L 126,60 Z" style="stroke: rgb(34%,39%,41%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="126 60, 123 66, 129 66" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(34%,39%,41%); fill-rule: evenodd;"/>
+			<path d="M 396,76 L 396,60 Z" style="stroke: rgb(34%,39%,41%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="396 60, 393 66, 399 66" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(34%,39%,41%); fill-rule: evenodd;"/>
+			<path d="M 126,59 L 396,59 Z" style="stroke: rgb(34%,39%,41%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 261,59 L 261,43 Z" style="stroke: rgb(34%,39%,41%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="261 43, 258 49, 264 49" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(34%,39%,41%); fill-rule: evenodd;"/>
+			<text x="49.957763671875" y="28" style="font-family: SansBold; font-size: 10.5px;fill: rgb(6%,9%,12%); stroke:none;" transform="translate(0,56) scale(1,-1)">Understanding</text>
+			<text x="47.578125" y="12" style="font-family: Sans; font-size: 8.7px;fill: rgb(6%,9%,12%); stroke:none;" transform="translate(0,24) scale(1,-1)">Independent scoring</text>
+			<text x="239.9923095703125" y="28" style="font-family: SansBold; font-size: 10.5px;fill: rgb(6%,9%,12%); stroke:none;" transform="translate(0,56) scale(1,-1)">Transfer</text>
+			<text x="224.2522705078125" y="12" style="font-family: Sans; font-size: 8.7px;fill: rgb(6%,9%,12%); stroke:none;" transform="translate(0,24) scale(1,-1)">Unfamiliar decision</text>
+			<text x="416.625" y="28" style="font-family: SansBold; font-size: 10.5px;fill: rgb(6%,9%,12%); stroke:none;" transform="translate(0,56) scale(1,-1)">Burden</text>
+			<text x="385.9159423828125" y="12" style="font-family: Sans; font-size: 8.7px;fill: rgb(6%,9%,12%); stroke:none;" transform="translate(0,24) scale(1,-1)">Time and non-completion</text>
+		</g>
+	</g>
+</svg>

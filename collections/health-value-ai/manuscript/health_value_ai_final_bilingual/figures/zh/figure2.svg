@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="522" height="250" preserveAspectRatio="xMinYMin meet" viewBox="0 0 522 250" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="522" height="250"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-250)" style="clip-path: url(#clip)">
+		<g transform="">
+			<text x="0" y="235" style="font-family: SansBold; font-size: 11px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,470) scale(1,-1)">a</text>
+			<text x="17" y="235" style="font-family: CNHei; font-size: 10px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,470) scale(1,-1)">三种不同的操作</text>
+			<rect x="0" y="154" width="164" height="60" style="stroke: none; stroke-linecap: butt; stroke-width: 0.8; fill: rgb(91%,95%,94%); fill-rule: evenodd;"/>
+			<text x="10" y="198" style="font-family: CNHei; font-size: 9.5px;fill: rgb(8%,49%,50%); stroke:none;" transform="translate(0,396) scale(1,-1)">测量</text>
+			<text x="10" y="182" style="font-family: CNHei; font-size: 8px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,364) scale(1,-1)">观察到了什么？</text>
+			<text x="10" y="170" style="font-family: CNHei; font-size: 8px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,340) scale(1,-1)">症状、时间、收入</text>
+			<path d="M 165,183 L 177,183 Z" style="stroke: rgb(34%,41%,45%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="177 183, 172 180.5, 172 185.5" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(34%,41%,45%); fill-rule: evenodd;"/>
+			<rect x="179" y="154" width="164" height="60" style="stroke: none; stroke-linecap: butt; stroke-width: 0.8; fill: rgb(91%,94%,97%); fill-rule: evenodd;"/>
+			<text x="189" y="198" style="font-family: CNHei; font-size: 9.5px;fill: rgb(22%,39%,62%); stroke:none;" transform="translate(0,396) scale(1,-1)">预测</text>
+			<text x="189" y="182" style="font-family: CNHei; font-size: 8px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,364) scale(1,-1)">各方案下会发生什么变化？</text>
+			<text x="189" y="170" style="font-family: CNHei; font-size: 8px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,340) scale(1,-1)">人群、对照、时间范围</text>
+			<path d="M 344,183 L 356,183 Z" style="stroke: rgb(34%,41%,45%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="356 183, 351 180.5, 351 185.5" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(34%,41%,45%); fill-rule: evenodd;"/>
+			<rect x="358" y="154" width="164" height="60" style="stroke: none; stroke-linecap: butt; stroke-width: 0.8; fill: rgb(94%,92%,96%); fill-rule: evenodd;"/>
+			<text x="368" y="198" style="font-family: CNHei; font-size: 9.5px;fill: rgb(50%,40%,60%); stroke:none;" transform="translate(0,396) scale(1,-1)">价值判断</text>
+			<text x="368" y="182" style="font-family: CNHei; font-size: 8px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,364) scale(1,-1)">这些差异为什么重要？</text>
+			<text x="368" y="170" style="font-family: CNHei; font-size: 8px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,340) scale(1,-1)">目标、约束、偏好</text>
+			<text x="0" y="131" style="font-family: SansBold; font-size: 11px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,262) scale(1,-1)">b</text>
+			<text x="17" y="131" style="font-family: CNHei; font-size: 10px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,262) scale(1,-1)">后果剖面能够及不能够作出的排序</text>
+			<path d="M 36,24 L 211,24 Z" style="stroke: rgb(9%,16%,20%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="211 24, 206 21.5, 206 26.5" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,16%,20%); fill-rule: evenodd;"/>
+			<path d="M 36,24 L 36,114 Z" style="stroke: rgb(9%,16%,20%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="36 114, 38.5 109, 33.5 109" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,16%,20%); fill-rule: evenodd;"/>
+			<text x="99.0" y="7" style="font-family: CNHei; font-size: 8px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,14) scale(1,-1)">更多可支配资源</text>
+			<text x="41" y="115" style="font-family: CNHei; font-size: 7.8px;fill: rgb(34%,41%,45%); stroke:none;" transform="translate(0,230) scale(1,-1)">更多被重视的功能</text>
+			<circle cx="73" cy="47" r="4" style="stroke: rgb(8%,49%,50%); stroke-linecap: butt; stroke-width: 1; fill: rgb(8%,49%,50%); fill-rule: evenodd;"/>
+			<text x="81" y="44" style="font-family: SansBold; font-size: 9px;fill: rgb(8%,49%,50%); stroke:none;" transform="translate(0,88) scale(1,-1)">A</text>
+			<circle cx="124" cy="86" r="4" style="stroke: rgb(22%,39%,62%); stroke-linecap: butt; stroke-width: 1; fill: rgb(22%,39%,62%); fill-rule: evenodd;"/>
+			<text x="132" y="83" style="font-family: SansBold; font-size: 9px;fill: rgb(22%,39%,62%); stroke:none;" transform="translate(0,166) scale(1,-1)">B</text>
+			<circle cx="180" cy="42" r="4" style="stroke: rgb(71%,37%,25%); stroke-linecap: butt; stroke-width: 1; fill: rgb(71%,37%,25%); fill-rule: evenodd;"/>
+			<text x="188" y="39" style="font-family: SansBold; font-size: 9px;fill: rgb(71%,37%,25%); stroke:none;" transform="translate(0,78) scale(1,-1)">C</text>
+			<path d="M 78,51 L 117,80 Z" style="stroke: rgb(22%,39%,62%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="117 80, 114.4794 75.01033, 111.4959 79.02264" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(22%,39%,62%); fill-rule: evenodd;"/>
+			<path d="M 126,83 L 176,46 Z" style="stroke: rgb(71%,37%,25%); stroke-linecap: butt; stroke-width: 0.8; stroke-dasharray: 3, 3;"/>
+			<text x="247" y="106" style="font-family: CNHei; font-size: 9.4px;fill: rgb(22%,39%,62%); stroke:none;" transform="translate(0,212) scale(1,-1)">B 与 A 比较</text>
+			<text x="247" y="92" style="font-family: CNHei; font-size: 8.4px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,184) scale(1,-1)">只有相关维度完整且不确定性允许时，</text>
+			<text x="247" y="80" style="font-family: CNHei; font-size: 8.4px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,160) scale(1,-1)">才可能作出占优判断。</text>
+			<text x="247" y="56" style="font-family: CNHei; font-size: 9.4px;fill: rgb(71%,37%,25%); stroke:none;" transform="translate(0,112) scale(1,-1)">B 与 C 比较</text>
+			<text x="247" y="42" style="font-family: CNHei; font-size: 8.4px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,84) scale(1,-1)">资源增加与功能改善发生冲突。</text>
+			<text x="247" y="30" style="font-family: CNHei; font-size: 8.4px;fill: rgb(9%,16%,20%); stroke:none;" transform="translate(0,60) scale(1,-1)">图示本身无法决定个人偏好。</text>
+		</g>
+	</g>
+</svg>

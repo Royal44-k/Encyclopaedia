@@ -1,0 +1,40 @@
+{
+  "references": {
+    "S09": 1,
+    "A01": 2,
+    "A03": 3,
+    "S01": 4,
+    "S02": 5,
+    "S05": 6,
+    "S03": 7,
+    "S04": 8,
+    "A04": 9,
+    "A02": 10
+  },
+  "builds": [
+    {
+      "lang": "zh",
+      "title": "个人 AI 经验怎样成为团队可复用的能力",
+      "figures": 3,
+      "scenarios": 2,
+      "author": "Richard T.Millian",
+      "affiliation": "Hangzhou Normal University",
+      "references": 10,
+      "paragraphs": 42,
+      "source_sha256": "49bf0e8dae7f26cc369060250891dcfbeb400475ac03d53525fc5b8258e09e12"
+    },
+    {
+      "lang": "en",
+      "title": "Making personal AI know-how work across a team",
+      "figures": 3,
+      "scenarios": 2,
+      "author": "Richard T.Millian",
+      "affiliation": "Hangzhou Normal University",
+      "references": 10,
+      "paragraphs": 42,
+      "source_sha256": "3d5e28b274348b2a842f0db8b05c42ff20f29a6c4540b984a7d0c07e008aa2fa"
+    }
+  ],
+  "human_verification": "pending",
+  "submission_ready": false
+}

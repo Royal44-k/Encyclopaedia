@@ -1,0 +1,7 @@
+"assumed_standardized_effect","alpha_two_sided","target_power","complete_per_arm","complete_total","assumed_missing_fraction","recruit_per_arm","recruit_total","comparator","status"
+"0.2","0.05","0.8","393","786","0.2","492","984","active_guide_plus_common_facts","planning_assumption_not_observed_result"
+"0.2","0.05","0.8","393","786","0.4","655","1310","active_guide_plus_common_facts","planning_assumption_not_observed_result"
+"0.2","0.05","0.8","393","786","0.6","983","1966","active_guide_plus_common_facts","planning_assumption_not_observed_result"
+"0.3","0.05","0.8","175","350","0.2","219","438","active_guide_plus_common_facts","planning_assumption_not_observed_result"
+"0.3","0.05","0.8","175","350","0.4","292","584","active_guide_plus_common_facts","planning_assumption_not_observed_result"
+"0.3","0.05","0.8","175","350","0.6","438","876","active_guide_plus_common_facts","planning_assumption_not_observed_result"
