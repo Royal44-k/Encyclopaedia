@@ -1,0 +1,25 @@
+{
+  "module": "T01",
+  "date": "2026-11-08",
+  "dialogueSource": "docs/design/v6/episodes/T01.md",
+  "scriptSha256": "f961d9034441543972ba48f5e7eb99c6f2eb29687d1252fa8f5ce5fbe33f1fcd",
+  "dialogueOrigin": "Project original, not a textbook quotation",
+  "voiceModel": "https://huggingface.co/hexgrad/Kokoro-82M",
+  "stockVoiceTable": "https://huggingface.co/hexgrad/Kokoro-82M/blob/main/VOICES.md",
+  "localInference": "https://github.com/thewh1teagle/kokoro-onnx",
+  "licenses": [
+    "/audio/licenses/Kokoro-Apache-2.0.txt",
+    "/audio/licenses/Kokoro-ONNX-MIT.txt"
+  ],
+  "recordings": "Offline synthesized stock voices, no specific person cloned",
+  "music": "Two original note sequences with procedural timbres; no third-party samples",
+  "borrowedAmbience": "Existing original garden ambience; no new duplicate audio file",
+  "humanAudition": false,
+  "teacherApproval": false,
+  "cautions": [
+    "Short-utterance generation has known quality limits; waveform checks are not pronunciation review.",
+    "Iris uses a distinct stock voice; this does not establish perceived age or acting quality."
+  ],
+  "recordedLines": 39,
+  "storyExtension": "T01.027–046: empty stand, material histories, visitor interpretations and everyday reuse; original fictional dialogue."
+}

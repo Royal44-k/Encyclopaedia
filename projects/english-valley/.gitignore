@@ -1,0 +1,9 @@
+app/node_modules/
+app/dist/
+.audio-tools/
+.npm-cache/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example

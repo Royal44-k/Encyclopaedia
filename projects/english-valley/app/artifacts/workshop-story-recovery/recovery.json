@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "build": "/assets/index-BWln5HaI.js",
+  "normalMotion": true,
+  "checks": [
+    "Undo and removal clear obsolete material speech and subtitles",
+    "Actual WebGL loss cancels unobserved demonstration; restore requires a new successful attempt",
+    "Visitor motion also cancels on context loss, then completes after replay on the same work"
+  ],
+  "errors": []
+}

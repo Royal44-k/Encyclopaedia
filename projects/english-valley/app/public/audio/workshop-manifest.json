@@ -1,0 +1,440 @@
+{
+  "schemaVersion": 1,
+  "module": "T01",
+  "status": "ready",
+  "engine": "offline_kokoro_onnx_stock_voices",
+  "voices": {
+    "SAM": {
+      "name": "Michael",
+      "voiceId": "am_michael",
+      "language": "en-us",
+      "direction": "relaxed, lower adult workshop voice"
+    },
+    "NARR": {
+      "name": "Heart",
+      "voiceId": "af_heart",
+      "language": "en-us",
+      "direction": "gentle observational narrator"
+    },
+    "IRIS": {
+      "name": "Bella",
+      "voiceId": "af_bella",
+      "language": "en-us",
+      "direction": "Interested, thoughtful student companion; stock voice casting preview, not a claimed child actor."
+    }
+  },
+  "lines": {
+    "T01.001": {
+      "src": "/audio/voice/T01.001.wav",
+      "speaker": "SAM",
+      "text": "That one nearly escaped. Here.",
+      "voiceId": "am_michael",
+      "duration": 1.963,
+      "origin": "project_original",
+      "direction": "接住后递回；轻松，不夸张",
+      "source": "docs/design/v6/episodes/T01.md"
+    },
+    "T01.002": {
+      "src": "/audio/voice/T01.002.wav",
+      "speaker": "IRIS",
+      "text": "Turn it over. The other side looks different.",
+      "voiceId": "af_bella",
+      "duration": 2.539,
+      "origin": "project_original",
+      "direction": "她先示范自己的材料，不接管玩家",
+      "source": "docs/design/v6/episodes/T01.md"
+    },
+    "T01.003": {
+      "src": "/audio/voice/T01.003.wav",
+      "speaker": "SAM",
+      "text": "You can try things before you give them a name.",
+      "voiceId": "am_michael",
+      "duration": 2.773,
+      "origin": "project_original",
+      "direction": "指空展签，转身整理材料",
+      "source": "docs/design/v6/episodes/T01.md"
+    },
+    "T01.005": {
+      "src": "/audio/voice/T01.005.wav",
+      "speaker": "SAM",
+      "text": "Try this joint. It turns, but it won't hold a heavy piece.",
+      "voiceId": "am_michael",
+      "duration": 3.797,
+      "origin": "project_original",
+      "direction": "针对真实连接条件，演示后拆回",
+      "source": "docs/design/v6/episodes/T01.md"
+    },
+    "T01.006": {
+      "src": "/audio/voice/T01.006.wav",
+      "speaker": "IRIS",
+      "text": "Wait. Let me look before you tell me.",
+      "voiceId": "af_bella",
+      "duration": 2.069,
+      "origin": "project_original",
+      "direction": "玩家选择展示后才出现",
+      "source": "docs/design/v6/episodes/T01.md"
+    },
+    "T01.007": {
+      "src": "/audio/voice/T01.007.wav",
+      "speaker": "IRIS",
+      "text": "What should I look at first?",
+      "voiceId": "af_bella",
+      "duration": 1.28,
+      "origin": "project_original",
+      "direction": "适用于任何作品；真正询问",
+      "source": "docs/design/v6/episodes/T01.md"
+    },
+    "T01.009": {
+      "src": "/audio/voice/T01.009.wav",
+      "speaker": "IRIS",
+      "text": "Oh, I was looking at the shape. Show me the movement.",
+      "voiceId": "af_bella",
+      "duration": 2.645,
+      "origin": "project_original",
+      "direction": "收起首次判断，靠近但不碰",
+      "source": "docs/design/v6/episodes/T01.md"
+    },
+    "T01.010": {
+      "src": "/audio/voice/T01.010.wav",
+      "speaker": "SAM",
+      "text": "If we put this here—",
+      "voiceId": "am_michael",
+      "duration": 1.365,
+      "origin": "project_original",
+      "direction": "手伸向连接处，停在接触前",
+      "source": "docs/design/v6/episodes/T01.md"
+    },
+    "T01.012": {
+      "src": "/audio/voice/T01.012.wav",
+      "speaker": "SAM",
+      "text": "Sorry. Show me your idea first.",
+      "voiceId": "am_michael",
+      "duration": 2.197,
+      "origin": "project_original",
+      "direction": "手在接触前收回，等待作者实际操作，不替他接着完成",
+      "source": "docs/design/v6/episodes/T01.md"
+    },
+    "T01.013": {
+      "src": "/audio/voice/T01.013.wav",
+      "speaker": "IRIS",
+      "text": "Do you want people to understand it straight away?",
+      "voiceId": "af_bella",
+      "duration": 2.475,
+      "origin": "project_original",
+      "direction": "不是催作者改到可识别",
+      "source": "docs/design/v6/episodes/T01.md"
+    },
+    "T01.015": {
+      "src": "/audio/voice/T01.015.wav",
+      "speaker": "IRIS",
+      "text": "Then give them one thing to notice.",
+      "voiceId": "af_bella",
+      "duration": 1.664,
+      "origin": "project_original",
+      "direction": "提建议，不宣布标准答案",
+      "source": "docs/design/v6/episodes/T01.md"
+    },
+    "T01.016": {
+      "src": "/audio/voice/T01.016.wav",
+      "speaker": "SAM",
+      "text": "Where would you like to try it?",
+      "voiceId": "am_michael",
+      "duration": 1.856,
+      "origin": "project_original",
+      "direction": "指向真实可用展位",
+      "source": "docs/design/v6/episodes/T01.md"
+    },
+    "T01.018": {
+      "src": "/audio/voice/T01.018.wav",
+      "speaker": "IRIS",
+      "text": "It looks different when I'm standing here.",
+      "voiceId": "af_bella",
+      "duration": 1.877,
+      "origin": "project_original",
+      "direction": "观众视高；由实际视角触发",
+      "source": "docs/design/v6/episodes/T01.md"
+    },
+    "T01.019": {
+      "src": "/audio/voice/T01.019.wav",
+      "speaker": "SAM",
+      "text": "Shall I leave the title blank for now?",
+      "voiceId": "am_michael",
+      "duration": 2.325,
+      "origin": "project_original",
+      "direction": "允许作品未命名",
+      "source": "docs/design/v6/episodes/T01.md"
+    },
+    "T01.020": {
+      "src": "/audio/voice/T01.020.wav",
+      "speaker": "NARR",
+      "text": "The empty label is still beside it. Someone has stopped to look.",
+      "voiceId": "af_heart",
+      "duration": 3.712,
+      "origin": "project_original",
+      "direction": "可选旁白；不替观众解释",
+      "source": "docs/design/v6/episodes/T01.md"
+    },
+    "T01.022": {
+      "src": "/audio/voice/T01.022.wav",
+      "speaker": "IRIS",
+      "text": "Let me try another angle before I answer.",
+      "voiceId": "af_bella",
+      "duration": 2.453,
+      "origin": "project_original",
+      "direction": "进入观众视角，再接013",
+      "source": "docs/design/v6/episodes/T01.md"
+    },
+    "T01.023": {
+      "src": "/audio/voice/T01.023.wav",
+      "speaker": "SAM",
+      "text": "Would you like a suggestion, or a little more time?",
+      "voiceId": "am_michael",
+      "duration": 3.349,
+      "origin": "project_original",
+      "direction": "停滞时由玩家主动请求帮助触发",
+      "source": "docs/design/v6/episodes/T01.md"
+    },
+    "T01.025": {
+      "src": "/audio/voice/T01.025.wav",
+      "speaker": "IRIS",
+      "text": "We can show it without a title.",
+      "voiceId": "af_bella",
+      "duration": 1.643,
+      "origin": "project_original",
+      "direction": "作者拒绝命名，也可收回作品",
+      "source": "docs/design/v6/episodes/T01.md"
+    },
+    "T01.026": {
+      "src": "/audio/voice/T01.026.wav",
+      "speaker": "SAM",
+      "text": "I'll keep the pieces together until you decide.",
+      "voiceId": "am_michael",
+      "duration": 3.2,
+      "origin": "project_original",
+      "direction": "仅在选择暂存后，结束当前课",
+      "source": "docs/design/v6/episodes/T01.md"
+    },
+    "T01.027": {
+      "src": "/audio/voice/T01.027.wav",
+      "speaker": "IRIS",
+      "text": "There's one empty stand by the path. What are we putting on it?",
+      "voiceId": "af_bella",
+      "duration": 3.435,
+      "origin": "project_original",
+      "direction": "原创补写；按实际部件、观看动作及展位触发",
+      "source": "docs/design/v6/episodes/T01.md"
+    },
+    "T01.028": {
+      "src": "/audio/voice/T01.028.wav",
+      "speaker": "SAM",
+      "text": "I saved these pieces when we cleared the workshop. Have a look.",
+      "voiceId": "am_michael",
+      "duration": 3.904,
+      "origin": "project_original",
+      "direction": "原创补写；按实际部件、观看动作及展位触发",
+      "source": "docs/design/v6/episodes/T01.md"
+    },
+    "T01.029": {
+      "src": "/audio/voice/T01.029.wav",
+      "speaker": "IRIS",
+      "text": "A window? I keep looking through the middle. Is that what you had in mind?",
+      "voiceId": "af_bella",
+      "duration": 4.053,
+      "origin": "project_original",
+      "direction": "原创补写；按实际部件、观看动作及展位触发",
+      "source": "docs/design/v6/episodes/T01.md"
+    },
+    "T01.030": {
+      "src": "/audio/voice/T01.030.wav",
+      "speaker": "IRIS",
+      "text": "A flowerpot? Wait, there's no room for a plant. What am I missing?",
+      "voiceId": "af_bella",
+      "duration": 4.245,
+      "origin": "project_original",
+      "direction": "原创补写；按实际部件、观看动作及展位触发",
+      "source": "docs/design/v6/episodes/T01.md"
+    },
+    "T01.031": {
+      "src": "/audio/voice/T01.031.wav",
+      "speaker": "IRIS",
+      "text": "It reminds me of a tiny tree. But you turned it this way for a reason, right?",
+      "voiceId": "af_bella",
+      "duration": 4.544,
+      "origin": "project_original",
+      "direction": "原创补写；按实际部件、观看动作及展位触发",
+      "source": "docs/design/v6/episodes/T01.md"
+    },
+    "T01.032": {
+      "src": "/audio/voice/T01.032.wav",
+      "speaker": "IRIS",
+      "text": "Oh! I was watching the outline. The whole shape changes when it turns.",
+      "voiceId": "af_bella",
+      "duration": 4.267,
+      "origin": "project_original",
+      "direction": "原创补写；按实际部件、观看动作及展位触发",
+      "source": "docs/design/v6/episodes/T01.md"
+    },
+    "T01.033": {
+      "src": "/audio/voice/T01.033.wav",
+      "speaker": "IRIS",
+      "text": "I missed that side. Now I want to walk around it before I decide what it is.",
+      "voiceId": "af_bella",
+      "duration": 4.523,
+      "origin": "project_original",
+      "direction": "原创补写；按实际部件、观看动作及展位触发",
+      "source": "docs/design/v6/episodes/T01.md"
+    },
+    "T01.034": {
+      "src": "/audio/voice/T01.034.wav",
+      "speaker": "IRIS",
+      "text": "All right, I won't give the answer away. I'll ask the next person what they see.",
+      "voiceId": "af_bella",
+      "duration": 4.544,
+      "origin": "project_original",
+      "direction": "原创补写；按实际部件、观看动作及展位触发",
+      "source": "docs/design/v6/episodes/T01.md"
+    },
+    "T01.035": {
+      "src": "/audio/voice/T01.035.wav",
+      "speaker": "SAM",
+      "text": "That ring held a flowerpot together. The pot broke, but I kept the ring.",
+      "voiceId": "am_michael",
+      "duration": 4.715,
+      "origin": "project_original",
+      "direction": "原创补写；按实际部件、观看动作及展位触发",
+      "source": "docs/design/v6/episodes/T01.md"
+    },
+    "T01.036": {
+      "src": "/audio/voice/T01.036.wav",
+      "speaker": "SAM",
+      "text": "I used to keep screws in that tin. They kept rolling under the bench.",
+      "voiceId": "am_michael",
+      "duration": 4.352,
+      "origin": "project_original",
+      "direction": "原创补写；按实际部件、观看动作及展位触发",
+      "source": "docs/design/v6/episodes/T01.md"
+    },
+    "T01.037": {
+      "src": "/audio/voice/T01.037.wav",
+      "speaker": "SAM",
+      "text": "That branch was left after the trees were pruned. Iris liked the crooked end.",
+      "voiceId": "am_michael",
+      "duration": 4.949,
+      "origin": "project_original",
+      "direction": "原创补写；按实际部件、观看动作及展位触发",
+      "source": "docs/design/v6/episodes/T01.md"
+    },
+    "T01.038": {
+      "src": "/audio/voice/T01.038.wav",
+      "speaker": "IRIS",
+      "text": "People coming along the path will see this side first. Let me stand where they would.",
+      "voiceId": "af_bella",
+      "duration": 4.608,
+      "origin": "project_original",
+      "direction": "原创补写；按实际部件、观看动作及展位触发",
+      "source": "docs/design/v6/episodes/T01.md"
+    },
+    "T01.039": {
+      "src": "/audio/voice/T01.039.wav",
+      "speaker": "IRIS",
+      "text": "Here, people can walk around it. The flowers change what I notice first.",
+      "voiceId": "af_bella",
+      "duration": 4.352,
+      "origin": "project_original",
+      "direction": "原创补写；按实际部件、观看动作及展位触发",
+      "source": "docs/design/v6/episodes/T01.md"
+    },
+    "T01.040": {
+      "src": "/audio/voice/T01.040.wav",
+      "speaker": "IRIS",
+      "text": "Right. I'm your first visitor. What would you like me to try?",
+      "voiceId": "af_bella",
+      "duration": 3.371,
+      "origin": "project_original",
+      "direction": "原创补写；按实际部件、观看动作及展位触发",
+      "source": "docs/design/v6/episodes/T01.md"
+    },
+    "T01.041": {
+      "src": "/audio/voice/T01.041.wav",
+      "speaker": "IRIS",
+      "text": "I'll wait for it to turn before I tell anyone what I see. I nearly missed the best part.",
+      "voiceId": "af_bella",
+      "duration": 4.928,
+      "origin": "project_original",
+      "direction": "原创补写；按实际部件、观看动作及展位触发",
+      "source": "docs/design/v6/episodes/T01.md"
+    },
+    "T01.042": {
+      "src": "/audio/voice/T01.042.wav",
+      "speaker": "IRIS",
+      "text": "I'll bring the next visitor round to this side. I wonder if we'll see the same thing.",
+      "voiceId": "af_bella",
+      "duration": 4.437,
+      "origin": "project_original",
+      "direction": "原创补写；按实际部件、观看动作及展位触发",
+      "source": "docs/design/v6/episodes/T01.md"
+    },
+    "T01.043": {
+      "src": "/audio/voice/T01.043.wav",
+      "speaker": "IRIS",
+      "text": "You can tell me your idea later. I want to hear what someone else sees first.",
+      "voiceId": "af_bella",
+      "duration": 4.117,
+      "origin": "project_original",
+      "direction": "原创补写；按实际部件、观看动作及展位触发",
+      "source": "docs/design/v6/episodes/T01.md"
+    },
+    "T01.044": {
+      "src": "/audio/voice/T01.044.wav",
+      "speaker": "IRIS",
+      "text": "I've got an old biscuit tin at home. I keep paintbrushes in it. It already has another job.",
+      "voiceId": "af_bella",
+      "duration": 5.568,
+      "origin": "project_original",
+      "direction": "原创补写；按实际部件、观看动作及展位触发",
+      "source": "docs/design/v6/episodes/T01.md"
+    },
+    "T01.045": {
+      "src": "/audio/voice/T01.045.wav",
+      "speaker": "SAM",
+      "text": "Then keep using it. We don't have to put everything on a stand.",
+      "voiceId": "am_michael",
+      "duration": 3.797,
+      "origin": "project_original",
+      "direction": "原创补写；按实际部件、观看动作及展位触发",
+      "source": "docs/design/v6/episodes/T01.md"
+    },
+    "T01.046": {
+      "src": "/audio/voice/T01.046.wav",
+      "speaker": "IRIS",
+      "text": "Will you leave me a few words for the label? Something you'd like a visitor to notice.",
+      "voiceId": "af_bella",
+      "duration": 4.288,
+      "origin": "project_original",
+      "direction": "原创补写；按实际部件、观看动作及展位触发",
+      "source": "docs/design/v6/episodes/T01.md"
+    }
+  },
+  "music": {
+    "workshop": {
+      "src": "/audio/music/workshop.wav",
+      "gain": 0.63,
+      "ambience": "garden",
+      "origin": "project_original_composition",
+      "title": "An idea without a name",
+      "tempoBpm": 86,
+      "instruments": "Wooden mallets, quietly plucked strings and suspended bass"
+    },
+    "workshop_display": {
+      "src": "/audio/music/workshop_display.wav",
+      "gain": 0.54,
+      "ambience": "garden",
+      "origin": "project_original_composition",
+      "title": "A different side",
+      "tempoBpm": 72,
+      "instruments": "Sparse felt piano and slow bowed harmony"
+    }
+  },
+  "ambience": {},
+  "provenance": "/audio/workshop-provenance.json"
+}

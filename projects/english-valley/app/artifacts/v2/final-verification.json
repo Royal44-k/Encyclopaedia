@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 1,
+  "phase": "experience-v2",
+  "recordedAt": "2026-11-08T12:55:02.4811064+08:00",
+  "build": "/assets/index-Bo-zs6P9.js",
+  "productionBuild": "passed; renderer chunk size warning remains",
+  "nodeTests": {
+    "failed": 0,
+    "domain": 19,
+    "sharedScene": 1,
+    "evidence": "Final frozen build test command completed successfully during this development session.",
+    "command": "npm test",
+    "passed": 31,
+    "audioDirector": 11
+  },
+  "browserJourney": {
+    "errors": [],
+    "passed": true,
+    "artifact": "browser-main-path.json"
+  },
+  "resilience": {
+    "failed": 0,
+    "passed": 12,
+    "artifact": "resilience-results.json"
+  },
+  "audioIntegration": {
+    "scope": "Decoded audio, source starts, non-zero PCM, master mute, sequencing and scene changes; not subjective listening.",
+    "checks": 8,
+    "errors": [],
+    "passed": true,
+    "artifact": "../audio-integration-v2.json"
+  },
+  "audioAssets": {
+    "runtimeBytes": 30647232,
+    "recordedLines": 26,
+    "ambienceFiles": 2,
+    "artifact": "../../public/audio/validation.json",
+    "distinctVoiceEmbeddings": 5,
+    "musicFiles": 6
+  },
+  "imagery": {
+    "taskPhotos": "Captured from the same valley renderer; do not automatically mark observations complete.",
+    "inWorldTaskBoards": 3,
+    "generatedMaterialIllustrations": 1
+  },
+  "bundleSha256": {
+    "index-Bo-zs6P9.js": "6979e9aa164f3ac8e92a0a2c943c7ca2f7944f2ccb0a3b141bfd94f9d7cb4f44",
+    "index-CVRVJeCh.css": "7ef19b6be3a9dc2bb0800622b305688f88c2aa2dc05030ce8a68b59c3029572b",
+    "renderer-BLOLoXpv.js": "efd9e21311e5336f0f42369b2325621c32e77e76c8d188cbb804eab5842aa56d"
+  },
+  "sourceSha256": {
+    "app/src/main.js": "3f9faefe0892fe663d5cc974bb6626525fb0b007e4c4caaca6376248232aa66d",
+    "app/src/audio/audio-director.js": "bb2af1b0e3f165da0f775b03aa507bfc1b1b4fc65e12c2ffc467edbe402fc9e4",
+    "app/src/world/characters.js": "2a141985756fb3f7a6c6535f8970989ecf8ae660197227693e1aad5d32eeecc4",
+    "app/src/world/human-topology.json": "05bf038c22c7d317ec225fe7c3080c1d5abeb083c269b89d3a220f4dae8d3dc5",
+    "app/src/world/renderer.js": "c10ece1c9e67b94201d5849280baf682e4bbe51da7361858e8c9ecd4c4c0047f",
+    "app/src/world/story-boards.js": "e68237c78db3efd2b3e59466806ab1c7a73b4575a6f144c3530ac2bbd02593c5",
+    "app/src/ui/scene-media.js": "db6c8fac44d3526cb483319defcfe5f14a2cf04389a87307752dd8ba35163388",
+    "app/src/content/scene-narration.js": "fb8643848d7ba751464694ef155a979f22d6c68b09a3cbbbc7f4dc1b30da99a7",
+    "app/public/audio/manifest.json": "9296929f16382ad190fd8122635b93279d9fb759f3161ab3885d84a5216abd23",
+    "app/public/illustrations/material-cover-v2.png": "ca86b5666167ded8eabfbf16f77ddbb573684a48d846064826d91aad1eca3932"
+  },
+  "limitations": [
+    "No human subjective listening or teacher line-by-line pronunciation approval claimed.",
+    "Characters still require final skin, hair, cloth, hand contact and phoneme lip-sync work.",
+    "No target school hardware FPS or real phone touch testing performed.",
+    "Browser video contains no speaker audio track.",
+    "This phase covers the first playable journey, not all twelve chapters."
+  ]
+}

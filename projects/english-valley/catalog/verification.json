@@ -1,0 +1,24 @@
+{
+  "date": "2026-11-12",
+  "status": "verified_before_upload",
+  "payload_integrity": "All manifest entries verified by SHA-256 in primary and independent read-only review.",
+  "source_coverage": {
+    "workspace_files": 4309,
+    "external_visualization_files": 1,
+    "omitted_eligible_files": 0
+  },
+  "portable_links": {
+    "rewritten": 80,
+    "valid_markdown_targets": 541
+  },
+  "validation": {
+    "npm_ci": "passed offline using existing package cache",
+    "unit_tests": {
+      "passed": 82,
+      "failed": 0
+    },
+    "production_build": "passed; original renderer chunk-size advisory retained"
+  },
+  "preservation": "Existing collections/, archive/ and LICENSE unchanged; root README only adds the project index row.",
+  "excluded": "Reinstallable environments, caches and dist only; historical recordings retained."
+}

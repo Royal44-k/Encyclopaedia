@@ -1,0 +1,45 @@
+{
+  "passed": false,
+  "origin": "http://127.0.0.1:4173/",
+  "checks": [
+    {
+      "chapter": "The English Valley · The workshop",
+      "width": 1440,
+      "height": 960,
+      "sceneBottom": 694,
+      "dockTop": 694,
+      "lines": [
+        {
+          "text": "That one nearly escaped. Here.",
+          "problems": [
+            "scroll"
+          ]
+        },
+        {
+          "text": "Turn it over. The other side looks different.",
+          "problems": [
+            "hidden",
+            "scroll",
+            "clipped",
+            "clipped",
+            "clipped",
+            "offscreen"
+          ]
+        },
+        {
+          "text": "You can try things before you give them a name.",
+          "problems": [
+            "hidden",
+            "scroll",
+            "clipped",
+            "clipped",
+            "clipped",
+            "offscreen"
+          ]
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "error": "{\"chapter\":\"The English Valley · The workshop\",\"width\":1440,\"height\":960,\"sceneBottom\":694,\"dockTop\":694,\"lines\":[{\"text\":\"That one nearly escaped. Here.\",\"problems\":[\"scroll\"]},{\"text\":\"Turn it over. The other side looks different.\",\"problems\":[\"hidden\",\"scroll\",\"clipped\",\"clipped\",\"clipped\",\"offscreen\"]},{\"text\":\"You can try things before you give them a name.\",\"problems\":[\"hidden\",\"scroll\",\"clipped\",\"clipped\",\"clipped\",\"offscreen\"]}]}"
+}

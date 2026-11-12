@@ -1,0 +1,69 @@
+{
+  "schemaVersion": "3.0",
+  "date": "2026-11-06",
+  "status": "source_checked_design_register",
+  "scope": "公开权威资料用于核对机制；English Valley 中的人物、访谈、日志、照片内容、时刻和模拟结果均为原创虚构，不是实地测量。",
+  "sources": [
+    {
+      "id": "ENV01",
+      "title": "Urbanization and Stormwater Runoff",
+      "publisher": "US Environmental Protection Agency",
+      "url": "https://www.epa.gov/sourcewaterprotection/urbanization-and-stormwater-runoff",
+      "access": "full_article_text",
+      "supports": "雨水径流可携带泥土等物质；针对当地条件设计的景观设施可帮助减缓、滞留或过滤径流。",
+      "doesNotSupport": "不能仅凭水色确定污染物、健康风险或唯一来源；不能据此设定本山谷精确去除率。",
+      "caseIds": [
+        "C1"
+      ],
+      "use": "概括机制，重写为原创教学表述；不复制文章、图片或测量数据。"
+    },
+    {
+      "id": "ENV02",
+      "title": "Create a Rain Garden",
+      "publisher": "New York State Department of Environmental Conservation",
+      "url": "https://dec.ny.gov/get-involved/living-green/keep-water-clean/create-rain-garden",
+      "access": "article_text",
+      "supports": "雨水花园作为收集和吸收径流的种植区域，需要考虑位置、土壤和植物等实际条件。",
+      "doesNotSupport": "纽约地区植物和场地要求不能直接移植为本地施工方案；花箱不自动等于雨水花园；未接入径流的装饰花箱不能获得处理效果。",
+      "caseIds": [
+        "C1",
+        "C2"
+      ],
+      "use": "用于教学机制和设计边界；不提供现实工程施工指令。"
+    },
+    {
+      "id": "ENV03",
+      "title": "Sustainable Materials Management: Non-Hazardous Materials and Waste Management Hierarchy",
+      "publisher": "US Environmental Protection Agency",
+      "url": "https://www.epa.gov/smm/sustainable-materials-management-non-hazardous-materials-and-waste-management-hierarchy",
+      "access": "full_article_text",
+      "supports": "源头减量与再用通常优先；回收涉及将废弃材料处理后用于新产品；没有一种方法适用于所有材料和情况。",
+      "doesNotSupport": "不能判定具体旧木料或家具安全；不能假设再用一定比其他选项有更低全生命周期影响。",
+      "caseIds": [
+        "C2"
+      ],
+      "use": "区别 reuse/recycle 与适用条件，人物及材料检查结果为剧情创作。"
+    },
+    {
+      "id": "ENV04",
+      "title": "Five Principles for Responsible Outdoor Lighting",
+      "publisher": "DarkSky International and Illuminating Engineering Society",
+      "url": "https://darksky.org/resources/guides-and-how-tos/lighting-principles/",
+      "access": "full_article_text",
+      "supports": "按用途、目标区域、所需亮度、控制时段与适宜光色考虑室外照明；减少不必要的光，同时满足实际使用需要。",
+      "doesNotSupport": "不是本场地照度、无障碍、电气安全或生态效果的专业认证；不支持统一全关、任意固定关灯时刻或量化动物恢复。",
+      "caseIds": [
+        "C3"
+      ],
+      "use": "转化为可比较的虚构照明方案；学生阅读场景记录并考虑使用者。"
+    }
+  ],
+  "curriculum": {
+    "id": "CUR01",
+    "title": "人教版英语九年级全一册官方目录",
+    "publisher": "人民教育出版社",
+    "url": "https://www.pep.com.cn/products/jc/czjks/201510/t20151026_1250674.shtml",
+    "supports": "据该版官方目录选定 Unit 13: We're trying to save the earth! 作为主题锚点。",
+    "editionBoundary": "该页为较早版本目录，不能代表2026年本校使用的具体修订版；正式教材页码、词表和语法覆盖待教师对照实际课本。"
+  }
+}

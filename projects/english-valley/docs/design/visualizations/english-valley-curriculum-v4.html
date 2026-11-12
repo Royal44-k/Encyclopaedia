@@ -1,0 +1,81 @@
+<div id="english-valley-course-v4">
+  <style>
+    #english-valley-course-v4{display:grid;gap:calc(var(--font-size-base)*1);color:var(--foreground)}
+    #english-valley-course-v4 .ev-chapter{display:grid;gap:calc(var(--font-size-base)*.5)}
+    #english-valley-course-v4 .ev-heading{padding-inline-end:90px}
+    #english-valley-course-v4 .ev-selection{display:grid;gap:calc(var(--font-size-base)*.25)}
+  </style>
+  <div class="ev-heading"><h3>English Valley · 课程分布</h3><span class="text-small text-muted">12个主案例 · 24个可选事件 · 共用8处地点</span></div>
+  <div class="card ev-selection" aria-live="polite">
+    <strong id="ev-selected-title">C4 · 午后的温室</strong>
+    <span id="ev-selected-detail">温室、工坊｜调窗与遮阴、比较记录、协商交接 → 关联C5用水、C6花期、C8借还</span>
+  </div>
+  <section class="ev-chapter" aria-label="篇章A">
+    <span> A · 读懂一个有生命的地方</span>
+    <div class="viz-row">
+      <button class="btn" type="button" data-case="C1" aria-pressed="false">C1 雨后溪流</button>
+      <button class="btn" type="button" data-case="C4" aria-pressed="true">C4 午后温室</button>
+      <button class="btn" type="button" data-case="C5" aria-pressed="false">C5 水去了哪里</button>
+      <button class="btn" type="button" data-case="C6" aria-pressed="false">C6 花与访客</button>
+    </div>
+  </section>
+  <section class="ev-chapter" aria-label="篇章B">
+    <span>B · 让资源与劳动被珍惜</span>
+    <div class="viz-row">
+      <button class="btn" type="button" data-case="C2" aria-pressed="false">C2 旧物新用途</button>
+      <button class="btn" type="button" data-case="C7" aria-pressed="false">C7 开放日餐桌</button>
+      <button class="btn" type="button" data-case="C8" aria-pressed="false">C8 共享工具</button>
+    </div>
+  </section>
+  <section class="ev-chapter" aria-label="篇章C">
+    <span>C · 让不同的人共享山谷</span>
+    <div class="viz-row">
+      <button class="btn" type="button" data-case="C9" aria-pressed="false">C9 谁能走这条路</button>
+      <button class="btn" type="button" data-case="C3" aria-pressed="false">C3 刚好的光</button>
+      <button class="btn" type="button" data-case="C11" aria-pressed="false">C11 声音与安静</button>
+    </div>
+  </section>
+  <section class="ev-chapter" aria-label="篇章D">
+    <span>D · 把证据变成负责任的决定</span>
+    <div class="viz-row">
+      <button class="btn" type="button" data-case="C10" aria-pressed="false">C10 照片之外</button>
+      <button class="btn" type="button" data-case="C12" aria-pressed="false">C12 共同决定</button>
+    </div>
+  </section>
+  <script>
+  (() => {
+    const root=document.getElementById('english-valley-course-v4');
+    const details={
+      C1:['雨后的小溪','木桥、上游、东岸、树屋｜追踪水路、比较照片、试验措施 → 关联C5、C10、C12'],
+      C2:['旧物的新用途','工坊、花圃｜检查材料、数字拼装、安排维护 → 关联C8、C9、C12'],
+      C3:['留下刚好的光','返回路径、工坊、木桥｜调灯罩、测试晚离开、修订控制 → 关联C9、C11、C12'],
+      C4:['午后的温室','温室、工坊｜调窗与遮阴、比较记录、协商交接 → 关联C5用水、C6花期、C8借还'],
+      C5:['水去了哪里','温室、东岸、工坊｜核对用水条件、报告漏点、修订轮值 → 关联C4、C8'],
+      C6:['漂亮花圃，谁来做客','花圃、东岸、树屋｜定时观察、记录未知、安排花期 → 关联C4、C5、C11'],
+      C7:['开放日的餐桌','温室、工坊｜核对人数与份量、协商备餐、复盘剩余 → 关联C3、C8、C12'],
+      C8:['共享工具，谁先使用','工坊、树屋｜预约借还、处理缺件、协商不同作息 → 关联C2、C4、C5'],
+      C9:['最短的路，谁走不了','返回路径、花圃、树屋｜走查环路、倾听需要、调整标识 → 关联C2、C3、C11'],
+      C10:['一张照片讲完了吗','树屋、木桥、温室｜核对裁切、时间与措辞，向原受众更正 → 关联C1、C6、C12'],
+      C11:['谁的声音被听见','花圃、树屋、返回路径｜比较声景、协商时段、试行反馈 → 关联C3、C6、C9'],
+      C12:['一起决定山谷的下一步','温室、树屋、花圃｜比较证据与资源、回应异议、约定复查 → 延续前11案']
+    };
+    const buttons=[...root.querySelectorAll('button[data-case]')];
+    const heading=root.querySelector('#ev-selected-title');
+    const detail=root.querySelector('#ev-selected-detail');
+    function select(id,save){
+      if(!Object.prototype.hasOwnProperty.call(details,id))id='C4';
+      heading.textContent=id+' · '+details[id][0];
+      detail.textContent=details[id][1];
+      buttons.forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.case===id)));
+      if(save&&window.openai?.setWidgetState)window.openai.setWidgetState({modelContent:{selectedCase:id,title:details[id][0]},privateContent:null}).catch(()=>{});
+    }
+    buttons.forEach(b=>b.addEventListener('click',()=>select(b.dataset.case,true)));
+    select(window.openai?.widgetState?.modelContent?.selectedCase||'C4',false);
+    window.addEventListener('openai:set_globals',event=>{
+      const next=event.detail?.globals?.widgetState?.modelContent?.selectedCase;
+      if(next)select(next,false);
+    });
+  })();
+  </script>
+</div>
+

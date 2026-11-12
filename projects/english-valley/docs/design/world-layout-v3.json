@@ -1,0 +1,102 @@
+{
+  "schemaVersion": "3.0",
+  "status": "proposed_coordinates_not_yet_blockout_validated",
+  "conceptDecision": "图1为唯一空间基准；图2/3在同一世界重新取景",
+  "units": "metres",
+  "coordinates": {
+    "handedness": "right",
+    "up": "+Y",
+    "east": "+X",
+    "south": "+Z",
+    "origin": "主温室大厅地面中心"
+  },
+  "locations": [
+    {
+      "id": "loc.greenhouse",
+      "x": 0,
+      "z": 0,
+      "y": "terrain_height_at_anchor"
+    },
+    {
+      "id": "loc.treehouse",
+      "x": -11,
+      "z": -12,
+      "y": "terrain_height_at_anchor"
+    },
+    {
+      "id": "loc.workshop",
+      "x": -18,
+      "z": 9,
+      "y": "terrain_height_at_anchor"
+    },
+    {
+      "id": "loc.flower_ring",
+      "x": 0,
+      "z": 20,
+      "y": "terrain_height_at_anchor"
+    },
+    {
+      "id": "loc.upper_stream",
+      "x": 23,
+      "z": 2,
+      "y": "terrain_height_at_anchor"
+    },
+    {
+      "id": "loc.bare_bed",
+      "x": 28,
+      "z": 12,
+      "y": "terrain_height_at_anchor"
+    },
+    {
+      "id": "loc.stream_bridge",
+      "x": 21,
+      "z": 25,
+      "y": "terrain_height_at_anchor"
+    },
+    {
+      "id": "loc.exit_path",
+      "x": 7,
+      "z": 41,
+      "y": "terrain_height_at_anchor"
+    }
+  ],
+  "waterRoute": [
+    "northeast_inlet",
+    "loc.upper_stream",
+    "east_runoff_junction",
+    "loc.stream_bridge",
+    "south_pond",
+    "south_outlet"
+  ],
+  "runoffRoute": [
+    "loc.bare_bed",
+    "east_shallow_channel",
+    "east_runoff_junction"
+  ],
+  "permanentObjects": [
+    {
+      "id": "obj.bridge.main",
+      "locationId": "loc.stream_bridge",
+      "maxInstances": 1
+    },
+    {
+      "id": "obj.greenhouse.main",
+      "locationId": "loc.greenhouse",
+      "maxInstances": 1
+    }
+  ],
+  "cameras": [
+    "cam.overview",
+    "cam.field_bridge",
+    "cam.action_east_bed",
+    "cam.workshop",
+    "cam.evening_path"
+  ],
+  "rules": [
+    "移动镜头不改变永久对象变换",
+    "C1/C2/C3共享对象ID与已确认状态",
+    "临时试验与永久世界状态分离",
+    "布局调整必须同步全部镜头",
+    "灰模验证后记录layoutVersion，当前不是冻结工程尺寸"
+  ]
+}

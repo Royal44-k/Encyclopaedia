@@ -1,0 +1,50 @@
+import {enableLessonNavigation,checkCompletePassage} from './lesson-navigation.mjs';
+import { pathToFileURL } from 'node:url';
+import { mkdir, writeFile } from 'node:fs/promises';
+import assert from 'node:assert/strict';
+const runtime = process.env.PLAYWRIGHT_MODULE || 'C:/Users/lenovo/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules/playwright/index.mjs';
+const { chromium } = await import(pathToFileURL(runtime).href);
+const browser = await chromium.launch({headless:true, executablePath:process.env.BROWSER_PATH||'C:/Program Files (x86)/Microsoft/Edge/Application/msedge.exe',args:['--enable-unsafe-swiftshader']});
+const artifactDir=process.env.ARTIFACTS_DIR||'artifacts';
+const out=name=>`${artifactDir}/${name}`;
+await mkdir(artifactDir,{recursive:true});
+const context=await browser.newContext({viewport:{width:1440,height:960},deviceScaleFactor:1,...(process.argv.includes('--video')?{recordVideo:{dir:out('recordings'),size:{width:1440,height:960}}}:{})});
+const page=await context.newPage();enableLessonNavigation(page);
+let build;
+const errors=[];page.on('pageerror',e=>errors.push(e.message));page.on('console',m=>{if(m.type()==='error')errors.push(m.text());});
+const readState=()=>page.evaluate(()=>JSON.parse(localStorage.getItem('english-valley.journey.v1')));
+const expectNode=async(id)=>{await page.waitForFunction(id=>JSON.parse(localStorage.getItem('english-valley.journey.v1'))?.nodeId===id,id,{timeout:25000});};
+const click=async(action)=>{await page.locator(`[data-action="${action}"]`).first().click({timeout:20000});};
+const ready=async()=>{await page.locator('[data-action="begin"]:not(:disabled)').waitFor({timeout:60000});};
+const shot=async(name)=>{await checkCompletePassage(page);return page.screenshot({path:out(`${name}.png`),fullPage:true});};
+try{
+ await page.goto(process.env.APP_URL||'http://127.0.0.1:4173/',{waitUntil:'networkidle'});await ready();build=await page.locator('script[type="module"][src]:not([src="/@vite/client"])').getAttribute('src');await shot('01-overview');
+ if(process.argv.includes('--overview')){console.log(JSON.stringify({errors,scope:'overview'}));await browser.close();process.exit(errors.length?1:0);}
+ await click('begin');await expectNode('j.bridge_record');await page.waitForFunction(()=>!document.querySelector('.walk-note'));
+ await shot('02-bridge');
+ await click('evidence-bridge');await page.locator('.evidence-photo img').first().waitFor();await shot('03-bridge-records');await click('record-evidence');await expectNode('j.bridge_hook');
+ await click('cleanup');await page.waitForFunction(()=>JSON.parse(localStorage.getItem('english-valley.journey.v1'))?.fields['world.litterRemoved']===true);
+ assert.equal((await readState()).fields['world.waterAppearance'],'authored_brown_at_recorded_visit');
+ await click('investigate');await expectNode('j.fieldwork');
+ async function travel(id){await page.locator(`[data-action="travel"][data-location="${id}"]`).click();await page.waitForFunction(id=>{const s=JSON.parse(localStorage.getItem('english-valley.journey.v1'));return s?.fields['navigation.currentLocation']===id&&!s?.fields['navigation.targetLocation']&&!document.querySelector('.walk-note');},id,{timeout:30000});}
+ await travel('loc.upper_stream');await click('evidence-upper');await click('record-evidence');
+ await travel('loc.bare_bed');await click('evidence-path');await shot('04-soil-record');await click('record-evidence');
+ await travel('loc.greenhouse');await click('ask-mei-direct');await expectNode('j.mei_direct');await click('mei-continue');await expectNode('j.mei_followup');
+ await page.waitForFunction(()=>JSON.parse(localStorage.getItem('english-valley.journey.v1')).fields['delivery.T03S.011']===true);await shot('05-mei');await click('mei-record');
+ await travel('loc.bare_bed');await click('assemble');await expectNode('j.model_assemble');await page.waitForFunction(()=>!document.querySelector('.walk-note'));await click('stage-model');await expectNode('j.model_intro');await click('open-model');await expectNode('j.model');
+ await page.locator('[data-action="model-position"][data-position="unrelated_zone"]').click();await click('run-trial');await page.waitForFunction(()=>JSON.parse(localStorage.getItem('english-valley.journey.v1')).fields['model.trials'].length===1,{timeout:20000});
+ assert.equal((await readState()).fields['model.latestResult'],'no_difference');assert.equal((await readState()).fields['world.coverInstalled'],false);
+ await page.locator('[data-action="model-position"][data-position="source_cover_zone"]').click();await click('run-trial');await page.waitForFunction(()=>JSON.parse(localStorage.getItem('english-valley.journey.v1')).fields['model.trials'].length===2,{timeout:20000});
+ await shot('06-model');await writeFile(out('model-checkpoint.json'),JSON.stringify(await page.evaluate(()=>Object.fromEntries(Object.entries(localStorage))),null,2));await click('pause');await expectNode('j.end_paused');await page.reload({waitUntil:'networkidle'});await ready();await click('begin');await click('resume');await expectNode('j.model');await page.waitForFunction(()=>!document.querySelector('.walk-note'));
+ await click('save-proposal');await expectNode('j.plan_review');await page.locator('[data-draft="proposal"]').fill('Less soil moved in this model. We still need a later observation.');
+ await click('agree-plan');await expectNode('j.plan_choice');await click('implement');await click('check-material');await click('pick-material');await expectNode('j.placement');
+ await click('place-unrelated');await click('install');assert.equal((await readState()).fields['world.coverInstalled'],false);
+ await click('place-source');await click('install');await expectNode('j.explain');assert.equal((await readState()).fields['world.coverInstalled'],true);assert.equal((await readState()).fields['world.waterAppearance'],'authored_brown_at_recorded_visit');
+ await shot('07-placement');await click('editor');await page.locator('[data-card-source="1"]').selectOption('record.bridge.current_round.v1');await page.locator('[data-card-caption="1"]').fill('We removed a bottle. The water still looked brown.');await page.locator('[data-card-caption="2"]').fill('Our model gave us a reason to try covering the exposed soil.');await page.locator('[data-card-caption="3"]').fill('We have not observed the stream after the next rain yet.');await shot('08-picture-note');await click('save-explanation');
+ await click('return-bridge');await expectNode('j.return_card');await click('return-note');await page.locator('[data-return="whatToObserve"]').fill('Compare the water from the same bridge viewpoint.');await page.locator('[data-return="question"]').fill('Does the covered soil change what we can see after rain?');await page.locator('[data-return="realWorldConnection"]').fill('Ask who looks after the school flower beds.');await click('save-return');await click('finish');await expectNode('j.end_saved');await shot('09-saved');
+ const result=await readState();assert.equal(result.fields['followup.status'],'planned');assert.deepEqual(result.fields['followup.observations'],[]);assert.match(result.fields['explanation.cards'][0].caption,/removed a bottle/);
+ await page.reload({waitUntil:'networkidle'});await ready();await click('begin');assert.equal((await readState()).nodeId,'j.end_saved');
+ await page.setViewportSize({width:390,height:844});await shot('10-mobile');assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth),false);
+ await writeFile(out('browser-main-path.json'),JSON.stringify({passed:true,build,errors,finalNode:result.nodeId,trials:result.fields['model.trials'].length,revision:result.revision,coverage:['observations','direct-blame interview','two controlled trials','paused model reload','invalid then valid placement','own explanation','return plan','saved reload','mobile layout']},null,2));
+ console.log(JSON.stringify({passed:true,errors,finalNode:result.nodeId}));assert.deepEqual(errors,[]);
+}catch(error){await shot('failure');await writeFile(out('browser-failure.json'),JSON.stringify({error:error.message,errors,state:await readState().catch(()=>null)},null,2));console.error(error);process.exitCode=1;}finally{await context.close();if(process.argv.includes('--video')){await page.video().saveAs(out('first-journey.webm'));await page.video().delete();}await browser.close();}

@@ -1,0 +1,252 @@
+{
+  "date": "2026-11-08",
+  "status": "passed_asset_structure_and_signal_checks",
+  "performedDialogueCovered": 20,
+  "originalArrivals": 6,
+  "distinctVoiceEmbeddings": 5,
+  "uniqueMusicFiles": 6,
+  "ambienceFiles": 2,
+  "fileCount": 34,
+  "totalBytes": 30647232,
+  "files": {
+    "/audio/voice/T03.014.wav": {
+      "seconds": 2.112,
+      "sampleRate": 24000,
+      "channels": 1,
+      "sha256": "c257d86da70b665d79d5f3af23bd4dd237f99a384f099a99664e4a412e7bbc54",
+      "bytes": 101420
+    },
+    "/audio/voice/T03S.001.wav": {
+      "seconds": 2.667,
+      "sampleRate": 24000,
+      "channels": 1,
+      "sha256": "b8f198443876ece2b6fde6f7c7ec1292cf99bac5a08f7c87c4651e54a90fc510",
+      "bytes": 128044
+    },
+    "/audio/voice/T03S.002.wav": {
+      "seconds": 3.968,
+      "sampleRate": 24000,
+      "channels": 1,
+      "sha256": "270d61d461a9f76793282da4e25a8486ecce68c45b29572f5dd076f02c1fd768",
+      "bytes": 190508
+    },
+    "/audio/voice/T03S.004.wav": {
+      "seconds": 4.373,
+      "sampleRate": 24000,
+      "channels": 1,
+      "sha256": "166f43c6c2bff7c1da67e22bc41378bb49ca6629b983515f016c7094d617ff4e",
+      "bytes": 209964
+    },
+    "/audio/voice/T03S.006.wav": {
+      "seconds": 3.051,
+      "sampleRate": 24000,
+      "channels": 1,
+      "sha256": "c619d39974e55ade074da1999b097ea33afb722650d7efa005c350bf4345e588",
+      "bytes": 146476
+    },
+    "/audio/voice/T03S.007.wav": {
+      "seconds": 4.096,
+      "sampleRate": 24000,
+      "channels": 1,
+      "sha256": "a1cae6c7a59ad556b19aa1dc560fc332772b7a76798c2d8c33033fcb3cb38134",
+      "bytes": 196652
+    },
+    "/audio/voice/T03S.009.wav": {
+      "seconds": 3.733,
+      "sampleRate": 24000,
+      "channels": 1,
+      "sha256": "f16ecf3e6b7857faf3e1403300bc83c874aef96e6c27f5428c75ea9101fee085",
+      "bytes": 179244
+    },
+    "/audio/voice/T03S.011.wav": {
+      "seconds": 1.963,
+      "sampleRate": 24000,
+      "channels": 1,
+      "sha256": "44cb0c3ac627f455031fbc02c2457b33ecbb41c7d3d04b358ea163a12a26c618",
+      "bytes": 94252
+    },
+    "/audio/voice/T03S.012.wav": {
+      "seconds": 4.117,
+      "sampleRate": 24000,
+      "channels": 1,
+      "sha256": "211383bd091ba3f6b1fb0824c8aa1cf43aa86ccb47e5e9d0fbc0f7f0fc5e027d",
+      "bytes": 197676
+    },
+    "/audio/voice/T03S.015.wav": {
+      "seconds": 3.456,
+      "sampleRate": 24000,
+      "channels": 1,
+      "sha256": "cf7001441e23fa9f43e800eff9159f66089748b3c5b682c6bedef8f6e88ca131",
+      "bytes": 165932
+    },
+    "/audio/voice/T03S.017.wav": {
+      "seconds": 2.624,
+      "sampleRate": 24000,
+      "channels": 1,
+      "sha256": "5d48a6e6dfd12de5c82688dc19ae0bb356d2c217907b5feeb7bc63258358dd8c",
+      "bytes": 125996
+    },
+    "/audio/voice/T03S.019.wav": {
+      "seconds": 4.267,
+      "sampleRate": 24000,
+      "channels": 1,
+      "sha256": "e36d70db523a25810b86aa2b44866fbe24c9d4867b53f2b78badf4bc58692909",
+      "bytes": 204844
+    },
+    "/audio/voice/T03S.022.wav": {
+      "seconds": 1.536,
+      "sampleRate": 24000,
+      "channels": 1,
+      "sha256": "8dd134a1861e8d4fb749d39798112a4ab3abf29f5b9040d723f70017b34c516a",
+      "bytes": 73772
+    },
+    "/audio/voice/T03S.023.wav": {
+      "seconds": 2.027,
+      "sampleRate": 24000,
+      "channels": 1,
+      "sha256": "6c13d8648e7f6d30fce438abacd0042bcc337f7ae58911ac7608f811427fd780",
+      "bytes": 97324
+    },
+    "/audio/voice/T03S.026.wav": {
+      "seconds": 3.989,
+      "sampleRate": 24000,
+      "channels": 1,
+      "sha256": "552727c73e15f3339bd0ecac012a2474b7fdcd0c1b6def6fd4002071d459e6b6",
+      "bytes": 191532
+    },
+    "/audio/voice/T03S.028.wav": {
+      "seconds": 3.541,
+      "sampleRate": 24000,
+      "channels": 1,
+      "sha256": "3efac0d7161d0251b0ecd2187dd67f50dea748f3fb24f759abd34b1a7718c5b9",
+      "bytes": 170028
+    },
+    "/audio/voice/T03S.029.wav": {
+      "seconds": 3.541,
+      "sampleRate": 24000,
+      "channels": 1,
+      "sha256": "b2d34a401a4e7752c1e4f03fe6327e3bc756bc96bdad8011355a6364a8b325ba",
+      "bytes": 170028
+    },
+    "/audio/voice/T03S.030.wav": {
+      "seconds": 4.245,
+      "sampleRate": 24000,
+      "channels": 1,
+      "sha256": "41dc50c8addddc9d75e848d1aaba3621a864b44866931246f34db1b23ce53caa",
+      "bytes": 203820
+    },
+    "/audio/voice/T03S.031.wav": {
+      "seconds": 4.139,
+      "sampleRate": 24000,
+      "channels": 1,
+      "sha256": "1f4ebd43ef2c86fc3ddfb22ce82a347475b3ffd7be1120955f44e2d2477e7a49",
+      "bytes": 198700
+    },
+    "/audio/voice/T03S.033.wav": {
+      "seconds": 3.669,
+      "sampleRate": 24000,
+      "channels": 1,
+      "sha256": "4a04cf9240e464d826ecd63f2edce1fecaa4c6c013009941b322e774aba3f039",
+      "bytes": 176172
+    },
+    "/audio/voice/C1.A01.wav": {
+      "seconds": 4.395,
+      "sampleRate": 24000,
+      "channels": 1,
+      "sha256": "ff56a49d408f25c9c2d4e0c0fe7e5ef81dd20abaee5d7215058745c7da6ac884",
+      "bytes": 210988
+    },
+    "/audio/voice/C1.A02.wav": {
+      "seconds": 4.885,
+      "sampleRate": 24000,
+      "channels": 1,
+      "sha256": "53d56c33a171f6131e4ac1746fb7dbf516d665b6ac23b342d914a204e470f651",
+      "bytes": 234540
+    },
+    "/audio/voice/C1.A03.wav": {
+      "seconds": 3.307,
+      "sampleRate": 24000,
+      "channels": 1,
+      "sha256": "73e1477254850a023b4c4bd6e3f798b190cbbd8775ba7e1b002336934ddae63c",
+      "bytes": 158764
+    },
+    "/audio/voice/C1.A04.wav": {
+      "seconds": 3.669,
+      "sampleRate": 24000,
+      "channels": 1,
+      "sha256": "21a8e4d2d44a289b1a8e4d8bd1278a5d889ef67c7ef1240c43d89301c1f4ee5b",
+      "bytes": 176172
+    },
+    "/audio/voice/C1.A05.wav": {
+      "seconds": 3.413,
+      "sampleRate": 24000,
+      "channels": 1,
+      "sha256": "50ff9a526173382e75722eda68fbcc94d2ae92aeb8e8db9941fe3742d6e93085",
+      "bytes": 163884
+    },
+    "/audio/voice/C1.A06.wav": {
+      "seconds": 4.245,
+      "sampleRate": 24000,
+      "channels": 1,
+      "sha256": "3dd65c79c1f6bc6b99610cda2b693329551a62eb94d4ebbcc33c6219e5ab5131",
+      "bytes": 203820
+    },
+    "/audio/music/arrival.wav": {
+      "seconds": 25.263,
+      "sampleRate": 32000,
+      "channels": 2,
+      "sha256": "1b5a2622a22b7cab7bd61361f0462a69622aaebe749756b1c83011f677b4114f",
+      "bytes": 3233728
+    },
+    "/audio/music/bridge.wav": {
+      "seconds": 30.968,
+      "sampleRate": 32000,
+      "channels": 2,
+      "sha256": "549e0b0dff0a19193b20c0f5cf7b1074dad4660ca3beefda19e7422d3d1b7f65",
+      "bytes": 3963916
+    },
+    "/audio/music/upper.wav": {
+      "seconds": 22.857,
+      "sampleRate": 32000,
+      "channels": 2,
+      "sha256": "b107c39410382b29d37b2db6bc89703a178c7cf936d87e0e7f1f35eee37e8f73",
+      "bytes": 2925760
+    },
+    "/audio/music/greenhouse.wav": {
+      "seconds": 28.235,
+      "sampleRate": 32000,
+      "channels": 2,
+      "sha256": "22d19e13fecf7bb8ffbdfaa8866d49fe82e7a1963f5c32807ec3df392e7e494a",
+      "bytes": 3614160
+    },
+    "/audio/music/model.wav": {
+      "seconds": 20.87,
+      "sampleRate": 32000,
+      "channels": 2,
+      "sha256": "4a400e01262cca292c3a178c866ba1e202a5a22eac5c37882996af263851ed75",
+      "bytes": 2671348
+    },
+    "/audio/music/reflection.wav": {
+      "seconds": 29.091,
+      "sampleRate": 32000,
+      "channels": 2,
+      "sha256": "94d916b424e06590f6a946a8b3fe3be04a0f34ddaa2d3265a652d072ff2d1bdf",
+      "bytes": 3723680
+    },
+    "/audio/ambience/garden.wav": {
+      "seconds": 24.0,
+      "sampleRate": 32000,
+      "channels": 2,
+      "sha256": "e9281018d4d6199cf7c1740e535aa558485942f78d19827eb363f3d22fec9b48",
+      "bytes": 3072044
+    },
+    "/audio/ambience/stream.wav": {
+      "seconds": 24.0,
+      "sampleRate": 32000,
+      "channels": 2,
+      "sha256": "6a47cc9609917b7c734659b228d4aa689b80b2589190e45d2789867a1a51b0e8",
+      "bytes": 3072044
+    }
+  },
+  "limits": "Metadata, exact script text and digital signal checks; not human listening, pronunciation certification, final acting or classroom intelligibility validation."
+}

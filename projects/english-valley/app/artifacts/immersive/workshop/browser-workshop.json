@@ -1,0 +1,16 @@
+{
+  "passed": true,
+  "build": "/src/entry.js?t=1794124363018",
+  "checks": [
+    "Automatic distinct Sam/Iris recordings and real workshop music output",
+    "Compatible connections, rejected heavy pivot and continuous keyboard rotation",
+    "Conditional movement response, real observer position and complete queued lines with reduced motion",
+    "Storage failure does not discard unsaved author words on UI redraw",
+    "Export keeps the actual photograph after a no-op label save",
+    "Blank-title exhibition, real module menu and independent persistent chapter records",
+    "Undo, return to one workbench, unfinished storage and paused reload",
+    "Narrow-screen material tools, sound controls and static-only response",
+    "Corrupt save is retained then archived only on explicit recovery"
+  ],
+  "errors": []
+}

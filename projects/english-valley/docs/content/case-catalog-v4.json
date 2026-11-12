@@ -1,0 +1,1150 @@
+{
+  "schemaVersion": "4.0",
+  "date": "2026-11-06",
+  "status": "expanded_curriculum_design_not_implemented",
+  "preserves": "v3 visual direction, geometry, object identity and reviewed C1-C3 scripts remain; v4 extends programme scope",
+  "fictionPolicy": "所有人物、事件、记录、模拟和资源价格均为原创虚构；外部来源仅支持其列明一般机制。",
+  "cases": [
+    {
+      "id": "C1",
+      "act": "A",
+      "title": "雨后的小溪",
+      "titleEn": "The stream after the rain",
+      "locationIds": [
+        "loc.stream_bridge",
+        "loc.upper_stream",
+        "loc.bare_bed",
+        "loc.treehouse"
+      ],
+      "question": "Why is the stream cloudy after rain, and what can our evidence support?",
+      "trigger": "桥边瓶罐很醒目，清理后水仍浑浊；第一解释需要修订。",
+      "evidence": [
+        {
+          "id": "C1-V4-E1",
+          "text": "同机位雨前雨后照片与各自拍摄时刻",
+          "provenance": "original_fiction",
+          "assetStatus": "planned",
+          "reusesEvidenceIds": [
+            "C1-E01"
+          ]
+        },
+        {
+          "id": "C1-V4-E2",
+          "text": "同轮上下游记录和巡查空白",
+          "provenance": "original_fiction",
+          "assetStatus": "planned",
+          "reusesEvidenceIds": [
+            "C1-E02",
+            "C1-E05"
+          ]
+        },
+        {
+          "id": "C1-V4-E3",
+          "text": "裸土、浅沟、汇入口的连续路线",
+          "provenance": "original_fiction",
+          "assetStatus": "planned",
+          "reusesEvidenceIds": [
+            "C1-E03"
+          ]
+        },
+        {
+          "id": "C1-V4-E4",
+          "text": "Mei的目击范围及清理瓶罐后的局部变化",
+          "provenance": "original_fiction",
+          "assetStatus": "planned",
+          "reusesEvidenceIds": [
+            "C1-E04",
+            "C1-E06"
+          ]
+        }
+      ],
+      "interaction": [
+        "转动观察位并比较照片；找出可比较与不可比较的条件",
+        "沿同一地形追踪径流；追问谁看见了哪一段",
+        "摆放覆盖或植物带，固定条件运行两版简化模型"
+      ],
+      "turningPoint": "先行动不等于已经解释问题；清理有价值，但不能单独解释水色。",
+      "validApproaches": [
+        "先处理裸土再复查，同时持续清理垃圾",
+        "保留多来源假设，先补观察，再做有依据的局部措施"
+      ],
+      "persistentResult": "措施、垃圾状态、解释版本和复查点保留；不宣布水质达标。",
+      "realWorldTransfer": "选校园一处可从路径观察的雨后变化，重新取证。",
+      "languageFunctions": [
+        "观察与推测",
+        "比较",
+        "解释证据限制"
+      ],
+      "coreExpression": "The water looks different here. Soil might come from that bed.",
+      "stretchExpression": "This route supports our explanation, but one visit cannot explain every change.",
+      "environmentSourceIds": [
+        "ENV01",
+        "ENV02"
+      ],
+      "relatedCaseIds": [
+        "C5",
+        "C10",
+        "C12"
+      ],
+      "optionalEvents": [
+        {
+          "id": "C1-S1",
+          "title": "雨槽的另一端",
+          "action": "沿屋顶雨槽查看出口是否真正接入容器",
+          "languageUse": "描述路线与先后",
+          "result": "纠正把装饰花箱当处理设施的误解",
+          "durationMinutes": [
+            5,
+            12
+          ]
+        },
+        {
+          "id": "C1-S2",
+          "title": "迟到的照片",
+          "action": "收到另一时刻照片，决定能否加入原对照",
+          "languageUse": "说明条件差异",
+          "result": "照片可保存，但被标记为不可直接比较",
+          "durationMinutes": [
+            5,
+            12
+          ]
+        }
+      ],
+      "status": "design_draft_not_implemented"
+    },
+    {
+      "id": "C4",
+      "act": "A",
+      "title": "午后的温室",
+      "titleEn": "Too warm behind the glass",
+      "locationIds": [
+        "loc.greenhouse",
+        "loc.workshop"
+      ],
+      "question": "How can we make the greenhouse more suitable without guessing what every plant needs?",
+      "trigger": "午后记录提示需要减热，Mei担心遮阴过多减少植物需要的光；Sam主张先改善通风，但工具和维护时段有限。两种方案各有依据。",
+      "evidence": [
+        {
+          "id": "C4-V4-E1",
+          "text": "同一虚构日的早午晚温度记录与测点位置",
+          "provenance": "original_fiction",
+          "assetStatus": "planned"
+        },
+        {
+          "id": "C4-V4-E2",
+          "text": "通风窗工作状态和遮阴位置",
+          "provenance": "original_fiction",
+          "assetStatus": "planned"
+        },
+        {
+          "id": "C4-V4-E3",
+          "text": "两类植物的情境照料卡",
+          "provenance": "original_fiction",
+          "assetStatus": "planned"
+        },
+        {
+          "id": "C4-V4-E4",
+          "text": "当日天气预告与Mei的值班安排",
+          "provenance": "original_fiction",
+          "assetStatus": "planned"
+        }
+      ],
+      "interaction": [
+        "沿窗、门和遮阴路径观察，读温度时间线",
+        "在虚拟模型中调节可动通风窗与遮阴幕；保持天气输入一致",
+        "比较午间和傍晚两种时段；为无人照看时提出交接安排"
+      ],
+      "turningPoint": "要同时考虑光、热、天气变化与可用维护时段；不存在把某一控制拉满就自动正确的设置。",
+      "validApproaches": [
+        "维护通风窗并安排分时遮阴与复查",
+        "调整适宜植株位置、暂时遮阴，并给维护员明确交接"
+      ],
+      "persistentResult": "保存窗幕姿态和照料任务；模拟只给趋势，不编造所有植物通用理想温度。",
+      "realWorldTransfer": "比较教室不同位置与时段的体感和已有记录，向管理者提出可验证问题。",
+      "languageFunctions": [
+        "时间顺序",
+        "条件",
+        "解释方案适用时段"
+      ],
+      "coreExpression": "It feels warmer here at noon. Could we check the window?",
+      "stretchExpression": "If the weather changes, we will need to review this setting.",
+      "environmentSourceIds": [
+        "ENV05"
+      ],
+      "relatedCaseIds": [
+        "C5",
+        "C6",
+        "C8"
+      ],
+      "optionalEvents": [
+        {
+          "id": "C4-S1",
+          "title": "谁一直坐在窗边",
+          "action": "比较两个测点的同轮读数和遮挡",
+          "languageUse": "比较位置",
+          "result": "避免用单个测点代表整个温室",
+          "durationMinutes": [
+            5,
+            12
+          ]
+        },
+        {
+          "id": "C4-S2",
+          "title": "关窗前的交接",
+          "action": "为下一位值班者录一段简短操作说明",
+          "languageUse": "次序与礼貌请求",
+          "result": "留下可执行的交接条，而不是固定万能设置",
+          "durationMinutes": [
+            5,
+            12
+          ]
+        }
+      ],
+      "status": "design_draft_not_implemented"
+    },
+    {
+      "id": "C5",
+      "act": "A",
+      "title": "水去了哪里",
+      "titleEn": "Where did the water go?",
+      "locationIds": [
+        "loc.greenhouse",
+        "loc.bare_bed",
+        "loc.workshop"
+      ],
+      "question": "How can we care for the plants while avoiding water that is not needed?",
+      "trigger": "水桶似乎每天都空了；有人建议统一少浇一半，另一人发现接头在滴水。",
+      "evidence": [
+        {
+          "id": "C5-V4-E1",
+          "text": "容器补水与用水的虚构记录",
+          "provenance": "original_fiction",
+          "assetStatus": "planned"
+        },
+        {
+          "id": "C5-V4-E2",
+          "text": "滴水接头与维护工单",
+          "provenance": "original_fiction",
+          "assetStatus": "planned"
+        },
+        {
+          "id": "C5-V4-E3",
+          "text": "不同容器土壤状况、植物照料卡",
+          "provenance": "original_fiction",
+          "assetStatus": "planned"
+        },
+        {
+          "id": "C5-V4-E4",
+          "text": "降雨、遮阴改变和轮值记录",
+          "provenance": "original_fiction",
+          "assetStatus": "planned"
+        }
+      ],
+      "interaction": [
+        "核对记录的单位与时间段；区分正常用水和可疑损失",
+        "检查不同容器情境信息，为各自安排浇水和复查",
+        "提交维修请求后比较同长度时段，并记录天气、遮阴、植株与轮值条件；多项同时变化时只描述总量差，不把差值全归于修漏"
+      ],
+      "turningPoint": "一刀切节水可能让需要水的植物受损；修漏、按需浇水、分工失误是不同问题。",
+      "validApproaches": [
+        "先修明确漏点，再按土壤和植物情境调整轮值",
+        "先补齐缺失记录，保留必要照料，同时处理已确认漏点"
+      ],
+      "persistentResult": "保存维护状态、容器标签和轮值；接入C4的遮阴状态，不能反复回到默认耗水。比较记录保留天气/遮阴/植株/轮值元数据；室内接头不自动成为溪流浑浊的原因。",
+      "realWorldTransfer": "给学校或家里负责人写一条位置明确的漏水报告；未经许可不拆设备。",
+      "languageFunctions": [
+        "数量与单位",
+        "澄清",
+        "分配责任"
+      ],
+      "coreExpression": "This pot is still damp. The other one needs another check.",
+      "stretchExpression": "Using the same amount for every plant may not meet their different needs.",
+      "environmentSourceIds": [
+        "ENV06",
+        "ENV11"
+      ],
+      "relatedCaseIds": [
+        "C1",
+        "C4",
+        "C8"
+      ],
+      "optionalEvents": [
+        {
+          "id": "C5-S1",
+          "title": "下一班的人来不了了",
+          "action": "原照料者临时请假，新成员只能在另一时段到场；协商替班和哪些记录仍未知",
+          "languageUse": "请求帮助与交接",
+          "result": "变更轮值而不补造观察",
+          "durationMinutes": [
+            5,
+            12
+          ]
+        },
+        {
+          "id": "C5-S2",
+          "title": "修好后，用水仍上升",
+          "action": "收到新的高用水记录，同时发现遮阴和植株数量已变；核对条件",
+          "languageUse": "比较与限制归因",
+          "result": "不能把前后总量差全部归于漏水或维修",
+          "durationMinutes": [
+            5,
+            12
+          ]
+        }
+      ],
+      "status": "design_draft_not_implemented"
+    },
+    {
+      "id": "C6",
+      "act": "A",
+      "title": "漂亮花圃，谁来做客",
+      "titleEn": "Flowers and their visitors",
+      "locationIds": [
+        "loc.flower_ring",
+        "loc.bare_bed",
+        "loc.treehouse"
+      ],
+      "question": "Does a colourful flowerbed tell us enough about the insects that visit it?",
+      "trigger": "一张照片里花很多却没看见昆虫；同伴立刻说花圃失去了生命。",
+      "evidence": [
+        {
+          "id": "C6-V4-E1",
+          "text": "固定区域和时长的模拟访花记录",
+          "provenance": "original_fiction",
+          "assetStatus": "planned"
+        },
+        {
+          "id": "C6-V4-E2",
+          "text": "天气、时段、观察者与花朵状态",
+          "provenance": "original_fiction",
+          "assetStatus": "planned"
+        },
+        {
+          "id": "C6-V4-E3",
+          "text": "不同植物的示意花期卡",
+          "provenance": "original_fiction",
+          "assetStatus": "planned"
+        },
+        {
+          "id": "C6-V4-E4",
+          "text": "花圃修剪计划与常走路径",
+          "provenance": "original_fiction",
+          "assetStatus": "planned"
+        }
+      ],
+      "interaction": [
+        "标定观察范围和时间，区分没看见与不存在",
+        "并排比较条件相近的观察记录，记录无法识别的访客",
+        "在季节时间轴安排不同花期、通行空间和维护任务"
+      ],
+      "turningPoint": "单次少见访客不证明数量长期下降；有昆虫来访也不直接证明授粉成功。",
+      "validApproaches": [
+        "保留现有植物并补充花期空档，同时继续观察",
+        "先改进观察方法，再在适宜局部试种与复查"
+      ],
+      "persistentResult": "花期、维护安排和观察记录持续存在；不通过点击立刻召唤成群蝴蝶。",
+      "realWorldTransfer": "在教师允许的安全位置做固定条件观察，允许记录未知种类。",
+      "languageFunctions": [
+        "频率",
+        "比较条件",
+        "谨慎推断"
+      ],
+      "coreExpression": "We did not see many visitors during this observation.",
+      "stretchExpression": "The counts differ, but the weather and observation times also differ.",
+      "environmentSourceIds": [
+        "ENV07",
+        "ENV12"
+      ],
+      "relatedCaseIds": [
+        "C4",
+        "C5",
+        "C11"
+      ],
+      "optionalEvents": [
+        {
+          "id": "C6-S1",
+          "title": "不知道名字的访客",
+          "action": "用形态描述保留unknown记录",
+          "languageUse": "描述与表达不确定",
+          "result": "不因不会物种名而失去记录资格",
+          "durationMinutes": [
+            5,
+            12
+          ]
+        },
+        {
+          "id": "C6-S2",
+          "title": "花期之间的空白",
+          "action": "找出示意日历里没有开花的时段",
+          "languageUse": "时间表达与建议",
+          "result": "提出补植候选，而非照搬异地物种",
+          "durationMinutes": [
+            5,
+            12
+          ]
+        }
+      ],
+      "status": "design_draft_not_implemented"
+    },
+    {
+      "id": "C2",
+      "act": "B",
+      "title": "旧物的新用途",
+      "titleEn": "A second life, for the right purpose",
+      "locationIds": [
+        "loc.workshop",
+        "loc.flower_ring"
+      ],
+      "question": "Should we repair, reuse or replace it, and who will care for the result?",
+      "trigger": "有人想把待修长椅改成花箱，却发现访客需要在这里休息。",
+      "evidence": [
+        {
+          "id": "C2-V4-E1",
+          "text": "检查前材料卡与未知涂层木板",
+          "provenance": "original_fiction",
+          "assetStatus": "planned",
+          "reusesEvidenceIds": [
+            "C2-E01",
+            "C2-E02",
+            "C2-E03"
+          ]
+        },
+        {
+          "id": "C2-V4-E2",
+          "text": "Sam本轮对象与用途检查记录",
+          "provenance": "original_fiction",
+          "assetStatus": "planned",
+          "reusesEvidenceIds": [
+            "C2-E06"
+          ]
+        },
+        {
+          "id": "C2-V4-E3",
+          "text": "使用者需要座位的来信",
+          "provenance": "original_fiction",
+          "assetStatus": "planned",
+          "reusesEvidenceIds": [
+            "C2-E04"
+          ]
+        },
+        {
+          "id": "C2-V4-E4",
+          "text": "确认后成果及维护安排",
+          "provenance": "original_fiction",
+          "assetStatus": "planned",
+          "reusesEvidenceIds": [
+            "C2-E05",
+            "C2-E07"
+          ]
+        }
+      ],
+      "interaction": [
+        "旋转查看标签与部件，向Sam请求针对用途的检查",
+        "在虚拟工作台组合合格模块，验证放置不挡路",
+        "比较维修与适量更换方案，为成果写来历标签"
+      ],
+      "turningPoint": "旧物的感情价值、用途适合性和使用者需求都要回应。",
+      "validApproaches": [
+        "维修座椅并把适用木箱再用为花卉容器",
+        "维修座椅并选适宜新容器；特殊不可维修情境另配检查结果与替代座位"
+      ],
+      "persistentResult": "同一物件的修复、材料数量和责任人持续保存；花箱不自动改变径流。",
+      "realWorldTransfer": "找一件确有需要的物件，询问负责人后讨论维修或再用。",
+      "languageFunctions": [
+        "材料用途",
+        "被动语态",
+        "建议与让步"
+      ],
+      "coreExpression": "Could we check it before choosing a new use?",
+      "stretchExpression": "Although the crate has a history, we still need to know whether it suits this purpose.",
+      "environmentSourceIds": [
+        "ENV03"
+      ],
+      "relatedCaseIds": [
+        "C8",
+        "C9",
+        "C12"
+      ],
+      "optionalEvents": [
+        {
+          "id": "C2-S1",
+          "title": "物件的旧铭牌",
+          "action": "阅读来历与一段回忆，为标签取舍内容",
+          "languageUse": "过去与现在用途",
+          "result": "保存记忆，同时不把记忆当检查证明",
+          "durationMinutes": [
+            5,
+            12
+          ]
+        },
+        {
+          "id": "C2-S2",
+          "title": "花箱挡住了转角",
+          "action": "从另一视角检查通过路线再移位",
+          "languageUse": "空间介词与协商",
+          "result": "成果保留，位置修订后恢复通行",
+          "durationMinutes": [
+            5,
+            12
+          ]
+        }
+      ],
+      "status": "design_draft_not_implemented"
+    },
+    {
+      "id": "C7",
+      "act": "B",
+      "title": "开放日的餐桌",
+      "titleEn": "Enough food, less waste",
+      "locationIds": [
+        "loc.greenhouse",
+        "loc.workshop"
+      ],
+      "question": "How can we prepare enough food without assuming everyone wants the same meal?",
+      "trigger": "新的预订名单支持多准备一些，往次未到场记录又提示可能剩余；分批供餐能应对变化，却增加志愿者工作量。",
+      "evidence": [
+        {
+          "id": "C7-V4-E1",
+          "text": "报名数、实际到场数和虚构供餐记录",
+          "provenance": "original_fiction",
+          "assetStatus": "planned"
+        },
+        {
+          "id": "C7-V4-E2",
+          "text": "剩余数量及未分发/个人盘中分类记录",
+          "provenance": "original_fiction",
+          "assetStatus": "planned"
+        },
+        {
+          "id": "C7-V4-E3",
+          "text": "参与者自愿提供的偏好与需求",
+          "provenance": "original_fiction",
+          "assetStatus": "planned"
+        },
+        {
+          "id": "C7-V4-E4",
+          "text": "补餐安排及负责人员说明",
+          "provenance": "original_fiction",
+          "assetStatus": "planned"
+        }
+      ],
+      "interaction": [
+        "核对同一单位和阶段的份数；把未领取与盘中剩余分开",
+        "协商预订和可选择份量；模拟人流变化时的补餐顺序",
+        "比较充足性、浪费和人员工作量；不使用虚假的碳排放排名"
+      ],
+      "turningPoint": "充足供餐、减少剩余和有限人手同时成立；学生需要说明选择适用的条件与备用安排。",
+      "validApproaches": [
+        "预先询问需求、分批准备、提供自愿小份与补充",
+        "使用更清晰预订与到场确认，保留合理机动份量并复盘"
+      ],
+      "persistentResult": "保留菜单版本、未满足需求和复盘记录；剩食处理遵循本地规则，不自动捐赠或再供。",
+      "realWorldTransfer": "在学校许可下用汇总数据观察某次活动；不追踪或评价个人吃饭行为。",
+      "languageFunctions": [
+        "数量比较",
+        "选择与礼貌询问",
+        "计划与解释"
+      ],
+      "coreExpression": "Would you prefer a smaller portion with the option of more?",
+      "stretchExpression": "Reducing leftovers should not mean ignoring people whose needs are different.",
+      "environmentSourceIds": [
+        "ENV08"
+      ],
+      "relatedCaseIds": [
+        "C5",
+        "C8",
+        "C12"
+      ],
+      "optionalEvents": [
+        {
+          "id": "C7-S1",
+          "title": "同样的一份并不一样",
+          "action": "对照两个记录里份量定义",
+          "languageUse": "澄清与数量",
+          "result": "先统一单位再比较浪费",
+          "durationMinutes": [
+            5,
+            12
+          ]
+        },
+        {
+          "id": "C7-S2",
+          "title": "没勾选不等于不需要",
+          "action": "用中性问句补全未回复需求",
+          "languageUse": "礼貌跟进",
+          "result": "保留未知，不擅自推定偏好",
+          "durationMinutes": [
+            5,
+            12
+          ]
+        }
+      ],
+      "status": "design_draft_not_implemented"
+    },
+    {
+      "id": "C8",
+      "act": "B",
+      "title": "共享工具，谁先使用",
+      "titleEn": "Borrowing is a shared promise",
+      "locationIds": [
+        "loc.workshop",
+        "loc.treehouse"
+      ],
+      "question": "How can a shared tool system work for people with different schedules?",
+      "trigger": "两组同时要用同一工具；迟还者正在处理突发任务，新成员不会填写借用表。",
+      "evidence": [
+        {
+          "id": "C8-V4-E1",
+          "text": "有限工具清单与状态卡",
+          "provenance": "original_fiction",
+          "assetStatus": "planned"
+        },
+        {
+          "id": "C8-V4-E2",
+          "text": "两组时间表和任务的实际紧迫性",
+          "provenance": "original_fiction",
+          "assetStatus": "planned"
+        },
+        {
+          "id": "C8-V4-E3",
+          "text": "一次迟还的说明与另一组被延误记录",
+          "provenance": "original_fiction",
+          "assetStatus": "planned"
+        },
+        {
+          "id": "C8-V4-E4",
+          "text": "新成员对借还规则的反馈",
+          "provenance": "original_fiction",
+          "assetStatus": "planned"
+        }
+      ],
+      "interaction": [
+        "按时间段排预约，发现冲突并用英语协商",
+        "在数字工具架完成借出、延长、归还、状态报告",
+        "为临时急用和不熟悉规则者设计可理解流程"
+      ],
+      "turningPoint": "先到先得看似公平，却可能忽略紧迫性和信息障碍；公平规则要可解释、可修订。",
+      "validApproaches": [
+        "短时预约加续借协商，保留明确紧急通道",
+        "分组共享时段加人工协调，提供简短示例和状态标签"
+      ],
+      "persistentResult": "工具实例唯一、当前借用人和归还状态持续；不伪造在线多人系统。",
+      "realWorldTransfer": "为班级共有用品拟一条可试行一周的规则，收集使用者反馈。",
+      "languageFunctions": [
+        "请求与拒绝",
+        "协商时间",
+        "条件和规则"
+      ],
+      "coreExpression": "Could we use it after your group has finished?",
+      "stretchExpression": "A rule is useful only if people can understand it and ask for an exception.",
+      "environmentSourceIds": [],
+      "relatedCaseIds": [
+        "C2",
+        "C4",
+        "C5",
+        "C12"
+      ],
+      "optionalEvents": [
+        {
+          "id": "C8-S1",
+          "title": "归还了，却少一个部件",
+          "action": "检查归还状态，记录缺件且时间不明；通知下组并协商替代",
+          "languageUse": "客观报告与补救",
+          "result": "工具标记待核验，不据记录空白指控某人",
+          "durationMinutes": [
+            5,
+            12
+          ]
+        },
+        {
+          "id": "C8-S2",
+          "title": "不能留下来的成员",
+          "action": "借用时段排在课后，一名成员无法参加；重排可达时段",
+          "languageUse": "回应需求与提出例外",
+          "result": "规则增加可解释的时间选择",
+          "durationMinutes": [
+            5,
+            12
+          ]
+        }
+      ],
+      "status": "design_draft_not_implemented"
+    },
+    {
+      "id": "C9",
+      "act": "C",
+      "title": "最短的路，谁走不了",
+      "titleEn": "A route that welcomes more people",
+      "locationIds": [
+        "loc.exit_path",
+        "loc.flower_ring",
+        "loc.stream_bridge",
+        "loc.treehouse"
+      ],
+      "question": "Is the shortest route the most useful route for every visitor?",
+      "trigger": "两条环路都通向温室，其中一个转角被移动花箱缩窄；较短距离、休息位置与当前通行条件使选择变得不同。",
+      "evidence": [
+        {
+          "id": "C9-V4-E1",
+          "text": "同一花圃环路两侧路径、转角及可移动障碍的记录",
+          "provenance": "original_fiction",
+          "assetStatus": "planned"
+        },
+        {
+          "id": "C9-V4-E2",
+          "text": "访客自愿表达的行走、休息或信息需求",
+          "provenance": "original_fiction",
+          "assetStatus": "planned"
+        },
+        {
+          "id": "C9-V4-E3",
+          "text": "座位、遮挡与路标位置",
+          "provenance": "original_fiction",
+          "assetStatus": "planned"
+        },
+        {
+          "id": "C9-V4-E4",
+          "text": "树屋楼梯和地面等价资料入口",
+          "provenance": "original_fiction",
+          "assetStatus": "planned"
+        }
+      ],
+      "interaction": [
+        "沿真实路网规划两条路线，描述区别和可用休息点",
+        "移动可搬花箱、补充易理解标识并走查",
+        "听访客反馈后修订；树屋资料可在地面取得同等内容"
+      ],
+      "turningPoint": "不能把行动较慢的人当错误操作，也不能靠一条虚拟坡道宣称整个场地达标。",
+      "validApproaches": [
+        "保留短线并提供清楚的较平缓路线及座位信息",
+        "调整可移动障碍和导览方式，明确目前仍不能到达的位置及替代活动"
+      ],
+      "persistentResult": "路线标签和花箱位置保存，C2/C3/C11继续遵守；主桥和地形不为任务随意变形。",
+      "realWorldTransfer": "邀请真实使用者自愿反馈校园一段路，向负责人报告具体障碍。",
+      "languageFunctions": [
+        "问路与指路",
+        "描述需求",
+        "比较与澄清"
+      ],
+      "coreExpression": "Could you tell me which route has a place to rest?",
+      "stretchExpression": "This route is longer, but it avoids the steps and includes a resting place.",
+      "environmentSourceIds": [
+        "ENV09"
+      ],
+      "relatedCaseIds": [
+        "C2",
+        "C3",
+        "C11",
+        "C12"
+      ],
+      "optionalEvents": [
+        {
+          "id": "C9-S1",
+          "title": "被叶子挡住的路标",
+          "action": "从不同接近方向检查标牌可见性",
+          "languageUse": "方向与请求",
+          "result": "调整标识或维护安排，不只加更多箭头",
+          "durationMinutes": [
+            5,
+            12
+          ]
+        },
+        {
+          "id": "C9-S2",
+          "title": "树屋没有电梯",
+          "action": "协商地面同等资料与交流方式",
+          "languageUse": "提供选择",
+          "result": "同等学习内容不以爬楼为前提",
+          "durationMinutes": [
+            5,
+            12
+          ]
+        }
+      ],
+      "status": "design_draft_not_implemented"
+    },
+    {
+      "id": "C3",
+      "act": "C",
+      "title": "留下刚好的光",
+      "titleEn": "Enough light for everyone",
+      "locationIds": [
+        "loc.exit_path",
+        "loc.workshop",
+        "loc.stream_bridge"
+      ],
+      "question": "How can we reduce unnecessary light without leaving people behind?",
+      "trigger": "学生准备统一熄灯，但收尾工作人员和慢行访客还未离开。",
+      "evidence": [
+        {
+          "id": "C3-V4-E1",
+          "text": "闭园与收尾时间表",
+          "provenance": "original_fiction",
+          "assetStatus": "planned",
+          "reusesEvidenceIds": [
+            "C3-E01"
+          ]
+        },
+        {
+          "id": "C3-V4-E2",
+          "text": "固定点同曝光的照明图",
+          "provenance": "original_fiction",
+          "assetStatus": "planned",
+          "reusesEvidenceIds": [
+            "C3-E02"
+          ]
+        },
+        {
+          "id": "C3-V4-E3",
+          "text": "志愿者和访客的使用说明",
+          "provenance": "original_fiction",
+          "assetStatus": "planned",
+          "reusesEvidenceIds": [
+            "C3-E03"
+          ]
+        },
+        {
+          "id": "C3-V4-E4",
+          "text": "灯具遮光、朝向、定时与手动控制卡",
+          "provenance": "original_fiction",
+          "assetStatus": "planned",
+          "reusesEvidenceIds": [
+            "C3-E04"
+          ]
+        }
+      ],
+      "interaction": [
+        "调节真实虚拟灯具部件，观察路径和外溢",
+        "测试通常离开、慢行、晚收尾和无人情境",
+        "发现过早熄灭时修改规则并保留人工延时"
+      ],
+      "turningPoint": "足够不能只由最先离开的人决定；最暗画面也不是自动最优。",
+      "validApproaches": [
+        "关闭不需用的装饰灯，保留定向任务与路径照明",
+        "分区分时控制并保留明确延时操作与收尾责任"
+      ],
+      "persistentResult": "同灯具参数和部件状态保存；不得以曝光变化冒充节能效果。",
+      "realWorldTransfer": "询问学校负责人和使用者，提出需进一步调查的照明位置。",
+      "languageFunctions": [
+        "条件",
+        "需求与让步",
+        "提出例外"
+      ],
+      "coreExpression": "Some people still need this route. Can we extend the time?",
+      "stretchExpression": "Although the public visit has ended, the closing team may still need task lighting.",
+      "environmentSourceIds": [
+        "ENV04"
+      ],
+      "relatedCaseIds": [
+        "C9",
+        "C11",
+        "C12"
+      ],
+      "optionalEvents": [
+        {
+          "id": "C3-S1",
+          "title": "亮着却没照到路",
+          "action": "旋转灯罩比较光落在哪里",
+          "languageUse": "位置描述",
+          "result": "区分发光外观与实际照亮",
+          "durationMinutes": [
+            5,
+            12
+          ]
+        },
+        {
+          "id": "C3-S2",
+          "title": "迟到的收尾消息",
+          "action": "处理临时延迟并更新值班交接",
+          "languageUse": "时间与请求",
+          "result": "例外被记录，下一轮计划可以调整",
+          "durationMinutes": [
+            5,
+            12
+          ]
+        }
+      ],
+      "status": "design_draft_not_implemented"
+    },
+    {
+      "id": "C10",
+      "act": "D",
+      "title": "一张照片讲完了吗",
+      "titleEn": "The story outside the frame",
+      "locationIds": [
+        "loc.treehouse",
+        "loc.stream_bridge",
+        "loc.greenhouse"
+      ],
+      "question": "What should we check before sharing a claim about the valley?",
+      "trigger": "截去时间和地点的浑浊溪流照片被配上指责园丁的标题；画面真实，结论却超出了它。",
+      "evidence": [
+        {
+          "id": "C10-V4-E1",
+          "text": "完整照片与裁切版、虚构时间地点信息",
+          "provenance": "original_fiction",
+          "assetStatus": "planned"
+        },
+        {
+          "id": "C10-V4-E2",
+          "text": "原始记录、转发标题和缺失上下文",
+          "provenance": "original_fiction",
+          "assetStatus": "planned"
+        },
+        {
+          "id": "C10-V4-E3",
+          "text": "Mei访谈与C1证据限制",
+          "provenance": "original_fiction",
+          "assetStatus": "planned"
+        },
+        {
+          "id": "C10-V4-E4",
+          "text": "一位读者已形成判断后的反馈",
+          "provenance": "original_fiction",
+          "assetStatus": "planned"
+        }
+      ],
+      "interaction": [
+        "对齐原图与裁切范围，恢复时间地点",
+        "区分原始观察、作者推断和未知；追溯到原记录",
+        "改写标题并向同一模拟读者发更正，保留修改理由"
+      ],
+      "turningPoint": "补一句“可能”不能挽救没有依据的指责；更正需要触及已误解的受众。",
+      "validApproaches": [
+        "发布注明范围的观察并明确尚未确定的原因",
+        "暂缓结论，补充采访；保留公开更正原说法的记录"
+      ],
+      "persistentResult": "版本、来源链和更正记录持续；不向真实社交平台自动发布。",
+      "realWorldTransfer": "检查一条经教师选定的消息，区分照片呈现与标题推断。",
+      "languageFunctions": [
+        "推测与证据",
+        "转述",
+        "澄清与更正"
+      ],
+      "coreExpression": "The photo shows brown water, but it does not show the cause.",
+      "stretchExpression": "Our earlier caption went beyond the evidence, so we have corrected it.",
+      "environmentSourceIds": [],
+      "relatedCaseIds": [
+        "C1",
+        "C6",
+        "C12"
+      ],
+      "optionalEvents": [
+        {
+          "id": "C10-S1",
+          "title": "翻译丢掉了“可能”",
+          "action": "对照英文might和中文肯定语气，修正传播中的确信程度",
+          "languageUse": "语义澄清与谨慎推断",
+          "result": "新标题恢复不确定性并说明原因",
+          "durationMinutes": [
+            5,
+            12
+          ]
+        },
+        {
+          "id": "C10-S2",
+          "title": "愿意说明，不愿公开姓名",
+          "action": "模拟人物愿意提供记录但不愿公开姓名；区分核验资料与公开署名",
+          "languageUse": "礼貌征询与说明引用范围",
+          "result": "保存授权范围，必要时匿名说明；不把匿名自动判假",
+          "durationMinutes": [
+            5,
+            12
+          ]
+        }
+      ],
+      "status": "design_draft_not_implemented"
+    },
+    {
+      "id": "C11",
+      "act": "C",
+      "title": "谁的声音被听见",
+      "titleEn": "A place for music, a place for quiet",
+      "locationIds": [
+        "loc.flower_ring",
+        "loc.treehouse",
+        "loc.exit_path"
+      ],
+      "question": "How can people enjoy an event while sharing space with those who need quiet?",
+      "trigger": "学生想在花圃办音乐活动，读书者、工作人员与想听水声的人提出不同需求。",
+      "evidence": [
+        {
+          "id": "C11-V4-E1",
+          "text": "同地点不同时段的模拟声音日志",
+          "provenance": "original_fiction",
+          "assetStatus": "planned"
+        },
+        {
+          "id": "C11-V4-E2",
+          "text": "活动、阅读与维护的使用时间表",
+          "provenance": "original_fiction",
+          "assetStatus": "planned"
+        },
+        {
+          "id": "C11-V4-E3",
+          "text": "不同使用者的访谈",
+          "provenance": "original_fiction",
+          "assetStatus": "planned"
+        },
+        {
+          "id": "C11-V4-E4",
+          "text": "扬声位置、行走路线与安静区域示意",
+          "provenance": "original_fiction",
+          "assetStatus": "planned"
+        }
+      ],
+      "interaction": [
+        "在固定听音点比较声音场景并提供文字等价描述",
+        "安排活动时段、朝向和安静区，检查路线是否穿过",
+        "用角色协商修订，不能通过调自己设备音量充当场地测量"
+      ],
+      "turningPoint": "热闹和安静都有价值；多数投票不能直接消除少数人的明确需要。",
+      "validApproaches": [
+        "短时活动加清楚公告、安静位置和协调人",
+        "调整位置或时段，为另一种活动保留可用空间"
+      ],
+      "persistentResult": "活动表、位置与安静标识持续，C3照明和C9路线响应；模拟不输出未经校准分贝。",
+      "realWorldTransfer": "访谈一处共享空间的使用者，为一次活动拟定可试行约定。",
+      "languageFunctions": [
+        "偏好与原因",
+        "礼貌异议",
+        "协商与回应"
+      ],
+      "coreExpression": "I enjoy the music, but I also need a quiet place to read.",
+      "stretchExpression": "Could we change the time so that both groups can use the space?",
+      "environmentSourceIds": [
+        "ENV10"
+      ],
+      "relatedCaseIds": [
+        "C3",
+        "C6",
+        "C9",
+        "C12"
+      ],
+      "optionalEvents": [
+        {
+          "id": "C11-S1",
+          "title": "请先听我说完",
+          "action": "分别复述两个群体的需要后再提建议",
+          "languageUse": "转述与回应",
+          "result": "对话按是否回应需求推进，不按顺从程度评分",
+          "durationMinutes": [
+            5,
+            12
+          ]
+        },
+        {
+          "id": "C11-S2",
+          "title": "听不见也能参与",
+          "action": "用字幕、声音日志与视觉提示体验同一任务",
+          "languageUse": "描述与确认",
+          "result": "不以辨听音效能力决定任务资格",
+          "durationMinutes": [
+            5,
+            12
+          ]
+        }
+      ],
+      "status": "design_draft_not_implemented"
+    },
+    {
+      "id": "C12",
+      "act": "D",
+      "title": "一起决定山谷的下一步",
+      "titleEn": "What should we do next, together?",
+      "locationIds": [
+        "loc.greenhouse",
+        "loc.treehouse",
+        "loc.flower_ring"
+      ],
+      "question": "How can we choose the next steps when time and resources are limited?",
+      "trigger": "开放日将近，各组都想优先实现自己的方案；日常维护已占用一部分人手。",
+      "evidence": [
+        {
+          "id": "C12-V4-E1",
+          "text": "已完成成果与仍未解决的问题台账",
+          "provenance": "original_fiction",
+          "assetStatus": "planned"
+        },
+        {
+          "id": "C12-V4-E2",
+          "text": "教学用预算和维护时段卡",
+          "provenance": "original_fiction",
+          "assetStatus": "planned"
+        },
+        {
+          "id": "C12-V4-E3",
+          "text": "不同使用者的建议及缺席者留言",
+          "provenance": "original_fiction",
+          "assetStatus": "planned"
+        },
+        {
+          "id": "C12-V4-E4",
+          "text": "试验限制、失败记录与延期影响",
+          "provenance": "original_fiction",
+          "assetStatus": "planned"
+        }
+      ],
+      "interaction": [
+        "先保留基本维护，再组合下一阶段项目卡",
+        "邀请不同立场陈述证据与受影响需求，回应一个反对意见",
+        "形成可修订的决定，明确谁做、何时复查、什么条件触发变更"
+      ],
+      "turningPoint": "已经完成的成果不因未入选下一轮预算被撤销；尚未确定可以成为保留意见。",
+      "validApproaches": [
+        "优先延续水土与温室维护，同时保留出行体验的改进",
+        "优先共享空间和花期延续，同时保留已承诺维护"
+      ],
+      "persistentResult": "保存理由、少数意见、负责人、复查日期；后续季度回访重开待决事项。",
+      "realWorldTransfer": "选择一个真实校园小问题，向明确受众提出有依据且可跟进的邀请。",
+      "languageFunctions": [
+        "说服",
+        "权衡",
+        "回应异议",
+        "回顾变化"
+      ],
+      "coreExpression": "We suggest this plan because it meets these needs.",
+      "stretchExpression": "We accept this proposal for now, provided that the maintenance work is covered.",
+      "environmentSourceIds": [],
+      "relatedCaseIds": [
+        "C1",
+        "C2",
+        "C3",
+        "C4",
+        "C5",
+        "C6",
+        "C7",
+        "C8",
+        "C9",
+        "C10",
+        "C11"
+      ],
+      "optionalEvents": [
+        {
+          "id": "C12-S1",
+          "title": "缺席者的来信",
+          "action": "在表决前加入未到场使用者信息",
+          "languageUse": "转述与修订",
+          "result": "必要时修改议程，不把缺席视为同意",
+          "durationMinutes": [
+            5,
+            12
+          ]
+        },
+        {
+          "id": "C12-S2",
+          "title": "我们的第一次猜想",
+          "action": "重看早期日志，说明哪条证据改变了判断",
+          "languageUse": "反思过去与现在",
+          "result": "生成有具体变化的学习回顾",
+          "durationMinutes": [
+            5,
+            12
+          ]
+        }
+      ],
+      "status": "design_draft_not_implemented"
+    }
+  ],
+  "evidencePolicy": "V4-E为设计证据卡ID；C1-C3引用既有reusesEvidenceIds，运行时不得重复生成同一证据。"
+}

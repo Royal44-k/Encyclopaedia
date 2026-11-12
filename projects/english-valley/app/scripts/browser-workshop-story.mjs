@@ -1,0 +1,61 @@
+import {enableLessonNavigation,checkCompletePassage} from './lesson-navigation.mjs';
+import assert from 'node:assert/strict';
+import { mkdir, writeFile, readFile } from 'node:fs/promises';
+import { pathToFileURL } from 'node:url';
+const { chromium } = await import(pathToFileURL(process.env.PLAYWRIGHT_MODULE || 'C:/Users/lenovo/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules/playwright/index.mjs').href);
+const origin=process.env.APP_URL||'http://127.0.0.1:4173/';
+const folder=process.env.ARTIFACTS_DIR||'artifacts/workshop-story';await mkdir(folder,{recursive:true});
+const browser=await chromium.launch({headless:true,executablePath:'C:/Program Files (x86)/Microsoft/Edge/Application/msedge.exe',args:['--enable-unsafe-swiftshader']});
+const context=await browser.newContext({viewport:{width:1440,height:960},deviceScaleFactor:1});
+await context.addInitScript(()=>{
+  if(!sessionStorage.workTestSeed){localStorage.setItem('english-valley.preferences.v1',JSON.stringify({audioVersion:2,sound:true,music:true,ambience:true,muted:false,reduced:location.search.includes('motionTest')?false:true,chinese:true}));sessionStorage.workTestSeed='1';}
+  const raw=new WeakMap(),decoded=new WeakMap(),records=[];
+  const fetchOriginal=window.fetch;
+  window.fetch=async(...args)=>{const r=await fetchOriginal(...args),read=r.arrayBuffer.bind(r);r.arrayBuffer=async()=>{const data=await read();raw.set(data,new URL(typeof args[0]==='string'?args[0]:args[0].url,location.href).pathname);return data;};return r;};
+  const AC=window.AudioContext||window.webkitAudioContext,decode=AC.prototype.decodeAudioData,createSource=AC.prototype.createBufferSource;
+  AC.prototype.decodeAudioData=function(data,...rest){const src=raw.get(data),p=decode.call(this,data,...rest);p?.then(b=>decoded.set(b,src));return p;};
+  AC.prototype.createBufferSource=function(...args){const source=createSource.apply(this,args),start=source.start.bind(source),ctx=this;source.start=(...params)=>{const analyser=ctx.createAnalyser();source.connect(analyser);const data=new Float32Array(analyser.fftSize),record={src:decoded.get(source.buffer),peak:0,ended:false,startedAt:ctx.currentTime,duration:source.buffer?.duration};records.push(record);const interval=setInterval(()=>{analyser.getFloatTimeDomainData(data);for(const x of data)record.peak=Math.max(record.peak,Math.abs(x));},25);source.addEventListener('ended',()=>{record.ended=true;record.endedAt=ctx.currentTime;clearInterval(interval);analyser.disconnect();},{once:true});return start(...params);};return source;};
+  window.__workAudio=records;
+});
+const page=await context.newPage();enableLessonNavigation(page);const errors=[],checks=[];
+page.on('pageerror',e=>errors.push(e.message));page.on('console',m=>{if(m.type()==='error')errors.push(m.text());});
+const b=(a,extra='')=>page.locator(`[data-work-action="${a}"]${extra}`).first();
+const click=a=>b(a).click({timeout:30000});
+const ready=()=>page.locator('[data-work-action="begin"]:not(:disabled)').waitFor({timeout:90000});
+const settled=()=>page.locator('.walk-note').waitFor({state:'detached',timeout:30000});
+const saved=()=>page.evaluate(()=>JSON.parse(localStorage.getItem('english-valley.workshop.v1'))?.state);
+const shot=async name=>{await checkCompletePassage(page);await page.evaluate(()=>new Promise(r=>requestAnimationFrame(()=>requestAnimationFrame(()=>requestAnimationFrame(r)))));return page.screenshot({path:`${folder}/${name}.png`,fullPage:true});};
+const voice=id=>page.waitForFunction(id=>window.__workAudio.some(r=>r.src===`/audio/voice/${id}.wav`&&r.peak>.0003),id,{timeout:30000});
+let build;
+try{
+  await page.goto(`${origin}?module=T01`,{waitUntil:'networkidle'});await ready();build=await page.locator('script[type="module"][src]:not([src="/@vite/client"])').getAttribute('src');await shot('01-empty-stand');
+  assert.doesNotMatch(await page.locator('#app').innerText(),/不是溪流|先试一试|开放日前|检查过|没有标准/);
+  assert.equal(await page.evaluate(()=>__workAudio.length),0);
+  await click('begin');await settled();await voice('T01.027');await voice('T01.028');await checkCompletePassage(page);
+  await page.waitForFunction(()=>__workAudio.some(r=>r.src==='/audio/music/workshop.wav'&&r.peak>.0003));
+  checks.push('Empty-stand invitation auto-speaks Iris then Sam with local BGM');
+  await b('part','[data-part="ring"]').click();await voice('T01.035');await b('slot','[data-slot="accent"]').click();await b('part','[data-part="cloth"]').click();await b('joint','[data-joint="pivot"]').click();await voice('T01.005');await shot('02-a-ring-with-a-history');
+  await click('share');await settled();await voice('T01.029');assert.equal(await b('place').count(),0);await shot('03-iris-sees-a-window');
+  await b('intent','[data-intent="movement"]').click();await settled();await voice('T01.009');assert.equal((await saved()).story.demonstrated,false);assert.equal(await b('reply').count(),0);
+  await click('demonstrate');await settled();assert.equal((await saved()).story.demonstrated,true);await voice('T01.032');await shot('04-iris-changes-her-mind');
+  await page.reload({waitUntil:'networkidle'});await ready();await click('begin');await settled();assert.equal((await saved()).stage,'share');assert.equal((await saved()).story.demonstrated,true);assert.equal((await saved()).moving,false);
+  await click('reply');await settled();await voice('T01.046');await page.locator('#work-title').fill('A window that will not stay still');await page.locator('#work-note').fill('I used a ring and a piece of cloth. Wait for the gap to turn towards you.');await page.locator('#work-permission').selectOption('no');await click('save-label');
+  // Failed writes retain author text through redraw, rather than claiming it was saved.
+  await page.evaluate(()=>{window._set=Storage.prototype.setItem;Storage.prototype.setItem=function(k,v){if(k==='english-valley.workshop.v1'&&window.failWorkWrite)throw new DOMException('Quota','QuotaExceededError');return _set.call(this,k,v);};window.failWorkWrite=true;});
+  await page.locator('#work-note').fill('I used a ring and cloth. Watch the space inside it.');await click('save-label');await click('language');assert.equal(await page.locator('#work-note').inputValue(),'I used a ring and cloth. Watch the space inside it.');assert.notEqual((await saved()).artwork.note,'I used a ring and cloth. Watch the space inside it.');await page.evaluate(()=>window.failWorkWrite=false);await click('save-label');await click('language');await shot('05-author-label');
+  await click('place');await settled();assert.equal(await b('display').count(),0);await b('try-site','[data-location="path"]').click();await settled();assert.equal((await saved()).artwork.status,'draft');assert.equal((await saved()).story.trial,'path');await voice('T01.038');await shot('06-try-the-path');
+  await b('try-site','[data-location="flower"]').click();await settled();await voice('T01.039');assert.equal((await saved()).story.trial,'flower');assert.equal((await saved()).artwork.status,'draft');await shot('07-try-the-flower-ring');
+  await click('display');await settled();await voice('T01.040');assert.equal((await saved()).stage,'visit');assert.equal(await b('finish').count(),0);await shot('08-first-visitor');
+  await b('visitor','[data-topic="invitation"]').click();await settled();await voice('T01.041');await shot('09-visitor-response');await click('finish');await settled();assert.equal((await saved()).story.finished,true);assert.equal((await saved()).artwork.location,'flower');await shot('10-complete-exhibition');
+  const downloadPromise=page.waitForEvent('download');await click('export');const download=await downloadPromise;const downloaded=JSON.parse(await readFile(await download.path(),'utf8'));assert.match(downloaded.photograph,/^data:image\/jpeg/);assert.equal(downloaded.record.story.finished,true);checks.push('Moving work: first impression, witnessed motion, reload, author label, both trial sites, visitor and complete export');checks.push('Failed label write preserves exact author text and succeeds on retry');
+  const raw=await page.evaluate(()=>localStorage.getItem('english-valley.workshop.v1'));await page.reload({waitUntil:'networkidle'});await ready();await click('begin');await settled();assert.equal(await page.evaluate(()=>localStorage.getItem('english-valley.workshop.v1')),raw);assert.equal((await saved()).story.finished,true);
+  // Static branch, on a narrow screen: different first impression, no movement shortcut.
+  await click('reopen');await settled();assert.equal((await saved()).story.response,null);await b('joint','[data-joint="fixed"]').click();await page.setViewportSize({width:390,height:844});await b('part','[data-part="tin"]').click();await voice('T01.036');await click('share');await settled();await voice('T01.030');assert.equal(await b('intent','[data-intent="movement"]').count(),0);await shot('11-tin-first-impression-mobile');
+  await b('intent','[data-intent="shape"]').click();await settled();await click('demonstrate');await settled();assert.equal((await saved()).view,'side');await voice('T01.033');await shot('12-show-the-other-side-mobile');await click('reply');await settled();await page.locator('#work-title').fill('');await page.locator('#work-note').fill('It used to hold screws. Now look at its outline.');await click('save-label');await click('place');await settled();await b('try-site','[data-location="path"]').click();await settled();await click('display');await settled();await b('visitor','[data-topic="materials"]').click();await settled();await voice('T01.044');await voice('T01.045');assert.equal(await page.locator('#immersive-dock').getAttribute('data-view'),'dialogue');assert.equal(await page.locator('[data-work-line="T01.044"]').isVisible(),true);await shot('13-biscuit-tin-conversation-mobile');await click('finish');await settled();assert.equal((await saved()).artwork.title,'');assert.equal((await saved()).story.visitor,'materials');await shot('14-static-ending-mobile');checks.push('Static tin route: appropriate first impression, actual side view, untitled exhibit and everyday reuse conversation on mobile');
+  // Third interpretation stays open; no fabricated text understanding.
+  await page.setViewportSize({width:1366,height:768});await click('reopen');await settled();await b('part','[data-part="branch"]').click();await voice('T01.037');await click('share');await settled();await voice('T01.031');await b('intent','[data-intent="question"]').click();await settled();await click('demonstrate');await settled();await voice('T01.034');await shot('15-another-interpretation');await click('reply');await settled();await click('place');await settled();await b('try-site','[data-location="flower"]').click();await settled();await click('display');await settled();await b('visitor','[data-topic="invitation"]').click();await settled();await voice('T01.043');
+  await page.setViewportSize({width:844,height:390});await shot('16-question-ending-landscape');assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth),false);await click('finish');await settled();assert.equal((await saved()).story.response,'question');assert.equal((await saved()).story.finished,true);checks.push('Branch/question route completes with open interpretation and complete landscape dialogue');
+  await click('reopen');await settled();await click('store');await settled();assert.equal((await saved()).artwork.status,'stored');assert.equal((await saved()).story.finished,false);await page.reload({waitUntil:'networkidle'});await ready();await click('begin');await settled();assert.equal((await saved()).artwork.status,'stored');checks.push('Storing unfinished is a resumable pause, never a false exhibition completion');
+  assert.deepEqual(errors,[]);await writeFile(`${folder}/browser-workshop-story.json`,JSON.stringify({passed:true,build,checks,errors},null,2));console.log(JSON.stringify({passed:true,build,checks:checks.length,errors}));
+}catch(error){await shot('failure').catch(()=>{});await writeFile(`${folder}/browser-workshop-story.json`,JSON.stringify({passed:false,build,checks,error:error.message,errors},null,2));console.error(error);process.exitCode=1;}
+finally{await context.close().catch(()=>{});await browser.close().catch(()=>{});}

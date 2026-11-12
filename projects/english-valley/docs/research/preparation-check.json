@@ -1,0 +1,14 @@
+{
+  "vendorArchiveIntegrity": "passed",
+  "preparedGlbValidated": 22,
+  "fontsValidated": 2,
+  "conceptImage": "present, inspected visually; not runtime screenshot",
+  "audioSeconds": 43.73,
+  "documentsPresent": 6,
+  "limitations": [
+    "No app or GPU runtime has been built or tested",
+    "Custom hero buildings remain to be produced before implementation",
+    "Audio file structural validation only; teacher listening review pending",
+    "MotionSites screenshot capture failed; public index read only"
+  ]
+}

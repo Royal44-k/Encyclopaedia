@@ -1,0 +1,11 @@
+{
+  "errors": [],
+  "isolatedCastStats": {
+    "frame": 1,
+    "calls": 219,
+    "triangles": 134094,
+    "points": 0,
+    "lines": 0
+  },
+  "scope": "Anatomical cast study and actual shared-world model camera; software renderer, not classroom performance benchmark"
+}

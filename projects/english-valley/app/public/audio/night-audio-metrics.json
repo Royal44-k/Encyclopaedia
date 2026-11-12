@@ -1,0 +1,207 @@
+{
+  "T02.001": {
+    "duration": 1.557,
+    "sampleRate": 24000,
+    "channels": 1,
+    "peakDbFS": -2.19,
+    "rmsDbFS": -15.6,
+    "bytes": 74796,
+    "sha256": "1d087d447994839e8c9e766db4820c6dac278f7f58150d90d00fea2268a4cb84",
+    "renderSeconds": 2.34
+  },
+  "T02.003": {
+    "duration": 3.371,
+    "sampleRate": 24000,
+    "channels": 1,
+    "peakDbFS": -2.16,
+    "rmsDbFS": -18.14,
+    "bytes": 161836,
+    "sha256": "c556b360d8805a7a8e7c0a0cb14385268fb3324e247728d12d25466163e55a3a",
+    "renderSeconds": 1.99
+  },
+  "T02.005": {
+    "duration": 2.24,
+    "sampleRate": 24000,
+    "channels": 1,
+    "peakDbFS": -2.25,
+    "rmsDbFS": -15.67,
+    "bytes": 107564,
+    "sha256": "ec716791d08122435a4d08369a8c1b7e01590905e93fa22f39bccbe3bc0f6567",
+    "renderSeconds": 1.44
+  },
+  "T02.006": {
+    "duration": 2.432,
+    "sampleRate": 24000,
+    "channels": 1,
+    "peakDbFS": -2.16,
+    "rmsDbFS": -18.0,
+    "bytes": 116780,
+    "sha256": "58193a5dfb6b581bb2cd13551c56b478d73580172a42af72fc0ea5140c537953",
+    "renderSeconds": 1.66
+  },
+  "T02.008": {
+    "duration": 1.92,
+    "sampleRate": 24000,
+    "channels": 1,
+    "peakDbFS": -2.16,
+    "rmsDbFS": -18.09,
+    "bytes": 92204,
+    "sha256": "3b2a678bf037ad7fbaa4edd99bf1cdf4b3ff3fa1cb2ec005b24196c03c137ece",
+    "renderSeconds": 1.3
+  },
+  "T02.010": {
+    "duration": 4.693,
+    "sampleRate": 24000,
+    "channels": 1,
+    "peakDbFS": -2.16,
+    "rmsDbFS": -24.13,
+    "bytes": 225324,
+    "sha256": "28a09a435f1a45f7870ae9ac76d0cd2f7289d9481e1be5d2f210499395a2bb99",
+    "renderSeconds": 3.0
+  },
+  "T02.011": {
+    "duration": 4.053,
+    "sampleRate": 24000,
+    "channels": 1,
+    "peakDbFS": -2.16,
+    "rmsDbFS": -16.35,
+    "bytes": 194604,
+    "sha256": "5525dfb5b9127bdb9c64e9a7089028451bbc69694bf8193243c4af815c8205c3",
+    "renderSeconds": 2.34
+  },
+  "T02.013": {
+    "duration": 2.325,
+    "sampleRate": 24000,
+    "channels": 1,
+    "peakDbFS": -2.16,
+    "rmsDbFS": -20.82,
+    "bytes": 111660,
+    "sha256": "a8e82ef2aa37c40f546785dcd7bca39b329c1d7d23bb9e0f1a8c8798303e9224",
+    "renderSeconds": 1.5
+  },
+  "T02.015": {
+    "duration": 3.627,
+    "sampleRate": 24000,
+    "channels": 1,
+    "peakDbFS": -2.16,
+    "rmsDbFS": -18.0,
+    "bytes": 174124,
+    "sha256": "8ba4877a38963b2ddfb8d8164453f49fdf7ed20e9dd644a29b8ea6a3f81bd1b4",
+    "renderSeconds": 2.16
+  },
+  "T02.016": {
+    "duration": 4.48,
+    "sampleRate": 24000,
+    "channels": 1,
+    "peakDbFS": -2.16,
+    "rmsDbFS": -22.34,
+    "bytes": 215084,
+    "sha256": "fe56ac9606929f05547dcba43e227275d958861ec09119bd28a893c0a98002ea",
+    "renderSeconds": 2.64
+  },
+  "T02.018": {
+    "duration": 3.392,
+    "sampleRate": 24000,
+    "channels": 1,
+    "peakDbFS": -2.16,
+    "rmsDbFS": -17.99,
+    "bytes": 162860,
+    "sha256": "951b2e46285c672cab837f371d998fbe084582bcde77503c10de6da36e3a66c5",
+    "renderSeconds": 1.97
+  },
+  "T02.020": {
+    "duration": 2.987,
+    "sampleRate": 24000,
+    "channels": 1,
+    "peakDbFS": -2.16,
+    "rmsDbFS": -20.27,
+    "bytes": 143404,
+    "sha256": "3d492fedf1bf523dc8806431b06e41ddfae35a386f3ee20523e11d946c617709",
+    "renderSeconds": 1.83
+  },
+  "T02.022": {
+    "duration": 3.179,
+    "sampleRate": 24000,
+    "channels": 1,
+    "peakDbFS": -2.16,
+    "rmsDbFS": -16.54,
+    "bytes": 152620,
+    "sha256": "abc76f91e8ff757dc49f4f429ce37642359cfbba907c54ad163f2bb74054e870",
+    "renderSeconds": 1.88
+  },
+  "T02.023": {
+    "duration": 3.605,
+    "sampleRate": 24000,
+    "channels": 1,
+    "peakDbFS": -2.16,
+    "rmsDbFS": -20.1,
+    "bytes": 173100,
+    "sha256": "293a784161dc4f5b1c77e29c740c1791d756027fe9b8d151368e8b948c586957",
+    "renderSeconds": 2.22
+  },
+  "T02.025": {
+    "duration": 2.432,
+    "sampleRate": 24000,
+    "channels": 1,
+    "peakDbFS": -2.16,
+    "rmsDbFS": -18.61,
+    "bytes": 116780,
+    "sha256": "61dc24448d1b287a522bbfc1a9eb082fed0c55315f7c790cc331fca3a2b9470f",
+    "renderSeconds": 1.58
+  },
+  "T02.026": {
+    "duration": 2.816,
+    "sampleRate": 24000,
+    "channels": 1,
+    "peakDbFS": -2.16,
+    "rmsDbFS": -20.34,
+    "bytes": 135212,
+    "sha256": "a7bf061d1762c481f6684a112cff2be7d813da4edd0c12a5e4a9157420a9bfab",
+    "renderSeconds": 1.78
+  },
+  "night": {
+    "duration": 30.0,
+    "sampleRate": 32000,
+    "channels": 2,
+    "peakDbFS": -3.35,
+    "rmsDbFS": -14.06,
+    "bytes": 3840044,
+    "sha256": "a50304929fc7a7a95e002294ca7343e1844e0fdc439d1fc1c24aff4853561db8"
+  },
+  "night_reflection": {
+    "duration": 28.235,
+    "sampleRate": 32000,
+    "channels": 2,
+    "peakDbFS": -3.35,
+    "rmsDbFS": -14.52,
+    "bytes": 3614160,
+    "sha256": "4650e9d7be2c7e183648039144473e4e068c1ad290f35f4f2a90156cb7248c50"
+  },
+  "night_wind": {
+    "duration": 24.0,
+    "sampleRate": 32000,
+    "channels": 2,
+    "peakDbFS": -3.35,
+    "rmsDbFS": -16.97,
+    "bytes": 3072044,
+    "sha256": "b87ca58d542ddf0334da40682601b531aade61d98e597e43a12b7e02b1306ee1"
+  },
+  "tap": {
+    "duration": 0.46,
+    "sampleRate": 24000,
+    "channels": 1,
+    "peakDbFS": -5.35,
+    "rmsDbFS": -21.43,
+    "bytes": 22124,
+    "sha256": "2d2ea5afee267b8b0d21c9dd52959911fa787deca2e4c1e37b4c99ce0db64fc2"
+  },
+  "creak": {
+    "duration": 1.04,
+    "sampleRate": 24000,
+    "channels": 1,
+    "peakDbFS": -6.74,
+    "rmsDbFS": -17.62,
+    "bytes": 49964,
+    "sha256": "98f315fda4eed550eb7226b61df03739ce8c26536b6e7fdc9581175082203b95"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "build": "/assets/index-BWln5HaI.js",
+  "checks": [
+    "Actual schema-1 exhibition resumes without write, migrates on edit, retains exact label and completes new story",
+    "C1 and T02 open from module menu and preserve new exhibition and each other’s records byte-for-byte",
+    "Damaged record is preserved, then archived only after explicit recovery"
+  ],
+  "errors": []
+}

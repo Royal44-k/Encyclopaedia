@@ -1,0 +1,26 @@
+{
+  "excluded": {
+    ".audio-tools": {
+      "files": 2981,
+      "bytes": 249329967
+    },
+    ".npm-cache": {
+      "files": 183,
+      "bytes": 130857590
+    },
+    "app/node_modules": {
+      "files": 1556,
+      "bytes": 63138088
+    },
+    "app/dist": {
+      "files": 135,
+      "bytes": 66481572
+    },
+    "docs/research/__pycache__": {
+      "files": 2,
+      "bytes": 28341
+    }
+  },
+  "reason": "Reinstallable dependencies, local inference models/runtime, caches and rebuildable dist; no story media or validation recordings excluded.",
+  "staging_directory_excluded": ".archive-upload/"
+}

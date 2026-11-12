@@ -1,0 +1,348 @@
+{
+  "schemaVersion": "4.0",
+  "date": "2026-11-06",
+  "status": "design_contract_not_implemented",
+  "baseLayout": "world-layout-v3.json",
+  "spatialPolicy": "同一布局与对象实例；以下对象是待灰模定位的新增制作项，不是已经在概念图测量确认的细节。既有建筑、主桥和水路不移动。",
+  "objects": [
+    {
+      "id": "obj.greenhouse.vent.01",
+      "locationId": "loc.greenhouse",
+      "fields": [
+        "opening",
+        "serviceStatus"
+      ],
+      "caseIds": [
+        "C4"
+      ],
+      "rule": "窗位在同一温室模型中确定；灰模确认枢轴和开合范围"
+    },
+    {
+      "id": "obj.greenhouse.shade.01",
+      "locationId": "loc.greenhouse",
+      "fields": [
+        "coveragePreset",
+        "position"
+      ],
+      "caseIds": [
+        "C4",
+        "C5",
+        "C6"
+      ],
+      "rule": "不遮掉门与必要路标；遮阴不等于植物健康值"
+    },
+    {
+      "id": "obj.irrigation.joint.01",
+      "locationId": "loc.greenhouse",
+      "fields": [
+        "inspectionStatus",
+        "repairStatus"
+      ],
+      "caseIds": [
+        "C5"
+      ],
+      "rule": "明确接头与容器位置；室内滴水不自动影响东岸径流"
+    },
+    {
+      "id": "obj.plant.container.01",
+      "locationId": "loc.greenhouse",
+      "fields": [
+        "careProfile",
+        "lastCare",
+        "observationConditions"
+      ],
+      "caseIds": [
+        "C4",
+        "C5"
+      ],
+      "rule": "不以土色或下垂单独确诊"
+    },
+    {
+      "id": "obj.planter.reused.01",
+      "locationId": "loc.flower_ring",
+      "fields": [
+        "sourceObjectId",
+        "transform",
+        "maintenanceOwner"
+      ],
+      "caseIds": [
+        "C2",
+        "C9"
+      ],
+      "rule": "沿用同一再用成果；移动前后都存实例ID"
+    },
+    {
+      "id": "obj.workshop.bench.01",
+      "locationId": "loc.flower_ring",
+      "fields": [
+        "inspection",
+        "repair",
+        "restAvailability"
+      ],
+      "caseIds": [
+        "C2",
+        "C9"
+      ],
+      "rule": "沿用v3座椅身份；检查时可暂移工坊，归位真实记录"
+    },
+    {
+      "id": "obj.tool.shared.01",
+      "locationId": "loc.workshop",
+      "fields": [
+        "borrower",
+        "bookingSlots",
+        "condition",
+        "location"
+      ],
+      "caseIds": [
+        "C2",
+        "C4",
+        "C5",
+        "C8"
+      ],
+      "rule": "一份实体；预约不是复制，取消不丢件"
+    },
+    {
+      "id": "obj.flower.patch.01",
+      "locationId": "loc.flower_ring",
+      "fields": [
+        "plantingPlan",
+        "growthStage",
+        "bloomScenario",
+        "observationWindow"
+      ],
+      "caseIds": [
+        "C6",
+        "C11"
+      ],
+      "rule": "苗木、成熟、开花分开；生成昆虫不当实测"
+    },
+    {
+      "id": "obj.route.sign.01",
+      "locationId": "loc.exit_path",
+      "fields": [
+        "position",
+        "routeVersion",
+        "visibleDirections"
+      ],
+      "caseIds": [
+        "C9",
+        "C11"
+      ],
+      "rule": "默认导览可用；移动遵守真实道路连接"
+    },
+    {
+      "id": "obj.treehouse.stairs.01",
+      "locationId": "loc.treehouse",
+      "fields": [
+        "geometryVersion",
+        "availability"
+      ],
+      "caseIds": [
+        "C9"
+      ],
+      "rule": "保留图1楼梯与支撑；不临时加电梯或改台阶"
+    },
+    {
+      "id": "obj.archive.ground.01",
+      "locationId": "loc.treehouse",
+      "fields": [
+        "recordVersion",
+        "equivalentContent"
+      ],
+      "caseIds": [
+        "C1",
+        "C6",
+        "C9",
+        "C10",
+        "C12"
+      ],
+      "rule": "树屋附近地面同步资料默认开放；不是支线奖励"
+    },
+    {
+      "id": "obj.light.path.01",
+      "locationId": "loc.exit_path",
+      "fields": [
+        "direction",
+        "shade",
+        "schedule",
+        "manualExtension"
+      ],
+      "caseIds": [
+        "C3",
+        "C9",
+        "C11"
+      ],
+      "rule": "沿用v3路径灯实例；模型落点验收后定参数"
+    },
+    {
+      "id": "obj.event.table.01",
+      "locationId": "loc.greenhouse",
+      "fields": [
+        "layout",
+        "mealPlanVersion",
+        "clearance"
+      ],
+      "caseIds": [
+        "C7",
+        "C12"
+      ],
+      "rule": "临时家具，不另建餐厅；不堵门"
+    },
+    {
+      "id": "obj.event.sound.01",
+      "locationId": "loc.flower_ring",
+      "fields": [
+        "position",
+        "activitySchedule",
+        "scenarioMix"
+      ],
+      "caseIds": [
+        "C11",
+        "C12"
+      ],
+      "rule": "数字声源情境非真实分贝测量；字幕等价默认可用"
+    }
+  ],
+  "routes": [
+    {
+      "id": "route.c9.west",
+      "from": "loc.exit_path",
+      "via": [
+        "loc.flower_ring.west"
+      ],
+      "to": "loc.greenhouse",
+      "rule": "在既有花环西侧支路中验证净空、转角与休息点；这些子锚点不是新地点。"
+    },
+    {
+      "id": "route.c9.east",
+      "from": "loc.exit_path",
+      "via": [
+        "loc.flower_ring.east"
+      ],
+      "to": "loc.greenhouse",
+      "rule": "在既有花环东侧支路中验证；长短、可达条件待灰模，未验证前不写具体米数或认证。"
+    }
+  ],
+  "routeGate": "两条路径必须在同一实际地形中成立才启用比较；不为案例新造绕行路或改变桥宽。主要障碍优先使用已存在可移动花箱；树屋楼梯是独立地点的已知约束，不能虚构为入口至温室必经段。",
+  "links": [
+    {
+      "from": "C2",
+      "to": "C9",
+      "reads": [
+        "obj.planter.reused.01.transform",
+        "obj.workshop.bench.01.restAvailability"
+      ],
+      "writes": [
+        "routeReview"
+      ],
+      "condition": "已确认物件位置改变，且影响既有通行区",
+      "feedback": "访客提出具体转角或休息点问题，可移动物件后重查"
+    },
+    {
+      "from": "C4",
+      "to": "C5",
+      "reads": [
+        "obj.greenhouse.shade.01.coveragePreset",
+        "obj.greenhouse.vent.01.opening"
+      ],
+      "writes": [
+        "observationContext"
+      ],
+      "condition": "前后照料条件不同",
+      "feedback": "旧记录保留但不能直接用于单因素归因；按新情境复查"
+    },
+    {
+      "from": "C8",
+      "to": "C2/C4/C5",
+      "reads": [
+        "obj.tool.shared.01.bookingSlots",
+        "obj.tool.shared.01.condition"
+      ],
+      "writes": [
+        "taskSchedule"
+      ],
+      "condition": "工具冲突或缺件",
+      "feedback": "协商另一时段或适用替代工具，单人模式用剧情记录不等待真人"
+    },
+    {
+      "from": "C9",
+      "to": "C3",
+      "reads": [
+        "obj.route.sign.01.routeVersion"
+      ],
+      "writes": [
+        "lightingReviewRequired"
+      ],
+      "condition": "选择路线变化",
+      "feedback": "检查新路线真实对应灯具；没有灯具的段不可用亮度滤镜假装照亮"
+    },
+    {
+      "from": "C7",
+      "to": "C3",
+      "reads": [
+        "mealPlanVersion",
+        "closingRoster"
+      ],
+      "writes": [
+        "scheduleReview"
+      ],
+      "condition": "实际收尾时段改变",
+      "feedback": "复测晚离开场景并交接延时责任"
+    },
+    {
+      "from": "C6",
+      "to": "C11",
+      "reads": [
+        "obj.flower.patch.01.observationWindow"
+      ],
+      "writes": [
+        "activitySchedule"
+      ],
+      "condition": "活动与已安排观察区域或时段重合",
+      "feedback": "调整时地或重新约观察，不演绎未经建模生态后果"
+    },
+    {
+      "from": "C10",
+      "to": "C12",
+      "reads": [
+        "claimVersion",
+        "correctionStatus"
+      ],
+      "writes": [
+        "proposalEvidenceRefs"
+      ],
+      "condition": "旧主张已更正",
+      "feedback": "旧提案显示需复核，不能继续引用撤回结论"
+    },
+    {
+      "from": "C12",
+      "to": "seasonal_return",
+      "reads": [
+        "approvedNextSteps",
+        "maintenanceCommitments",
+        "reviewTrigger"
+      ],
+      "writes": [
+        "followupDossier"
+      ],
+      "condition": "教师启用新的故事时点",
+      "feedback": "读取真实完成状态；只变观赏季节不能推进案例"
+    }
+  ],
+  "accessibilityDefaults": [
+    "字幕、重听和文字声景一开始可用",
+    "地面同步档案与树屋内容等价",
+    "点击/键盘替代精确拖拽",
+    "不模拟残障作为体验小游戏",
+    "不依赖可选事件解锁无障碍支持"
+  ],
+  "regressionChecks": [
+    "切案例对象身份与变换不变",
+    "新案例不重置旧成果",
+    "比较实验附天气、曝光或照料条件",
+    "情境预览不污染永久世界",
+    "保留方案异议与未确认信息",
+    "运行未实现的关联只作为明确记录/讨论，不作假模拟"
+  ]
+}

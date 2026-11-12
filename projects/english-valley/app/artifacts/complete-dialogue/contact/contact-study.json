@@ -1,0 +1,56 @@
+{
+  "passed": true,
+  "scope": "Real WebGL renderer; target is the actual moving ring, no pose mock.",
+  "samples": [
+    {
+      "reached": true,
+      "error": 0,
+      "distance": 0.4138818369032448,
+      "reach": 0.6102148564726808
+    },
+    {
+      "reached": true,
+      "error": 0,
+      "distance": 0.41401489438949596,
+      "reach": 0.6102148564726808
+    },
+    {
+      "reached": true,
+      "error": 4.440892098500626e-16,
+      "distance": 0.4140909289783416,
+      "reach": 0.6102148564726808
+    },
+    {
+      "reached": true,
+      "error": 4.440892098500626e-16,
+      "distance": 0.41411526299759094,
+      "reach": 0.6102148564726808
+    },
+    {
+      "reached": true,
+      "error": 8.881784197001252e-16,
+      "distance": 0.414081642179341,
+      "reach": 0.6102148564726808
+    },
+    {
+      "reached": true,
+      "error": 0,
+      "distance": 0.4139975906386202,
+      "reach": 0.6102148564726808
+    },
+    {
+      "reached": true,
+      "error": 4.440892098500626e-16,
+      "distance": 0.413870816954486,
+      "reach": 0.6102148564726808
+    },
+    {
+      "reached": true,
+      "error": 4.440892098500626e-16,
+      "distance": 0.4136978602805816,
+      "reach": 0.6102148564726808
+    }
+  ],
+  "releaseClearsContact": true,
+  "errors": []
+}

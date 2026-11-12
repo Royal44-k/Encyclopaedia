@@ -1,0 +1,147 @@
+{
+  "archive_date": "2026-11-12",
+  "repository_path": "projects/english-valley",
+  "payload_files": 4318,
+  "payload_bytes": 369918209,
+  "source_files": 4310,
+  "source_adaptations": [
+    ".gitignore",
+    "README.md",
+    "docs/design/v6/complete-reading-edition.md"
+  ],
+  "categories": {
+    "archive-catalog": {
+      "files": 8,
+      "bytes": 1811494
+    },
+    "project-navigation": {
+      "files": 2,
+      "bytes": 10619
+    },
+    "validation-history": {
+      "files": 333,
+      "bytes": 242115994
+    },
+    "application-source": {
+      "files": 69,
+      "bytes": 961380
+    },
+    "runtime-media": {
+      "files": 124,
+      "bytes": 64957729
+    },
+    "prepared-assets": {
+      "files": 29,
+      "bytes": 3608580
+    },
+    "approved-concepts": {
+      "files": 5,
+      "bytes": 12982767
+    },
+    "visual-references": {
+      "files": 1,
+      "bytes": 281910
+    },
+    "vendor-originals": {
+      "files": 3621,
+      "bytes": 41737020
+    },
+    "curriculum-content": {
+      "files": 9,
+      "bytes": 177484
+    },
+    "design-and-scripts": {
+      "files": 53,
+      "bytes": 873401
+    },
+    "curriculum-visualization": {
+      "files": 1,
+      "bytes": 5461
+    },
+    "delivery-records": {
+      "files": 21,
+      "bytes": 115395
+    },
+    "research-and-production-tools": {
+      "files": 35,
+      "bytes": 243259
+    },
+    "implementation-plans": {
+      "files": 7,
+      "bytes": 35716
+    }
+  },
+  "largest_files": [
+    {
+      "path": "app/artifacts/first-journey.webm",
+      "category": "validation-history",
+      "bytes": 11322907,
+      "sha256": "fc1a79712973bb618d59eba3141f9794363ec8aec78a5fc62b4f4590b81c2526"
+    },
+    {
+      "path": "app/artifacts/v2/first-journey.webm",
+      "category": "validation-history",
+      "bytes": 11098438,
+      "sha256": "7657bd59f3a0efea655010419632a0640b57fdaa9e1e5402f239a640cf6c3102"
+    },
+    {
+      "path": "assets/vendor/kenney_nature-kit.zip",
+      "category": "vendor-originals",
+      "bytes": 10537521,
+      "sha256": "fa7974a0d342bfe63c38664ba9f8ec1a4aab8ea25f099bdc56870e33588c4d9d"
+    },
+    {
+      "path": "app/public/audio/music/bridge.wav",
+      "category": "runtime-media",
+      "bytes": 3963916,
+      "sha256": "549e0b0dff0a19193b20c0f5cf7b1074dad4660ca3beefda19e7422d3d1b7f65"
+    },
+    {
+      "path": "app/public/audio/music/night.wav",
+      "category": "runtime-media",
+      "bytes": 3840044,
+      "sha256": "a50304929fc7a7a95e002294ca7343e1844e0fdc439d1fc1c24aff4853561db8"
+    },
+    {
+      "path": "app/public/illustrations/material-cover-v2.png",
+      "category": "runtime-media",
+      "bytes": 3803891,
+      "sha256": "ca86b5666167ded8eabfbf16f77ddbb573684a48d846064826d91aad1eca3932"
+    },
+    {
+      "path": "app/public/audio/music/reflection.wav",
+      "category": "runtime-media",
+      "bytes": 3723680,
+      "sha256": "94d916b424e06590f6a946a8b3fe3be04a0f34ddaa2d3265a652d072ff2d1bdf"
+    },
+    {
+      "path": "app/public/audio/music/greenhouse.wav",
+      "category": "runtime-media",
+      "bytes": 3614160,
+      "sha256": "22d19e13fecf7bb8ffbdfaa8866d49fe82e7a1963f5c32807ec3df392e7e494a"
+    },
+    {
+      "path": "app/public/audio/music/night_reflection.wav",
+      "category": "runtime-media",
+      "bytes": 3614160,
+      "sha256": "4650e9d7be2c7e183648039144473e4e068c1ad290f35f4f2a90156cb7248c50"
+    },
+    {
+      "path": "assets/concepts/v2/mistlight-conservatory.png",
+      "category": "approved-concepts",
+      "bytes": 3540221,
+      "sha256": "3746bc9ee58e5aa6859336614705e6b8d6bcb019db1f3bc1e5a18e9ab6affe42"
+    }
+  ],
+  "manifest_sha256": "f8a81e3fe7e28cb07c6298a51eaa52cb97e9d907a8e46a2067028c0b3e4b8b1f",
+  "integrity_exemptions": [
+    "catalog/asset-manifest.csv",
+    "catalog/summary.json",
+    "catalog/verification.json"
+  ],
+  "notes": [
+    "All original project assets, runtime media and historical validation recordings included.",
+    "Only reproducible environment/cache/build output excluded; see excluded-local-files.json.",
+    "Browser localStorage saves are not part of filesystem source inventory."
+  ]
+}

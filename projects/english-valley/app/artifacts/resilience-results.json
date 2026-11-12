@@ -1,0 +1,192 @@
+{
+  "url": "http://127.0.0.1:4173/",
+  "build": "/assets/index-U85a2Duk.js",
+  "passed": 12,
+  "failed": 0,
+  "results": [
+    {
+      "name": "entry-write",
+      "passed": true,
+      "details": {
+        "committed": "SESSION_OPENED",
+        "sameCommandId": true
+      },
+      "rejected": [
+        {
+          "key": "english-valley.journey.v1",
+          "event": "SESSION_OPENED",
+          "id": "827df1d6-1cba-474d-ac88-8d0f16198a59",
+          "input": {
+            "mode": "same_pc_group",
+            "layoutVersion": "valley-layout-3-slice-1",
+            "assetManifestVersion": "authored-scene-1"
+          }
+        }
+      ],
+      "errors": []
+    },
+    {
+      "name": "evidence-media-write",
+      "passed": true,
+      "details": {
+        "durableImages": [
+          "record.bridge.before_rain.v1",
+          "record.bridge.current_round.v1"
+        ],
+        "recordedAfterRetry": true
+      },
+      "rejected": [
+        {
+          "key": "english-valley.media.v1"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "name": "partial-visit",
+      "passed": true,
+      "details": {
+        "savedNode": "j.end_saved",
+        "resumedNode": "j.return_card",
+        "trials": 0,
+        "installed": false
+      },
+      "rejected": [],
+      "errors": []
+    },
+    {
+      "name": "unresolved-visit",
+      "passed": true,
+      "details": {
+        "savedNode": "j.end_unresolved",
+        "resumedNode": "j.explain",
+        "question": "Could something else upstream make the stream brown?",
+        "trials": 0,
+        "installed": false
+      },
+      "rejected": [],
+      "errors": []
+    },
+    {
+      "name": "malformed-export",
+      "passed": true,
+      "details": {
+        "filename": "english-valley-field-journal.json",
+        "rawTextPreserved": true
+      },
+      "rejected": [],
+      "errors": []
+    },
+    {
+      "name": "narrow-keyboard",
+      "passed": true,
+      "details": {
+        "focusReturned": true,
+        "viewport": 390,
+        "documentWidth": 390,
+        "evidenceDialogWidth": 365
+      },
+      "rejected": [],
+      "errors": []
+    },
+    {
+      "name": "incompatible-scene",
+      "passed": true,
+      "details": {
+        "preservedRevision": 32,
+        "layout": "valley-layout-incompatible-fixture",
+        "exportMatches": true
+      },
+      "rejected": [],
+      "errors": []
+    },
+    {
+      "name": "paused-model",
+      "passed": true,
+      "details": {
+        "retainedTrial": "751aca1d-248a-43a4-bd9b-6fdfd8759750",
+        "uncompletedCandidate": "unrelated_zone"
+      },
+      "rejected": [],
+      "errors": []
+    },
+    {
+      "name": "interrupted-model",
+      "passed": true,
+      "details": {
+        "retainedTrial": "751aca1d-248a-43a4-bd9b-6fdfd8759750",
+        "uncompletedCandidate": "unrelated_zone",
+        "retriedRecovery": true
+      },
+      "rejected": [
+        {
+          "key": "english-valley.journey.v1",
+          "event": "INTERRUPTED_TRIAL_RECOVERED",
+          "id": "recover-e5226e2a-f604-42d8-aec9-f83196c2f13b-35",
+          "input": {}
+        }
+      ],
+      "errors": []
+    },
+    {
+      "name": "failed-pause",
+      "passed": true,
+      "details": {
+        "animationContinued": true,
+        "sameCommandId": true,
+        "committed": "PAUSE_SAVED",
+        "runId": "8986a0b2-f1ed-42d2-b1ab-2e1335e87a6c"
+      },
+      "rejected": [
+        {
+          "key": "english-valley.journey.v1",
+          "event": "PAUSE_SAVED",
+          "id": "df4ba44f-9f1e-4c61-a921-e3319c4bc7cb",
+          "input": {
+            "note": "Paused by the learner."
+          }
+        }
+      ],
+      "errors": []
+    },
+    {
+      "name": "failed-cancel-trial",
+      "passed": true,
+      "details": {
+        "animationContinued": true,
+        "sameCommandId": true,
+        "committed": "TRIAL_CANCELLED",
+        "runId": "e902d91b-3e08-4f49-a783-0a5aa9e2b012"
+      },
+      "rejected": [
+        {
+          "key": "english-valley.journey.v1",
+          "event": "TRIAL_CANCELLED",
+          "id": "04d215ea-558b-4c0b-83d5-4d5ab8ded988",
+          "input": {}
+        }
+      ],
+      "errors": []
+    },
+    {
+      "name": "failed-trial-completion",
+      "passed": true,
+      "details": {
+        "runId": "963c3b88-5115-46fa-9cee-b63acc319dfd",
+        "sameCommandId": true,
+        "newCompletedTrials": 1
+      },
+      "rejected": [
+        {
+          "key": "english-valley.journey.v1",
+          "event": "TRIAL_COMPLETED",
+          "id": "8a00614a-7bb2-400a-a1a9-6da7e7dc9267",
+          "input": {
+            "runId": "963c3b88-5115-46fa-9cee-b63acc319dfd"
+          }
+        }
+      ],
+      "errors": []
+    }
+  ]
+}

@@ -1,0 +1,549 @@
+{
+  "schemaVersion": "4.0",
+  "date": "2026-11-06",
+  "scope": "9个新增主案各一段开场和一段转折对白，共18段新语料；加既有v3的15单元共33单元，但不是12案全部正式脚本。",
+  "presentation": "分段分轮、字幕与重听默认提供；新词与正式音频仍需逐项审校。",
+  "units": [
+    {
+      "id": "C4-V4-N01",
+      "caseId": "C4",
+      "kind": "opening_reading",
+      "text": "The afternoon record suggests that the greenhouse needs attention. Mei wants to reduce the heat, but she is concerned that too much shade will block light the plants need. Sam proposes improving ventilation first, although the maintenance slot is limited. Read the plant cards, the weather record and the work schedule. Compare what each plan can achieve, and agree when to review the result.",
+      "environmentSourceIds": [
+        "ENV05"
+      ],
+      "sourceScope": "relatedLanguageResources仅供教学拓展；languageSupport只核对其明确短语。其他新词句保留教师审校状态，不将相关链接冒充逐句权威背书。",
+      "provenance": "original_fiction",
+      "reviewStatus": "draft_teacher_and_new_vocabulary_review_pending",
+      "teacherNote": "调整设置后必须说明复查时段；不把更低读数自动作为唯一目标。",
+      "phase": "opening",
+      "relatedLanguageResources": [
+        "LANG09",
+        "LANG13",
+        "LANG14"
+      ],
+      "languageSupport": [
+        {
+          "sourceId": "LANG15",
+          "phrase": "although the maintenance slot is limited",
+          "scope": "although引导让步，不支持温室数值效果"
+        }
+      ]
+    },
+    {
+      "id": "C4-V4-N02",
+      "caseId": "C4",
+      "kind": "turning_point_dialogue",
+      "turns": [
+        {
+          "speaker": "Mei",
+          "text": "More shade could help with the heat, but these plants also need light."
+        },
+        {
+          "speaker": "Sam",
+          "text": "We could check the vent first. I can help during the morning maintenance slot."
+        },
+        {
+          "speaker": "Learner",
+          "text": "Could we compare the options and leave clear instructions for checking again in the afternoon?"
+        }
+      ],
+      "environmentSourceIds": [
+        "ENV05"
+      ],
+      "sourceScope": "relatedLanguageResources仅供教学拓展；languageSupport只核对其明确短语。其他新词句保留教师审校状态，不将相关链接冒充逐句权威背书。",
+      "provenance": "original_fiction",
+      "reviewStatus": "draft_teacher_and_new_vocabulary_review_pending",
+      "teacherNote": "调整设置后必须说明复查时段；不把更低读数自动作为唯一目标。",
+      "phase": "after_relevant_evidence",
+      "relatedLanguageResources": [
+        "LANG09",
+        "LANG13",
+        "LANG14"
+      ],
+      "languageSupport": [
+        {
+          "sourceId": "LANG13",
+          "phrase": "Could we compare the options",
+          "scope": "礼貌请求"
+        }
+      ]
+    },
+    {
+      "id": "C5-V4-N01",
+      "caseId": "C5",
+      "kind": "opening_reading",
+      "text": "The recorded water use has increased. Near a pipe joint, a drop falls while the watering team is away. This is a reason to investigate, not a complete explanation for the total. Check the location, the watering log and the conditions around the plants. Report what you find to Sam, then agree which records you will compare after any necessary repair.",
+      "environmentSourceIds": [
+        "ENV06",
+        "ENV11"
+      ],
+      "sourceScope": "relatedLanguageResources仅供教学拓展；languageSupport只核对其明确短语。其他新词句保留教师审校状态，不将相关链接冒充逐句权威背书。",
+      "provenance": "original_fiction",
+      "reviewStatus": "draft_teacher_and_new_vocabulary_review_pending",
+      "teacherNote": "故事中多项条件改变，不能用总量差给维修归因。",
+      "phase": "opening",
+      "relatedLanguageResources": [
+        "LANG07",
+        "LANG12",
+        "LANG13"
+      ],
+      "languageSupport": [
+        {
+          "sourceId": "LANG12",
+          "phrase": "The recorded water use has increased",
+          "scope": "现在完成时表达当前相关变化"
+        }
+      ]
+    },
+    {
+      "id": "C5-V4-N02",
+      "caseId": "C5",
+      "kind": "turning_point_dialogue",
+      "turns": [
+        {
+          "speaker": "Learner",
+          "text": "The repair has not saved any water."
+        },
+        {
+          "speaker": "Sam",
+          "text": "Have the number of plants and the watering arrangements stayed the same?"
+        },
+        {
+          "speaker": "Learner",
+          "text": "No. We can report the total, but we need a fairer comparison before saying what caused the change."
+        }
+      ],
+      "environmentSourceIds": [
+        "ENV06",
+        "ENV11"
+      ],
+      "sourceScope": "relatedLanguageResources仅供教学拓展；languageSupport只核对其明确短语。其他新词句保留教师审校状态，不将相关链接冒充逐句权威背书。",
+      "provenance": "original_fiction",
+      "reviewStatus": "draft_teacher_and_new_vocabulary_review_pending",
+      "teacherNote": "故事中多项条件改变，不能用总量差给维修归因。",
+      "phase": "after_repair_and_new_observation",
+      "entryCondition": "repairStatus=recorded_complete; followupRecord exists",
+      "relatedLanguageResources": [
+        "LANG07",
+        "LANG12",
+        "LANG13"
+      ],
+      "languageSupport": [
+        {
+          "sourceId": "LANG12",
+          "phrase": "Have the number of plants and the watering arrangements stayed the same?",
+          "scope": "现在完成时疑问句"
+        }
+      ]
+    },
+    {
+      "id": "C6-V4-N01",
+      "caseId": "C6",
+      "kind": "opening_reading",
+      "text": "A bright flowerbed is ready for the open day. During one observation, your group sees few insects. A teammate wants to write that insects no longer visit this place. Check the observation length, the weather and which flowers were open. The record is useful, but it covers one place and one period. Plan another observation before making a claim about a long-term change.",
+      "environmentSourceIds": [
+        "ENV07",
+        "ENV12"
+      ],
+      "sourceScope": "relatedLanguageResources仅供教学拓展；languageSupport只核对其明确短语。其他新词句保留教师审校状态，不将相关链接冒充逐句权威背书。",
+      "provenance": "original_fiction",
+      "reviewStatus": "draft_teacher_and_new_vocabulary_review_pending",
+      "teacherNote": "记录来访不等于已测授粉成功；花期与物种需依具体地理核查。",
+      "phase": "opening",
+      "relatedLanguageResources": [
+        "LANG07",
+        "LANG10"
+      ],
+      "languageSupport": [
+        {
+          "sourceId": "LANG08",
+          "phrase": "making a claim",
+          "scope": "claim为可数主张，需证据判断"
+        }
+      ]
+    },
+    {
+      "id": "C6-V4-N02",
+      "caseId": "C6",
+      "kind": "turning_point_dialogue",
+      "turns": [
+        {
+          "speaker": "Learner",
+          "text": "We saw fewer visitors today. Should we replace all the flowers?"
+        },
+        {
+          "speaker": "Rowan",
+          "text": "Could we compare the two observations first? Were they made for the same length of time and under similar conditions?"
+        },
+        {
+          "speaker": "Learner",
+          "text": "Let's check that first. We can also look for gaps in the flowering calendar."
+        }
+      ],
+      "environmentSourceIds": [
+        "ENV07",
+        "ENV12"
+      ],
+      "sourceScope": "relatedLanguageResources仅供教学拓展；languageSupport只核对其明确短语。其他新词句保留教师审校状态，不将相关链接冒充逐句权威背书。",
+      "provenance": "original_fiction",
+      "reviewStatus": "draft_teacher_and_new_vocabulary_review_pending",
+      "teacherNote": "记录来访不等于已测授粉成功；花期与物种需依具体地理核查。",
+      "phase": "after_relevant_evidence",
+      "relatedLanguageResources": [
+        "LANG07",
+        "LANG10"
+      ],
+      "languageSupport": [
+        {
+          "sourceId": "LANG13",
+          "phrase": "Could we compare the two observations first?",
+          "scope": "礼貌请求"
+        }
+      ]
+    },
+    {
+      "id": "C7-V4-N01",
+      "caseId": "C7",
+      "kind": "opening_reading",
+      "text": "More people have booked for the next open day. One team wants to prepare extra food, while another points to earlier occasions when fewer guests arrived than expected. Preparing food in batches might help, but the volunteers also have other work to finish. Compare the records, ask about visitors' needs and agree on a plan that includes both a reasonable estimate and a backup arrangement.",
+      "environmentSourceIds": [
+        "ENV08"
+      ],
+      "sourceScope": "relatedLanguageResources仅供教学拓展；languageSupport只核对其明确短语。其他新词句保留教师审校状态，不将相关链接冒充逐句权威背书。",
+      "provenance": "original_fiction",
+      "reviewStatus": "draft_teacher_and_new_vocabulary_review_pending",
+      "teacherNote": "不要求学生勉强吃完，不凭虚拟剩食外观判定可再供。",
+      "phase": "opening",
+      "relatedLanguageResources": [
+        "LANG13",
+        "LANG14"
+      ],
+      "languageSupport": []
+    },
+    {
+      "id": "C7-V4-N02",
+      "caseId": "C7",
+      "kind": "turning_point_dialogue",
+      "turns": [
+        {
+          "speaker": "Learner",
+          "text": "The new bookings support preparing more, but the earlier attendance records suggest that some guests may not arrive."
+        },
+        {
+          "speaker": "Amina",
+          "text": "Could we prepare some food later? We would need to agree who can help."
+        },
+        {
+          "speaker": "Learner",
+          "text": "Let's check the work schedule and choose a plan with a backup if more guests arrive."
+        }
+      ],
+      "environmentSourceIds": [
+        "ENV08"
+      ],
+      "sourceScope": "relatedLanguageResources仅供教学拓展；languageSupport只核对其明确短语。其他新词句保留教师审校状态，不将相关链接冒充逐句权威背书。",
+      "provenance": "original_fiction",
+      "reviewStatus": "draft_teacher_and_new_vocabulary_review_pending",
+      "teacherNote": "不要求学生勉强吃完，不凭虚拟剩食外观判定可再供。",
+      "phase": "after_relevant_evidence",
+      "relatedLanguageResources": [
+        "LANG13",
+        "LANG14"
+      ],
+      "languageSupport": [
+        {
+          "sourceId": "LANG13",
+          "phrase": "Could we prepare some food later?",
+          "scope": "以Could we提出礼貌请求"
+        }
+      ]
+    },
+    {
+      "id": "C8-V4-N01",
+      "caseId": "C8",
+      "kind": "opening_reading",
+      "text": "Two teams have booked the same watering tool. One can work only before lunch; the other has been waiting since yesterday. A new volunteer does not understand the borrowing form. Read their plans before choosing who goes first. The aim is to agree on a workable arrangement, explain any exception and make sure the next borrower knows where the tool will be.",
+      "environmentSourceIds": [],
+      "sourceScope": "relatedLanguageResources仅供教学拓展；languageSupport只核对其明确短语。其他新词句保留教师审校状态，不将相关链接冒充逐句权威背书。",
+      "provenance": "original_fiction",
+      "reviewStatus": "draft_teacher_and_new_vocabulary_review_pending",
+      "teacherNote": "公平规则是可讨论的设计，不假称有权威唯一答案。",
+      "phase": "opening",
+      "relatedLanguageResources": [
+        "LANG13",
+        "LANG14",
+        "LANG15"
+      ],
+      "languageSupport": []
+    },
+    {
+      "id": "C8-V4-N02",
+      "caseId": "C8",
+      "kind": "turning_point_dialogue",
+      "turns": [
+        {
+          "speaker": "Learner",
+          "text": "Our rule says that the first request always wins."
+        },
+        {
+          "speaker": "Sam",
+          "text": "That is easy to remember, but one group cannot stay after lunch. Could you listen to both groups before deciding?"
+        },
+        {
+          "speaker": "Learner",
+          "text": "We could take turns before lunch and write down the times."
+        }
+      ],
+      "environmentSourceIds": [],
+      "sourceScope": "relatedLanguageResources仅供教学拓展；languageSupport只核对其明确短语。其他新词句保留教师审校状态，不将相关链接冒充逐句权威背书。",
+      "provenance": "original_fiction",
+      "reviewStatus": "draft_teacher_and_new_vocabulary_review_pending",
+      "teacherNote": "公平规则是可讨论的设计，不假称有权威唯一答案。",
+      "phase": "after_relevant_evidence",
+      "relatedLanguageResources": [
+        "LANG13",
+        "LANG14",
+        "LANG15"
+      ],
+      "languageSupport": [
+        {
+          "sourceId": "LANG13",
+          "phrase": "Could you listen to both groups before deciding?",
+          "scope": "礼貌请求"
+        }
+      ]
+    },
+    {
+      "id": "C9-V4-N01",
+      "caseId": "C9",
+      "kind": "opening_reading",
+      "text": "Two routes around the flower ring lead towards the greenhouse. A movable planter narrows one bend, while the other route has a place to rest. Distance alone does not tell you which route a visitor will prefer. Ask what matters to the person you are guiding, and check the actual path. The treehouse records are also available at ground level, so everyone can join the investigation.",
+      "environmentSourceIds": [
+        "ENV09"
+      ],
+      "sourceScope": "relatedLanguageResources仅供教学拓展；languageSupport只核对其明确短语。其他新词句保留教师审校状态，不将相关链接冒充逐句权威背书。",
+      "provenance": "original_fiction",
+      "reviewStatus": "draft_teacher_and_new_vocabulary_review_pending",
+      "teacherNote": "不安排学生模拟残障体验；地面同等资料自始可用。",
+      "phase": "opening",
+      "relatedLanguageResources": [
+        "LANG07",
+        "LANG13",
+        "LANG15"
+      ],
+      "languageSupport": []
+    },
+    {
+      "id": "C9-V4-N02",
+      "caseId": "C9",
+      "kind": "turning_point_dialogue",
+      "turns": [
+        {
+          "speaker": "Learner",
+          "text": "I chose the shortest route for you."
+        },
+        {
+          "speaker": "Visitor",
+          "text": "Thank you. Is there somewhere I can stop and rest?"
+        },
+        {
+          "speaker": "Learner",
+          "text": "There is a longer route with a resting place. Would you like me to describe it before you choose?"
+        }
+      ],
+      "environmentSourceIds": [
+        "ENV09"
+      ],
+      "sourceScope": "relatedLanguageResources仅供教学拓展；languageSupport只核对其明确短语。其他新词句保留教师审校状态，不将相关链接冒充逐句权威背书。",
+      "provenance": "original_fiction",
+      "reviewStatus": "draft_teacher_and_new_vocabulary_review_pending",
+      "teacherNote": "不安排学生模拟残障体验；地面同等资料自始可用。",
+      "phase": "after_relevant_evidence",
+      "relatedLanguageResources": [
+        "LANG07",
+        "LANG13",
+        "LANG15"
+      ],
+      "languageSupport": [
+        {
+          "sourceId": "LANG13",
+          "phrase": "Would you like me to describe it before you choose?",
+          "scope": "提出帮助或选择"
+        }
+      ]
+    },
+    {
+      "id": "C10-V4-N01",
+      "caseId": "C10",
+      "kind": "opening_reading",
+      "text": "A message shows brown water beside the bridge and blames the gardener. The photograph does show the stream, but its date and wider view are missing from the message. Find the original record and compare what it shows with what the caption claims. If the team has shared an unsupported claim, prepare a correction for the same readers and explain what remains uncertain.",
+      "environmentSourceIds": [],
+      "sourceScope": "relatedLanguageResources仅供教学拓展；languageSupport只核对其明确短语。其他新词句保留教师审校状态，不将相关链接冒充逐句权威背书。",
+      "provenance": "original_fiction",
+      "reviewStatus": "draft_teacher_and_new_vocabulary_review_pending",
+      "teacherNote": "真实于虚构世界不等于真实世界拍摄；向同一模拟受众更正，无外部自动发布。",
+      "phase": "opening",
+      "relatedLanguageResources": [
+        "LANG01",
+        "LANG08",
+        "LANG10",
+        "LANG12"
+      ],
+      "languageSupport": [
+        {
+          "sourceId": "LANG08",
+          "phrase": "what the caption claims",
+          "scope": "claim动词表示声称，不自动等于虚假"
+        }
+      ]
+    },
+    {
+      "id": "C10-V4-N02",
+      "caseId": "C10",
+      "kind": "turning_point_dialogue",
+      "turns": [
+        {
+          "speaker": "Learner",
+          "text": "The English note says the soil might come from the bed, but this translation says it definitely does."
+        },
+        {
+          "speaker": "Rowan",
+          "text": "Those statements do not express the same level of certainty."
+        },
+        {
+          "speaker": "Learner",
+          "text": "We need to correct the translation and keep the limits of the evidence clear."
+        }
+      ],
+      "environmentSourceIds": [],
+      "sourceScope": "relatedLanguageResources仅供教学拓展；languageSupport只核对其明确短语。其他新词句保留教师审校状态，不将相关链接冒充逐句权威背书。",
+      "provenance": "original_fiction",
+      "reviewStatus": "draft_teacher_and_new_vocabulary_review_pending",
+      "teacherNote": "真实于虚构世界不等于真实世界拍摄；向同一模拟受众更正，无外部自动发布。",
+      "phase": "after_relevant_evidence",
+      "relatedLanguageResources": [
+        "LANG01",
+        "LANG08",
+        "LANG10",
+        "LANG12"
+      ],
+      "languageSupport": [
+        {
+          "sourceId": "LANG10",
+          "phrase": "the soil might come from the bed",
+          "scope": "might表达不确定推断"
+        }
+      ]
+    },
+    {
+      "id": "C11-V4-N01",
+      "caseId": "C11",
+      "kind": "opening_reading",
+      "text": "The flower ring will host a short music event. Nearby, another group has planned a quiet reading session. Both groups booked in good faith, and both want to be heard. Visit the spaces, read the activity times and listen to their reasons. Sound descriptions and captions provide the same information as the audio. Your plan should say where and when each activity can work.",
+      "environmentSourceIds": [
+        "ENV10"
+      ],
+      "sourceScope": "relatedLanguageResources仅供教学拓展；languageSupport只核对其明确短语。其他新词句保留教师审校状态，不将相关链接冒充逐句权威背书。",
+      "provenance": "original_fiction",
+      "reviewStatus": "draft_teacher_and_new_vocabulary_review_pending",
+      "teacherNote": "默认可用字幕与文字声景；不依赖听觉能力通关，未测分贝。",
+      "phase": "opening",
+      "relatedLanguageResources": [
+        "LANG13",
+        "LANG15"
+      ],
+      "languageSupport": []
+    },
+    {
+      "id": "C11-V4-N02",
+      "caseId": "C11",
+      "kind": "turning_point_dialogue",
+      "turns": [
+        {
+          "speaker": "Learner",
+          "text": "Most people voted for music, so the reading group should move."
+        },
+        {
+          "speaker": "Amina",
+          "text": "Can they reach another suitable place? Have we asked what they need?"
+        },
+        {
+          "speaker": "Learner",
+          "text": "Let's discuss the time and location before deciding. We can try the arrangement and ask for feedback."
+        }
+      ],
+      "environmentSourceIds": [
+        "ENV10"
+      ],
+      "sourceScope": "relatedLanguageResources仅供教学拓展；languageSupport只核对其明确短语。其他新词句保留教师审校状态，不将相关链接冒充逐句权威背书。",
+      "provenance": "original_fiction",
+      "reviewStatus": "draft_teacher_and_new_vocabulary_review_pending",
+      "teacherNote": "默认可用字幕与文字声景；不依赖听觉能力通关，未测分贝。",
+      "phase": "after_relevant_evidence",
+      "relatedLanguageResources": [
+        "LANG13",
+        "LANG15"
+      ],
+      "languageSupport": []
+    },
+    {
+      "id": "C12-V4-N01",
+      "caseId": "C12",
+      "kind": "opening_reading",
+      "text": "Every team has a proposal for the valley's next stage. Some want more flowers; others want better resting places or more reliable equipment. Existing care commitments must be covered first. The remaining resources cannot support every new idea at once. Read the evidence, hear a different view and explain your priorities. Record what will wait, who may be affected and when the decision should be reviewed.",
+      "environmentSourceIds": [],
+      "sourceScope": "relatedLanguageResources仅供教学拓展；languageSupport只核对其明确短语。其他新词句保留教师审校状态，不将相关链接冒充逐句权威背书。",
+      "provenance": "original_fiction",
+      "reviewStatus": "draft_teacher_and_new_vocabulary_review_pending",
+      "teacherNote": "资源数为教学设定；多数票不是忽略需求的许可，未入选不撤销既有成果。",
+      "phase": "opening",
+      "relatedLanguageResources": [
+        "LANG09",
+        "LANG13",
+        "LANG14",
+        "LANG15"
+      ],
+      "languageSupport": [
+        {
+          "sourceId": "LANG11",
+          "phrase": "be covered",
+          "scope": "be+过去分词的被动结构，不支持预算充分性"
+        }
+      ]
+    },
+    {
+      "id": "C12-V4-N02",
+      "caseId": "C12",
+      "kind": "turning_point_dialogue",
+      "turns": [
+        {
+          "speaker": "Learner",
+          "text": "Our proposal received the most votes. Can we close the discussion?"
+        },
+        {
+          "speaker": "Amina",
+          "text": "One visitor's letter has not been read, and the maintenance time is still missing."
+        },
+        {
+          "speaker": "Learner",
+          "text": "Then we should review those points. We can keep a provisional decision and explain what could change it."
+        }
+      ],
+      "environmentSourceIds": [],
+      "sourceScope": "relatedLanguageResources仅供教学拓展；languageSupport只核对其明确短语。其他新词句保留教师审校状态，不将相关链接冒充逐句权威背书。",
+      "provenance": "original_fiction",
+      "reviewStatus": "draft_teacher_and_new_vocabulary_review_pending",
+      "teacherNote": "资源数为教学设定；多数票不是忽略需求的许可，未入选不撤销既有成果。",
+      "phase": "after_relevant_evidence",
+      "relatedLanguageResources": [
+        "LANG09",
+        "LANG13",
+        "LANG14",
+        "LANG15"
+      ],
+      "languageSupport": []
+    }
+  ],
+  "reviewNote": "内部检查已修正C5时序、C6表达、C9路网描述和C8轮流安排；C4/C7改为合理方案权衡。仍需教师、新词和音频审校。"
+}

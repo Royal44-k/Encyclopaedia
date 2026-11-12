@@ -1,0 +1,210 @@
+{
+  "T03.014": {
+    "duration": 2.112,
+    "sampleRate": 24000,
+    "peakDbFS": -2.16,
+    "rmsDbFS": -19.36,
+    "sha256": "c257d86da70b665d79d5f3af23bd4dd237f99a384f099a99664e4a412e7bbc54",
+    "renderSeconds": 4.11
+  },
+  "T03S.001": {
+    "duration": 2.667,
+    "sampleRate": 24000,
+    "peakDbFS": -2.16,
+    "rmsDbFS": -19.87,
+    "sha256": "b8f198443876ece2b6fde6f7c7ec1292cf99bac5a08f7c87c4651e54a90fc510",
+    "renderSeconds": 1.67
+  },
+  "T03S.002": {
+    "duration": 3.968,
+    "sampleRate": 24000,
+    "peakDbFS": -2.16,
+    "rmsDbFS": -17.05,
+    "sha256": "270d61d461a9f76793282da4e25a8486ecce68c45b29572f5dd076f02c1fd768",
+    "renderSeconds": 2.77
+  },
+  "T03S.004": {
+    "duration": 4.373,
+    "sampleRate": 24000,
+    "peakDbFS": -2.16,
+    "rmsDbFS": -18.64,
+    "sha256": "166f43c6c2bff7c1da67e22bc41378bb49ca6629b983515f016c7094d617ff4e",
+    "renderSeconds": 2.64
+  },
+  "T03S.006": {
+    "duration": 3.051,
+    "sampleRate": 24000,
+    "peakDbFS": -2.44,
+    "rmsDbFS": -15.64,
+    "sha256": "c619d39974e55ade074da1999b097ea33afb722650d7efa005c350bf4345e588",
+    "renderSeconds": 1.92
+  },
+  "T03S.007": {
+    "duration": 4.096,
+    "sampleRate": 24000,
+    "peakDbFS": -2.16,
+    "rmsDbFS": -19.68,
+    "sha256": "a1cae6c7a59ad556b19aa1dc560fc332772b7a76798c2d8c33033fcb3cb38134",
+    "renderSeconds": 2.55
+  },
+  "T03S.009": {
+    "duration": 3.733,
+    "sampleRate": 24000,
+    "peakDbFS": -2.16,
+    "rmsDbFS": -19.91,
+    "sha256": "f16ecf3e6b7857faf3e1403300bc83c874aef96e6c27f5428c75ea9101fee085",
+    "renderSeconds": 2.39
+  },
+  "T03S.011": {
+    "duration": 1.963,
+    "sampleRate": 24000,
+    "peakDbFS": -2.16,
+    "rmsDbFS": -17.64,
+    "sha256": "44cb0c3ac627f455031fbc02c2457b33ecbb41c7d3d04b358ea163a12a26c618",
+    "renderSeconds": 1.38
+  },
+  "T03S.012": {
+    "duration": 4.117,
+    "sampleRate": 24000,
+    "peakDbFS": -2.16,
+    "rmsDbFS": -22.32,
+    "sha256": "211383bd091ba3f6b1fb0824c8aa1cf43aa86ccb47e5e9d0fbc0f7f0fc5e027d",
+    "renderSeconds": 2.51
+  },
+  "T03S.015": {
+    "duration": 3.456,
+    "sampleRate": 24000,
+    "peakDbFS": -2.16,
+    "rmsDbFS": -20.05,
+    "sha256": "cf7001441e23fa9f43e800eff9159f66089748b3c5b682c6bedef8f6e88ca131",
+    "renderSeconds": 2.22
+  },
+  "T03S.017": {
+    "duration": 2.624,
+    "sampleRate": 24000,
+    "peakDbFS": -2.16,
+    "rmsDbFS": -16.93,
+    "sha256": "5d48a6e6dfd12de5c82688dc19ae0bb356d2c217907b5feeb7bc63258358dd8c",
+    "renderSeconds": 1.81
+  },
+  "T03S.019": {
+    "duration": 4.267,
+    "sampleRate": 24000,
+    "peakDbFS": -2.16,
+    "rmsDbFS": -17.09,
+    "sha256": "e36d70db523a25810b86aa2b44866fbe24c9d4867b53f2b78badf4bc58692909",
+    "renderSeconds": 2.53
+  },
+  "T03S.022": {
+    "duration": 1.536,
+    "sampleRate": 24000,
+    "peakDbFS": -2.16,
+    "rmsDbFS": -17.02,
+    "sha256": "8dd134a1861e8d4fb749d39798112a4ab3abf29f5b9040d723f70017b34c516a",
+    "renderSeconds": 1.17
+  },
+  "T03S.023": {
+    "duration": 2.027,
+    "sampleRate": 24000,
+    "peakDbFS": -2.16,
+    "rmsDbFS": -17.64,
+    "sha256": "6c13d8648e7f6d30fce438abacd0042bcc337f7ae58911ac7608f811427fd780",
+    "renderSeconds": 1.3
+  },
+  "T03S.026": {
+    "duration": 3.989,
+    "sampleRate": 24000,
+    "peakDbFS": -2.16,
+    "rmsDbFS": -17.69,
+    "sha256": "552727c73e15f3339bd0ecac012a2474b7fdcd0c1b6def6fd4002071d459e6b6",
+    "renderSeconds": 2.33
+  },
+  "T03S.028": {
+    "duration": 3.541,
+    "sampleRate": 24000,
+    "peakDbFS": -2.16,
+    "rmsDbFS": -23.28,
+    "sha256": "3efac0d7161d0251b0ecd2187dd67f50dea748f3fb24f759abd34b1a7718c5b9",
+    "renderSeconds": 1.91
+  },
+  "T03S.029": {
+    "duration": 3.541,
+    "sampleRate": 24000,
+    "peakDbFS": -2.16,
+    "rmsDbFS": -20.07,
+    "sha256": "b2d34a401a4e7752c1e4f03fe6327e3bc756bc96bdad8011355a6364a8b325ba",
+    "renderSeconds": 2.11
+  },
+  "T03S.030": {
+    "duration": 4.245,
+    "sampleRate": 24000,
+    "peakDbFS": -2.16,
+    "rmsDbFS": -17.48,
+    "sha256": "41dc50c8addddc9d75e848d1aaba3621a864b44866931246f34db1b23ce53caa",
+    "renderSeconds": 2.55
+  },
+  "T03S.031": {
+    "duration": 4.139,
+    "sampleRate": 24000,
+    "peakDbFS": -2.16,
+    "rmsDbFS": -18.83,
+    "sha256": "1f4ebd43ef2c86fc3ddfb22ce82a347475b3ffd7be1120955f44e2d2477e7a49",
+    "renderSeconds": 2.62
+  },
+  "T03S.033": {
+    "duration": 3.669,
+    "sampleRate": 24000,
+    "peakDbFS": -2.16,
+    "rmsDbFS": -21.79,
+    "sha256": "4a04cf9240e464d826ecd63f2edce1fecaa4c6c013009941b322e774aba3f039",
+    "renderSeconds": 2.33
+  },
+  "C1.A01": {
+    "duration": 4.395,
+    "sampleRate": 24000,
+    "peakDbFS": -2.79,
+    "rmsDbFS": -17.83,
+    "sha256": "ff56a49d408f25c9c2d4e0c0fe7e5ef81dd20abaee5d7215058745c7da6ac884",
+    "renderSeconds": 2.47
+  },
+  "C1.A02": {
+    "duration": 4.885,
+    "sampleRate": 24000,
+    "peakDbFS": -2.16,
+    "rmsDbFS": -20.5,
+    "sha256": "53d56c33a171f6131e4ac1746fb7dbf516d665b6ac23b342d914a204e470f651",
+    "renderSeconds": 1.38
+  },
+  "C1.A03": {
+    "duration": 3.307,
+    "sampleRate": 24000,
+    "peakDbFS": -2.16,
+    "rmsDbFS": -19.31,
+    "sha256": "73e1477254850a023b4c4bd6e3f798b190cbbd8775ba7e1b002336934ddae63c",
+    "renderSeconds": 0.95
+  },
+  "C1.A04": {
+    "duration": 3.669,
+    "sampleRate": 24000,
+    "peakDbFS": -2.16,
+    "rmsDbFS": -19.63,
+    "sha256": "21a8e4d2d44a289b1a8e4d8bd1278a5d889ef67c7ef1240c43d89301c1f4ee5b",
+    "renderSeconds": 1.0
+  },
+  "C1.A05": {
+    "duration": 3.413,
+    "sampleRate": 24000,
+    "peakDbFS": -2.16,
+    "rmsDbFS": -19.63,
+    "sha256": "50ff9a526173382e75722eda68fbcc94d2ae92aeb8e8db9941fe3742d6e93085",
+    "renderSeconds": 0.94
+  },
+  "C1.A06": {
+    "duration": 4.245,
+    "sampleRate": 24000,
+    "peakDbFS": -2.16,
+    "rmsDbFS": -18.49,
+    "sha256": "3dd65c79c1f6bc6b99610cda2b693329551a62eb94d4ebbcc33c6219e5ab5131",
+    "renderSeconds": 1.14
+  }
+}

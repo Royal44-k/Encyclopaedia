@@ -1,0 +1,39 @@
+{
+  "date": "2026-11-08",
+  "entry": "/assets/index-BWln5HaI.js",
+  "unitTests": {
+    "passed": 82,
+    "failed": 0
+  },
+  "browserReports": {
+    "story": {
+      "path": "app/artifacts/workshop-story/browser-workshop-story.json",
+      "checks": 6
+    },
+    "recovery": {
+      "path": "app/artifacts/workshop-story-recovery/recovery.json",
+      "checks": 3
+    },
+    "continuity": {
+      "path": "app/artifacts/workshop-story-continuity/continuity.json",
+      "checks": 3
+    },
+    "layout": {
+      "path": "app/artifacts/workshop-story-layout/dialogue-layout.json",
+      "checks": 15
+    }
+  },
+  "voices": 39,
+  "newVoices": 20,
+  "humanAudition": false,
+  "scope": "T01 complete workshop story; no claim that all twelve chapters or final character art are complete",
+  "bundleSha256": {
+    "index-BWln5HaI.js": "bbec0a26dc7c37b34de7da18fa5afa5c1116be4ea479e198e3fd06110562718f",
+    "main-y9if6USD.js": "4e522127462d8350cbe62002a703f1c570e5b2f4cfb1ebded5f7bd2f1f158dae",
+    "night-main-BxnNaTwN.js": "877cae95c5f39b2625070ea4d00f01aac67dce99137200f3d1036306af2091be",
+    "preload-helper-7y9sWmk5.js": "564eabb7e91110d437ceb9cb09dadea1e9bbbe5fcb5480b8d981c1a20d30f4fc",
+    "renderer-x1tuIX_o.js": "0c13320ce714f5e82e3f27e3fae95dac7549fd5de9bac61851650b0941c27091",
+    "workshop-main-DXYHIFg4.js": "09d3b54774703a874bcf7862dd1f24508a06d5979cc0f2df177d4f60ec54d1ba",
+    "workshop-VeIbg8Qs.js": "c7b81c97ca413ca8e0b85be0779b7a63be0103af851b212317b31b7be71abe59"
+  }
+}

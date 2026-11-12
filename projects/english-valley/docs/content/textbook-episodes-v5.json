@@ -1,0 +1,325 @@
+{
+  "schemaVersion": "5.0",
+  "date": "2026-11-07",
+  "status": "textbook_anchored_original_design",
+  "sourceRegister": "textbook-anchors-v5.json",
+  "rule": "T为新的教学叙事ID；C为既有环境案例ID，两者不强行一一换名。保留地形与对象身份；C1作为完整环保主线的核心探究段融入故事，其他环境案例按情境选用。具体连续性见story-continuity-v5.md。",
+  "continuityDesign": "../design/story-continuity-v5.md",
+  "episodes": [
+    {
+      "id": "T01",
+      "title": "旧物奇想展",
+      "anchorId": "BK13",
+      "locationIds": [
+        "loc.workshop",
+        "loc.flower_ring"
+      ],
+      "studentDesire": "做一件别人第一眼猜不到、看懂后会会心一笑的作品。",
+      "opening": "Sam打开三只抽屉：瓶盖、布片、旧齿轮。空展台只写着：给一件旧东西一个意外的新身份。",
+      "interaction": [
+        "旋转、翻面、叠放和连接模块，先看轮廓会变成什么；可做有用器物或纯艺术作品",
+        "两人轮换创作者和盲看观众，先猜作品用途，再听作者说明",
+        "在同一花圃试摆，作者可根据观众误解再改造，也可保留抽象表达"
+      ],
+      "englishNeed": "向不知道设计意图的人说清材料、变化和想法；语言帮助别人看懂自己的作品。",
+      "memorableMoment": "一堆不相干的零件在转动视角后出现新的形象；同一材料能产生截然不同的结果。",
+      "worldAfter": "学生命名的作品和介绍留在展台；访客会提到作品具体部件。",
+      "avoid": "不按环保口号、模板相似度或统一审美排名；不把每次制作都变成材料审查考试。",
+      "legacyRelations": [
+        "C2的工作台、对象身份与近景操作；检查合格模块作为可用创作库"
+      ],
+      "teacherLooksFor": "同伴是否理解作者本意；作者能否用语言解释一个设计选择。",
+      "status": "original_adaptation_design_not_implemented"
+    },
+    {
+      "id": "T02",
+      "title": "树屋今晚有声音",
+      "anchorId": "BK08",
+      "locationIds": [
+        "loc.treehouse",
+        "loc.workshop",
+        "loc.greenhouse"
+      ],
+      "studentDesire": "弄明白那阵奇怪声音是什么，也想看看自己的猜测是否站得住。",
+      "opening": "傍晚树屋旁传来不规则轻响。三个人听到的时间与位置不同，各有一个猜想。",
+      "interaction": [
+        "自由选择听音点、查看阴影和询问目击者，任何顺序都可继续",
+        "在有限的真实场景部件上试验：停住悬挂件、改变风的教学情境，观察对应声音变化",
+        "可继续查证，也可带着尚不确定的判断回去；最后解释自己改变过哪次猜测"
+      ],
+      "englishNeed": "区分听到、听说和猜到，表达确信程度；同伴需要听懂理由才会跟去验证。",
+      "memorableMoment": "一次看似陌生的轮廓，在换角度后露出熟悉物件；揭晓来自同一模型的动作与声音。",
+      "worldAfter": "留下调查照片和猜测变化；仅当T01作品满足悬挂、运动和碰撞条件且作者同意借展时用作声源，否则采用Sam的预置装置。",
+      "avoid": "游戏揭晓是原创设定，不宣称教材谜底；不以没看见动物就断定没有动物，不用惊吓惩罚。",
+      "legacyRelations": [
+        "C11声源与文字等价提示",
+        "C10判断范围",
+        "C3傍晚同场景"
+      ],
+      "teacherLooksFor": "表达中的确信程度能否随线索变化；不同路线都能说明理由。",
+      "status": "original_adaptation_design_not_implemented"
+    },
+    {
+      "id": "T03",
+      "title": "把今天带给一位新朋友",
+      "anchorId": "BK03",
+      "locationIds": [
+        "loc.exit_path",
+        "loc.flower_ring",
+        "loc.greenhouse",
+        "loc.workshop"
+      ],
+      "studentDesire": "带一个刚到山谷的人玩到他真正感兴趣的东西。",
+      "opening": "新朋友只知道自己想看看有趣的作品，却不知道哪里开始；你也没拿到完整的当日活动时间。",
+      "interaction": [
+        "一人持活动图与不完整时段表，一人持偏好卡；双方问答并向活动负责人核实时间，拼出自己的路线",
+        "边走边询问演出时段、作品位置和推荐，不必按固定路线依次踩点",
+        "途中发现临时小活动，可解释为什么改道；约定会合点而非追赶倒计时"
+      ],
+      "englishNeed": "问具体信息、提出建议、确认对方意愿，别人回答后真正改变路线。",
+      "memorableMoment": "同一山谷因带领的人和偏好不同，走出不同的一天；偶遇的活动会留下共同回忆。",
+      "worldAfter": "保存一张带个人推荐的游园卡，能交给另一组实际照着走。",
+      "avoid": "不按最短路径或礼貌词出现次数评分；不把直接表达一概判不礼貌。",
+      "legacyRelations": [
+        "C9路网与可达支持",
+        "C11活动时间",
+        "C8询问信息"
+      ],
+      "teacherLooksFor": "接收者能否依据说明找到地方；带领者是否回应了偏好。",
+      "status": "original_adaptation_design_not_implemented"
+    },
+    {
+      "id": "T04",
+      "title": "一件小意外的新用途",
+      "anchorId": "BK06",
+      "locationIds": [
+        "loc.workshop",
+        "loc.greenhouse"
+      ],
+      "studentDesire": "发现某个偶然效果还能拿来做什么。",
+      "opening": "桌面的透明色片、转盘和光源原本属于不同作品；一次摆错位置却投出漂亮的影子。",
+      "interaction": [
+        "自由试转和组合，观察哪些效果真的来自物体的位置与材料",
+        "把一次有趣结果复现给伙伴，伙伴照说明尝试能否得到同样效果",
+        "为这项小发明拍一段原创无声过程片，再补一小段来历说明"
+      ],
+      "englishNeed": "描述先后、谁做了什么、物件怎样被使用；让别人可以复现。",
+      "memorableMoment": "自己先发现效果，之后才给它名字；发现不是答对按钮后系统赐予。",
+      "worldAfter": "原型留在温室小展台，后续故事可以借用它的投影效果。",
+      "avoid": "不把任意组合都假装成功；课本的传统叙述不升格为独立考古结论；原型故事不改写为课本事实。",
+      "legacyRelations": [
+        "C4设备部件但主角改为学生发明",
+        "C2可复用工作台"
+      ],
+      "teacherLooksFor": "伙伴能否按说明复现；叙述是否区分偶然发现与后来的调整。",
+      "status": "original_adaptation_design_not_implemented"
+    },
+    {
+      "id": "T05",
+      "title": "让窗上的图案讲故事",
+      "anchorId": "BK05",
+      "locationIds": [
+        "loc.workshop",
+        "loc.greenhouse"
+      ],
+      "studentDesire": "把想表达的祝愿变成别人看得见的图案。",
+      "opening": "温室一扇窗暂时空着，学生可以为即将到访的人设计一件小小的欢迎作品。",
+      "interaction": [
+        "折叠、选择切口并展开数字纸样，保留剪前预测和展开惊喜",
+        "选择图案意义、颜色与悬挂位置，观察真实透光和影子",
+        "把材料与制作次序讲给伙伴，由伙伴试做或策展介绍"
+      ],
+      "englishNeed": "介绍材料、过程和象征意义；不是只背出工艺名称。",
+      "memorableMoment": "折叠的局部切口展开成完整图案，影子又在同一地面形成第二幅作品。",
+      "worldAfter": "窗饰保持学生版本；T06夜间可看见它的投影。",
+      "avoid": "不把所有手作统一解释为环保行为；真实传统与原创图案各自标明。",
+      "legacyRelations": [
+        "C2模块制作",
+        "温室固定窗位"
+      ],
+      "teacherLooksFor": "是否说得清一种材料、一个过程和自己的寓意。",
+      "status": "original_adaptation_design_not_implemented"
+    },
+    {
+      "id": "T06",
+      "title": "月下，有一封没送出的信",
+      "anchorId": "BK02",
+      "locationIds": [
+        "loc.greenhouse",
+        "loc.flower_ring"
+      ],
+      "studentDesire": "给某个人、某个虚构角色或未来的自己留一句话。",
+      "opening": "晚间临时桌席上有一张留白卡；月光照过自己或同伴做的窗饰。",
+      "interaction": [
+        "在明确的故事舞台中用剪影重述已读段落，再以原创角色说出另一视角",
+        "安排一处座位与物件，决定寄语要给谁；可公开、只给同伴或只自己保留",
+        "同伴根据寄语布置回应的小场景，作者查看自己的意思是否被理解"
+      ],
+      "englishNeed": "表达心愿与想念，向别人讲一个自己理解的故事。",
+      "memorableMoment": "白天做的窗饰在夜色里重新出现；玩家的文字成为场景中有来处的物件。",
+      "worldAfter": "寄语只按学生选择的范围保留，未来回访可重新打开。",
+      "avoid": "不强迫披露家庭经历，不按感动程度打分；神话剪影属于舞台，不改变真实山谷地理。",
+      "legacyRelations": [
+        "C7临时桌席",
+        "C3日夜系统",
+        "T05窗饰"
+      ],
+      "teacherLooksFor": "同伴能否读出希望表达的意思；不评价私人情感强弱。",
+      "status": "original_adaptation_design_not_implemented"
+    },
+    {
+      "id": "T07",
+      "title": "给一段音乐一个场景",
+      "anchorId": "BK09",
+      "locationIds": [
+        "loc.flower_ring",
+        "loc.treehouse"
+      ],
+      "studentDesire": "让别人看见自己听到的感觉。",
+      "opening": "一段有授权记录的短音乐响起，不先显示情绪标签；不同学生可以听见不同的故事。",
+      "interaction": [
+        "先听或阅读等价声景描述，再选择构图、光线和少量叙事物件",
+        "两人交换场景，猜对方为什么这样布置并询问具体依据",
+        "了解对应文本后保留或修改场景，解释自己的理解是否改变"
+      ],
+      "englishNeed": "描述感受、指出细节、回应不同解释；偏好句和定语从句按需服务表达。",
+      "memorableMoment": "同一段音乐产生两幅完全不同但都说得通的画面。",
+      "worldAfter": "保存带说明的短场景片段，成为开放日可选择的节目。",
+      "avoid": "不把悲伤判成低分，不做节拍反应测试；新配乐不冒称教材所述名曲或历史录音。",
+      "legacyRelations": [
+        "C11活动区与声音基础",
+        "树屋地面档案"
+      ],
+      "teacherLooksFor": "是否把感受与一个可听/可读细节联系起来，能否接纳另一种理解。",
+      "status": "original_adaptation_design_not_implemented"
+    },
+    {
+      "id": "T08",
+      "title": "出错以后，下一句是什么",
+      "anchorId": "BK11",
+      "locationIds": [
+        "loc.flower_ring",
+        "loc.workshop"
+      ],
+      "studentDesire": "帮团队继续完成作品，又不让失误的伙伴只听到一句空泛安慰。",
+      "opening": "山谷展示排练中，一个道具没有按时启动。负责它的学生躲到工坊，不愿参加接下来的讨论。",
+      "interaction": [
+        "从不同角色所处位置回看一次事件；先听当事人，不强制立刻给建议",
+        "以同伴角色接话、追问、提出一起排练或稍后再谈；回应具体前一句",
+        "共同决定下一次排练怎样分工，可以调整目标，不要求一定赢得展示"
+      ],
+      "englishNeed": "叙述经历、说感受、听懂担忧、道歉或支持；语言本身是主要操作。",
+      "memorableMoment": "同一句话在不同上下文里会产生不同回应；朋友不是答对后立刻开心的奖励角色。",
+      "worldAfter": "保留团队实际修改的排练方案和当事人认可的留言。",
+      "avoid": "不设情商分、好感条、必须原谅或必胜结局；不让英语错误导致剧情羞辱。",
+      "legacyRelations": [
+        "C8协作与工具",
+        "C11活动安排",
+        "工坊同一场景"
+      ],
+      "teacherLooksFor": "是否回应了对方真正说出的顾虑；能否解释一次分工调整。",
+      "status": "original_adaptation_design_not_implemented"
+    },
+    {
+      "id": "T09",
+      "title": "第一次做客，也可以问",
+      "anchorId": "BK10",
+      "locationIds": [
+        "loc.greenhouse"
+      ],
+      "studentDesire": "让来做客的人自在，也让自己敢于问不熟悉的事情。",
+      "opening": "温室举办小型交流茶会。主客各知道一部分安排，来宾对某个习惯有疑问却有点不好意思问。",
+      "interaction": [
+        "交换主人与客人角色卡，自选提问、解释和提供替代安排",
+        "通过摆放座位、菜单选择和欢迎物件支持实际交流",
+        "角色互换后改写一条欢迎说明，试给另一个人使用"
+      ],
+      "englishNeed": "礼貌询问、解释本次约定、表达偏好和提供帮助。",
+      "memorableMoment": "换位后发现自己以为很清楚的安排，对第一次来的人并不清楚。",
+      "worldAfter": "留下由学生写成、可被他人读懂的欢迎卡。",
+      "avoid": "不把课文一家人的经验当某国所有人的固定规则；不做文化刻板印象配对。",
+      "legacyRelations": [
+        "C7需求与临时桌席"
+      ],
+      "teacherLooksFor": "沟通是否减少不确定、给来宾选择；不按模仿刻板礼仪评分。",
+      "status": "original_adaptation_design_not_implemented"
+    },
+    {
+      "id": "T10",
+      "title": "把梦想说给另一个人听",
+      "anchorId": "BK07",
+      "locationIds": [
+        "loc.treehouse",
+        "loc.flower_ring"
+      ],
+      "studentDesire": "让自己的想法被认真对待，也听懂对方为什么担心。",
+      "opening": "学生想承担山谷演出或设计任务，另一位关心他的人担心准备时间挤占其他安排。",
+      "interaction": [
+        "先选一个立场说理由，再交换角色尝试把对方的担忧讲准确",
+        "在真实可调整的日程上试几种安排，说明愿意承担什么责任",
+        "可形成试行安排、继续讨论或保留分歧，不强行选家长/学生胜方"
+      ],
+      "englishNeed": "表达愿望与理由、复述另一立场、协商条件和复查时点。",
+      "memorableMoment": "同一个人换角色后，会发现自己的第一句话漏掉了什么。",
+      "worldAfter": "可回访的试行约定，允许之后依据经历修改。",
+      "avoid": "不奖励盲目服从或冲动反抗；不以虚构人生成功证明任何立场绝对正确。",
+      "legacyRelations": [
+        "C8时间安排",
+        "C12协商"
+      ],
+      "teacherLooksFor": "是否能公平转述双方理由，提出具体可试行的安排。",
+      "status": "original_adaptation_design_not_implemented"
+    },
+    {
+      "id": "T11",
+      "title": "给山谷拍一段小电影",
+      "anchorId": "BK01",
+      "locationIds": [
+        "loc.workshop",
+        "loc.flower_ring"
+      ],
+      "studentDesire": "把一段自己觉得好玩的经历讲给别人看。",
+      "opening": "一段原创无声短片只展示动作和表情；学生先猜意思，再尝试给它配自己的台词。",
+      "interaction": [
+        "调机位、挑动作时刻、重听短句或按需看字幕",
+        "一人写对白，另一人配音或读字幕，比较两种剪法怎样改变含义",
+        "拍/编一段本山谷的小场面，让另一组看后说出理解"
+      ],
+      "englishNeed": "用动作与关键词帮助理解，再为了表达自己的故事查词、修改和重录。",
+      "memorableMoment": "同一动作换一句台词就变成不同的故事；学生可以用幽默表达。",
+      "worldAfter": "片段进入可回看的作品册；用原创角色和素材，不调用商业影片片段。",
+      "avoid": "不以声线、口音或录音权限决定能否完成；键入字幕和朗读均可。",
+      "legacyRelations": [
+        "已有相机、角色与T01作品"
+      ],
+      "teacherLooksFor": "观众是否理解故事；学生能否说明自己用了哪种理解策略。",
+      "status": "original_adaptation_design_not_implemented"
+    },
+    {
+      "id": "T12",
+      "title": "给下一届来访者的时间盒",
+      "anchorId": "BK14",
+      "locationIds": [
+        "loc.treehouse",
+        "loc.exit_path"
+      ],
+      "studentDesire": "把自己在山谷里真实经历过的一件事，留给后来的人。",
+      "opening": "离开前，系统取回学生自己选过、做过、改过的东西；没有做过的经历不会被自动编入回忆。",
+      "interaction": [
+        "挑一件作品、一条改变过的想法和一段想留下的话；可以只选其中一两项",
+        "为某个明确受众录/写短寄语，回看自己想感谢的具体帮助",
+        "把时间盒留在档案点；后来的同伴可以回应一个问题或愿望"
+      ],
+      "englishNeed": "回顾经历、感谢具体的人和帮助、向未来受众表达希望。",
+      "memorableMoment": "早先不起眼的小选择在结尾重新出现，结尾属于这个学生自己的旅程。",
+      "worldAfter": "可再打开、补充和交给下一组的作品与寄语。",
+      "avoid": "不自动生成煽情毕业演说，不要求所有人分享私人经历，不把完成所有章节设为离开条件。",
+      "legacyRelations": [
+        "C12回访记录",
+        "所有已确认作品"
+      ],
+      "teacherLooksFor": "内容是否来自实际经历，是否能让明确受众理解。",
+      "status": "original_adaptation_design_not_implemented"
+    }
+  ]
+}

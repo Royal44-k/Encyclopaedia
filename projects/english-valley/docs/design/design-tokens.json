@@ -1,0 +1,11 @@
+{
+  "status": "design-proposal-not-runtime-configuration",
+  "date": "2026-11-06",
+  "color": {"evergreen":"#20382B","moss":"#58664B","sage":"#87947A","mist":"#C1CAC0","parchment":"#F3F0DF","timber":"#A77D50","blossom":"#CFA5AA"},
+  "type": {"display":"Cormorant Garamond","body":"DM Sans","zhFallback":["Microsoft YaHei","PingFang SC","Noto Sans CJK SC","sans-serif"],"displayWeight":600,"bodyPx":20,"projectorBodyPx":24,"lineHeight":1.6},
+  "layout": {"desktop":[1440,900],"mobile":[390,844],"taskPanelWidthRange":[420,520],"touchMinPx":44,"mapOccupancyMin":0.7},
+  "motionMs": {"hover":160,"panel":220,"camera":750,"season":900,"completion":1200},
+  "reducedMotion": {"camera":"100ms fade","particles":false,"wind":false,"autoOrbit":false},
+  "cameraInitialProposal": {"projection":"orthographic","elevationDegrees":48,"azimuthDegrees":35,"freeOrbit":false},
+  "performanceTargetsUnmeasured": {"desktopFps":60,"tabletFps":30,"initialSceneTransferMB":8,"fullLessonMB":20,"visibleTriangles":150000,"drawCalls":120,"maxDprDesktop":1.75,"maxDprMobile":1.25}
+}

@@ -1,0 +1,122 @@
+{
+  "status": "passed_in_documented_scope",
+  "verifiedAt": "2026-11-08T11:43:18.459Z",
+  "entry": "/assets/index-Bxsf210v.js",
+  "unitTests": {
+    "passed": 76,
+    "failed": 0,
+    "command": "npm test"
+  },
+  "checks": {
+    "c1": {
+      "passed": true,
+      "build": "/assets/index-Bxsf210v.js",
+      "cases": null,
+      "errors": [],
+      "report": "c1/browser-main-path.json"
+    },
+    "workshop": {
+      "passed": true,
+      "build": "/assets/index-Bxsf210v.js",
+      "cases": 9,
+      "errors": [],
+      "report": "workshop/browser-workshop.json"
+    },
+    "night": {
+      "passed": true,
+      "build": "/assets/index-Bxsf210v.js",
+      "cases": 10,
+      "errors": [],
+      "report": "night/browser-night.json"
+    },
+    "dialogue": {
+      "passed": true,
+      "build": null,
+      "cases": 15,
+      "errors": [],
+      "report": "layout/dialogue-layout.json"
+    },
+    "longNote": {
+      "passed": true,
+      "build": null,
+      "cases": 9,
+      "errors": [],
+      "report": "long-note/long-note-layout.json"
+    },
+    "access": {
+      "passed": true,
+      "build": "/assets/index-Bxsf210v.js",
+      "cases": 5,
+      "errors": [],
+      "report": "access/browser-night-access.json"
+    }
+  },
+  "contact": {
+    "passed": true,
+    "scope": "Real WebGL renderer; target is the actual moving ring, no pose mock.",
+    "maxReferencePointError": 8.881784197001252e-16,
+    "report": "../contact/contact-study.json"
+  },
+  "review": {
+    "previousFindingsClosed": true,
+    "scope": "Production 844x390 conversation/sounds;1798-character note; keyboard pager focus; narrower320x568resize"
+  },
+  "assets": [
+    {
+      "name": "index-Bxsf210v.js",
+      "bytes": 1477,
+      "sha256": "8e20f5185187c41125af8e306d2d0c2654f5970f693640e3d640524e6dfde1fa"
+    },
+    {
+      "name": "main-gLukPdZA.js",
+      "bytes": 215979,
+      "sha256": "ebd0f632f12f1f9fddb87ddda120a1e170b7dd3f952383fbbfd2544efb66df0a"
+    },
+    {
+      "name": "night-main-BsD2T-zG.css",
+      "bytes": 3558,
+      "sha256": "5595af6dbd5ffe92a0c12ec6c785d3b852c51fc5019873eecb01eefde62bdac3"
+    },
+    {
+      "name": "night-main-CXz9mEw6.js",
+      "bytes": 37215,
+      "sha256": "66b99a59a88a89dae99900d772e51ecbd0339d4e2ff6988c74d051aac94c247c"
+    },
+    {
+      "name": "preload-helper-7y9sWmk5.js",
+      "bytes": 1615,
+      "sha256": "564eabb7e91110d437ceb9cb09dadea1e9bbbe5fcb5480b8d981c1a20d30f4fc"
+    },
+    {
+      "name": "renderer-D5Z6J-id.js",
+      "bytes": 1137331,
+      "sha256": "7cd9261321a770f6fe4067cfee9b394e00da58b46d440edcf6d946cf488f0932"
+    },
+    {
+      "name": "workshop-B9AUs1oN.css",
+      "bytes": 46751,
+      "sha256": "95c746dc102f8306f22106a7664dea6718906783db56f8b1b91a12ddbf4c09d6"
+    },
+    {
+      "name": "workshop-Bj16_n04.js",
+      "bytes": 29906,
+      "sha256": "72376ae9d756efde6b0c2132490dd93dafd36663ed8ecea26f796aae71a73775"
+    },
+    {
+      "name": "workshop-main-Ba5GgUGl.js",
+      "bytes": 30597,
+      "sha256": "ee4533435721e6e881be0a69576322a83c3a07b89c8df6f1d47bd8ef66202a59"
+    },
+    {
+      "name": "workshop-main-Cy70OVdt.css",
+      "bytes": 7344,
+      "sha256": "c40a0d40467655da4a30aff766d39abc75907bd08f4e68c689cd5c416703dda4"
+    }
+  ],
+  "limits": [
+    "Hand reference-point contact; fingers and cloth are not physically simulated",
+    "Headless Edge/SwiftShader verification is not target classroom device performance",
+    "No human voice audition or classroom trial in this phase",
+    "Photo/settings/teacher reference windows are separate reading surfaces; complete-passage no-scroll contract applies to live dialogue, task sections and paged ending notes"
+  ]
+}

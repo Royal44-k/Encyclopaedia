@@ -1,0 +1,130 @@
+{
+  "verifiedAt": "2026-11-08T10:19:46.758Z",
+  "entry": "/assets/index-GgQcGrjz.js",
+  "assets": [
+    {
+      "name": "index-GgQcGrjz.js",
+      "bytes": 1477,
+      "sha256": "e262ac63e7e17a8c038677a8934248ace333ffc3ad1cecf490e00d200b4eb826"
+    },
+    {
+      "name": "main-ngIq5ffz.js",
+      "bytes": 215979,
+      "sha256": "dcb28be7962972b9529d7e681a88c339adee4e29be475dff4947ca1d05300d87"
+    },
+    {
+      "name": "night-main-BPfgzjP2.js",
+      "bytes": 37181,
+      "sha256": "f4f8e5bcc4afc735a434d646b07697a353c6ef7f675d31f5483c58fae6597abf"
+    },
+    {
+      "name": "night-main-BsD2T-zG.css",
+      "bytes": 3558,
+      "sha256": "5595af6dbd5ffe92a0c12ec6c785d3b852c51fc5019873eecb01eefde62bdac3"
+    },
+    {
+      "name": "preload-helper-7y9sWmk5.js",
+      "bytes": 1615,
+      "sha256": "564eabb7e91110d437ceb9cb09dadea1e9bbbe5fcb5480b8d981c1a20d30f4fc"
+    },
+    {
+      "name": "renderer-BSSkIeqj.js",
+      "bytes": 1135887,
+      "sha256": "dd3b9577692db83cb9bb2a2f2d88c3dc2161635d9049701dc068cd3dcf4c1b21"
+    },
+    {
+      "name": "workshop-D26Dwexb.js",
+      "bytes": 26371,
+      "sha256": "1d9d0969735adad0e2eea15b584fcf80298f655a2a107908bcd30a4655923432"
+    },
+    {
+      "name": "workshop-GxclkAmw.css",
+      "bytes": 38676,
+      "sha256": "dacb2037745b075a0ee994fce42a6429369443228feb214636213d42b02f19ba"
+    },
+    {
+      "name": "workshop-main-Cp_sSCuc.js",
+      "bytes": 30597,
+      "sha256": "c6141194ccb9435dd277a1b2db1b09496027e40b544d3f9344c41b7614dc7fb5"
+    },
+    {
+      "name": "workshop-main-Cy70OVdt.css",
+      "bytes": 7344,
+      "sha256": "c40a0d40467655da4a30aff766d39abc75907bd08f4e68c689cd5c416703dda4"
+    }
+  ],
+  "unit": {
+    "passed": 73,
+    "failed": 0,
+    "command": "npm test",
+    "log": "build-and-tests.txt"
+  },
+  "productionBuild": {
+    "passed": true,
+    "warning": "Renderer chunk 1135.88 kB minified; target classroom device performance is unmeasured."
+  },
+  "browser": {
+    "c1": {
+      "passed": true,
+      "testEntry": "/assets/index-CWHkiaq2.js",
+      "coverage": [
+        "observations",
+        "direct-blame interview",
+        "two controlled trials",
+        "paused model reload",
+        "invalid then valid placement",
+        "own explanation",
+        "return plan",
+        "saved reload",
+        "mobile layout"
+      ],
+      "errors": [],
+      "report": "c1/browser-main-path.json"
+    },
+    "t01": {
+      "passed": true,
+      "testEntry": "/assets/index-CWHkiaq2.js",
+      "groups": 9,
+      "errors": [],
+      "report": "workshop/browser-workshop.json"
+    },
+    "t02": {
+      "passed": true,
+      "testEntry": "/assets/index-GgQcGrjz.js",
+      "groups": 10,
+      "errors": [],
+      "report": "night/browser-night.json"
+    },
+    "layout": {
+      "passed": true,
+      "modules": [
+        "T01",
+        "C1"
+      ],
+      "errors": [],
+      "report": "layout/layout-study.json"
+    },
+    "modalBounds": {
+      "passed": true,
+      "checks": 4,
+      "errors": [],
+      "report": "layout/modal-layout-study.json"
+    },
+    "nightAccess": {
+      "passed": true,
+      "testEntry": "/assets/index-GgQcGrjz.js",
+      "groups": 5,
+      "errors": [],
+      "report": "access/browser-night-access.json"
+    }
+  },
+  "scopeNote": "C1 and T01 full routes ran at index-CWHkiaq2. The only later source changes were night-main.js and night.css layout. Final T02 full route and C1/T01 fullscreen/layout/modal checks ran at index-GgQcGrjz. C1 main-ngIq5ffz.js, T01 workshop-main-Cp_sSCuc.js, shared workshop-D26Dwexb.js, shared styles and renderer-BSSkIeqj.js are unchanged between the two builds.",
+  "notVerified": [
+    "Human audio audition and emotional performance",
+    "Target classroom GPU/device performance",
+    "Teacher review and Year 9 learner trial",
+    "Final photorealistic character/hand/cloth animation",
+    "T01 hanging adaptation or a loan consent transaction"
+  ],
+  "status": "passed_in_documented_scope"
+}

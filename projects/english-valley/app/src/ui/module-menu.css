@@ -1,0 +1,11 @@
+.valley-dialog{border:1px solid #fff9;background:#f4f2e6;color:#2c4131;border-radius:18px;width:min(980px,94vw);max-height:88dvh;padding:30px;box-shadow:0 25px 90px #091c2450;scrollbar-width:thin}
+.valley-dialog::backdrop{background:#102b1f70;backdrop-filter:blur(7px)}
+.valley-dialog h2{font:500 38px/1.1 ValleySerif,Georgia,serif;margin:8px 30px 16px 0}
+.dialog-close{float:right;width:34px;height:34px;border-radius:50%;border:1px solid #bfc8b2;background:#e5e9da;font-size:23px}
+.module-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin:23px 0}
+.module-card{padding:18px;border:1px solid #ced2c0;border-radius:5px 16px 16px;background:#e9ebdf}
+.module-card.available{background:#fffdf2;border-color:#8b9e7b}
+.module-id{font-size:9px;letter-spacing:.12em;color:#758265}.module-card h3{font-size:16px;font-weight:500;margin:12px 0 9px}.module-card p{font-size:11px;line-height:1.65;min-height:36px;color:#68745f}
+.module-enter{display:flex;justify-content:space-between;text-decoration:none;color:#214b38;border-top:1px solid #ced6bf;padding-top:12px;font-size:12px}.module-planned{font-size:10px;color:#798570}
+@media(max-width:650px){.valley-dialog{padding:21px;max-height:90dvh}.module-grid{grid-template-columns:1fr 1fr;gap:8px}.module-card{padding:13px}.module-card h3{font-size:14px}.module-card p{font-size:10px}.valley-dialog h2{font-size:31px}}
+@media(max-width:370px){.module-grid{grid-template-columns:1fr}}

@@ -1,0 +1,6 @@
+.in-visit .wordmark h1{font-size:36px;letter-spacing:.03em;text-shadow:0 1px 10px #ffffffd0}
+.in-visit .wordmark p{font-size:8px;letter-spacing:.2em;margin-top:9px;margin-bottom:14px;text-shadow:0 1px 6px #ffffffd0}
+.in-visit .weather{font-size:9px;padding:7px 12px}
+.in-visit .stage-tag{top:135px}
+.in-visit .atmosphere{background:linear-gradient(180deg,#edf1e5b0,transparent 19%,transparent 76%,#132b2048)}
+@media(max-width:600px){.in-visit .wordmark h1{font-size:25px;max-width:210px}.in-visit .wordmark p{font-size:6px}.in-visit .stage-tag{top:120px}.in-visit .weather{font-size:8px}}

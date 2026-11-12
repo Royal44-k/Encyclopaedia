@@ -1,0 +1,62 @@
+{
+  "date": "2026-11-08",
+  "scope": "First playable local C1 journey; not final art, all twelve chapters, classroom efficacy or school-device performance",
+  "status": "passed_functional_sample_checks",
+  "nodeTests": {
+    "passed": 20,
+    "failed": 0,
+    "command": "npm test",
+    "suiteFiles": [
+      "app/tests/journey.test.mjs",
+      "app/tests/environment.test.mjs"
+    ]
+  },
+  "productionBuild": {
+    "command": "npm run build",
+    "exitCode": 0,
+    "entry": "/assets/index-U85a2Duk.js",
+    "entrySha256": "a1ef7240aea232b13980cc62e975e9f593fdc62fe01aa00f973d0405a122a3ff",
+    "renderer": "/assets/renderer-B8nhVBud.js"
+  },
+  "browserMainPath": {
+    "passed": true,
+    "build": "/assets/index-U85a2Duk.js",
+    "errors": [],
+    "report": "app/artifacts/browser-main-path.json"
+  },
+  "browserResilience": {
+    "passed": 12,
+    "failed": 0,
+    "build": "/assets/index-U85a2Duk.js",
+    "report": "app/artifacts/resilience-results.json"
+  },
+  "missingMediaRegression": {
+    "passed": true,
+    "report": "docs/development/runtime-review.md",
+    "build": "/assets/index-U85a2Duk.js"
+  },
+  "recording": {
+    "width": 1440,
+    "height": 960,
+    "duration": 53.44,
+    "path": "app/artifacts/first-journey.webm"
+  },
+  "sourceSha256": {
+    "app/src/core/journey.js": "b398614e2f760004a188701cd8ecfb9c9f528751c369e91f4b074de7688f5a5f",
+    "app/src/main.js": "204c4b20a2fc9a8c69a329799f2e739a02e1a274f637288cf134315932f8baff",
+    "app/src/ui/styles.css": "709d1f6fb057cd69a8da83cf43f189f6d93c0c66337696998d7971e5c4e9940f",
+    "app/src/ui/visit.css": "88cfc58b49000bfb0e9fd92b2436559aba18718555bec48aeb8690e4ee9c61b0",
+    "app/src/world/environment.js": "58cbec000948520806279528a95d545c7a212145063de913d196984b43c146c3",
+    "app/src/world/materials.js": "48edaee9cd57e58ef065e8d56d9e454e91778e59fd1985a6269e52d63a2ebf50",
+    "app/src/world/renderer.js": "fcc6d6e1c623b64eca5fd836a4bbcf9b712411db6647735546c60e7af83004d0",
+    "app/src/world/vegetation.js": "64c736bd4d09083b166f2fe87f91641842daa844f9c19d2df96a22efdb87b06f"
+  },
+  "remaining": [
+    "Final near-camera naturalistic assets and character acting",
+    "Emotional recorded voices and audio mix",
+    "Teacher language and textbook-printing review",
+    "Teacher/student classroom trial",
+    "Target school hardware performance",
+    "Other eleven playable stories"
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "top": 201.875,
+      "bottom": 629,
+      "sceneHeight": 147,
+      "tabsTop": 217.875,
+      "visibleNotes": [
+        {
+          "bottom": 594,
+          "top": 316.875
+        }
+      ],
+      "height": 667
+    },
+    {
+      "top": 363.53125,
+      "bottom": 629,
+      "sceneHeight": 309,
+      "tabsTop": 379.53125,
+      "visibleNotes": [
+        {
+          "bottom": 594,
+          "top": 478.53125
+        }
+      ],
+      "height": 667
+    },
+    {
+      "top": 201.875,
+      "bottom": 629,
+      "sceneHeight": 147,
+      "tabsTop": 217.875,
+      "visibleNotes": [
+        {
+          "bottom": 594,
+          "top": 316.875
+        }
+      ],
+      "height": 667
+    },
+    {
+      "top": 363.53125,
+      "bottom": 629,
+      "sceneHeight": 309,
+      "tabsTop": 379.53125,
+      "visibleNotes": [
+        {
+          "bottom": 594,
+          "top": 478.53125
+        }
+      ],
+      "height": 667
+    },
+    {
+      "top": 232.0625,
+      "bottom": 629,
+      "sceneHeight": 178,
+      "tabsTop": 248.0625,
+      "visibleNotes": [
+        {
+          "bottom": 485.625,
+          "top": 347.0625
+        }
+      ],
+      "height": 667
+    },
+    {
+      "top": 363.53125,
+      "bottom": 629,
+      "sceneHeight": 309,
+      "tabsTop": 379.53125,
+      "visibleNotes": [
+        {
+          "bottom": 594,
+          "top": 478.53125
+        }
+      ],
+      "height": 667
+    },
+    {
+      "top": 201.875,
+      "bottom": 629,
+      "sceneHeight": 147,
+      "tabsTop": 217.875,
+      "visibleNotes": [
+        {
+          "bottom": 594,
+          "top": 316.875
+        }
+      ],
+      "height": 667
+    },
+    {
+      "top": 274.25,
+      "bottom": 629,
+      "sceneHeight": 220,
+      "tabsTop": 290.25,
+      "visibleNotes": [
+        {
+          "bottom": 504.71875,
+          "top": 389.25
+        },
+        {
+          "bottom": 594,
+          "top": 524.71875
+        }
+      ],
+      "height": 667
+    },
+    {
+      "top": 396.625,
+      "bottom": 629,
+      "sceneHeight": 342,
+      "tabsTop": 412.625,
+      "visibleNotes": [],
+      "height": 667
+    }
+  ],
+  "errors": []
+}

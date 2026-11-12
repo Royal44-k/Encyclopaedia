@@ -1,0 +1,5 @@
+{
+  "error": "locator.getAttribute: Error: strict mode violation: locator('script[type=\"module\"][src]') resolved to 2 elements:\n    1) <script type=\"module\" src=\"/@vite/client\"></script> aka locator('head script')\n    2) <script type=\"module\" src=\"/src/main.js?t=1794105019928\"></script> aka locator('body script')\n\nCall log:\n\u001b[2m  - waiting for locator('script[type=\"module\"][src]')\u001b[22m\n",
+  "errors": [],
+  "state": null
+}

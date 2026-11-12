@@ -1,0 +1,262 @@
+{
+  "passed": true,
+  "origin": "http://127.0.0.1:4173/",
+  "checks": [
+    {
+      "chapter": "The English Valley · The workshop",
+      "width": 1440,
+      "height": 960,
+      "sceneBottom": 612,
+      "dockTop": 612.421875,
+      "lines": [
+        {
+          "text": "There's one empty stand by the path. What are we putting on it?",
+          "problems": []
+        },
+        {
+          "text": "I saved these pieces when we cleared the workshop. Have a look.",
+          "problems": []
+        }
+      ]
+    },
+    {
+      "chapter": "The English Valley · The workshop",
+      "width": 1366,
+      "height": 768,
+      "sceneBottom": 420,
+      "dockTop": 420.421875,
+      "lines": [
+        {
+          "text": "There's one empty stand by the path. What are we putting on it?",
+          "problems": []
+        },
+        {
+          "text": "I saved these pieces when we cleared the workshop. Have a look.",
+          "problems": []
+        }
+      ]
+    },
+    {
+      "chapter": "The English Valley · The workshop",
+      "width": 390,
+      "height": 844,
+      "sceneBottom": 448,
+      "dockTop": 448.625,
+      "lines": [
+        {
+          "text": "There's one empty stand by the path. What are we putting on it?",
+          "problems": []
+        },
+        {
+          "text": "I saved these pieces when we cleared the workshop. Have a look.",
+          "problems": []
+        }
+      ]
+    },
+    {
+      "chapter": "The English Valley · The workshop",
+      "width": 375,
+      "height": 667,
+      "sceneBottom": 271,
+      "dockTop": 271.625,
+      "lines": [
+        {
+          "text": "There's one empty stand by the path. What are we putting on it?",
+          "problems": []
+        },
+        {
+          "text": "I saved these pieces when we cleared the workshop. Have a look.",
+          "problems": []
+        }
+      ]
+    },
+    {
+      "chapter": "The English Valley · The workshop",
+      "width": 844,
+      "height": 390,
+      "sceneBottom": 174,
+      "dockTop": 174.40625,
+      "lines": [
+        {
+          "text": "There's one empty stand by the path. What are we putting on it?",
+          "problems": []
+        },
+        {
+          "text": "I saved these pieces when we cleared the workshop. Have a look.",
+          "problems": []
+        }
+      ]
+    },
+    {
+      "chapter": "The English Valley · The treehouse at dusk",
+      "width": 1440,
+      "height": 960,
+      "sceneBottom": 391,
+      "dockTop": 391.640625,
+      "lines": [
+        {
+          "text": "There it is again.",
+          "problems": []
+        },
+        {
+          "text": "I heard it near the stairs. I couldn't see what moved.",
+          "problems": []
+        }
+      ]
+    },
+    {
+      "chapter": "The English Valley · The treehouse at dusk",
+      "width": 1366,
+      "height": 768,
+      "sceneBottom": 553,
+      "dockTop": 553.3125,
+      "lines": [
+        {
+          "text": "There it is again.",
+          "problems": []
+        },
+        {
+          "text": "I heard it near the stairs. I couldn't see what moved.",
+          "problems": []
+        }
+      ]
+    },
+    {
+      "chapter": "The English Valley · The treehouse at dusk",
+      "width": 390,
+      "height": 844,
+      "sceneBottom": 482,
+      "dockTop": 482.375,
+      "lines": [
+        {
+          "text": "There it is again.",
+          "problems": []
+        },
+        {
+          "text": "I heard it near the stairs. I couldn't see what moved.",
+          "problems": []
+        }
+      ]
+    },
+    {
+      "chapter": "The English Valley · The treehouse at dusk",
+      "width": 375,
+      "height": 667,
+      "sceneBottom": 305,
+      "dockTop": 305.375,
+      "lines": [
+        {
+          "text": "There it is again.",
+          "problems": []
+        },
+        {
+          "text": "I heard it near the stairs. I couldn't see what moved.",
+          "problems": []
+        }
+      ]
+    },
+    {
+      "chapter": "The English Valley · The treehouse at dusk",
+      "width": 844,
+      "height": 390,
+      "sceneBottom": 196,
+      "dockTop": 196.90625,
+      "lines": [
+        {
+          "text": "There it is again.",
+          "problems": []
+        },
+        {
+          "text": "I heard it near the stairs. I couldn't see what moved.",
+          "problems": []
+        }
+      ]
+    },
+    {
+      "chapter": "The English Valley · After the rain",
+      "width": 1440,
+      "height": 960,
+      "sceneBottom": 501,
+      "dockTop": 501.5,
+      "lines": [
+        {
+          "text": "There's a bottle between those stones. The water looks brown too.",
+          "problems": []
+        },
+        {
+          "text": "Let's look at the photograph first. We can remove the litter afterwards.",
+          "problems": []
+        }
+      ]
+    },
+    {
+      "chapter": "The English Valley · After the rain",
+      "width": 1366,
+      "height": 768,
+      "sceneBottom": 309,
+      "dockTop": 309.5,
+      "lines": [
+        {
+          "text": "There's a bottle between those stones. The water looks brown too.",
+          "problems": []
+        },
+        {
+          "text": "Let's look at the photograph first. We can remove the litter afterwards.",
+          "problems": []
+        }
+      ]
+    },
+    {
+      "chapter": "The English Valley · After the rain",
+      "width": 390,
+      "height": 844,
+      "sceneBottom": 496,
+      "dockTop": 496.625,
+      "lines": [
+        {
+          "text": "There's a bottle between those stones. The water looks brown too.",
+          "problems": []
+        },
+        {
+          "text": "Let's look at the photograph first. We can remove the litter afterwards.",
+          "problems": []
+        }
+      ]
+    },
+    {
+      "chapter": "The English Valley · After the rain",
+      "width": 375,
+      "height": 667,
+      "sceneBottom": 319,
+      "dockTop": 319.625,
+      "lines": [
+        {
+          "text": "There's a bottle between those stones. The water looks brown too.",
+          "problems": []
+        },
+        {
+          "text": "Let's look at the photograph first. We can remove the litter afterwards.",
+          "problems": []
+        }
+      ]
+    },
+    {
+      "chapter": "The English Valley · After the rain",
+      "width": 844,
+      "height": 390,
+      "sceneBottom": 174,
+      "dockTop": 174.40625,
+      "lines": [
+        {
+          "text": "There's a bottle between those stones. The water looks brown too.",
+          "problems": []
+        },
+        {
+          "text": "Let's look at the photograph first. We can remove the litter afterwards.",
+          "problems": []
+        }
+      ]
+    }
+  ],
+  "errors": []
+}

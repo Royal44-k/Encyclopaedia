@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "phase": "modules-C1-T01",
+  "recordedAt": "2026-11-08T14:31:57.1782622+08:00",
+  "build": "/assets/index-DRgNFgaA.js",
+  "productionBuild": "passed",
+  "nodeTests": {
+    "artifact": "node-tests.tap",
+    "passed": 50,
+    "failed": 0
+  },
+  "workshop": {
+    "errors": [],
+    "passed": true,
+    "artifact": "../workshop/browser-workshop.json",
+    "checks": 9
+  },
+  "c1Regression": {
+    "artifact": "c1/browser-main-path.json",
+    "passed": true,
+    "errors": []
+  },
+  "audio": {
+    "scope": "Actual browser decoded source and non-zero audio signal checked; no subjective human audition claimed",
+    "newVerbatimClips": 19,
+    "assetValidation": "../../public/audio/workshop-validation.json",
+    "newMusicLoops": 2,
+    "newVoiceIdentity": "IRIS:af_bella"
+  },
+  "sourceSha256": {
+    "app/src/entry.js": "64664b9897358fa5070b934a77e98c812bafd4443501dc6cfd9ab29fa01b431b",
+    "app/src/main.js": "148727d1ecc94f14f55dc68b2bf42150f101970f04d9cab3b1f462f1859d0a19",
+    "app/src/workshop-main.js": "7216addd6412f68d879a0c9401ef9dbc91263c1d7e38069bea699006dcd78be8",
+    "app/src/core/workshop.js": "ba54589c09d85050caef02e442be53ec0660fba89037b80666bc7f0705773b48",
+    "app/src/content/module-registry.js": "a5c3a6848f23141d9ae6e25ac156424f835f45fb466241ebb737ae3bf6b2ebfe",
+    "app/src/content/workshop-content.js": "880998d848df35d60784a50178144333cc0f5718bb87e40bdc0472b9195a966b",
+    "app/src/world/renderer.js": "3980e7e1e6f1b79d35eb6c24e682225f6f4545572ad7f5ed1747ce7fa34e4d1a",
+    "app/src/world/workshop.js": "4255a43197bd3eea978e7fb302a3bc96946db34ca8aed285f71056b4018f47e5",
+    "app/src/world/characters.js": "51abb1d0f1e154f081f98b8eff70c691ecfaf2b6a67d552d4abe63314494b781",
+    "app/src/ui/workshop.css": "459a2d4128377db01a93e9cbfaeeb6d42b19eba34f5a96d797b45698da82d5a2",
+    "app/src/ui/module-menu.js": "7a4b16f15e6441419c357bd6303619270dffcb9bc3481482be72c0bbae001b63",
+    "app/public/audio/workshop-manifest.json": "c817313d18a5a5ee26736d94c76fb4186b30eb5b7c0cdf2c1460286852687955"
+  },
+  "bundleSha256": {
+    "index-DRgNFgaA.js": "819a4f4393d1a4694ba367571ecb8e394734cf0ec8e918d163c88889701e5ca2",
+    "main-DBBvrY4P.js": "27d9fe43e8d4ef206f8a5828167ab29f2cf3d65848fcb47eddf420f153615814",
+    "preload-helper-7y9sWmk5.js": "564eabb7e91110d437ceb9cb09dadea1e9bbbe5fcb5480b8d981c1a20d30f4fc",
+    "renderer-Ba8Ac2zl.js": "a85bc71c92ece6c7c197f348ec313d344d4ff37b57acf326a7f105690ec7b742",
+    "workshop-CS71OvAF.css": "6ac1b3b3813da29ebe9b25e8521e73f7a0425b020aa6b073bcc08f49f0831175",
+    "workshop-Dx5mT3AT.js": "2a9b779a6f594478b51beab59024533c003c054ef7a9f85e8f75be9261f042fc",
+    "workshop-main-C-14EAfO.js": "633bf40842e46b2f1f78718e93656bcd0c2184796e0c93a507c6e48e4d6199b2",
+    "workshop-main-Cy70OVdt.css": "c40a0d40467655da4a30aff766d39abc75907bd08f4e68c689cd5c416703dda4"
+  },
+  "limitations": [
+    "Finite six-material interfaces, not arbitrary modeling or general physics.",
+    "Final hand contact, cap catch, carrying IK, material contact sounds and photoreal character surfaces remain unfinished.",
+    "No teacher line-by-line approval, student classroom trial or school hardware performance claim.",
+    "T03 remains the C1 revisit subset; ten other chapter entries are planned, not playable."
+  ],
+  "buildWarnings": [
+    "Shared renderer exceeds 850kB configured chunk warning: approximately 1128kB raw / 326kB gzip."
+  ]
+}

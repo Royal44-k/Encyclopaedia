@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "build": "/assets/index-BWln5HaI.js",
+  "checks": [
+    "Empty-stand invitation auto-speaks Iris then Sam with local BGM",
+    "Moving work: first impression, witnessed motion, reload, author label, both trial sites, visitor and complete export",
+    "Failed label write preserves exact author text and succeeds on retry",
+    "Static tin route: appropriate first impression, actual side view, untitled exhibit and everyday reuse conversation on mobile",
+    "Branch/question route completes with open interpretation and complete landscape dialogue",
+    "Storing unfinished is a resumable pause, never a false exhibition completion"
+  ],
+  "errors": []
+}

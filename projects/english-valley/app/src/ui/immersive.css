@@ -1,0 +1,90 @@
+body.immersive{--scene-header:64px;--lesson-dock:224px;--scene-nav:42px;background:#162c23}
+body.immersive #valley{top:var(--scene-header)!important;bottom:auto!important;height:calc(100dvh - var(--scene-header) - var(--lesson-dock) - var(--scene-nav))!important;width:100%!important}
+body.immersive .atmosphere{top:var(--scene-header);bottom:calc(var(--lesson-dock) + var(--scene-nav));background:linear-gradient(180deg,#e7ecd622,transparent 18%,transparent 88%,#20352718)}
+body.immersive .topbar{top:0!important;left:0!important;right:0!important;height:var(--scene-header);padding:13px 24px;background:#eff0e5;align-items:center!important;box-shadow:0 1px #33482d20}
+body.immersive .wordmark{max-width:none!important;display:flex;align-items:center;gap:24px}
+body.immersive .wordmark h1{font-size:24px!important;line-height:1!important;max-width:none!important;letter-spacing:.04em!important;text-shadow:none!important;white-space:nowrap}
+body.immersive .wordmark p{display:none!important}
+body.immersive .weather{margin:0!important;padding:6px 10px!important;font-size:8px!important;background:#e0e6d5;border:0}
+body.immersive .toolbar{margin-right:244px;gap:6px!important}
+body.immersive .toolbar .icon-button{height:32px!important;min-width:32px!important;width:32px!important;border-color:#b9c6ad;background:#e6ebdd}
+body.immersive .toolbar .pill-button{height:32px!important;font-size:10px!important;background:#e6ebdd;padding:0 11px!important}
+.immersive-controls{position:fixed;z-index:22;right:24px;top:16px;display:flex;gap:6px}
+.immersive-controls button{height:31px;border:1px solid #b9c6ad;background:#e6ebdd;border-radius:20px;padding:0 12px;color:#3d573e;font-size:10px;white-space:nowrap}
+.immersive-controls button[aria-pressed=true]{background:#284b39;color:#f4f3df;border-color:#284b39}
+body.immersive .stage-tag{top:calc(var(--scene-header) + 12px)!important;left:24px!important;font-size:8px!important;letter-spacing:.15em;background:#f2f3e6bb;padding:6px 9px;border-radius:20px;max-width:70vw}
+body.immersive .sound-state{top:calc(var(--scene-header) + 10px)!important;right:24px!important;font-size:9px;padding:7px 10px;min-width:0}
+body.immersive .map-chip{bottom:calc(var(--lesson-dock) + var(--scene-nav) + 12px)!important;right:24px!important;padding:6px 10px;font-size:9px}
+body.immersive .model-badge{top:calc(var(--scene-header) + 12px)!important;font-size:9px;padding:6px 12px}
+body.immersive #immersive-dock{position:absolute;bottom:var(--scene-nav);left:0;right:0;height:var(--lesson-dock);padding:18px 24px;background:#f3f1e5;border-top:1px solid #b6c5a8;display:grid;gap:22px;box-shadow:0 -10px 30px #13291d10;pointer-events:auto;overflow:hidden}
+body.immersive #story-panel,body.immersive #story-panel.hero{position:static!important;inset:auto!important;width:auto!important;max-width:none!important;height:100%!important;max-height:none!important;min-height:0;overflow:hidden!important;padding:0!important;border:0!important;border-radius:0!important;background:none!important;box-shadow:none!important;backdrop-filter:none!important;display:grid;grid-template-columns:minmax(190px,.75fr) minmax(260px,1fr) minmax(280px,1fr);gap:25px}
+body.immersive #story-panel.without-dialogue{grid-template-columns:minmax(230px,1fr) minmax(280px,1.2fr)}
+.immersive-context,.immersive-dialogue,.immersive-actions{min-height:0;overflow:auto;scrollbar-width:thin;scrollbar-color:#b1bda1 transparent;padding-right:8px}
+.without-dialogue>.immersive-dialogue{display:none}
+body.immersive #story-panel h2,body.immersive #story-panel.hero h2{font-size:29px!important;line-height:1.03!important;font-style:normal!important;margin:0 0 9px;max-width:none}
+body.immersive #story-panel h2 br{display:none}
+body.immersive .eyebrow{font-size:8px;margin-bottom:9px;letter-spacing:.16em}
+body.immersive .lead{font-size:11px;line-height:1.6;margin:0 0 10px}
+body.immersive .cn{font-size:10px;line-height:1.65;margin-top:5px}
+body.immersive #story-panel .dialogue{margin:0 0 12px;padding-left:14px}
+body.immersive #story-panel .dialogue p{font-size:23px;line-height:1.18;margin:8px 0}
+body.immersive .dialogue .speaker{font-size:8px}
+.immersive-transcript{font-size:10px;color:#708162;border-top:1px solid #a9b99a55;padding-top:9px}
+.immersive-transcript summary{cursor:pointer;padding:4px 0;list-style:none}
+.immersive-transcript summary:before{content:'＋ ';color:#687f53}.immersive-transcript[open] summary:before{content:'− '}
+.immersive-transcript.no-history{display:none}.immersive-history-body{padding-top:15px}
+body.immersive .actions{margin-top:7px;gap:6px}body.immersive .actions.stack{gap:6px}
+body.immersive .actions button,body.immersive .choice{font-size:11px;padding:9px 13px;min-height:34px}
+body.immersive .support{padding:9px 11px;margin:8px 0}body.immersive .fine{font-size:9px;line-height:1.55}
+body.immersive .scene-picture{margin:8px 0;transform:none;padding:5px}.immersive .scene-picture img{height:82px!important}.immersive .scene-picture figcaption strong{font-size:15px}
+body.immersive .connection-tools{margin-top:0;padding-top:0;border-top:0}.immersive .tool-label{font-size:9px;margin-bottom:6px}
+body.immersive #immersive-dock.has-work-tools{grid-template-columns:minmax(0,1fr) minmax(390px,.95fr)}
+body.immersive #immersive-dock.has-work-tools #story-panel{grid-template-columns:minmax(160px,.8fr) minmax(190px,1fr);gap:16px}
+body.immersive #immersive-dock.has-work-tools .immersive-context{grid-row:1 / 3}
+body.immersive #immersive-dock.has-work-tools .immersive-dialogue{max-height:108px;overflow:auto}
+body.immersive #immersive-dock.has-work-tools .immersive-actions{grid-column:2}
+body.immersive #immersive-dock.has-work-tools #story-panel.without-dialogue{grid-template-columns:1fr 1fr}
+.immersive-work-tools{display:flex;flex-direction:column;min-height:0;gap:12px;overflow:auto;scrollbar-width:thin}
+body.immersive .work-view-tools{position:static!important;inset:auto!important;width:auto!important;display:flex!important;flex-wrap:wrap;gap:6px!important;align-items:center}
+body.immersive .work-view-tools .work-two{gap:5px}.immersive .work-view-tools .pill-button{height:30px;padding:0 10px;font-size:9px}
+body.immersive .turn-controls{padding:3px 5px;border:1px solid #bcc8b0;background:#e6eadb;border-radius:10px;flex:1;min-width:160px;max-width:240px}
+body.immersive .turn-controls label{font-size:8px}.immersive .turn-controls input{height:13px}.immersive .turn-controls .icon-button{height:27px;min-width:27px;font-size:21px}
+body.immersive .material-tray{position:static!important;inset:auto!important;max-width:none!important;padding:0!important;background:none!important;border:0!important;border-radius:0!important;box-shadow:none!important;backdrop-filter:none!important}
+body.immersive .tray-heading .eyebrow{display:none}.immersive .tray-heading strong{font-size:21px}.immersive .tray-tabs button{padding:5px 10px;font-size:9px}
+body.immersive .material-items{gap:7px;margin-top:8px}.immersive .material-piece{padding:7px;flex-direction:row;align-items:center;gap:7px}.immersive .material-piece>svg{width:38px;height:35px}.immersive .material-piece>span{font-size:10px}.immersive .material-piece small{font-size:8px;margin-top:3px}
+body.immersive .tray-foot{margin-top:3px}.immersive .tray-foot>span{display:none}.immersive .tray-foot .text-button{font-size:9px;padding:4px 0}
+body.immersive .work-live-caption{display:none!important}
+body.immersive .location-nav{height:var(--scene-nav);bottom:0!important;left:0!important;right:0!important;background:#263f30;color:#eeeedd;padding:0 24px;gap:15px;border-top:1px solid #ffffff15}
+body.immersive .location-nav .nav-left,body.immersive .location-nav .nav-right{gap:20px}.immersive .location-nav button{font-size:9px;letter-spacing:.12em;padding:8px 0;text-shadow:none}.immersive .location-nav svg{width:15px;height:15px}
+body.immersive .walk-note{top:calc(var(--scene-header) + 52px);bottom:auto;left:50%;transform:translateX(-50%);font-size:10px}
+body.immersive #toast{bottom:calc(var(--scene-nav) + 8px);z-index:35;font-size:10px;padding:8px 14px;max-width:min(700px,90vw)}
+body.immersive.scenic-view #valley{top:0!important;height:100dvh!important}
+body.immersive.scenic-view #app,body.immersive.scenic-view .atmosphere{visibility:hidden}
+body.immersive.scenic-view .immersive-controls{background:#f2f2e4dc;border-radius:24px;padding:4px;top:12px;right:16px}
+body.immersive.scenic-view .immersive-controls button{background:#e7eddf}
+body.immersive.scenic-view .immersive-controls button[aria-pressed=true]{background:#284b39}
+@media(min-width:1700px){body.immersive{--lesson-dock:230px}body.immersive #immersive-dock{padding-left:40px;padding-right:40px}}
+@media(max-width:1150px){body.immersive .wordmark .weather{display:none!important}body.immersive #story-panel{grid-template-columns:minmax(160px,.7fr) minmax(220px,1fr) minmax(240px,1fr);gap:18px}body.immersive #immersive-dock.has-work-tools{grid-template-columns:1fr 1fr;gap:16px}body.immersive #immersive-dock.has-work-tools #story-panel{grid-template-columns:1fr;overflow:auto!important;display:block!important}body.immersive #immersive-dock.has-work-tools .immersive-context,body.immersive #immersive-dock.has-work-tools .immersive-dialogue,body.immersive #immersive-dock.has-work-tools .immersive-actions{overflow:visible;max-height:none}.immersive #immersive-dock.has-work-tools .immersive-context .lead,.immersive #immersive-dock.has-work-tools .immersive-context>.cn{display:none}}
+@media(max-width:760px){body.immersive{--scene-header:54px;--lesson-dock:270px;--scene-nav:38px}body.immersive .topbar{padding:10px 14px}.immersive .wordmark h1{font-size:17px!important;letter-spacing:.02em!important;white-space:normal;max-width:150px!important}body.immersive .toolbar{margin-right:134px!important;gap:4px!important}body.immersive .toolbar .pill-button{display:none!important}body.immersive .toolbar .icon-button{height:28px!important;width:28px!important;min-width:28px!important}body.immersive .wordmark .weather{display:none!important}.immersive-controls{top:12px;right:12px;gap:4px}.immersive-controls button{height:28px;padding:0 8px;font-size:9px}.immersive-controls [data-immersive=fullscreen] span{display:none}.immersive-controls [data-immersive=fullscreen]{width:30px;font-size:18px;padding:0}.immersive-controls [data-immersive=scenic]{min-width:65px}body.immersive .stage-tag{top:calc(var(--scene-header) + 8px)!important;left:12px!important;font-size:7px!important;max-width:58vw;padding:5px 7px;letter-spacing:.08em}body.immersive .sound-state{top:calc(var(--scene-header) + 8px)!important;right:12px!important;font-size:8px;padding:6px 8px}.immersive .map-chip{display:none}body.immersive #immersive-dock{padding:13px 15px;overflow:auto;display:block!important}body.immersive #story-panel,body.immersive #story-panel.hero{height:auto!important;display:grid!important;grid-template-columns:1fr!important;gap:12px;overflow:visible!important}body.immersive .immersive-context,body.immersive .immersive-dialogue,body.immersive .immersive-actions{overflow:visible;max-height:none!important;grid-column:auto!important;grid-row:auto!important;padding-right:0}body.immersive #story-panel h2,body.immersive #story-panel.hero h2{font-size:26px!important}body.immersive .immersive-context>.lead,body.immersive .immersive-context>.cn{display:none}body.immersive #story-panel.hero .immersive-context>.lead,body.immersive #story-panel.hero .immersive-context>.cn{display:block}body.immersive .immersive-context>.eyebrow{margin-bottom:6px;font-size:7px}.immersive-work-tools{overflow:visible;display:block;margin-bottom:18px}body.immersive #immersive-dock.has-work-tools{display:flex!important;flex-direction:column;gap:12px}body.immersive #immersive-dock.has-work-tools .immersive-work-tools{order:-1}body.immersive #immersive-dock.has-work-tools #story-panel{display:block!important;flex:none!important;height:auto!important;overflow:visible!important}body.immersive #immersive-dock.has-work-tools .immersive-context{margin-bottom:12px}body.immersive #immersive-dock.has-work-tools .immersive-dialogue{margin-bottom:10px}.immersive .work-view-tools{margin-bottom:10px}.immersive .work-view-tools .work-two{flex:1}.immersive .work-view-tools .turn-controls{order:3;flex-basis:100%;max-width:none}.immersive .work-view-tools>.work-two:last-child{justify-content:flex-end}.immersive .material-piece{padding:6px;gap:4px}.immersive .material-piece>svg{width:27px;height:31px}.immersive .material-piece>span{font-size:9px}.immersive .material-items{margin-top:7px}.immersive .tray-heading strong{font-size:20px}body.immersive .location-nav{padding:0 12px;gap:9px;overflow-x:auto;white-space:nowrap}body.immersive .location-nav .nav-left,body.immersive .location-nav .nav-right{gap:16px;flex:none}.immersive .location-nav button{font-size:8px;letter-spacing:.05em}.immersive .saved-note{display:none!important}.immersive .scene-picture img{height:105px!important}}
+@media(max-height:650px){body.immersive{--lesson-dock:190px;--scene-header:48px;--scene-nav:34px}.immersive-controls{top:9px}body.immersive #immersive-dock{padding-top:12px;padding-bottom:12px}body.immersive .topbar{padding-top:8px;padding-bottom:8px}}
+@media(prefers-reduced-motion:reduce){body.immersive *{scroll-behavior:auto!important}}
+@media(max-width:760px){body.immersive .wordmark h1{font-size:17px!important;white-space:normal!important;max-width:145px!important;line-height:1.04!important}body.immersive .immersive-work-tools{flex:none!important}body.immersive #immersive-dock.has-work-tools .immersive-context .actions{display:flex;flex-direction:row;flex-wrap:wrap}.immersive #immersive-dock.has-work-tools .immersive-context .actions .primary{flex-basis:100%}}
+.immersive-mobile-caption{display:none}.immersive-current{position:sticky;top:0;z-index:2;background:#f3f1e5}
+@media(max-width:760px){.immersive-mobile-caption:not([hidden]){display:block;position:sticky;top:-13px;z-index:6;flex:none;order:-2;background:#f3f1e5;border-bottom:1px solid #aab99a;padding:8px 0 10px;margin-top:-5px}.immersive-mobile-caption .speaker{display:flex;align-items:center;justify-content:space-between;font-size:8px;letter-spacing:.13em;color:#688057}.immersive-mobile-caption p{font:500 19px/1.15 ValleySerif,serif;margin:5px 0}.immersive-mobile-caption .replay{border:0;background:none;width:22px;height:18px;font-size:15px;padding:0}.immersive-mobile-caption .cn{font-size:9px;margin-top:4px}body.immersive #story-panel .immersive-current{display:none}.immersive-mobile-caption~#story-panel .immersive-dialogue:has(.no-history){display:none}}
+@media(max-width:760px){body.immersive .topbar{gap:10px}body.immersive .wordmark h1{font-size:15px!important;max-width:115px!important}body.immersive .toolbar{margin-right:114px!important}body.immersive .toolbar .pill-button{display:inline-flex!important;font-size:8px!important;height:28px!important;padding:0 7px!important}}
+/* Reading opens a larger reserved dock; it never becomes a sheet over the actors. */
+body.immersive:has(dialog[open],#overlay-root .overlay){--lesson-dock:min(520px,56dvh)}
+body.immersive:has(dialog[open],#overlay-root .overlay) #immersive-dock{visibility:hidden;pointer-events:none}
+body.immersive:has(dialog[open],#overlay-root .overlay) #valley{pointer-events:none}
+body.immersive:has(dialog[open],#overlay-root .overlay) #app{pointer-events:none}
+body.immersive:has(dialog[open],#overlay-root .overlay) #app>*{pointer-events:none}
+body.immersive:has(dialog[open],#overlay-root .overlay) .immersive-controls{pointer-events:none;opacity:.6}
+body.immersive dialog.valley-dialog[open]{position:fixed;inset:auto 0 var(--scene-nav)!important;margin:0!important;width:100vw!important;max-width:none!important;height:var(--lesson-dock)!important;max-height:var(--lesson-dock)!important;border:0!important;border-top:1px solid #b4c2a5!important;border-radius:0!important;box-shadow:0 -10px 30px #142f1e12!important;padding:24px clamp(20px,5vw,90px)!important;overflow:auto}
+body.immersive dialog.valley-dialog::backdrop{background:transparent!important;backdrop-filter:none!important}
+body.immersive #overlay-root .overlay{position:fixed;inset:auto 0 var(--scene-nav)!important;height:var(--lesson-dock);width:100vw;padding:0!important;display:block!important;background:transparent!important;backdrop-filter:none!important}
+body.immersive #overlay-root .modal{width:100%!important;max-width:none!important;height:100%!important;max-height:none!important;margin:0!important;border:0!important;border-top:1px solid #b4c2a5!important;border-radius:0!important;box-shadow:0 -10px 30px #142f1e12!important;padding:24px clamp(20px,5vw,90px)!important;overflow:auto}
+body.immersive .valley-dialog h2,body.immersive #overlay-root .modal h2{font-size:31px;margin-top:0}
+body.immersive .valley-dialog .material-detail{max-height:calc(var(--lesson-dock) - 110px);object-fit:contain;width:100%;background:#e4e7d8}
+body.immersive #overlay-root .evidence-photo img{height:min(260px,29dvh);aspect-ratio:auto;object-fit:contain;background:#e4e7d8}
+body.immersive .valley-dialog .dialog-close,body.immersive #overlay-root .close{position:sticky;top:0;z-index:5;background:#e5ead9}
+@media(max-width:760px){body.immersive dialog.valley-dialog[open],body.immersive #overlay-root .modal{padding:18px!important}.immersive .valley-dialog h2,body.immersive #overlay-root .modal h2{font-size:27px}body.immersive #overlay-root .evidence-grid{grid-template-columns:1fr}.immersive .valley-dialog .material-detail{max-height:calc(var(--lesson-dock) - 110px)}}

@@ -1,0 +1,458 @@
+{
+  "error": "page.waitForFunction: Timeout 30000ms exceeded.",
+  "errors": [],
+  "state": {
+    "schemaVersion": "6.1-handoff-1",
+    "nodeId": "j.fieldwork",
+    "revision": 21,
+    "fields": {
+      "session.mode": "same_pc_group",
+      "session.profile": "standalone_invited_return",
+      "session.storyDayId": "visit.return.01",
+      "session.phase": "active",
+      "navigation.currentLocation": "loc.greenhouse",
+      "navigation.targetLocation": "loc.bare_bed",
+      "evidence.bridge": "observed",
+      "evidence.upper": "observed",
+      "evidence.path": "observed",
+      "evidence.records": [
+        {
+          "eventId": "ef7051c8-c9cc-47a1-aa68-d9fac2cca710",
+          "evidenceId": "C1-E01",
+          "origin": "observed",
+          "locationId": "loc.stream_bridge",
+          "storyDayId": "visit.return.01",
+          "observationProvenance": "authored_fictional_teaching_scene"
+        },
+        {
+          "eventId": "8bb76195-09cb-4323-bc64-29d678b5488a",
+          "evidenceId": "C1-E06",
+          "origin": "observed",
+          "locationId": "loc.stream_bridge",
+          "storyDayId": "visit.return.01",
+          "observationProvenance": "visible_prop_removal_only"
+        },
+        {
+          "eventId": "ac9bd1a4-4424-407c-927c-103088f18f01",
+          "evidenceId": "C1-E02",
+          "origin": "observed",
+          "locationId": "loc.upper_stream",
+          "storyDayId": "visit.return.01",
+          "observationProvenance": "authored_fictional_teaching_scene"
+        },
+        {
+          "eventId": "91073047-64a8-4aeb-bdce-ad0980b5bbad",
+          "evidenceId": "C1-E03",
+          "origin": "observed",
+          "locationId": "loc.bare_bed",
+          "storyDayId": "visit.return.01",
+          "observationProvenance": "authored_fictional_teaching_scene"
+        },
+        {
+          "eventId": "80bc676b-764a-4ba9-88c2-b7962be26d1b",
+          "evidenceId": "C1-E04",
+          "origin": "observed",
+          "locationId": "loc.greenhouse",
+          "storyDayId": "visit.return.01",
+          "observationProvenance": "authored_character_testimony_limited_to_own_observation"
+        }
+      ],
+      "interview.heard": true,
+      "interview.intent": "attribute_blame",
+      "world.litterRemoved": true,
+      "world.coverInstalled": false,
+      "world.coverTransform": null,
+      "world.waterAppearance": "authored_brown_at_recorded_visit",
+      "model.phase": "idle",
+      "model.candidatePosition": "no_cover",
+      "model.runningPosition": null,
+      "model.latestPosition": null,
+      "model.latestResult": "not_run",
+      "model.latestTrialId": null,
+      "model.trials": [],
+      "plan.status": "none",
+      "plan.trialId": null,
+      "plan.note": "",
+      "implementation.requested": false,
+      "implementation.materialsChecked": false,
+      "implementation.materialState": "at_table",
+      "implementation.draftZone": null,
+      "implementation.draftTransform": null,
+      "explanation.status": "empty",
+      "explanation.revision": 0,
+      "explanation.cards": [
+        {
+          "slot": 1,
+          "sourceId": null,
+          "caption": "",
+          "audioBlobId": null
+        },
+        {
+          "slot": 2,
+          "sourceId": null,
+          "caption": "",
+          "audioBlobId": null
+        },
+        {
+          "slot": 3,
+          "sourceId": null,
+          "caption": "",
+          "audioBlobId": null
+        }
+      ],
+      "explanation.history": [],
+      "followup.status": "not_planned",
+      "followup.card": null,
+      "followup.observations": [],
+      "resume.nodeId": "j.entry",
+      "resume.reason": "none",
+      "resume.note": "",
+      "session.layoutVersion": "valley-layout-3-slice-1",
+      "session.assetManifestVersion": "authored-scene-1",
+      "model.activeRunId": null,
+      "delivery.T03S.001": true,
+      "delivery.T03S.002": true,
+      "delivery.T03S.007": true,
+      "delivery.T03S.009": true,
+      "delivery.T03S.011": true,
+      "delivery.T03S.026": false,
+      "delivery.T03S.028": false,
+      "plan.purposeAndPositionConfirmed": false
+    },
+    "acceptedEvents": [
+      {
+        "id": "c30985bc-9377-4f2b-a35f-5ab1fbddba07",
+        "event": "SESSION_OPENED",
+        "input": {
+          "mode": "same_pc_group",
+          "layoutVersion": "valley-layout-3-slice-1",
+          "assetManifestVersion": "authored-scene-1"
+        },
+        "context": {
+          "activeCastNoor": true,
+          "activeCastRowan": true,
+          "activeCastMei": false,
+          "activeCastSam": false,
+          "sceneBindingsReady": true
+        },
+        "fromNodeId": "j.entry",
+        "toNodeId": "j.bridge_record"
+      },
+      {
+        "id": "ef7051c8-c9cc-47a1-aa68-d9fac2cca710",
+        "event": "BRIDGE_RECORD_OPENED",
+        "input": {},
+        "context": {
+          "activeCastNoor": true,
+          "activeCastRowan": true,
+          "activeCastMei": false,
+          "activeCastSam": false,
+          "sceneBindingsReady": true,
+          "bridgePairFullyOpened": true
+        },
+        "fromNodeId": "j.bridge_record",
+        "toNodeId": "j.bridge_hook"
+      },
+      {
+        "id": "8bb76195-09cb-4323-bc64-29d678b5488a",
+        "event": "LITTER_REMOVED",
+        "input": {},
+        "context": {
+          "activeCastNoor": true,
+          "activeCastRowan": true,
+          "activeCastMei": false,
+          "activeCastSam": false,
+          "sceneBindingsReady": true,
+          "cleanupActionFinished": true
+        },
+        "fromNodeId": "j.bridge_hook",
+        "toNodeId": "j.bridge_hook"
+      },
+      {
+        "id": "19021f4f-ba61-428b-bcdd-97aac4d079e0",
+        "event": "DIALOGUE_CONTENT_PRESENTED",
+        "input": {
+          "lineId": "T03S.001"
+        },
+        "context": {
+          "activeCastNoor": true,
+          "activeCastRowan": true,
+          "activeCastMei": false,
+          "activeCastSam": false,
+          "sceneBindingsReady": true,
+          "presentedDialogueId": "T03S.001",
+          "dialogueDeliveryValidated": true
+        },
+        "fromNodeId": "j.bridge_hook",
+        "toNodeId": "j.bridge_hook"
+      },
+      {
+        "id": "e2f90cb3-6a93-42c0-a4d1-36d58ac08469",
+        "event": "DIALOGUE_CONTENT_PRESENTED",
+        "input": {
+          "lineId": "T03S.002"
+        },
+        "context": {
+          "activeCastNoor": true,
+          "activeCastRowan": true,
+          "activeCastMei": false,
+          "activeCastSam": false,
+          "sceneBindingsReady": true,
+          "presentedDialogueId": "T03S.002",
+          "dialogueDeliveryValidated": true
+        },
+        "fromNodeId": "j.bridge_hook",
+        "toNodeId": "j.bridge_hook"
+      },
+      {
+        "id": "6fc5e46d-fd63-4734-92eb-f88f9f6caa81",
+        "event": "INVESTIGATE_NOW",
+        "input": {},
+        "context": {
+          "activeCastNoor": true,
+          "activeCastRowan": true,
+          "activeCastMei": false,
+          "activeCastSam": false,
+          "sceneBindingsReady": true
+        },
+        "fromNodeId": "j.bridge_hook",
+        "toNodeId": "j.fieldwork"
+      },
+      {
+        "id": "55bf8aea-7536-4c8f-a9d5-81a3038754a2",
+        "event": "MOVE_REQUESTED",
+        "input": {
+          "destination": "loc.upper_stream"
+        },
+        "context": {
+          "activeCastNoor": true,
+          "activeCastRowan": true,
+          "activeCastMei": false,
+          "activeCastSam": false,
+          "sceneBindingsReady": true
+        },
+        "fromNodeId": "j.fieldwork",
+        "toNodeId": "j.fieldwork"
+      },
+      {
+        "id": "43e68791-02c4-41f6-bb48-07125384dc84",
+        "event": "MOVE_ARRIVED",
+        "input": {},
+        "context": {
+          "activeCastNoor": true,
+          "activeCastRowan": true,
+          "activeCastMei": false,
+          "activeCastSam": false,
+          "sceneBindingsReady": true,
+          "destinationReached": true
+        },
+        "fromNodeId": "j.fieldwork",
+        "toNodeId": "j.fieldwork"
+      },
+      {
+        "id": "ac9bd1a4-4424-407c-927c-103088f18f01",
+        "event": "UPPER_RECORD_OPENED",
+        "input": {},
+        "context": {
+          "activeCastNoor": true,
+          "activeCastRowan": true,
+          "activeCastMei": false,
+          "activeCastSam": false,
+          "sceneBindingsReady": true,
+          "upperPairFullyOpened": true
+        },
+        "fromNodeId": "j.fieldwork",
+        "toNodeId": "j.fieldwork"
+      },
+      {
+        "id": "9d139fe9-15bf-47a2-b220-87f422b5aa46",
+        "event": "MOVE_REQUESTED",
+        "input": {
+          "destination": "loc.bare_bed"
+        },
+        "context": {
+          "activeCastNoor": true,
+          "activeCastRowan": true,
+          "activeCastMei": false,
+          "activeCastSam": false,
+          "sceneBindingsReady": true
+        },
+        "fromNodeId": "j.fieldwork",
+        "toNodeId": "j.fieldwork"
+      },
+      {
+        "id": "6e1b1291-e2ee-4d45-967b-da863a4b5376",
+        "event": "MOVE_ARRIVED",
+        "input": {},
+        "context": {
+          "activeCastNoor": true,
+          "activeCastRowan": true,
+          "activeCastMei": true,
+          "activeCastSam": true,
+          "sceneBindingsReady": true,
+          "destinationReached": true
+        },
+        "fromNodeId": "j.fieldwork",
+        "toNodeId": "j.fieldwork"
+      },
+      {
+        "id": "91073047-64a8-4aeb-bdce-ad0980b5bbad",
+        "event": "PATH_RECORD_OPENED",
+        "input": {},
+        "context": {
+          "activeCastNoor": true,
+          "activeCastRowan": true,
+          "activeCastMei": true,
+          "activeCastSam": true,
+          "sceneBindingsReady": true,
+          "sourcePathInspected": true
+        },
+        "fromNodeId": "j.fieldwork",
+        "toNodeId": "j.fieldwork"
+      },
+      {
+        "id": "ec2ceba7-c819-4f6b-b51e-bb9e4504b431",
+        "event": "MOVE_REQUESTED",
+        "input": {
+          "destination": "loc.greenhouse"
+        },
+        "context": {
+          "activeCastNoor": true,
+          "activeCastRowan": true,
+          "activeCastMei": true,
+          "activeCastSam": true,
+          "sceneBindingsReady": true
+        },
+        "fromNodeId": "j.fieldwork",
+        "toNodeId": "j.fieldwork"
+      },
+      {
+        "id": "3f79c9e9-9e71-47b7-8c4c-f33452381fe6",
+        "event": "MOVE_ARRIVED",
+        "input": {},
+        "context": {
+          "activeCastNoor": true,
+          "activeCastRowan": true,
+          "activeCastMei": true,
+          "activeCastSam": false,
+          "sceneBindingsReady": true,
+          "destinationReached": true
+        },
+        "fromNodeId": "j.fieldwork",
+        "toNodeId": "j.fieldwork"
+      },
+      {
+        "id": "a779ca51-f48a-49c6-b65f-06657624d8cd",
+        "event": "ASK_MEI_DIRECTLY",
+        "input": {},
+        "context": {
+          "activeCastNoor": true,
+          "activeCastRowan": true,
+          "activeCastMei": true,
+          "activeCastSam": false,
+          "sceneBindingsReady": true
+        },
+        "fromNodeId": "j.fieldwork",
+        "toNodeId": "j.mei_direct"
+      },
+      {
+        "id": "1ad391b1-cb05-402c-8144-c06ddb20340f",
+        "event": "CONTINUE_MEI_INTERVIEW",
+        "input": {},
+        "context": {
+          "activeCastNoor": true,
+          "activeCastRowan": true,
+          "activeCastMei": true,
+          "activeCastSam": false,
+          "sceneBindingsReady": true
+        },
+        "fromNodeId": "j.mei_direct",
+        "toNodeId": "j.mei_followup"
+      },
+      {
+        "id": "7990e6cd-921d-4e9b-8850-40e8edd25ab6",
+        "event": "DIALOGUE_CONTENT_PRESENTED",
+        "input": {
+          "lineId": "T03S.007"
+        },
+        "context": {
+          "activeCastNoor": true,
+          "activeCastRowan": true,
+          "activeCastMei": true,
+          "activeCastSam": false,
+          "sceneBindingsReady": true,
+          "presentedDialogueId": "T03S.007",
+          "dialogueDeliveryValidated": true
+        },
+        "fromNodeId": "j.mei_followup",
+        "toNodeId": "j.mei_followup"
+      },
+      {
+        "id": "31e9f165-226e-4674-8483-8afa47d2f867",
+        "event": "DIALOGUE_CONTENT_PRESENTED",
+        "input": {
+          "lineId": "T03S.009"
+        },
+        "context": {
+          "activeCastNoor": true,
+          "activeCastRowan": true,
+          "activeCastMei": true,
+          "activeCastSam": false,
+          "sceneBindingsReady": true,
+          "presentedDialogueId": "T03S.009",
+          "dialogueDeliveryValidated": true
+        },
+        "fromNodeId": "j.mei_followup",
+        "toNodeId": "j.mei_followup"
+      },
+      {
+        "id": "24c66767-937b-417e-900c-8c01492e33ce",
+        "event": "DIALOGUE_CONTENT_PRESENTED",
+        "input": {
+          "lineId": "T03S.011"
+        },
+        "context": {
+          "activeCastNoor": true,
+          "activeCastRowan": true,
+          "activeCastMei": true,
+          "activeCastSam": false,
+          "sceneBindingsReady": true,
+          "presentedDialogueId": "T03S.011",
+          "dialogueDeliveryValidated": true
+        },
+        "fromNodeId": "j.mei_followup",
+        "toNodeId": "j.mei_followup"
+      },
+      {
+        "id": "80bc676b-764a-4ba9-88c2-b7962be26d1b",
+        "event": "MEI_INTERVIEW_RECORDED",
+        "input": {},
+        "context": {
+          "activeCastNoor": true,
+          "activeCastRowan": true,
+          "activeCastMei": true,
+          "activeCastSam": false,
+          "sceneBindingsReady": true
+        },
+        "fromNodeId": "j.mei_followup",
+        "toNodeId": "j.fieldwork"
+      },
+      {
+        "id": "6364071d-c58c-42a3-8952-09869dcd6b25",
+        "event": "MOVE_REQUESTED",
+        "input": {
+          "destination": "loc.bare_bed"
+        },
+        "context": {
+          "activeCastNoor": true,
+          "activeCastRowan": true,
+          "activeCastMei": true,
+          "activeCastSam": false,
+          "sceneBindingsReady": true
+        },
+        "fromNodeId": "j.fieldwork",
+        "toNodeId": "j.fieldwork"
+      }
+    ]
+  }
+}

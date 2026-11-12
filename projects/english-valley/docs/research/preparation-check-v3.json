@@ -1,0 +1,22 @@
+{
+  "date": "2026-11-06",
+  "status": "passed",
+  "scope": "JSON parsing, unique IDs, source/evidence/location references, closed-answer basis, local Markdown links, approval metadata",
+  "counts": {
+    "narrativeUnits": 15,
+    "languageItems": 36,
+    "languageSources": 15,
+    "environmentSources": 4,
+    "fictionalEvidenceRecords": 17,
+    "worldLocations": 8,
+    "localLinksChecked": 36
+  },
+  "notVerified": [
+    "teacher approval",
+    "classroom effectiveness",
+    "current school textbook edition",
+    "runtime 3D rendering",
+    "audio pronunciation",
+    "performance"
+  ]
+}

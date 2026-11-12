@@ -1,0 +1,326 @@
+{
+  "version": "2.0",
+  "status": "ready",
+  "voices": {
+    "NOOR": {
+      "name": "Puck",
+      "voiceId": "am_puck",
+      "language": "en-us",
+      "direction": "curious, youthful conversational"
+    },
+    "ROWAN": {
+      "name": "George",
+      "voiceId": "bm_george",
+      "language": "en-gb",
+      "direction": "clear, measured adult observer"
+    },
+    "MEI": {
+      "name": "Emma",
+      "voiceId": "bf_emma",
+      "language": "en-gb",
+      "direction": "warm, direct, reflective gardener"
+    },
+    "SAM": {
+      "name": "Michael",
+      "voiceId": "am_michael",
+      "language": "en-us",
+      "direction": "relaxed, lower adult workshop voice"
+    },
+    "NARR": {
+      "name": "Heart",
+      "voiceId": "af_heart",
+      "language": "en-us",
+      "direction": "gentle observational narrator"
+    }
+  },
+  "lines": {
+    "T03.014": {
+      "src": "/audio/voice/T03.014.wav",
+      "speaker": "NOOR",
+      "text": "Is this the same place as the photograph?",
+      "voiceId": "am_puck",
+      "duration": 2.112,
+      "origin": "project_original"
+    },
+    "T03S.001": {
+      "src": "/audio/voice/T03S.001.wav",
+      "speaker": "NOOR",
+      "text": "That bottle is gone. The water still looks brown.",
+      "voiceId": "am_puck",
+      "duration": 2.667,
+      "origin": "project_original"
+    },
+    "T03S.002": {
+      "src": "/audio/voice/T03S.002.wav",
+      "speaker": "ROWAN",
+      "text": "We changed one thing. Let's find out what else is happening.",
+      "voiceId": "bm_george",
+      "duration": 3.968,
+      "origin": "project_original"
+    },
+    "T03S.004": {
+      "src": "/audio/voice/T03S.004.wav",
+      "speaker": "ROWAN",
+      "text": "This photo was taken here before the rain. We can compare them.",
+      "voiceId": "bm_george",
+      "duration": 4.373,
+      "origin": "project_original"
+    },
+    "T03S.006": {
+      "src": "/audio/voice/T03S.006.wav",
+      "speaker": "ROWAN",
+      "text": "Not by itself. We need more information.",
+      "voiceId": "bm_george",
+      "duration": 3.051,
+      "origin": "project_original"
+    },
+    "T03S.007": {
+      "src": "/audio/voice/T03S.007.wav",
+      "speaker": "MEI",
+      "text": "We worked on that bed before the rain. I hadn't finished covering the soil.",
+      "voiceId": "bf_emma",
+      "duration": 4.096,
+      "origin": "project_original"
+    },
+    "T03S.009": {
+      "src": "/audio/voice/T03S.009.wav",
+      "speaker": "MEI",
+      "text": "I saw water in the channel afterwards. I didn't see the whole storm.",
+      "voiceId": "bf_emma",
+      "duration": 3.733,
+      "origin": "project_original"
+    },
+    "T03S.011": {
+      "src": "/audio/voice/T03S.011.wav",
+      "speaker": "MEI",
+      "text": "I'll show you where the channel begins.",
+      "voiceId": "bf_emma",
+      "duration": 1.963,
+      "origin": "project_original"
+    },
+    "T03S.012": {
+      "src": "/audio/voice/T03S.012.wav",
+      "speaker": "MEI",
+      "text": "I can tell you what I saw. I can't explain everything from this one place.",
+      "voiceId": "bf_emma",
+      "duration": 4.117,
+      "origin": "project_original"
+    },
+    "T03S.015": {
+      "src": "/audio/voice/T03S.015.wav",
+      "speaker": "SAM",
+      "text": "Show me where you plan to put it, and where the water flows.",
+      "voiceId": "am_michael",
+      "duration": 3.456,
+      "origin": "project_original"
+    },
+    "T03S.017": {
+      "src": "/audio/voice/T03S.017.wav",
+      "speaker": "MEI",
+      "text": "What will you keep the same when you compare the two runs?",
+      "voiceId": "bf_emma",
+      "duration": 2.624,
+      "origin": "project_original"
+    },
+    "T03S.019": {
+      "src": "/audio/voice/T03S.019.wav",
+      "speaker": "ROWAN",
+      "text": "This is a model result. Let's describe exactly what changed.",
+      "voiceId": "bm_george",
+      "duration": 4.267,
+      "origin": "project_original"
+    },
+    "T03S.022": {
+      "src": "/audio/voice/T03S.022.wav",
+      "speaker": "MEI",
+      "text": "All right. Show me where.",
+      "voiceId": "bf_emma",
+      "duration": 1.536,
+      "origin": "project_original"
+    },
+    "T03S.023": {
+      "src": "/audio/voice/T03S.023.wav",
+      "speaker": "NOOR",
+      "text": "Shall we say we've cleaned the whole stream?",
+      "voiceId": "am_puck",
+      "duration": 2.027,
+      "origin": "project_original"
+    },
+    "T03S.026": {
+      "src": "/audio/voice/T03S.026.wav",
+      "speaker": "ROWAN",
+      "text": "Choose a place we can find again. We'll keep the next record there.",
+      "voiceId": "bm_george",
+      "duration": 3.989,
+      "origin": "project_original"
+    },
+    "T03S.028": {
+      "src": "/audio/voice/T03S.028.wav",
+      "speaker": "MEI",
+      "text": "Start with something you can observe, and ask the people who care for it.",
+      "voiceId": "bf_emma",
+      "duration": 3.541,
+      "origin": "project_original"
+    },
+    "T03S.029": {
+      "src": "/audio/voice/T03S.029.wav",
+      "speaker": "NOOR",
+      "text": "There's a bottle between those stones. The water looks brown too.",
+      "voiceId": "am_puck",
+      "duration": 3.541,
+      "origin": "project_original"
+    },
+    "T03S.030": {
+      "src": "/audio/voice/T03S.030.wav",
+      "speaker": "ROWAN",
+      "text": "Let's look at the photograph first. We can remove the litter afterwards.",
+      "voiceId": "bm_george",
+      "duration": 4.245,
+      "origin": "project_original"
+    },
+    "T03S.031": {
+      "src": "/audio/voice/T03S.031.wav",
+      "speaker": "MEI",
+      "text": "Would you like to keep this as a proposal, or put the agreed change in place?",
+      "voiceId": "bf_emma",
+      "duration": 4.139,
+      "origin": "project_original"
+    },
+    "T03S.033": {
+      "src": "/audio/voice/T03S.033.wav",
+      "speaker": "SAM",
+      "text": "The materials are ready. Show me the position we agreed on.",
+      "voiceId": "am_michael",
+      "duration": 3.669,
+      "origin": "project_original"
+    },
+    "C1.A01": {
+      "src": "/audio/voice/C1.A01.wav",
+      "speaker": "NARR",
+      "text": "The water looks different here. Keep this view in mind when you return to the bridge.",
+      "voiceId": "af_heart",
+      "duration": 4.395,
+      "origin": "project_original_arrival"
+    },
+    "C1.A02": {
+      "src": "/audio/voice/C1.A02.wav",
+      "speaker": "NARR",
+      "text": "A shallow channel runs from the flower bed towards the stream. Follow it with your eyes.",
+      "voiceId": "af_heart",
+      "duration": 4.885,
+      "origin": "project_original_arrival"
+    },
+    "C1.A03": {
+      "src": "/audio/voice/C1.A03.wav",
+      "speaker": "NARR",
+      "text": "Mei was working here before the rain. What would you like to ask her?",
+      "voiceId": "af_heart",
+      "duration": 3.307,
+      "origin": "project_original_arrival"
+    },
+    "C1.A04": {
+      "src": "/audio/voice/C1.A04.wav",
+      "speaker": "NARR",
+      "text": "Take a closer look at the cover. Which part of the bed would you protect?",
+      "voiceId": "af_heart",
+      "duration": 3.669,
+      "origin": "project_original_arrival"
+    },
+    "C1.A05": {
+      "src": "/audio/voice/C1.A05.wav",
+      "speaker": "NARR",
+      "text": "Your notes are safe. There is still a question to come back to.",
+      "voiceId": "af_heart",
+      "duration": 3.413,
+      "origin": "project_original_arrival"
+    },
+    "C1.A06": {
+      "src": "/audio/voice/C1.A06.wav",
+      "speaker": "NARR",
+      "text": "Both trays start in the same way. Choose a position and watch what happens.",
+      "voiceId": "af_heart",
+      "duration": 4.245,
+      "origin": "project_original_arrival"
+    }
+  },
+  "music": {
+    "arrival": {
+      "src": "/audio/music/arrival.wav",
+      "gain": 0.7,
+      "ambience": "garden",
+      "origin": "project_original_composition",
+      "title": "The first path",
+      "tempoBpm": 76,
+      "instruments": "Felt piano, plucked strings and low bowed harmony"
+    },
+    "bridge": {
+      "src": "/audio/music/bridge.wav",
+      "gain": 0.7,
+      "ambience": "stream",
+      "origin": "project_original_composition",
+      "title": "A question in the water",
+      "tempoBpm": 62,
+      "instruments": "Sparse felt piano and suspended bowed chords"
+    },
+    "upper": {
+      "src": "/audio/music/upper.wav",
+      "gain": 0.7,
+      "ambience": "stream",
+      "origin": "project_original_composition",
+      "title": "Upstream air",
+      "tempoBpm": 84,
+      "instruments": "Breath-like flute, light plucked strings and wood accents"
+    },
+    "greenhouse": {
+      "src": "/audio/music/greenhouse.wav",
+      "gain": 0.7,
+      "ambience": "garden",
+      "origin": "project_original_composition",
+      "title": "Under glass",
+      "tempoBpm": 68,
+      "instruments": "Gentle guitar and close piano chords"
+    },
+    "model": {
+      "src": "/audio/music/model.wav",
+      "gain": 0.7,
+      "ambience": "garden",
+      "origin": "project_original_composition",
+      "title": "Small experiments",
+      "tempoBpm": 92,
+      "instruments": "Wooden mallets and a light plucked pulse"
+    },
+    "reflection": {
+      "src": "/audio/music/reflection.wav",
+      "gain": 0.7,
+      "ambience": "garden",
+      "origin": "project_original_composition",
+      "title": "A page left open",
+      "tempoBpm": 66,
+      "instruments": "Slow felt piano and warm sustained harmony"
+    },
+    "placement": {
+      "src": "/audio/music/model.wav",
+      "gain": 0.58,
+      "ambience": "garden",
+      "origin": "project_original_composition",
+      "title": "Careful hands",
+      "tempoBpm": 92,
+      "instruments": "Small experiments theme with a quieter mix"
+    }
+  },
+  "ambience": {
+    "garden": {
+      "src": "/audio/ambience/garden.wav",
+      "gain": 0.35,
+      "origin": "project_original_synthesis"
+    },
+    "stream": {
+      "src": "/audio/ambience/stream.wav",
+      "gain": 0.35,
+      "origin": "project_original_synthesis"
+    }
+  },
+  "provenance": "/audio/asset-provenance.json",
+  "engine": "offline_kokoro_onnx_stock_voices",
+  "preview": "/audio/voice-cast-preview.wav"
+}

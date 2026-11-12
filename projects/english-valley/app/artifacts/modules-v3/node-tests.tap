@@ -1,0 +1,310 @@
+TAP version 13
+# Subtest: a trusted unlock starts scene speech once and preserves visible order across rerenders
+ok 1 - a trusted unlock starts scene speech once and preserves visible order across rerenders
+  ---
+  duration_ms: 7.8172
+  type: 'test'
+  ...
+# Subtest: scene changes cancel the old line and its queue; replay works for an already delivered line
+ok 2 - scene changes cancel the old line and its queue; replay works for an already delivered line
+  ---
+  duration_ms: 1.877
+  type: 'test'
+  ...
+# Subtest: speech ducks music; independent voice mute retains the unfinished cue
+ok 3 - speech ducks music; independent voice mute retains the unfinished cue
+  ---
+  duration_ms: 2.3815
+  type: 'test'
+  ...
+# Subtest: autoplay refusal is visible and a later trusted unlock retries the same queued scene
+ok 4 - autoplay refusal is visible and a later trusted unlock retries the same queued scene
+  ---
+  duration_ms: 0.9435
+  type: 'test'
+  ...
+# Subtest: a missing recorded asset reports failure, remains retryable, and does not claim speech played
+ok 5 - a missing recorded asset reports failure, remains retryable, and does not claim speech played
+  ---
+  duration_ms: 1.152
+  type: 'test'
+  ...
+# Subtest: visibility suspension stops sound and resumes only the unfinished cue, without replaying a completed one
+ok 6 - visibility suspension stops sound and resumes only the unfinished cue, without replaying a completed one
+  ---
+  duration_ms: 1.0096
+  type: 'test'
+  ...
+# Subtest: a late audio download cannot resurrect speech after a scene change
+ok 7 - a late audio download cannot resurrect speech after a scene change
+  ---
+  duration_ms: 1.1274
+  type: 'test'
+  ...
+# Subtest: different scene beds replace one another, voice mute leaves music active, and master mute stops all beds
+ok 8 - different scene beds replace one another, voice mute leaves music active, and master mute stops all beds
+  ---
+  duration_ms: 0.798
+  type: 'test'
+  ...
+# Subtest: device fallback uses distinct English voices and does not count a queued utterance as spoken
+ok 9 - device fallback uses distinct English voices and does not count a queued utterance as spoken
+  ---
+  duration_ms: 2.5602
+  type: 'test'
+  ...
+# Subtest: a scene sharing a music file updates its label and gain without restarting the source
+ok 10 - a scene sharing a music file updates its label and gain without restarting the source
+  ---
+  duration_ms: 0.9963
+  type: 'test'
+  ...
+# Subtest: replaying the first line retains a queued or already speaking second line
+ok 11 - replaying the first line retains a queued or already speaking second line
+  ---
+  duration_ms: 1.2183
+  type: 'test'
+  ...
+# Subtest: one shared scene preserves installed objects across historical records and validates real placement zones
+ok 12 - one shared scene preserves installed objects across historical records and validates real placement zones
+  ---
+  duration_ms: 436.78
+  type: 'test'
+  ...
+# Subtest: entry rejects wrong-order trial and requires an explicit loader gate
+ok 13 - entry rejects wrong-order trial and requires an explicit loader gate
+  ---
+  duration_ms: 6.2392
+  type: 'test'
+  ...
+# Subtest: cleanup leaves water untouched and queues cast-gated global feedback
+ok 14 - cleanup leaves water untouched and queues cast-gated global feedback
+  ---
+  duration_ms: 3.584
+  type: 'test'
+  ...
+# Subtest: explicit question cues follow the committed intent without a second node entry
+ok 15 - explicit question cues follow the committed intent without a second node entry
+  ---
+  duration_ms: 0.844
+  type: 'test'
+  ...
+# Subtest: shared evidence keeps peer provenance and does not move the player
+ok 16 - shared evidence keeps peer provenance and does not move the player
+  ---
+  duration_ms: 0.8727
+  type: 'test'
+  ...
+# Subtest: moving fieldwork can pause but cannot record arrival or open an interview prematurely
+ok 17 - moving fieldwork can pause but cannot record arrival or open an interview prematurely
+  ---
+  duration_ms: 1.0776
+  type: 'test'
+  ...
+# Subtest: direct blame still reaches the whole transcript with separate persistent receipts
+ok 18 - direct blame still reaches the whole transcript with separate persistent receipts
+  ---
+  duration_ms: 3.07
+  type: 'test'
+  ...
+# Subtest: authored trials retain the same baseline and do not install cover or clear water
+ok 19 - authored trials retain the same baseline and do not install cover or clear water
+  ---
+  duration_ms: 3.6678
+  type: 'test'
+  ...
+# Subtest: cancelled and interrupted trials ignore late completions and preserve earlier trials
+ok 20 - cancelled and interrupted trials ignore late completions and preserve earlier trials
+  ---
+  duration_ms: 5.1446
+  type: 'test'
+  ...
+# Subtest: paused draft restores its transform and installation requires all geometry checks
+ok 21 - paused draft restores its transform and installation requires all geometry checks
+  ---
+  duration_ms: 8.044
+  type: 'test'
+  ...
+# Subtest: confirmed proposal without installation suppresses the undecided example
+ok 22 - confirmed proposal without installation suppresses the undecided example
+  ---
+  duration_ms: 2.0359
+  type: 'test'
+  ...
+# Subtest: saved work accepts blank slots but rejects invalid nested cards and unearned sources
+ok 23 - saved work accepts blank slots but rejects invalid nested cards and unearned sources
+  ---
+  duration_ms: 0.9275
+  type: 'test'
+  ...
+# Subtest: return requires arrival, with plans and optional receipts independent of finishing
+ok 24 - return requires arrival, with plans and optional receipts independent of finishing
+  ---
+  duration_ms: 0.8199
+  type: 'test'
+  ...
+# Subtest: unresolved exit and resume preserve a partial record and the safe anchor
+ok 25 - unresolved exit and resume preserve a partial record and the safe anchor
+  ---
+  duration_ms: 0.5284
+  type: 'test'
+  ...
+# Subtest: duplicate command returns its original result without publishing it over newer state
+ok 26 - duplicate command returns its original result without publishing it over newer state
+  ---
+  duration_ms: 1.3446
+  type: 'test'
+  ...
+# Subtest: failed storage write keeps the committed state and retries with the same command ID
+ok 27 - failed storage write keeps the committed state and retries with the same command ID
+  ---
+  duration_ms: 0.8868
+  type: 'test'
+  ...
+# Subtest: invalid save stays intact until explicit reset
+ok 28 - invalid save stays intact until explicit reset
+  ---
+  duration_ms: 0.5674
+  type: 'test'
+  ...
+# Subtest: stale store reloads the committed revision without replaying the action
+ok 29 - stale store reloads the committed revision without replaying the action
+  ---
+  duration_ms: 1.0976
+  type: 'test'
+  ...
+# Subtest: a stale retry of an already committed command returns the original result
+ok 30 - a stale retry of an already committed command returns the original result
+  ---
+  duration_ms: 0.7025
+  type: 'test'
+  ...
+# Subtest: interrupted trial stays recoverable when the recovery write fails
+ok 31 - interrupted trial stays recoverable when the recovery write fails
+  ---
+  duration_ms: 1.7354
+  type: 'test'
+  ...
+# Subtest: T01 subtitles and recorded manifest preserve all nineteen original NPC lines
+ok 32 - T01 subtitles and recorded manifest preserve all nineteen original NPC lines
+  ---
+  duration_ms: 1.6755
+  type: 'test'
+  ...
+# Subtest: T01 new role has an independent recording identity and every cue resolves
+ok 33 - T01 new role has an independent recording identity and every cue resolves
+  ---
+  duration_ms: 1.2729
+  type: 'test'
+  ...
+# Subtest: the same artwork moves to a real display stand without leaving a duplicate
+ok 34 - the same artwork moves to a real display stand without leaving a duplicate
+  ---
+  duration_ms: 37.3991
+  type: 'test'
+  ...
+# Subtest: inactive C1 world only shows committed display or stored work
+ok 35 - inactive C1 world only shows committed display or stored work
+  ---
+  duration_ms: 13.9834
+  type: 'test'
+  ...
+# Subtest: parts update in place and accents cannot float without a body
+ok 36 - parts update in place and accents cannot float without a body
+  ---
+  duration_ms: 17.619
+  type: 'test'
+  ...
+# Subtest: only a lightweight body on a pivot moves; static and tin choices stay fixed
+ok 37 - only a lightweight body on a pivot moves; static and tin choices stay fixed
+  ---
+  duration_ms: 14.2789
+  type: 'test'
+  ...
+# Subtest: workshop models have finite surfaces and fixed shared-world anchors
+ok 38 - workshop models have finite surfaces and fixed shared-world anchors
+  ---
+  duration_ms: 14.7323
+  type: 'test'
+  ...
+# Subtest: T01 saves a partial draft independently of the creek, restores paused, and keeps undo
+ok 39 - T01 saves a partial draft independently of the creek, restores paused, and keeps undo
+  ---
+  duration_ms: 3.1858
+  type: 'test'
+  ...
+# Subtest: T01 rejects incompatible joints and accents without altering the previous object
+ok 40 - T01 rejects incompatible joints and accents without altering the previous object
+  ---
+  duration_ms: 1.394
+  type: 'test'
+  ...
+# Subtest: T01 removing a body removes unsupported parts and undo restores the structure without starting it
+ok 41 - T01 removing a body removes unsupported parts and undo restores the structure without starting it
+  ---
+  duration_ms: 1.7027
+  type: 'test'
+  ...
+# Subtest: T01 permits an untitled display, preserves ask-first permission, and moves one original back to edit
+ok 42 - T01 permits an untitled display, preserves ask-first permission, and moves one original back to edit
+  ---
+  duration_ms: 0.9534
+  type: 'test'
+  ...
+# Subtest: T01 can keep unfinished pieces without forcing a title, explanation or display
+ok 43 - T01 can keep unfinished pieces without forcing a title, explanation or display
+  ---
+  duration_ms: 0.5157
+  type: 'test'
+  ...
+# Subtest: T01 a failed write publishes neither state nor undo changes and can be retried
+ok 44 - T01 a failed write publishes neither state nor undo changes and can be retried
+  ---
+  duration_ms: 0.7217
+  type: 'test'
+  ...
+# Subtest: T01 malformed or incompatible saved state is preserved until an explicit archived recovery
+ok 45 - T01 malformed or incompatible saved state is preserved until an explicit archived recovery
+  ---
+  duration_ms: 1.8898
+  type: 'test'
+  ...
+# Subtest: T01 recovery never destroys the original if archive or new-save writes fail
+ok 46 - T01 recovery never destroys the original if archive or new-save writes fail
+  ---
+  duration_ms: 0.3745
+  type: 'test'
+  ...
+# Subtest: T01 a temporarily unreadable save blocks edits and recovers by rereading without replacing it
+ok 47 - T01 a temporarily unreadable save blocks edits and recovers by rereading without replacing it
+  ---
+  duration_ms: 0.4531
+  type: 'test'
+  ...
+# Subtest: T01 rejects invalid input and static movement without silently rewriting student text
+ok 48 - T01 rejects invalid input and static movement without silently rewriting student text
+  ---
+  duration_ms: 0.7969
+  type: 'test'
+  ...
+# Subtest: T01 bounded undo ignores no-op changes and does not undo labels or later placement
+ok 49 - T01 bounded undo ignores no-op changes and does not undo labels or later placement
+  ---
+  duration_ms: 3.3046
+  type: 'test'
+  ...
+# Subtest: module registry keeps twelve real chapters and only makes implemented entries playable
+ok 50 - module registry keeps twelve real chapters and only makes implemented entries playable
+  ---
+  duration_ms: 0.2607
+  type: 'test'
+  ...
+1..50
+# tests 50
+# suites 0
+# pass 50
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 648.1693

@@ -1,0 +1,11 @@
+{
+  "date": "2026-11-07",
+  "episodeFiles": 12,
+  "embeddedEnvironmentalSequenceFiles": 1,
+  "uniqueReferencedDialogueIds": 342,
+  "structuredTableLines": 342,
+  "inlineBranchIds": 0,
+  "localLinkIssues": [],
+  "status": "passed_document_integrity",
+  "scope": "Document integrity only. No classroom, voice, model or runtime validation."
+}

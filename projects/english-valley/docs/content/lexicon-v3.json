@@ -1,0 +1,857 @@
+{
+  "schemaVersion": "3.0",
+  "title": "English Valley 原创词汇与语言行动支架",
+  "createdAt": "2026-11-06",
+  "audience": "人教版九年级英语学习者；教材页码、具体版本和教师学情复核待完成",
+  "status": "reviewable_content_draft",
+  "languagePolicy": {
+    "primaryWrittenVariety": "British English",
+    "acceptValidRegionalVariants": true,
+    "gradeIsNotCEFR": true,
+    "tierMeaning": "教学优先级，不是 CEFR 等级或教材必修清单",
+    "tierDefinitions": {
+      "core": "在主要互动中提供图片、释义和句框，优先能听懂／会用",
+      "context": "随任务解锁，供比较、记录和协商使用",
+      "stretch": "可选拓展，教师可替换为简短表达"
+    }
+  },
+  "caseMap": {
+    "C1": "雨后溪流浑浊：观察、比较、访谈、证据与暂定解释",
+    "C2": "修理与再用工坊：适合什么用途、检查、维修和维护",
+    "C3": "夜间灯光：道路使用、节能和自然环境之间的具体权衡"
+  },
+  "sourcePolicy": {
+    "sourceIdsSupport": "词义、词性、搭配或语法特征；不证明原创例句中的环境事实",
+    "examples": "全部为本项目原创虚构场景句，不是来源原句、实测数据或真实访谈",
+    "sourceTextCopied": false,
+    "thirdPartyRights": "外部网页版权与条款由原权利人保留；本文件不复制词典释义、例句、音频、练习或语料库",
+    "environmentalEvidence": "环境事实与机制由根项目 ENV01–ENV04 注册项独立审核；本文件不以语言来源替代环境来源"
+  },
+  "counts": {
+    "total": 36,
+    "lexicalSenseOrPattern": 16,
+    "languageScaffold": 20,
+    "core": 12,
+    "context": 12,
+    "stretch": 12
+  },
+  "sources": [
+    {
+      "id": "LANG01",
+      "title": "Cambridge Dictionary — evidence",
+      "publisher": "Cambridge University Press & Assessment",
+      "url": "https://dictionary.cambridge.org/dictionary/english/evidence",
+      "accessMode": "search_index_excerpt",
+      "directAccess": "canonical URL returned 403",
+      "consulted": "FACTS / American Dictionary sections in official search-index excerpt",
+      "supports": "证据义、不可数名词，以及 evidence that 从句；不支持由外观判定健康或因果。",
+      "consultedAt": "2026-11-06"
+    },
+    {
+      "id": "LANG02",
+      "title": "Cambridge Dictionary — litter",
+      "publisher": "Cambridge University Press & Assessment",
+      "url": "https://dictionary.cambridge.org/dictionary/english/litter",
+      "accessMode": "search_index_excerpt",
+      "directAccess": "canonical URL returned 403",
+      "consulted": "RUBBISH noun and intransitive verb senses in official search-index excerpt",
+      "supports": "公共场所散落废弃物义名词通常不可数；不及物动词表示乱扔垃圾。",
+      "consultedAt": "2026-11-06"
+    },
+    {
+      "id": "LANG03",
+      "title": "Cambridge Dictionary — rubbish",
+      "publisher": "Cambridge University Press & Assessment",
+      "url": "https://dictionary.cambridge.org/dictionary/english/rubbish",
+      "accessMode": "search_index_excerpt",
+      "directAccess": "canonical URL returned 403",
+      "consulted": "WASTE noun sense and UK/US usage labels in official search-index excerpt",
+      "supports": "废弃物义不可数；英式 rubbish 与美式 garbage/trash 变体，不将口语贬义用于人物评价。",
+      "consultedAt": "2026-11-06"
+    },
+    {
+      "id": "LANG04",
+      "title": "Cambridge Essential British Dictionary — waste",
+      "publisher": "Cambridge University Press & Assessment",
+      "url": "https://dictionary.cambridge.org/dictionary/essential-british-english/waste",
+      "accessMode": "search_index_excerpt",
+      "directAccess": "this Essential entry was not opened; the general /dictionary/english/waste URL returned 403",
+      "consulted": "noun unwanted-material sense and verb sense in official search-index excerpt",
+      "supports": "废弃物这一名词义无复数；动词指不合理或过量耗用；不把所有 waste 义项都标为不可数。",
+      "consultedAt": "2026-11-06"
+    },
+    {
+      "id": "LANG05",
+      "title": "Cambridge Dictionary — reuse",
+      "publisher": "Cambridge University Press & Assessment",
+      "url": "https://dictionary.cambridge.org/us/dictionary/english/reuse",
+      "accessMode": "search_index_excerpt",
+      "directAccess": "this /us/ URL was not opened; the /dictionary/english/reuse URL returned 403",
+      "consulted": "main verb, Intermediate reusable adjective and Business noun sections in official search-index excerpt",
+      "supports": "reuse 动词、reuse 不可数名词、reusable 形容词；词义本身不保证某物适合再次使用。",
+      "consultedAt": "2026-11-06"
+    },
+    {
+      "id": "LANG06",
+      "title": "Cambridge Dictionary — recycle",
+      "publisher": "Cambridge University Press & Assessment",
+      "url": "https://dictionary.cambridge.org/us/dictionary/english/recycle",
+      "accessMode": "search_index_excerpt",
+      "directAccess": "this /us/ URL was not opened; the /dictionary/english/recycle URL returned 403",
+      "consulted": "main verb senses in official search-index excerpt",
+      "supports": "回收后处理为可再利用材料的义项；词典也收录较宽泛的再次利用义，课件用语需按环保案例明确。",
+      "consultedAt": "2026-11-06"
+    },
+    {
+      "id": "LANG07",
+      "title": "Cambridge Dictionary — compare",
+      "publisher": "Cambridge University Press & Assessment",
+      "url": "https://dictionary.cambridge.org/us/dictionary/english/compare",
+      "accessMode": "search_index_excerpt",
+      "directAccess": "this /us/ URL was not opened; the /dictionary/english/compare URL returned 403",
+      "consulted": "EXAMINE DIFFERENCES sense and compare X with Y pattern in official search-index excerpt",
+      "supports": "比较、考察差异及 compare X with Y 搭配；不能将 compare to 一概判错。",
+      "consultedAt": "2026-11-06"
+    },
+    {
+      "id": "LANG08",
+      "title": "Cambridge Dictionary — claim",
+      "publisher": "Cambridge University Press & Assessment",
+      "url": "https://dictionary.cambridge.org/dictionary/english/claim",
+      "accessMode": "search_index_excerpt",
+      "directAccess": "canonical URL returned 403",
+      "consulted": "SAY verb, STATEMENT countable noun and that-clause patterns in official search-index excerpt",
+      "supports": "声称／主张义动词和可数名词；claim 不自动等于谎言，需判断证据。",
+      "consultedAt": "2026-11-06"
+    },
+    {
+      "id": "LANG09",
+      "title": "Cambridge English Grammar Today — Suggest",
+      "publisher": "Cambridge University Press & Assessment",
+      "url": "https://dictionary.cambridge.org/grammar/british-grammar/suggest",
+      "accessMode": "search_index_excerpt",
+      "directAccess": "indexed /us/ trailing-dot URL not opened; /grammar/british-grammar/suggest returned 403",
+      "consulted": "suggest + -ing, that-clause, wh-question word and typical errors in official search-index excerpt",
+      "supports": "建议的三种补足结构；避免 suggest somebody to do / suggest to do。",
+      "consultedAt": "2026-11-06"
+    },
+    {
+      "id": "LANG10",
+      "title": "British Council LearnEnglish — Modals: deductions about the present",
+      "publisher": "British Council",
+      "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/modals-deductions-about-present",
+      "accessMode": "full_article_text",
+      "directAccess": "opened successfully",
+      "consulted": "Grammar explanation, must / might / may / could / can't; page lines 22–49; not learner comments",
+      "supports": "情态动词表达推断的确信程度；might/could 不确定，must 表达说话者很有把握；不等于科学证明。",
+      "consultedAt": "2026-11-06"
+    },
+    {
+      "id": "LANG11",
+      "title": "British Council LearnEnglish — Passives",
+      "publisher": "British Council",
+      "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/passives",
+      "accessMode": "full_article_text",
+      "directAccess": "opened successfully",
+      "consulted": "Grammar explanation and tense table; page lines 22–57; not learner comments",
+      "supports": "be + 过去分词及一般现在、一般过去、一般将来被动；用于对象状态／处理记录。",
+      "consultedAt": "2026-11-06"
+    },
+    {
+      "id": "LANG12",
+      "title": "British Council LearnEnglish — Present perfect",
+      "publisher": "British Council",
+      "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/present-perfect",
+      "accessMode": "full_article_text",
+      "directAccess": "opened successfully; a different grammar-reference/present-perfect URL timed out and is not the registered source",
+      "consulted": "Grammar explanation, finished time and present result sections; page lines 23–71; not learner comments",
+      "supports": "have/has + 过去分词、already/yet，与明确结束的过去时间搭配一般过去时的区别。",
+      "consultedAt": "2026-11-06"
+    },
+    {
+      "id": "LANG13",
+      "title": "British Council LearnEnglish — Requests, offers and invitations",
+      "publisher": "British Council",
+      "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/requests-offers-invitations",
+      "accessMode": "full_article_text",
+      "directAccess": "opened successfully",
+      "consulted": "Requests and Offers and invitations; page lines 8–40; not learner comments",
+      "supports": "Could you…? 礼貌请求、Would you like to…? 邀请、Shall I…? 主动提供帮助。",
+      "consultedAt": "2026-11-06"
+    },
+    {
+      "id": "LANG14",
+      "title": "British Council LearnEnglish — Conditionals: zero, first and second",
+      "publisher": "British Council",
+      "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/conditionals-zero-first-second",
+      "accessMode": "full_article_text",
+      "directAccess": "opened successfully",
+      "consulted": "Grammar explanation, first and second conditional; page lines 22–67; not learner comments",
+      "supports": "真实可能未来条件与假想条件；本库不用条件句包装未经验证的生态必然结果。",
+      "consultedAt": "2026-11-06"
+    },
+    {
+      "id": "LANG15",
+      "title": "Cambridge English Grammar Today — Although or though?",
+      "publisher": "Cambridge University Press & Assessment",
+      "url": "https://dictionary.cambridge.org/us/grammar/british-grammar/although",
+      "accessMode": "search_index_excerpt",
+      "directAccess": "registered URL returned 403",
+      "consulted": "Although/though subordinate clauses, even though emphasis and punctuation in official search-index excerpt",
+      "supports": "although/even though 让步从句及完整主句；不叠加 although… but…。",
+      "consultedAt": "2026-11-06"
+    }
+  ],
+  "items": [
+    {
+      "id": "LEX01",
+      "tier": "core",
+      "headword": "evidence",
+      "pos": "noun",
+      "glossZh": "证据；依据（此义不可数）",
+      "exampleEn": "Our photographs provide evidence, but they do not tell the whole story.",
+      "caseId": "C1",
+      "sourceIds": [
+        "LANG01"
+      ],
+      "supportScope": "词义、不可数性",
+      "communicativeFunction": "证据判断",
+      "exampleOrigin": "original_project_example",
+      "sourceQuotation": false,
+      "exampleVerification": "editorial_review_against_cited_feature; not externally validated or classroom piloted",
+      "editorialNote": "图片是证据的一部分，不能单靠一张图片确定因果。"
+    },
+    {
+      "id": "LEX02",
+      "tier": "context",
+      "headword": "evidence that …",
+      "pos": "noun + that-clause",
+      "glossZh": "支持某一说法的证据",
+      "exampleEn": "Do we have evidence that the soil came from this area?",
+      "caseId": "C1",
+      "sourceIds": [
+        "LANG01"
+      ],
+      "supportScope": "evidence 后 that 从句结构",
+      "communicativeFunction": "追问依据",
+      "exampleOrigin": "original_project_example",
+      "sourceQuotation": false,
+      "exampleVerification": "editorial_review_against_cited_feature; not externally validated or classroom piloted",
+      "editorialNote": "用问题保留未决状态；evidence that… 不预先保证从句为真。"
+    },
+    {
+      "id": "LEX03",
+      "tier": "core",
+      "headword": "litter",
+      "pos": "noun",
+      "glossZh": "散落在公共场所的垃圾（不可数）",
+      "exampleEn": "We found litter beside the bridge.",
+      "caseId": "C1",
+      "sourceIds": [
+        "LANG02"
+      ],
+      "supportScope": "公共场所垃圾义、不可数性",
+      "communicativeFunction": "客观观察",
+      "exampleOrigin": "original_project_example",
+      "sourceQuotation": false,
+      "exampleVerification": "editorial_review_against_cited_feature; not externally validated or classroom piloted",
+      "editorialNote": "不要把看见 litter 直接写成水浑浊的原因。"
+    },
+    {
+      "id": "LEX04",
+      "tier": "context",
+      "headword": "litter",
+      "pos": "verb",
+      "glossZh": "乱扔垃圾",
+      "exampleEn": "Please do not litter along the path.",
+      "caseId": "C3",
+      "sourceIds": [
+        "LANG02"
+      ],
+      "supportScope": "不及物动词义",
+      "communicativeFunction": "公共倡议",
+      "exampleOrigin": "original_project_example",
+      "sourceQuotation": false,
+      "exampleVerification": "editorial_review_against_cited_feature; not externally validated or classroom piloted",
+      "editorialNote": "这里只使用不及物义，区别于 things litter a place 的及物义。"
+    },
+    {
+      "id": "LEX05",
+      "tier": "core",
+      "headword": "rubbish",
+      "pos": "noun",
+      "glossZh": "垃圾；废弃物（英式；不可数）",
+      "exampleEn": "What should we do with the rubbish from our workshop?",
+      "caseId": "C2",
+      "sourceIds": [
+        "LANG03"
+      ],
+      "supportScope": "废弃物义、不可数性、英式用语",
+      "communicativeFunction": "分类讨论",
+      "exampleOrigin": "original_project_example",
+      "sourceQuotation": false,
+      "exampleVerification": "editorial_review_against_cited_feature; not externally validated or classroom piloted",
+      "editorialNote": "合理语境中的 trash/garbage 也可接受；不把 rubbish 当作评价同伴的词。"
+    },
+    {
+      "id": "LEX06",
+      "tier": "core",
+      "headword": "waste",
+      "pos": "noun",
+      "glossZh": "废弃物（本例不可数）",
+      "exampleEn": "We sorted the waste after the repair task.",
+      "caseId": "C2",
+      "sourceIds": [
+        "LANG04"
+      ],
+      "supportScope": "不需要的材料这一名词义",
+      "communicativeFunction": "操作记录",
+      "exampleOrigin": "original_project_example",
+      "sourceQuotation": false,
+      "exampleVerification": "editorial_review_against_cited_feature; not externally validated or classroom piloted",
+      "editorialNote": "此条仅覆盖材料义，不宣称 waste 所有名词义都不可数。"
+    },
+    {
+      "id": "LEX07",
+      "tier": "core",
+      "headword": "waste",
+      "pos": "verb",
+      "glossZh": "浪费；不合理耗用",
+      "exampleEn": "Leaving lights on in an empty workshop can waste energy.",
+      "caseId": "C3",
+      "sourceIds": [
+        "LANG04"
+      ],
+      "supportScope": "动词耗用义",
+      "communicativeFunction": "解释选择",
+      "exampleOrigin": "original_project_example",
+      "sourceQuotation": false,
+      "exampleVerification": "editorial_review_against_cited_feature; not externally validated or classroom piloted",
+      "editorialNote": "例句限定空工坊，不能推出有人使用的道路也应全部关灯。"
+    },
+    {
+      "id": "LEX08",
+      "tier": "core",
+      "headword": "reuse",
+      "pos": "verb",
+      "glossZh": "再次使用",
+      "exampleEn": "We plan to reuse this box after checking its condition.",
+      "caseId": "C2",
+      "sourceIds": [
+        "LANG05"
+      ],
+      "supportScope": "及物动词词义",
+      "communicativeFunction": "拟订行动",
+      "exampleOrigin": "original_project_example",
+      "sourceQuotation": false,
+      "exampleVerification": "editorial_review_against_cited_feature; not externally validated or classroom piloted",
+      "editorialNote": "再用方案要经过用途和状态检查；词典不是物品安全认证。"
+    },
+    {
+      "id": "LEX09",
+      "tier": "context",
+      "headword": "reuse",
+      "pos": "noun",
+      "glossZh": "再次使用这一做法（不可数）",
+      "exampleEn": "Reuse is one option, but we must check whether the object fits the new job.",
+      "caseId": "C2",
+      "sourceIds": [
+        "LANG05"
+      ],
+      "supportScope": "名词词义、不可数性",
+      "communicativeFunction": "权衡用途",
+      "exampleOrigin": "original_project_example",
+      "sourceQuotation": false,
+      "exampleVerification": "editorial_review_against_cited_feature; not externally validated or classroom piloted",
+      "editorialNote": "与动词分条，音频录制时需区别词尾 /s/ 与 /z/。"
+    },
+    {
+      "id": "LEX10",
+      "tier": "core",
+      "headword": "reusable",
+      "pos": "adjective",
+      "glossZh": "可重复使用的",
+      "exampleEn": "This reusable bag is still in good condition.",
+      "caseId": "C2",
+      "sourceIds": [
+        "LANG05"
+      ],
+      "supportScope": "形容词词义",
+      "communicativeFunction": "检查状态",
+      "exampleOrigin": "original_project_example",
+      "sourceQuotation": false,
+      "exampleVerification": "editorial_review_against_cited_feature; not externally validated or classroom piloted",
+      "editorialNote": "reusable 不等于永远完好；例句为虚构场景检查记录。"
+    },
+    {
+      "id": "LEX11",
+      "tier": "core",
+      "headword": "recycle",
+      "pos": "verb",
+      "glossZh": "回收并加工再利用",
+      "exampleEn": "Check the local rules before you recycle this packaging.",
+      "caseId": "C2",
+      "sourceIds": [
+        "LANG06"
+      ],
+      "supportScope": "回收处理义",
+      "communicativeFunction": "现实迁移",
+      "exampleOrigin": "original_project_example",
+      "sourceQuotation": false,
+      "exampleVerification": "editorial_review_against_cited_feature; not externally validated or classroom piloted",
+      "editorialNote": "当地接收规则另查；不从词典推出所有包装都可回收。"
+    },
+    {
+      "id": "LEX12",
+      "tier": "core",
+      "headword": "compare",
+      "pos": "verb",
+      "glossZh": "比较；考察差异",
+      "exampleEn": "Let's compare the photographs from before and after the rain.",
+      "caseId": "C1",
+      "sourceIds": [
+        "LANG07"
+      ],
+      "supportScope": "比较义",
+      "communicativeFunction": "比较资料",
+      "exampleOrigin": "original_project_example",
+      "sourceQuotation": false,
+      "exampleVerification": "editorial_review_against_cited_feature; not externally validated or classroom piloted",
+      "editorialNote": "拍摄位置和时间需记录，比较结果不自动证明因果。"
+    },
+    {
+      "id": "LEX13",
+      "tier": "context",
+      "headword": "compare … with …",
+      "pos": "verb phrase",
+      "glossZh": "将……与……比较",
+      "exampleEn": "Compare the upstream photograph with the downstream one.",
+      "caseId": "C1",
+      "sourceIds": [
+        "LANG07"
+      ],
+      "supportScope": "compare X with Y 搭配",
+      "communicativeFunction": "上下游比较",
+      "exampleOrigin": "original_project_example",
+      "sourceQuotation": false,
+      "exampleVerification": "editorial_review_against_cited_feature; not externally validated or classroom piloted",
+      "editorialNote": "不得将 to 变体一概判错；来源仅核查搭配，不核查照片内容。"
+    },
+    {
+      "id": "LEX14",
+      "tier": "stretch",
+      "headword": "claim",
+      "pos": "noun",
+      "glossZh": "需要审视依据的主张；说法（可数）",
+      "exampleEn": "The claim needs evidence before we accept it.",
+      "caseId": "C1",
+      "sourceIds": [
+        "LANG08"
+      ],
+      "supportScope": "STATEMENT 名词义、可数性",
+      "communicativeFunction": "评价论证",
+      "exampleOrigin": "original_project_example",
+      "sourceQuotation": false,
+      "exampleVerification": "editorial_review_against_cited_feature; not externally validated or classroom piloted",
+      "editorialNote": "claim 不等于谎言；可用 idea/statement 作低门槛替代。"
+    },
+    {
+      "id": "LEX15",
+      "tier": "stretch",
+      "headword": "claim",
+      "pos": "verb",
+      "glossZh": "声称；主张",
+      "exampleEn": "The poster claims that every old object can be reused. Is that really true?",
+      "caseId": "C2",
+      "sourceIds": [
+        "LANG08"
+      ],
+      "supportScope": "SAY 动词义及 that 从句",
+      "communicativeFunction": "质疑绝对化宣传",
+      "exampleOrigin": "original_project_example",
+      "sourceQuotation": false,
+      "exampleVerification": "editorial_review_against_cited_feature; not externally validated or classroom piloted",
+      "editorialNote": "首句刻意呈现待质疑的虚构广告，不是教学结论。"
+    },
+    {
+      "id": "LEX16",
+      "tier": "stretch",
+      "headword": "claim that …",
+      "pos": "verb + that-clause",
+      "glossZh": "声称……",
+      "exampleEn": "We should not claim that the stream is healthy just because the water looks clear.",
+      "caseId": "C1",
+      "sourceIds": [
+        "LANG08"
+      ],
+      "supportScope": "claim that 从句结构",
+      "communicativeFunction": "控制结论强度",
+      "exampleOrigin": "original_project_example",
+      "sourceQuotation": false,
+      "exampleVerification": "editorial_review_against_cited_feature; not externally validated or classroom piloted",
+      "editorialNote": "语法来源不证明水质；该句要求避免仅凭外观下结论。"
+    },
+    {
+      "id": "LEX17",
+      "tier": "core",
+      "headword": "might + base verb",
+      "pos": "language scaffold",
+      "glossZh": "可能……（保留不确定性）",
+      "exampleEn": "The cloudy water might contain soil from the planting area.",
+      "caseId": "C1",
+      "sourceIds": [
+        "LANG10"
+      ],
+      "supportScope": "might 表示不确定推断；后接原形",
+      "communicativeFunction": "提出假设",
+      "exampleOrigin": "original_project_example",
+      "sourceQuotation": false,
+      "exampleVerification": "editorial_review_against_cited_feature; not externally validated or classroom piloted",
+      "editorialNote": "来源支持情态表达，不证明土壤来源；必须继续比较和访谈。"
+    },
+    {
+      "id": "LEX18",
+      "tier": "context",
+      "headword": "could + base verb",
+      "pos": "language scaffold",
+      "glossZh": "可能……（待核实）",
+      "exampleEn": "The light could be too bright for this quiet corner.",
+      "caseId": "C3",
+      "sourceIds": [
+        "LANG10"
+      ],
+      "supportScope": "could 表示不确定推断；后接原形",
+      "communicativeFunction": "提出备选解释",
+      "exampleOrigin": "original_project_example",
+      "sourceQuotation": false,
+      "exampleVerification": "editorial_review_against_cited_feature; not externally validated or classroom piloted",
+      "editorialNote": "此处不是过去能力；亮度判断仍要结合场景和使用需求。"
+    },
+    {
+      "id": "LEX19",
+      "tier": "stretch",
+      "headword": "must + base verb",
+      "pos": "language scaffold",
+      "glossZh": "一定／想必……（很有把握的推断）",
+      "exampleEn": "Someone must be inside the workshop: I can hear a person speaking.",
+      "caseId": "C2",
+      "sourceIds": [
+        "LANG10"
+      ],
+      "supportScope": "must 表达说话者高确信度的推断",
+      "communicativeFunction": "区分确信程度",
+      "exampleOrigin": "original_project_example",
+      "sourceQuotation": false,
+      "exampleVerification": "editorial_review_against_cited_feature; not externally validated or classroom piloted",
+      "editorialNote": "这是日常推断示例，不是环境因果证明；不能把 must 推断与义务混为一谈。"
+    },
+    {
+      "id": "LEX20",
+      "tier": "context",
+      "headword": "suggest + -ing",
+      "pos": "language scaffold",
+      "glossZh": "建议做……",
+      "exampleEn": "I suggest checking the base before we use this box.",
+      "caseId": "C2",
+      "sourceIds": [
+        "LANG09"
+      ],
+      "supportScope": "suggest + -ing 补足结构",
+      "communicativeFunction": "提出可执行建议",
+      "exampleOrigin": "original_project_example",
+      "sourceQuotation": false,
+      "exampleVerification": "editorial_review_against_cited_feature; not externally validated or classroom piloted",
+      "editorialNote": "避免 suggest to check；检查不等于所有损坏都能修复。"
+    },
+    {
+      "id": "LEX21",
+      "tier": "stretch",
+      "headword": "suggest that + clause",
+      "pos": "language scaffold",
+      "glossZh": "建议……",
+      "exampleEn": "I suggest that we ask path users before changing the lighting plan.",
+      "caseId": "C3",
+      "sourceIds": [
+        "LANG09"
+      ],
+      "supportScope": "suggest + that 从句",
+      "communicativeFunction": "协商方案",
+      "exampleOrigin": "original_project_example",
+      "sourceQuotation": false,
+      "exampleVerification": "editorial_review_against_cited_feature; not externally validated or classroom piloted",
+      "editorialNote": "从句使用 we ask；不教 suggest someone to do。"
+    },
+    {
+      "id": "LEX22",
+      "tier": "stretch",
+      "headword": "suggest + wh-clause",
+      "pos": "language scaffold",
+      "glossZh": "建议在何处／如何……",
+      "exampleEn": "Could you suggest where we might place the new sign?",
+      "caseId": "C2",
+      "sourceIds": [
+        "LANG09",
+        "LANG13"
+      ],
+      "supportScope": "suggest + wh 从句；Could you 礼貌请求",
+      "communicativeFunction": "开放式追问",
+      "exampleOrigin": "original_project_example",
+      "sourceQuotation": false,
+      "exampleVerification": "editorial_review_against_cited_feature; not externally validated or classroom piloted",
+      "editorialNote": "where 从句使用陈述语序；提案仍由学生讨论。"
+    },
+    {
+      "id": "LEX23",
+      "tier": "context",
+      "headword": "is/are + past participle",
+      "pos": "language scaffold",
+      "glossZh": "……被……（现在的流程或状态）",
+      "exampleEn": "Each repaired item is checked before it is used again.",
+      "caseId": "C2",
+      "sourceIds": [
+        "LANG11"
+      ],
+      "supportScope": "一般现在时被动结构",
+      "communicativeFunction": "说明检查流程",
+      "exampleOrigin": "original_project_example",
+      "sourceQuotation": false,
+      "exampleVerification": "editorial_review_against_cited_feature; not externally validated or classroom piloted",
+      "editorialNote": "此句定义模拟工坊流程，不能代替真实维修专业检查。"
+    },
+    {
+      "id": "LEX24",
+      "tier": "context",
+      "headword": "was/were + past participle",
+      "pos": "language scaffold",
+      "glossZh": "……被……了（已结束的过去）",
+      "exampleEn": "The bridge light was adjusted yesterday.",
+      "caseId": "C3",
+      "sourceIds": [
+        "LANG11"
+      ],
+      "supportScope": "一般过去时被动结构",
+      "communicativeFunction": "记录已做操作",
+      "exampleOrigin": "original_project_example",
+      "sourceQuotation": false,
+      "exampleVerification": "editorial_review_against_cited_feature; not externally validated or classroom piloted",
+      "editorialNote": "模拟日志须确有此操作；不能用现在完成时配 yesterday。"
+    },
+    {
+      "id": "LEX25",
+      "tier": "stretch",
+      "headword": "will be + past participle",
+      "pos": "language scaffold",
+      "glossZh": "……将被……",
+      "exampleEn": "The sign will be checked again next week.",
+      "caseId": "C2",
+      "sourceIds": [
+        "LANG11"
+      ],
+      "supportScope": "一般将来时被动结构",
+      "communicativeFunction": "安排后续维护",
+      "exampleOrigin": "original_project_example",
+      "sourceQuotation": false,
+      "exampleVerification": "editorial_review_against_cited_feature; not externally validated or classroom piloted",
+      "editorialNote": "需在计划板写责任人和检查时间，不把计划当成完成。"
+    },
+    {
+      "id": "LEX26",
+      "tier": "context",
+      "headword": "have/has already + past participle",
+      "pos": "language scaffold",
+      "glossZh": "已经……（与当前任务有关）",
+      "exampleEn": "We have already compared the two photographs.",
+      "caseId": "C1",
+      "sourceIds": [
+        "LANG12"
+      ],
+      "supportScope": "现在完成时及 already",
+      "communicativeFunction": "汇报进度",
+      "exampleOrigin": "original_project_example",
+      "sourceQuotation": false,
+      "exampleVerification": "editorial_review_against_cited_feature; not externally validated or classroom piloted",
+      "editorialNote": "用在已完成且当前仍相关的比较任务，不加明确结束时间。"
+    },
+    {
+      "id": "LEX27",
+      "tier": "context",
+      "headword": "past simple + finished time",
+      "pos": "language scaffold",
+      "glossZh": "在明确过去时间做了……",
+      "exampleEn": "We visited the planting area yesterday.",
+      "caseId": "C1",
+      "sourceIds": [
+        "LANG12"
+      ],
+      "supportScope": "明确结束时间与一般过去时",
+      "communicativeFunction": "复述访查",
+      "exampleOrigin": "original_project_example",
+      "sourceQuotation": false,
+      "exampleVerification": "editorial_review_against_cited_feature; not externally validated or classroom piloted",
+      "editorialNote": "来源支持时态选择；具体经历是原创虚构任务日志。"
+    },
+    {
+      "id": "LEX28",
+      "tier": "context",
+      "headword": "have/has not + past participle + yet",
+      "pos": "language scaffold",
+      "glossZh": "还没有……",
+      "exampleEn": "We have not checked the handle yet.",
+      "caseId": "C2",
+      "sourceIds": [
+        "LANG12"
+      ],
+      "supportScope": "现在完成时否定及 yet",
+      "communicativeFunction": "指出信息缺口",
+      "exampleOrigin": "original_project_example",
+      "sourceQuotation": false,
+      "exampleVerification": "editorial_review_against_cited_feature; not externally validated or classroom piloted",
+      "editorialNote": "鼓励承认尚未检查，避免为了通关假报完成。"
+    },
+    {
+      "id": "LEX29",
+      "tier": "core",
+      "headword": "Could you + base verb …?",
+      "pos": "language scaffold",
+      "glossZh": "能请您……吗？",
+      "exampleEn": "Could you explain what happened before the rain, please?",
+      "caseId": "C1",
+      "sourceIds": [
+        "LANG13"
+      ],
+      "supportScope": "Could you + 原形的礼貌请求",
+      "communicativeFunction": "访谈追问",
+      "exampleOrigin": "original_project_example",
+      "sourceQuotation": false,
+      "exampleVerification": "editorial_review_against_cited_feature; not externally validated or classroom piloted",
+      "editorialNote": "这里只声称来源核验请求框架，完整访谈句由项目原创。"
+    },
+    {
+      "id": "LEX30",
+      "tier": "core",
+      "headword": "Would you like to + base verb …?",
+      "pos": "language scaffold",
+      "glossZh": "您愿意……吗？",
+      "exampleEn": "Would you like to join our evening path check?",
+      "caseId": "C3",
+      "sourceIds": [
+        "LANG13"
+      ],
+      "supportScope": "Would you like to 邀请结构",
+      "communicativeFunction": "发出行动邀请",
+      "exampleOrigin": "original_project_example",
+      "sourceQuotation": false,
+      "exampleVerification": "editorial_review_against_cited_feature; not externally validated or classroom piloted",
+      "editorialNote": "邀请保留对方选择，不以强制口号替代沟通。"
+    },
+    {
+      "id": "LEX31",
+      "tier": "stretch",
+      "headword": "Shall I + base verb …?",
+      "pos": "language scaffold",
+      "glossZh": "要我来……吗？",
+      "exampleEn": "Shall I record your idea on the planning board?",
+      "caseId": "C2",
+      "sourceIds": [
+        "LANG13"
+      ],
+      "supportScope": "Shall I 主动提供帮助",
+      "communicativeFunction": "合作分工",
+      "exampleOrigin": "original_project_example",
+      "sourceQuotation": false,
+      "exampleVerification": "editorial_review_against_cited_feature; not externally validated or classroom piloted",
+      "editorialNote": "此条为 offer，不等于命令；接受符合语境的其他自然表达。"
+    },
+    {
+      "id": "LEX32",
+      "tier": "context",
+      "headword": "if + present, will + base verb",
+      "pos": "language scaffold",
+      "glossZh": "如果发生……，我们将……",
+      "exampleEn": "If it rains tomorrow, we will compare the two locations again.",
+      "caseId": "C1",
+      "sourceIds": [
+        "LANG14"
+      ],
+      "supportScope": "第一条件句：真实可能的未来",
+      "communicativeFunction": "条件计划",
+      "exampleOrigin": "original_project_example",
+      "sourceQuotation": false,
+      "exampleVerification": "editorial_review_against_cited_feature; not externally validated or classroom piloted",
+      "editorialNote": "只承诺再次观察，不承诺一项措施后水体必然恢复。"
+    },
+    {
+      "id": "LEX33",
+      "tier": "stretch",
+      "headword": "if + past, would + base verb",
+      "pos": "language scaffold",
+      "glossZh": "假如……，我们就会……",
+      "exampleEn": "If we had more time, we would test another lighting plan.",
+      "caseId": "C3",
+      "sourceIds": [
+        "LANG14"
+      ],
+      "supportScope": "第二条件句：假想条件",
+      "communicativeFunction": "反思资源约束",
+      "exampleOrigin": "original_project_example",
+      "sourceQuotation": false,
+      "exampleVerification": "editorial_review_against_cited_feature; not externally validated or classroom piloted",
+      "editorialNote": "作为可选拓展；had 在此表达假想，不是在叙述过去拥有时间。"
+    },
+    {
+      "id": "LEX34",
+      "tier": "stretch",
+      "headword": "although + clause, main clause",
+      "pos": "language scaffold",
+      "glossZh": "虽然……，但是……（英语不用双连词）",
+      "exampleEn": "Although this path is quiet, some people still use it at night.",
+      "caseId": "C3",
+      "sourceIds": [
+        "LANG15"
+      ],
+      "supportScope": "although 让步从句及主从句连接",
+      "communicativeFunction": "权衡使用者需求",
+      "exampleOrigin": "original_project_example",
+      "sourceQuotation": false,
+      "exampleVerification": "editorial_review_against_cited_feature; not externally validated or classroom piloted",
+      "editorialNote": "英文主句不再加 but；安静不等于无人使用。"
+    },
+    {
+      "id": "LEX35",
+      "tier": "stretch",
+      "headword": "even though + clause, main clause",
+      "pos": "language scaffold",
+      "glossZh": "尽管……，仍然……（强调已知事实）",
+      "exampleEn": "Even though the box looks strong, we still need to check its base.",
+      "caseId": "C2",
+      "sourceIds": [
+        "LANG15"
+      ],
+      "supportScope": "even though 强调已承认事实的让步",
+      "communicativeFunction": "外观与检查的权衡",
+      "exampleOrigin": "original_project_example",
+      "sourceQuotation": false,
+      "exampleVerification": "editorial_review_against_cited_feature; not externally validated or classroom piloted",
+      "editorialNote": "此处是已观察到的外观，不与假设条件 even if 混同。"
+    },
+    {
+      "id": "LEX36",
+      "tier": "stretch",
+      "headword": "At first …, but I have now …",
+      "pos": "language scaffold",
+      "glossZh": "起初……，但现在我已……（修正看法）",
+      "exampleEn": "At first, I blamed the bottles, but I have now changed my view.",
+      "caseId": "C1",
+      "sourceIds": [
+        "LANG12"
+      ],
+      "supportScope": "已结束的过去看法与当前相关的现在完成时；整句衔接为原创",
+      "communicativeFunction": "反思修正",
+      "exampleOrigin": "original_project_example",
+      "sourceQuotation": false,
+      "exampleVerification": "editorial_review_against_cited_feature; not externally validated or classroom piloted",
+      "editorialNote": "不把承认错误扣成失败；来源仅支持时态对照，不将自写框架冒充来源原句。"
+    }
+  ]
+}
+

@@ -1,0 +1,20 @@
+{
+ "version":"scene-images-2",
+ "material-cover-v2.png":{
+  "kind":"generated_material_illustration",
+  "purpose":"Inspect the tan plant-fibre cover and weighting stones before field placement",
+  "generator":"OpenAI imagegen",
+  "generationFile":"exec-460ee08d-8ae0-431d-802f-11341ac4d41f.png",
+  "generatedAt":"2026-11-08",
+  "isObservationEvidence":false,
+  "displayLabel":"Material illustration · not an observation",
+  "worldObjects":["obj.runoff.cover"],
+  "limits":"Illustrative still life; not a photograph taken in the valley or proof of an environmental result. No source record ID is awarded."
+ },
+ "scenePreviews":{
+  "kind":"runtime_same_scene_captures",
+  "cameras":["bridge_before","bridge_now","upper","path"],
+  "purpose":"Task-linked thumbnails and images on in-world field boards",
+  "limits":"Previewing a thumbnail does not mark an observation complete. Persisted evidence retains its original capture."
+ }
+}

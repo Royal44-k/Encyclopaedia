@@ -1,0 +1,88 @@
+{
+  "schemaVersion": "4.0",
+  "date": "2026-11-06",
+  "extends": "environment-source-register-v3.json",
+  "sourceIdPolicy": "ENV01-04沿用v3；ENV05-12为本轮新增，共12项环境来源。",
+  "sources": [
+    {
+      "id": "ENV05",
+      "title": "RHS — Greenhouse: ventilation and shading",
+      "url": "https://www.rhs.org.uk/garden-features/ventilation-and-shading-greenhouses",
+      "supports": "通风交换空气，遮阴减少入射光；措施依天气、植物与通风条件而变。",
+      "limits": "无所有植物通用温度或降温保证。",
+      "access": "official_html_relevant_sections_read",
+      "details": "../research/environment-expansion-v4.md",
+      "consultedAt": "2026-11-06"
+    },
+    {
+      "id": "ENV06",
+      "title": "RHS — Watering",
+      "url": "https://www.rhs.org.uk/garden-jobs/watering",
+      "supports": "依据天气、土壤、植株大小与阶段判断需水。",
+      "limits": "不由叶片下垂或土色单独确诊，不设通用浇水配方。",
+      "access": "official_html_relevant_sections_read",
+      "details": "../research/environment-expansion-v4.md",
+      "consultedAt": "2026-11-06"
+    },
+    {
+      "id": "ENV07",
+      "title": "Xerces Society — Grow Pollinator-Friendly Flowers",
+      "url": "https://www.xerces.org/bring-back-the-pollinators/grow-pollinator-friendly-flowers",
+      "supports": "合适且不同花期的植物可延长花资源供给时段。",
+      "limits": "不直接移植北美植物清单，不保证访花或授粉成效。",
+      "access": "official_html_relevant_sections_read",
+      "details": "../research/environment-expansion-v4.md",
+      "consultedAt": "2026-11-06"
+    },
+    {
+      "id": "ENV08",
+      "title": "US EPA — Preventing Wasted Food At Home",
+      "url": "https://www.epa.gov/recycle/preventing-wasted-food-home",
+      "supports": "按库存、人数与计划准备，减少重复购买和过量准备。",
+      "limits": "不据此判定食物安全、执行剩食捐赠或推算本班效果。",
+      "access": "official_html_relevant_sections_read",
+      "details": "../research/environment-expansion-v4.md",
+      "consultedAt": "2026-11-06"
+    },
+    {
+      "id": "ENV09",
+      "title": "US Access Board — Chapter 10: Outdoor Developed Areas",
+      "url": "https://www.access-board.gov/aba/guides/chapter-10-outdoor/",
+      "supports": "路线表面、障碍、坡度、转向与休息空间是可观察因素。",
+      "limits": "特定美国联邦设施指南，不是中国场地标准或项目认证。",
+      "access": "official_html_relevant_sections_read",
+      "details": "../research/environment-expansion-v4.md",
+      "consultedAt": "2026-11-06"
+    },
+    {
+      "id": "ENV10",
+      "title": "US NPS — Enhance Your Soundscape",
+      "url": "https://www.nps.gov/subjects/sound/enhance.htm",
+      "supports": "记录声音来源、关注其他使用者、适当降低交谈音量。",
+      "limits": "不是分贝限值，听不到不代表不存在，未试听任何来源音频。",
+      "access": "official_html_relevant_sections_read",
+      "details": "../research/environment-expansion-v4.md",
+      "consultedAt": "2026-11-06"
+    },
+    {
+      "id": "ENV11",
+      "title": "US EPA WaterSense — Leak Detection and Flow Monitoring Devices",
+      "url": "https://www.epa.gov/watersense/leak-detection-and-flow-monitoring-devices",
+      "supports": "异常湿润与用水模式可作为需核查的漏水线索。",
+      "limits": "不凭湿斑定位漏点，不构成维修指引或节水量保证。",
+      "access": "official_html_relevant_sections_read",
+      "details": "../research/environment-expansion-v4.md",
+      "consultedAt": "2026-11-06"
+    },
+    {
+      "id": "ENV12",
+      "title": "UKPoMS — FIT Counts",
+      "url": "https://ukpoms.org.uk/node/23",
+      "supports": "原协议指定花块、十分钟及花量天气记录，有未知分类。",
+      "limits": "短版模拟不冒称正式调查，英国条件不直接移植，不上传虚构数据。",
+      "access": "official_html_relevant_sections_read",
+      "details": "../research/environment-expansion-v4.md",
+      "consultedAt": "2026-11-06"
+    }
+  ]
+}

@@ -1,0 +1,395 @@
+{
+  "passed": true,
+  "build": "/assets/index-Bo-zs6P9.js",
+  "checks": [
+    {
+      "name": "automatic entry and old preference migration",
+      "passed": true,
+      "first": "/audio/voice/T03S.029.wav",
+      "second": "/audio/voice/T03S.030.wav"
+    },
+    {
+      "name": "settings rerender does not replay; keyboard focus restored",
+      "passed": true
+    },
+    {
+      "name": "manual replay and master mute/unmute affect actual audio",
+      "passed": true
+    },
+    {
+      "name": "speech and music controls remain independent",
+      "passed": true
+    },
+    {
+      "name": "five distinct recorded voice identities and changing scene music",
+      "passed": true,
+      "roles": [
+        "NOOR",
+        "ROWAN",
+        "MEI",
+        "SAM",
+        "NARR"
+      ],
+      "musicKeys": [
+        "bridge",
+        "upper",
+        "greenhouse",
+        "model",
+        "placement"
+      ]
+    },
+    {
+      "name": "saved scene automatically speaks after pause",
+      "passed": true
+    },
+    {
+      "name": "mobile master sound control remains available",
+      "passed": true
+    },
+    {
+      "name": "new visit returns to arrival music",
+      "passed": true
+    }
+  ],
+  "errors": [],
+  "voices": {
+    "NOOR": {
+      "name": "Puck",
+      "voiceId": "am_puck",
+      "language": "en-us",
+      "direction": "curious, youthful conversational"
+    },
+    "ROWAN": {
+      "name": "George",
+      "voiceId": "bm_george",
+      "language": "en-gb",
+      "direction": "clear, measured adult observer"
+    },
+    "MEI": {
+      "name": "Emma",
+      "voiceId": "bf_emma",
+      "language": "en-gb",
+      "direction": "warm, direct, reflective gardener"
+    },
+    "SAM": {
+      "name": "Michael",
+      "voiceId": "am_michael",
+      "language": "en-us",
+      "direction": "relaxed, lower adult workshop voice"
+    },
+    "NARR": {
+      "name": "Heart",
+      "voiceId": "af_heart",
+      "language": "en-us",
+      "direction": "gentle observational narrator"
+    }
+  },
+  "audioSources": [
+    {
+      "src": "/audio/voice/T03S.029.wav",
+      "startedAt": 0.08,
+      "stoppedAt": null,
+      "endedAt": 3.6213333333333333,
+      "peak": 0.7875926494598389,
+      "loop": false,
+      "duration": 3.541333333333333
+    },
+    {
+      "src": "/audio/ambience/stream.wav",
+      "startedAt": 0.21066666666666667,
+      "stoppedAt": 8.352,
+      "endedAt": 8.36,
+      "peak": 0.5011630654335022,
+      "loop": true,
+      "duration": 24
+    },
+    {
+      "src": "/audio/music/bridge.wav",
+      "startedAt": 0.25066666666666665,
+      "stoppedAt": 8.352,
+      "endedAt": 8.36,
+      "peak": 0.638497531414032,
+      "loop": true,
+      "duration": 30.96775
+    },
+    {
+      "src": "/audio/voice/T03S.030.wav",
+      "startedAt": 3.6613333333333333,
+      "stoppedAt": null,
+      "endedAt": 7.912,
+      "peak": 0.7800154685974121,
+      "loop": false,
+      "duration": 4.245333333333333
+    },
+    {
+      "src": "/audio/voice/T03S.029.wav",
+      "startedAt": 8.250666666666667,
+      "stoppedAt": 8.352,
+      "endedAt": 8.36,
+      "peak": 0.2997487187385559,
+      "loop": false,
+      "duration": 3.541333333333333
+    },
+    {
+      "src": "/audio/voice/T03S.029.wav",
+      "startedAt": 8.68,
+      "stoppedAt": 8.821333333333333,
+      "endedAt": 8.84,
+      "peak": 0.2997487187385559,
+      "loop": false,
+      "duration": 3.541333333333333
+    },
+    {
+      "src": "/audio/music/bridge.wav",
+      "startedAt": 8.68,
+      "stoppedAt": 8.912,
+      "endedAt": 8.930666666666667,
+      "peak": 0.23260894417762756,
+      "loop": true,
+      "duration": 30.96775
+    },
+    {
+      "src": "/audio/ambience/stream.wav",
+      "startedAt": 8.68,
+      "stoppedAt": 11.701333333333332,
+      "endedAt": 11.704,
+      "peak": 0.5011630654335022,
+      "loop": true,
+      "duration": 24
+    },
+    {
+      "src": "/audio/voice/T03S.029.wav",
+      "startedAt": 8.981333333333334,
+      "stoppedAt": 9.36,
+      "endedAt": 9.392,
+      "peak": 0.7875926494598389,
+      "loop": false,
+      "duration": 3.541333333333333
+    },
+    {
+      "src": "/audio/music/bridge.wav",
+      "startedAt": 9.072,
+      "stoppedAt": 11.44,
+      "endedAt": 11.450666666666667,
+      "peak": 0.638497531414032,
+      "loop": true,
+      "duration": 30.96775
+    },
+    {
+      "src": "/audio/voice/T03.014.wav",
+      "startedAt": 9.4,
+      "stoppedAt": 9.432,
+      "endedAt": 9.450666666666667,
+      "peak": 0.024512287229299545,
+      "loop": false,
+      "duration": 2.112
+    },
+    {
+      "src": "/audio/voice/C1.A01.wav",
+      "startedAt": 9.552,
+      "stoppedAt": 9.901333333333334,
+      "endedAt": 9.941333333333333,
+      "peak": 0.7161844968795776,
+      "loop": false,
+      "duration": 4.394666666666667
+    },
+    {
+      "src": "/audio/music/upper.wav",
+      "startedAt": 9.672,
+      "stoppedAt": 11.84,
+      "endedAt": 11.850666666666667,
+      "peak": 0.5328269004821777,
+      "loop": true,
+      "duration": 22.857145833333334
+    },
+    {
+      "src": "/audio/ambience/garden.wav",
+      "startedAt": 9.92,
+      "stoppedAt": 13.261333333333333,
+      "endedAt": 13.272,
+      "peak": 0.43479299545288086,
+      "loop": true,
+      "duration": 24
+    },
+    {
+      "src": "/audio/voice/C1.A02.wav",
+      "startedAt": 9.981333333333334,
+      "stoppedAt": 10.232,
+      "endedAt": 10.272,
+      "peak": 0.5640445351600647,
+      "loop": false,
+      "duration": 4.8853333333333335
+    },
+    {
+      "src": "/audio/music/model.wav",
+      "startedAt": 10.050666666666666,
+      "stoppedAt": 12.24,
+      "endedAt": 12.24,
+      "peak": 0.44821810722351074,
+      "loop": true,
+      "duration": 20.8695625
+    },
+    {
+      "src": "/audio/voice/C1.A03.wav",
+      "startedAt": 10.312,
+      "stoppedAt": 10.341333333333333,
+      "endedAt": 10.381333333333334,
+      "peak": 0.0008456740761175752,
+      "loop": false,
+      "duration": 3.3066666666666666
+    },
+    {
+      "src": "/audio/voice/T03S.007.wav",
+      "startedAt": 10.4,
+      "stoppedAt": 10.48,
+      "endedAt": 10.512,
+      "peak": 0.22165589034557343,
+      "loop": false,
+      "duration": 4.096
+    },
+    {
+      "src": "/audio/music/greenhouse.wav",
+      "startedAt": 10.450666666666667,
+      "stoppedAt": 12.432,
+      "endedAt": 12.437333333333333,
+      "peak": 0.5772692561149597,
+      "loop": true,
+      "duration": 28.235270833333335
+    },
+    {
+      "src": "/audio/voice/T03S.009.wav",
+      "startedAt": 10.530666666666667,
+      "stoppedAt": 10.570666666666666,
+      "endedAt": 10.592,
+      "peak": 0.08343154937028885,
+      "loop": false,
+      "duration": 3.7333333333333334
+    },
+    {
+      "src": "/audio/voice/C1.A03.wav",
+      "startedAt": 10.570666666666666,
+      "stoppedAt": 10.632,
+      "endedAt": 10.672,
+      "peak": 0.19189605116844177,
+      "loop": false,
+      "duration": 3.3066666666666666
+    },
+    {
+      "src": "/audio/music/model.wav",
+      "startedAt": 10.650666666666666,
+      "stoppedAt": null,
+      "endedAt": null,
+      "peak": 0.44821810722351074,
+      "loop": true,
+      "duration": 20.8695625
+    },
+    {
+      "src": "/audio/voice/C1.A02.wav",
+      "startedAt": 10.650666666666666,
+      "stoppedAt": 10.752,
+      "endedAt": 10.770666666666667,
+      "peak": 0.5640445351600647,
+      "loop": false,
+      "duration": 4.8853333333333335
+    },
+    {
+      "src": "/audio/voice/C1.A06.wav",
+      "startedAt": 10.792,
+      "stoppedAt": 10.821333333333333,
+      "endedAt": 10.84,
+      "peak": 0.0026075178757309914,
+      "loop": false,
+      "duration": 4.245333333333333
+    },
+    {
+      "src": "/audio/voice/T03S.015.wav",
+      "startedAt": 10.872,
+      "stoppedAt": 10.901333333333334,
+      "endedAt": 10.952,
+      "peak": 0.0006861207075417042,
+      "loop": false,
+      "duration": 3.456
+    },
+    {
+      "src": "/audio/voice/T03S.019.wav",
+      "startedAt": 11.861333333333333,
+      "stoppedAt": 11.890666666666666,
+      "endedAt": 11.912,
+      "peak": 0.07779505103826523,
+      "loop": false,
+      "duration": 4.266666666666667
+    },
+    {
+      "src": "/audio/voice/T03S.031.wav",
+      "startedAt": 12.181333333333333,
+      "stoppedAt": 12.192,
+      "endedAt": 12.210666666666667,
+      "peak": 0.0001163328779512085,
+      "loop": false,
+      "duration": 4.1386666666666665
+    },
+    {
+      "src": "/audio/voice/T03S.033.wav",
+      "startedAt": 12.221333333333334,
+      "stoppedAt": 12.941333333333333,
+      "endedAt": 12.96,
+      "peak": 0.43749767541885376,
+      "loop": false,
+      "duration": 3.6693333333333333
+    },
+    {
+      "src": "/audio/voice/C1.A05.wav",
+      "startedAt": 13,
+      "stoppedAt": 13.261333333333333,
+      "endedAt": 13.272,
+      "peak": 0.5849223732948303,
+      "loop": false,
+      "duration": 3.4133333333333336
+    },
+    {
+      "src": "/audio/music/reflection.wav",
+      "startedAt": 13.130666666666666,
+      "stoppedAt": 13.261333333333333,
+      "endedAt": 13.272,
+      "peak": 0.3054009675979614,
+      "loop": true,
+      "duration": 29.090895833333335
+    },
+    {
+      "src": "/audio/voice/C1.A05.wav",
+      "startedAt": 13.541333333333334,
+      "stoppedAt": 13.912,
+      "endedAt": 13.930666666666667,
+      "peak": 0.5849223732948303,
+      "loop": false,
+      "duration": 3.4133333333333336
+    },
+    {
+      "src": "/audio/music/reflection.wav",
+      "startedAt": 13.541333333333334,
+      "stoppedAt": null,
+      "endedAt": null,
+      "peak": 0.3054009675979614,
+      "loop": true,
+      "duration": 29.090895833333335
+    },
+    {
+      "src": "/audio/ambience/garden.wav",
+      "startedAt": 13.541333333333334,
+      "stoppedAt": null,
+      "endedAt": null,
+      "peak": 0.3428341746330261,
+      "loop": true,
+      "duration": 24
+    },
+    {
+      "src": "/audio/music/arrival.wav",
+      "startedAt": 13.912,
+      "stoppedAt": null,
+      "endedAt": null,
+      "peak": 0.24801820516586304,
+      "loop": true,
+      "duration": 25.263145833333333
+    }
+  ]
+}

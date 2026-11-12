@@ -1,0 +1,15 @@
+{
+  "errors": [],
+  "scope": "Isolated renderer study with placeholder left panel, not final app UI",
+  "stats": {
+    "available": true,
+    "quality": "standard",
+    "frameMilliseconds": 17.34838767781371,
+    "pixelRatio": 1,
+    "frame": 61,
+    "calls": 164,
+    "triangles": 2064878,
+    "points": 0,
+    "lines": 0
+  }
+}

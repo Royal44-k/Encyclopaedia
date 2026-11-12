@@ -1,0 +1,156 @@
+[
+  {
+    "file": "assets/models/nature-sage/tree_default.glb",
+    "bytes": 9484,
+    "sha256": "bfcaf2572d53becc817d4770726822281b85eea06907fcd154701af8149b12c6",
+    "source": "assets/vendor/kenney-nature/Models/GLTF format/tree_default.glb",
+    "changes": "matte roughness, zero metalness, selected palette colors converted from sRGB to linear"
+  },
+  {
+    "file": "assets/models/nature-sage/tree_detailed.glb",
+    "bytes": 31524,
+    "sha256": "8530f0592d8cad1569eb9306b09c01981ff60766a568d51cd1aaa4757ee890a1",
+    "source": "assets/vendor/kenney-nature/Models/GLTF format/tree_detailed.glb",
+    "changes": "matte roughness, zero metalness, selected palette colors converted from sRGB to linear"
+  },
+  {
+    "file": "assets/models/nature-sage/tree_oak.glb",
+    "bytes": 14700,
+    "sha256": "724205aab8e5816ab1d2a58d6ecb17ed20a5e1d50daf18a5a1dca28eb6315ee5",
+    "source": "assets/vendor/kenney-nature/Models/GLTF format/tree_oak.glb",
+    "changes": "matte roughness, zero metalness, selected palette colors converted from sRGB to linear"
+  },
+  {
+    "file": "assets/models/nature-sage/tree_cone.glb",
+    "bytes": 10980,
+    "sha256": "2a44c65c471e59a6fc5000407d1f972a3f55cf88cb62e8bde52cd020b89d446c",
+    "source": "assets/vendor/kenney-nature/Models/GLTF format/tree_cone.glb",
+    "changes": "matte roughness, zero metalness, selected palette colors converted from sRGB to linear"
+  },
+  {
+    "file": "assets/models/nature-sage/tree_pineDefaultA.glb",
+    "bytes": 17284,
+    "sha256": "e16ae30d07302877ce66113672accc079d9195576a4255dd3a779191b64a1a01",
+    "source": "assets/vendor/kenney-nature/Models/GLTF format/tree_pineDefaultA.glb",
+    "changes": "matte roughness, zero metalness, selected palette colors converted from sRGB to linear"
+  },
+  {
+    "file": "assets/models/nature-sage/tree_pineTallA.glb",
+    "bytes": 7268,
+    "sha256": "b8436412e4570d9405e9e1554ffb39e98205be20f6d39d4f52803a35a7984ca9",
+    "source": "assets/vendor/kenney-nature/Models/GLTF format/tree_pineTallA.glb",
+    "changes": "matte roughness, zero metalness, selected palette colors converted from sRGB to linear"
+  },
+  {
+    "file": "assets/models/nature-sage/tree_small.glb",
+    "bytes": 6556,
+    "sha256": "43f44b10105de7e95a4e05d71ac6a370054fde3bb42b8a98e1be107400d4c724",
+    "source": "assets/vendor/kenney-nature/Models/GLTF format/tree_small.glb",
+    "changes": "matte roughness, zero metalness, selected palette colors converted from sRGB to linear"
+  },
+  {
+    "file": "assets/models/nature-sage/tree_tall.glb",
+    "bytes": 7060,
+    "sha256": "235fad26b13b1eaf909d3b8782cfdc9faee2dc3c2b6ff5064521e9b86b642a91",
+    "source": "assets/vendor/kenney-nature/Models/GLTF format/tree_tall.glb",
+    "changes": "matte roughness, zero metalness, selected palette colors converted from sRGB to linear"
+  },
+  {
+    "file": "assets/models/nature-sage/plant_bush.glb",
+    "bytes": 4420,
+    "sha256": "1ee30b27a4f91dbdf70ab45d43bfa6a51972deb3348c45b80a35197bcd23d177",
+    "source": "assets/vendor/kenney-nature/Models/GLTF format/plant_bush.glb",
+    "changes": "matte roughness, zero metalness, selected palette colors converted from sRGB to linear"
+  },
+  {
+    "file": "assets/models/nature-sage/plant_bushSmall.glb",
+    "bytes": 3236,
+    "sha256": "c5bc55c1fc5612e7c1bcf045a63ede143b7317f007b0de2ed8c82c401e0b27ac",
+    "source": "assets/vendor/kenney-nature/Models/GLTF format/plant_bushSmall.glb",
+    "changes": "matte roughness, zero metalness, selected palette colors converted from sRGB to linear"
+  },
+  {
+    "file": "assets/models/nature-sage/grass.glb",
+    "bytes": 11524,
+    "sha256": "eb6bba006ff057de1fc5308ed1a67ca97e3aa1c69e510aa27c844f649eb249e7",
+    "source": "assets/vendor/kenney-nature/Models/GLTF format/grass.glb",
+    "changes": "matte roughness, zero metalness, selected palette colors converted from sRGB to linear"
+  },
+  {
+    "file": "assets/models/nature-sage/grass_large.glb",
+    "bytes": 18532,
+    "sha256": "fbdce2748c14cfcea59d70b2840e366023f78375dfc6282417e167beab25bd4a",
+    "source": "assets/vendor/kenney-nature/Models/GLTF format/grass_large.glb",
+    "changes": "matte roughness, zero metalness, selected palette colors converted from sRGB to linear"
+  },
+  {
+    "file": "assets/models/nature-sage/flower_redA.glb",
+    "bytes": 7160,
+    "sha256": "85909d12ce7c294b0147e89f90c8f679bcb2af3512c672c8c32e23eddc4de9a4",
+    "source": "assets/vendor/kenney-nature/Models/GLTF format/flower_redA.glb",
+    "changes": "matte roughness, zero metalness, selected palette colors converted from sRGB to linear"
+  },
+  {
+    "file": "assets/models/nature-sage/flower_yellowA.glb",
+    "bytes": 7168,
+    "sha256": "5d7cdb1aefd68b9d1f1383368f60666f95cfe3616631338b1feb4a00f73644b7",
+    "source": "assets/vendor/kenney-nature/Models/GLTF format/flower_yellowA.glb",
+    "changes": "matte roughness, zero metalness, selected palette colors converted from sRGB to linear"
+  },
+  {
+    "file": "assets/models/nature-sage/flower_purpleA.glb",
+    "bytes": 7176,
+    "sha256": "214f490470df72d2f56f5b789529555f90c87bbd43256557c45a8f8fa8f1e0a0",
+    "source": "assets/vendor/kenney-nature/Models/GLTF format/flower_purpleA.glb",
+    "changes": "matte roughness, zero metalness, selected palette colors converted from sRGB to linear"
+  },
+  {
+    "file": "assets/models/nature-sage/rock_largeA.glb",
+    "bytes": 7608,
+    "sha256": "5fb11368ad5043c728f54be22a70df09460732ac902cb3d4a46d4d9e6dd92c6b",
+    "source": "assets/vendor/kenney-nature/Models/GLTF format/rock_largeA.glb",
+    "changes": "matte roughness, zero metalness, selected palette colors converted from sRGB to linear"
+  },
+  {
+    "file": "assets/models/nature-sage/rock_smallA.glb",
+    "bytes": 3100,
+    "sha256": "8d7b1bcb0021a3c29c310f78d01e222f4141b3f46dce7ab7bb32edfff857fe2f",
+    "source": "assets/vendor/kenney-nature/Models/GLTF format/rock_smallA.glb",
+    "changes": "matte roughness, zero metalness, selected palette colors converted from sRGB to linear"
+  },
+  {
+    "file": "assets/models/nature-sage/rock_smallFlatA.glb",
+    "bytes": 3356,
+    "sha256": "e2d123336e3efaea2e85fa89bbf1e755d57180052e0f92623b60f4c5523fbfa0",
+    "source": "assets/vendor/kenney-nature/Models/GLTF format/rock_smallFlatA.glb",
+    "changes": "matte roughness, zero metalness, selected palette colors converted from sRGB to linear"
+  },
+  {
+    "file": "assets/models/nature-sage/lily_large.glb",
+    "bytes": 8132,
+    "sha256": "b637733d3281aec040875ca298ccbfd138e7d93275b44e37a78bc63297dda0a8",
+    "source": "assets/vendor/kenney-nature/Models/GLTF format/lily_large.glb",
+    "changes": "matte roughness, zero metalness, selected palette colors converted from sRGB to linear"
+  },
+  {
+    "file": "assets/models/nature-sage/lily_small.glb",
+    "bytes": 5724,
+    "sha256": "ca57ca8cadc5f8efe4d9b92fce2d16adb9dfb61a2afd80e6a10506b0846038c3",
+    "source": "assets/vendor/kenney-nature/Models/GLTF format/lily_small.glb",
+    "changes": "matte roughness, zero metalness, selected palette colors converted from sRGB to linear"
+  },
+  {
+    "file": "assets/models/nature-sage/bridge_wood.glb",
+    "bytes": 15788,
+    "sha256": "ed2760f298e48d6693c5d0a6aa58fd73372b61beb7c199a9571c6640e36f4c40",
+    "source": "assets/vendor/kenney-nature/Models/GLTF format/bridge_wood.glb",
+    "changes": "matte roughness, zero metalness, selected palette colors converted from sRGB to linear"
+  },
+  {
+    "file": "assets/models/nature-sage/fence_simple.glb",
+    "bytes": 5776,
+    "sha256": "3721ab386eca8c2b69d1bff6c012e1339ef80d379f5b7409f9e908a70111464c",
+    "source": "assets/vendor/kenney-nature/Models/GLTF format/fence_simple.glb",
+    "changes": "matte roughness, zero metalness, selected palette colors converted from sRGB to linear"
+  }
+]

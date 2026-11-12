@@ -1,0 +1,39 @@
+{
+  "passed": true,
+  "origin": "http://127.0.0.1:4173/",
+  "checks": [
+    {
+      "module": "C1",
+      "width": 1440,
+      "sceneBottom": 398,
+      "modalTop": 398,
+      "modalBottom": 918,
+      "noOverlap": true
+    },
+    {
+      "module": "C1",
+      "width": 390,
+      "sceneBottom": 333.359375,
+      "modalTop": 333.375,
+      "modalBottom": 806,
+      "noOverlap": true
+    },
+    {
+      "module": "T01",
+      "width": 1440,
+      "sceneBottom": 398,
+      "modalTop": 398,
+      "modalBottom": 918,
+      "noOverlap": true
+    },
+    {
+      "module": "T01",
+      "width": 390,
+      "sceneBottom": 333.359375,
+      "modalTop": 333.375,
+      "modalBottom": 806,
+      "noOverlap": true
+    }
+  ],
+  "errors": []
+}

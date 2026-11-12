@@ -1,0 +1,19 @@
+{
+  "module": "T02",
+  "date": "2026-11-08",
+  "dialogueSource": "docs/design/v6/episodes/T02.md",
+  "scriptSha256": "107d757bd71cede8fc3b57d7c1af7c1cf5541dcb9636feb8ad2e3fec49dd7149",
+  "dialogueOrigin": "Project original; not textbook quotation or textbook mystery solution",
+  "voiceModel": "https://huggingface.co/hexgrad/Kokoro-82M",
+  "localInference": "https://github.com/thewh1teagle/kokoro-onnx",
+  "licenses": [
+    "/audio/licenses/Kokoro-Apache-2.0.txt",
+    "/audio/licenses/Kokoro-ONNX-MIT.txt"
+  ],
+  "roleContinuity": "Existing Rowan/Mei/Sam/NARR stock voice embeddings, no identity cloning",
+  "music": "Two original note sequences using procedural timbres; no third-party samples",
+  "effects": "Original mono synthesis; contact timing belongs to the 3D scene, not this recording",
+  "ambience": "Periodic low-frequency wind synthesis, no recorded location claim",
+  "humanAudition": false,
+  "teacherApproval": false
+}

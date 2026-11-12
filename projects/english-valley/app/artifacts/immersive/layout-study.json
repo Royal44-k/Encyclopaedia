@@ -1,0 +1,52 @@
+{
+  "errors": [],
+  "checks": [
+    {
+      "module": "T01",
+      "desktop": {
+        "scene": {
+          "x": 0,
+          "y": 64,
+          "width": 1440,
+          "height": 630,
+          "bottom": 694
+        },
+        "dock": {
+          "y": 694,
+          "height": 224
+        },
+        "overlap": false
+      },
+      "mobile": {
+        "noOverlap": true,
+        "noHorizontalOverflow": true
+      },
+      "fullscreenEnterExit": true,
+      "scenicRestore": true
+    },
+    {
+      "module": "C1",
+      "desktop": {
+        "scene": {
+          "x": 0,
+          "y": 64,
+          "width": 1440,
+          "height": 630,
+          "bottom": 694
+        },
+        "dock": {
+          "y": 694,
+          "height": 224
+        },
+        "overlap": false
+      },
+      "mobile": {
+        "noOverlap": true,
+        "noHorizontalOverflow": true
+      },
+      "fullscreenEnterExit": true,
+      "scenicRestore": true
+    }
+  ],
+  "scope": "Development browser layout study; root production acceptance is separate."
+}

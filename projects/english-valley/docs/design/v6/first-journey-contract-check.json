@@ -1,0 +1,21 @@
+{
+  "date": "2026-11-08",
+  "contractSha256": "ff42c70f637eb40cf5d293a54d8db8f6d47c5b61b51f75d267f3f7cb2be2ea55",
+  "status": "passed_static_reference_checks",
+  "nodes": 20,
+  "events": 45,
+  "fields": 52,
+  "referencedDialogueIds": 36,
+  "structurallyReachableNodes": 20,
+  "checks": [
+    "JSON parse",
+    "unique nodes and targets",
+    "field/context/input references",
+    "dialogue references",
+    "structured condition presence",
+    "topological reachability ignoring guard satisfiability",
+    "exclusive domain writers"
+  ],
+  "errors": [],
+  "limits": "Static checks only. No full type proof, guard satisfiability proof, game execution, persistence fault test, rendered scene, audio or classroom validation."
+}

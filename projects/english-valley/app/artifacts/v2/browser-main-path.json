@@ -1,0 +1,19 @@
+{
+  "passed": true,
+  "build": "/assets/index-Bo-zs6P9.js",
+  "errors": [],
+  "finalNode": "j.end_saved",
+  "trials": 2,
+  "revision": 49,
+  "coverage": [
+    "observations",
+    "direct-blame interview",
+    "two controlled trials",
+    "paused model reload",
+    "invalid then valid placement",
+    "own explanation",
+    "return plan",
+    "saved reload",
+    "mobile layout"
+  ]
+}

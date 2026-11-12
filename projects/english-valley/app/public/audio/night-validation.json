@@ -1,0 +1,228 @@
+{
+  "date": "2026-11-08",
+  "status": "passed_text_identity_and_signal_checks",
+  "recordedLines": 16,
+  "learnerLinesRecorded": 0,
+  "castVoices": 4,
+  "newMusicFiles": 2,
+  "newAmbienceFiles": 1,
+  "newEffects": 2,
+  "files": {
+    "T02.001": {
+      "src": "/audio/voice/T02.001.wav",
+      "bytes": 74796,
+      "sha256": "1d087d447994839e8c9e766db4820c6dac278f7f58150d90d00fea2268a4cb84",
+      "sampleRate": 24000,
+      "channels": 1,
+      "seconds": 1.557,
+      "peakDbFS": -2.19,
+      "rmsDbFS": -15.6
+    },
+    "T02.003": {
+      "src": "/audio/voice/T02.003.wav",
+      "bytes": 161836,
+      "sha256": "c556b360d8805a7a8e7c0a0cb14385268fb3324e247728d12d25466163e55a3a",
+      "sampleRate": 24000,
+      "channels": 1,
+      "seconds": 3.371,
+      "peakDbFS": -2.16,
+      "rmsDbFS": -18.14
+    },
+    "T02.005": {
+      "src": "/audio/voice/T02.005.wav",
+      "bytes": 107564,
+      "sha256": "ec716791d08122435a4d08369a8c1b7e01590905e93fa22f39bccbe3bc0f6567",
+      "sampleRate": 24000,
+      "channels": 1,
+      "seconds": 2.24,
+      "peakDbFS": -2.25,
+      "rmsDbFS": -15.67
+    },
+    "T02.006": {
+      "src": "/audio/voice/T02.006.wav",
+      "bytes": 116780,
+      "sha256": "58193a5dfb6b581bb2cd13551c56b478d73580172a42af72fc0ea5140c537953",
+      "sampleRate": 24000,
+      "channels": 1,
+      "seconds": 2.432,
+      "peakDbFS": -2.16,
+      "rmsDbFS": -18.0
+    },
+    "T02.008": {
+      "src": "/audio/voice/T02.008.wav",
+      "bytes": 92204,
+      "sha256": "3b2a678bf037ad7fbaa4edd99bf1cdf4b3ff3fa1cb2ec005b24196c03c137ece",
+      "sampleRate": 24000,
+      "channels": 1,
+      "seconds": 1.92,
+      "peakDbFS": -2.16,
+      "rmsDbFS": -18.09
+    },
+    "T02.010": {
+      "src": "/audio/voice/T02.010.wav",
+      "bytes": 225324,
+      "sha256": "28a09a435f1a45f7870ae9ac76d0cd2f7289d9481e1be5d2f210499395a2bb99",
+      "sampleRate": 24000,
+      "channels": 1,
+      "seconds": 4.693,
+      "peakDbFS": -2.16,
+      "rmsDbFS": -24.13
+    },
+    "T02.011": {
+      "src": "/audio/voice/T02.011.wav",
+      "bytes": 194604,
+      "sha256": "5525dfb5b9127bdb9c64e9a7089028451bbc69694bf8193243c4af815c8205c3",
+      "sampleRate": 24000,
+      "channels": 1,
+      "seconds": 4.053,
+      "peakDbFS": -2.16,
+      "rmsDbFS": -16.36
+    },
+    "T02.013": {
+      "src": "/audio/voice/T02.013.wav",
+      "bytes": 111660,
+      "sha256": "a8e82ef2aa37c40f546785dcd7bca39b329c1d7d23bb9e0f1a8c8798303e9224",
+      "sampleRate": 24000,
+      "channels": 1,
+      "seconds": 2.325,
+      "peakDbFS": -2.16,
+      "rmsDbFS": -20.82
+    },
+    "T02.015": {
+      "src": "/audio/voice/T02.015.wav",
+      "bytes": 174124,
+      "sha256": "8ba4877a38963b2ddfb8d8164453f49fdf7ed20e9dd644a29b8ea6a3f81bd1b4",
+      "sampleRate": 24000,
+      "channels": 1,
+      "seconds": 3.627,
+      "peakDbFS": -2.16,
+      "rmsDbFS": -18.0
+    },
+    "T02.016": {
+      "src": "/audio/voice/T02.016.wav",
+      "bytes": 215084,
+      "sha256": "fe56ac9606929f05547dcba43e227275d958861ec09119bd28a893c0a98002ea",
+      "sampleRate": 24000,
+      "channels": 1,
+      "seconds": 4.48,
+      "peakDbFS": -2.16,
+      "rmsDbFS": -22.34
+    },
+    "T02.018": {
+      "src": "/audio/voice/T02.018.wav",
+      "bytes": 162860,
+      "sha256": "951b2e46285c672cab837f371d998fbe084582bcde77503c10de6da36e3a66c5",
+      "sampleRate": 24000,
+      "channels": 1,
+      "seconds": 3.392,
+      "peakDbFS": -2.16,
+      "rmsDbFS": -17.99
+    },
+    "T02.020": {
+      "src": "/audio/voice/T02.020.wav",
+      "bytes": 143404,
+      "sha256": "3d492fedf1bf523dc8806431b06e41ddfae35a386f3ee20523e11d946c617709",
+      "sampleRate": 24000,
+      "channels": 1,
+      "seconds": 2.987,
+      "peakDbFS": -2.16,
+      "rmsDbFS": -20.28
+    },
+    "T02.022": {
+      "src": "/audio/voice/T02.022.wav",
+      "bytes": 152620,
+      "sha256": "abc76f91e8ff757dc49f4f429ce37642359cfbba907c54ad163f2bb74054e870",
+      "sampleRate": 24000,
+      "channels": 1,
+      "seconds": 3.179,
+      "peakDbFS": -2.16,
+      "rmsDbFS": -16.54
+    },
+    "T02.023": {
+      "src": "/audio/voice/T02.023.wav",
+      "bytes": 173100,
+      "sha256": "293a784161dc4f5b1c77e29c740c1791d756027fe9b8d151368e8b948c586957",
+      "sampleRate": 24000,
+      "channels": 1,
+      "seconds": 3.605,
+      "peakDbFS": -2.16,
+      "rmsDbFS": -20.1
+    },
+    "T02.025": {
+      "src": "/audio/voice/T02.025.wav",
+      "bytes": 116780,
+      "sha256": "61dc24448d1b287a522bbfc1a9eb082fed0c55315f7c790cc331fca3a2b9470f",
+      "sampleRate": 24000,
+      "channels": 1,
+      "seconds": 2.432,
+      "peakDbFS": -2.16,
+      "rmsDbFS": -18.61
+    },
+    "T02.026": {
+      "src": "/audio/voice/T02.026.wav",
+      "bytes": 135212,
+      "sha256": "a7bf061d1762c481f6684a112cff2be7d813da4edd0c12a5e4a9157420a9bfab",
+      "sampleRate": 24000,
+      "channels": 1,
+      "seconds": 2.816,
+      "peakDbFS": -2.16,
+      "rmsDbFS": -20.34
+    },
+    "night": {
+      "src": "/audio/music/night.wav",
+      "bytes": 3840044,
+      "sha256": "a50304929fc7a7a95e002294ca7343e1844e0fdc439d1fc1c24aff4853561db8",
+      "sampleRate": 32000,
+      "channels": 2,
+      "seconds": 30.0,
+      "peakDbFS": -3.35,
+      "rmsDbFS": -14.06,
+      "loopSeamSampleDelta": 0.004883
+    },
+    "night_reflection": {
+      "src": "/audio/music/night_reflection.wav",
+      "bytes": 3614160,
+      "sha256": "4650e9d7be2c7e183648039144473e4e068c1ad290f35f4f2a90156cb7248c50",
+      "sampleRate": 32000,
+      "channels": 2,
+      "seconds": 28.235,
+      "peakDbFS": -3.35,
+      "rmsDbFS": -14.52,
+      "loopSeamSampleDelta": 0.001953
+    },
+    "night_wind": {
+      "src": "/audio/ambience/night_wind.wav",
+      "bytes": 3072044,
+      "sha256": "b87ca58d542ddf0334da40682601b531aade61d98e597e43a12b7e02b1306ee1",
+      "sampleRate": 32000,
+      "channels": 2,
+      "seconds": 24.0,
+      "peakDbFS": -3.35,
+      "rmsDbFS": -16.97,
+      "loopSeamSampleDelta": 0.008118
+    },
+    "tap": {
+      "src": "/audio/effects/night_tap.wav",
+      "bytes": 22124,
+      "sha256": "2d2ea5afee267b8b0d21c9dd52959911fa787deca2e4c1e37b4c99ce0db64fc2",
+      "sampleRate": 24000,
+      "channels": 1,
+      "seconds": 0.46,
+      "peakDbFS": -5.35,
+      "rmsDbFS": -21.43
+    },
+    "creak": {
+      "src": "/audio/effects/night_creak.wav",
+      "bytes": 49964,
+      "sha256": "98f315fda4eed550eb7226b61df03739ce8c26536b6e7fdc9581175082203b95",
+      "sampleRate": 24000,
+      "channels": 1,
+      "seconds": 1.04,
+      "peakDbFS": -6.75,
+      "rmsDbFS": -17.62
+    }
+  },
+  "totalBytes": 12956288,
+  "subjectiveListening": false,
+  "teacherPronunciationApproval": false
+}

@@ -1,0 +1,236 @@
+{
+  "schemaVersion": 1,
+  "module": "T02",
+  "status": "ready",
+  "engine": "offline_kokoro_onnx_stock_voices",
+  "voices": {
+    "ROWAN": {
+      "name": "George",
+      "voiceId": "bm_george",
+      "language": "en-gb",
+      "direction": "clear, measured adult observer"
+    },
+    "MEI": {
+      "name": "Emma",
+      "voiceId": "bf_emma",
+      "language": "en-gb",
+      "direction": "warm, direct, reflective gardener"
+    },
+    "SAM": {
+      "name": "Michael",
+      "voiceId": "am_michael",
+      "language": "en-us",
+      "direction": "relaxed, lower adult workshop voice"
+    },
+    "NARR": {
+      "name": "Heart",
+      "voiceId": "af_heart",
+      "language": "en-us",
+      "direction": "gentle observational narrator"
+    }
+  },
+  "lines": {
+    "T02.001": {
+      "src": "/audio/voice/T02.001.wav",
+      "speaker": "ROWAN",
+      "text": "There it is again.",
+      "voiceId": "bm_george",
+      "duration": 1.557,
+      "origin": "project_original",
+      "direction": "轻声后停下听，先让学生描述；按需提示两类声音，不抢先揭示谜的结构",
+      "source": "docs/design/v6/episodes/T02.md"
+    },
+    "T02.003": {
+      "src": "/audio/voice/T02.003.wav",
+      "speaker": "ROWAN",
+      "text": "I heard it near the stairs. I couldn't see what moved.",
+      "voiceId": "bm_george",
+      "duration": 3.371,
+      "origin": "project_original",
+      "direction": "指自己的实际听音位",
+      "source": "docs/design/v6/episodes/T02.md"
+    },
+    "T02.005": {
+      "src": "/audio/voice/T02.005.wav",
+      "speaker": "ROWAN",
+      "text": "Let's listen from the other side.",
+      "voiceId": "bm_george",
+      "duration": 2.24,
+      "origin": "project_original",
+      "direction": "等玩家选择出发",
+      "source": "docs/design/v6/episodes/T02.md"
+    },
+    "T02.006": {
+      "src": "/audio/voice/T02.006.wav",
+      "speaker": "MEI",
+      "text": "The shadow looked much larger from my doorway.",
+      "voiceId": "bf_emma",
+      "duration": 2.432,
+      "origin": "project_original",
+      "direction": "温室观察位；描述经历",
+      "source": "docs/design/v6/episodes/T02.md"
+    },
+    "T02.008": {
+      "src": "/audio/voice/T02.008.wav",
+      "speaker": "MEI",
+      "text": "Here. I thought it had a long neck.",
+      "voiceId": "bf_emma",
+      "duration": 1.92,
+      "origin": "project_original",
+      "direction": "对自己的猜想稍觉好笑",
+      "source": "docs/design/v6/episodes/T02.md"
+    },
+    "T02.010": {
+      "src": "/audio/voice/T02.010.wav",
+      "speaker": "SAM",
+      "text": "I hung a moving piece there this afternoon. I didn't hear it from inside.",
+      "voiceId": "am_michael",
+      "duration": 4.693,
+      "origin": "project_original",
+      "direction": "普通疏忽，无阴谋",
+      "source": "docs/design/v6/episodes/T02.md"
+    },
+    "T02.011": {
+      "src": "/audio/voice/T02.011.wav",
+      "speaker": "ROWAN",
+      "text": "We know something moved. We haven't explained every sound yet.",
+      "voiceId": "bm_george",
+      "duration": 4.053,
+      "origin": "project_original",
+      "direction": "给验证留下空间",
+      "source": "docs/design/v6/episodes/T02.md"
+    },
+    "T02.013": {
+      "src": "/audio/voice/T02.013.wav",
+      "speaker": "SAM",
+      "text": "I'll hold it. Tell me what changes.",
+      "voiceId": "am_michael",
+      "duration": 2.325,
+      "origin": "project_original",
+      "direction": "操作完成后接触声停止",
+      "source": "docs/design/v6/episodes/T02.md"
+    },
+    "T02.015": {
+      "src": "/audio/voice/T02.015.wav",
+      "speaker": "ROWAN",
+      "text": "Keep that part still. I'm going to listen by the stairs.",
+      "voiceId": "bm_george",
+      "duration": 3.627,
+      "origin": "project_original",
+      "direction": "对Sam说前句，移到已定义的楼梯地面听音位；Sam继续固定，同一风条件不变",
+      "source": "docs/design/v6/episodes/T02.md"
+    },
+    "T02.016": {
+      "src": "/audio/voice/T02.016.wav",
+      "speaker": "SAM",
+      "text": "This piece touches the metal when it turns. I'll move them farther apart.",
+      "voiceId": "am_michael",
+      "duration": 4.48,
+      "origin": "project_original",
+      "direction": "请求后才调整；可撤销对照",
+      "source": "docs/design/v6/episodes/T02.md"
+    },
+    "T02.018": {
+      "src": "/audio/voice/T02.018.wav",
+      "speaker": "ROWAN",
+      "text": "We can explain the tapping now. What would you check next?",
+      "voiceId": "bm_george",
+      "duration": 3.392,
+      "origin": "project_original",
+      "direction": "剩余问题明确",
+      "source": "docs/design/v6/episodes/T02.md"
+    },
+    "T02.020": {
+      "src": "/audio/voice/T02.020.wav",
+      "speaker": "NARR",
+      "text": "The tapping has stopped. A quieter sound remains.",
+      "voiceId": "af_heart",
+      "duration": 2.987,
+      "origin": "project_original",
+      "direction": "仅只解释碰撞的结尾",
+      "source": "docs/design/v6/episodes/T02.md"
+    },
+    "T02.022": {
+      "src": "/audio/voice/T02.022.wav",
+      "speaker": "ROWAN",
+      "text": "Let's mark where we listened. We can return here.",
+      "voiceId": "bm_george",
+      "duration": 3.179,
+      "origin": "project_original",
+      "direction": "写观察位置，不写已解谜",
+      "source": "docs/design/v6/episodes/T02.md"
+    },
+    "T02.023": {
+      "src": "/audio/voice/T02.023.wav",
+      "speaker": "SAM",
+      "text": "The board makes that sound when I step here. Listen again.",
+      "voiceId": "am_michael",
+      "duration": 3.605,
+      "origin": "project_original",
+      "direction": "追加验证后可解释第二声源",
+      "source": "docs/design/v6/episodes/T02.md"
+    },
+    "T02.025": {
+      "src": "/audio/voice/T02.025.wav",
+      "speaker": "MEI",
+      "text": "Next time, I'll look from more than one place.",
+      "voiceId": "bf_emma",
+      "duration": 2.432,
+      "origin": "project_original",
+      "direction": "她修订自己的观察方式",
+      "source": "docs/design/v6/episodes/T02.md"
+    },
+    "T02.026": {
+      "src": "/audio/voice/T02.026.wav",
+      "speaker": "SAM",
+      "text": "May I borrow your moving piece for this evening?",
+      "voiceId": "am_michael",
+      "duration": 2.816,
+      "origin": "project_original",
+      "direction": "前章作者作品适配时，事先请求",
+      "source": "docs/design/v6/episodes/T02.md"
+    }
+  },
+  "music": {
+    "night": {
+      "src": "/audio/music/night.wav",
+      "gain": 0.42,
+      "ambience": "night_wind",
+      "title": "Between the leaves",
+      "tempoBpm": 64,
+      "instruments": "Sparse soft piano and quiet open-string harmony; no alarm stings",
+      "origin": "project_original_composition"
+    },
+    "night_reflection": {
+      "src": "/audio/music/night_reflection.wav",
+      "gain": 0.47,
+      "ambience": "night_wind",
+      "title": "Two ordinary sounds",
+      "tempoBpm": 68,
+      "instruments": "Soft plucked strings and relaxed sustained chords",
+      "origin": "project_original_composition"
+    }
+  },
+  "ambience": {
+    "night_wind": {
+      "src": "/audio/ambience/night_wind.wav",
+      "gain": 0.22,
+      "origin": "project_original_synthesis"
+    }
+  },
+  "effects": {
+    "tap": {
+      "src": "/audio/effects/night_tap.wav",
+      "duration": 0.46,
+      "origin": "project_original_synthesis",
+      "description": "A single light contact"
+    },
+    "creak": {
+      "src": "/audio/effects/night_creak.wav",
+      "duration": 1.04,
+      "origin": "project_original_synthesis",
+      "description": "A single slow board-like friction sound"
+    }
+  },
+  "provenance": "/audio/night-provenance.json"
+}

@@ -1,0 +1,68 @@
+{
+  "date": "2026-11-08",
+  "voice": {
+    "model": "Kokoro v1.0 int8 ONNX (82M stock multi-voice speech model)",
+    "modelSource": "https://huggingface.co/hexgrad/Kokoro-82M",
+    "convertedRelease": "https://github.com/thewh1teagle/kokoro-onnx/releases/tag/model-files-v1.0",
+    "modelLicense": "Apache-2.0",
+    "synthesisLibrary": "kokoro-onnx 0.6.1 (MIT)",
+    "runtime": "onnxruntime 1.31.1, CPU",
+    "voiceTableSource": "https://huggingface.co/hexgrad/Kokoro-82M/blob/main/VOICES.md",
+    "roles": {
+      "NOOR": {
+        "name": "Puck",
+        "voiceId": "am_puck",
+        "language": "en-us",
+        "direction": "curious, youthful conversational"
+      },
+      "ROWAN": {
+        "name": "George",
+        "voiceId": "bm_george",
+        "language": "en-gb",
+        "direction": "clear, measured adult observer"
+      },
+      "MEI": {
+        "name": "Emma",
+        "voiceId": "bf_emma",
+        "language": "en-gb",
+        "direction": "warm, direct, reflective gardener"
+      },
+      "SAM": {
+        "name": "Michael",
+        "voiceId": "am_michael",
+        "language": "en-us",
+        "direction": "relaxed, lower adult workshop voice"
+      },
+      "NARR": {
+        "name": "Heart",
+        "voiceId": "af_heart",
+        "language": "en-us",
+        "direction": "gentle observational narrator"
+      }
+    },
+    "script": "20 performed/transcript references from first-journey-flow-v6_1.json, exact dialogue-reference-index text; 6 original arrival cues supplied during integration",
+    "personalVoiceCloning": false,
+    "pitchShifting": false,
+    "modelSha256": "6e742170d309016e5891a994e1ce1559c702a2ccd0075e67ef7157974f6406cb",
+    "voiceDataSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d"
+  },
+  "music": {
+    "origin": "Original project composition and synthesis",
+    "source": "docs/research/compose-valley-score-v2.py",
+    "thirdPartySamples": false,
+    "commercialTuneImitation": false,
+    "count": 6
+  },
+  "ambience": {
+    "origin": "Original procedural synthesis, not field recordings",
+    "count": 2
+  },
+  "unsuccessfulExternalAttempt": {
+    "service": "Runway speech generation",
+    "scriptId": "T03S.029",
+    "voice": "Brodie",
+    "outcome": "No response or task ID before the call was interrupted. Submission/credit outcome unconfirmed. No output used, no duplicate submitted."
+  },
+  "validation": "/audio/validation.json",
+  "limitations": "These are bundled synthetic stock voices and original synthesized scores. They are not human-actor sessions. No subjective listening or teacher approval is claimed."
+}

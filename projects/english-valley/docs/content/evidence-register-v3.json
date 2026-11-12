@@ -1,0 +1,214 @@
+{
+  "schemaVersion": "3.0",
+  "date": "2026-11-06",
+  "scope": "本表是虚构教学证据的制作登记，不是外部事实来源。权威事实另见environment-source-register-v3.json。",
+  "items": [
+    {
+      "id": "C1-E01",
+      "caseId": "C1",
+      "locationIds": [
+        "loc.stream_bridge"
+      ],
+      "title": "同机位雨前/雨后照片",
+      "supportScope": "外观随时刻变化；不能确定水质或原因",
+      "recordRule": "固定标记点；保留拍摄时间",
+      "provenance": "original_fiction",
+      "runtimeAssetStatus": "planned_not_implemented"
+    },
+    {
+      "id": "C1-E02",
+      "caseId": "C1",
+      "locationIds": [
+        "loc.upper_stream",
+        "loc.stream_bridge"
+      ],
+      "title": "同轮上下游观察",
+      "supportScope": "本轮不同位置有差异；不能排除所有时间变化",
+      "recordRule": "每张照片分别记录地点和拍摄时刻",
+      "provenance": "original_fiction",
+      "runtimeAssetStatus": "planned_not_implemented"
+    },
+    {
+      "id": "C1-E03",
+      "caseId": "C1",
+      "locationIds": [
+        "loc.bare_bed"
+      ],
+      "title": "裸土、浅沟和汇流路线",
+      "supportScope": "存在可能带土入溪的路径；不是全部来源证明",
+      "recordRule": "同一世界地形与径流路线",
+      "provenance": "original_fiction",
+      "runtimeAssetStatus": "planned_not_implemented"
+    },
+    {
+      "id": "C1-E04",
+      "caseId": "C1",
+      "locationIds": [
+        "loc.greenhouse"
+      ],
+      "title": "Mei访谈",
+      "supportScope": "工作安排及亲眼所见；不是水质专家结论",
+      "recordRule": "明确目击时间与未观察范围",
+      "provenance": "original_fiction",
+      "runtimeAssetStatus": "planned_not_implemented"
+    },
+    {
+      "id": "C1-E05",
+      "caseId": "C1",
+      "locationIds": [
+        "loc.treehouse"
+      ],
+      "title": "缺一日的巡查日志",
+      "supportScope": "缺记录属于未知；不等于无问题",
+      "recordRule": "虚构周一至周三记录",
+      "provenance": "original_fiction",
+      "runtimeAssetStatus": "planned_not_implemented"
+    },
+    {
+      "id": "C1-E06",
+      "caseId": "C1",
+      "locationIds": [
+        "loc.stream_bridge"
+      ],
+      "title": "瓶罐清理前后",
+      "supportScope": "可见垃圾变化；不代表水体安全",
+      "recordRule": "同一瓶罐对象的状态差",
+      "provenance": "original_fiction",
+      "runtimeAssetStatus": "planned_not_implemented"
+    },
+    {
+      "id": "C2-E01",
+      "caseId": "C2",
+      "locationIds": [
+        "loc.workshop"
+      ],
+      "title": "木箱来历卡",
+      "supportScope": "已知原用途；状态尚待检查",
+      "recordRule": "检查前固定卡",
+      "provenance": "original_fiction",
+      "runtimeAssetStatus": "planned_not_implemented"
+    },
+    {
+      "id": "C2-E02",
+      "caseId": "C2",
+      "locationIds": [
+        "loc.workshop"
+      ],
+      "title": "座椅维修便条",
+      "supportScope": "已发现松动；尚无整椅适用结论",
+      "recordRule": "检查前固定卡",
+      "provenance": "original_fiction",
+      "runtimeAssetStatus": "planned_not_implemented"
+    },
+    {
+      "id": "C2-E03",
+      "caseId": "C2",
+      "locationIds": [
+        "loc.workshop"
+      ],
+      "title": "无来源标签木板",
+      "supportScope": "信息缺失；不能臆测材料性质",
+      "recordRule": "来历未知持续保留",
+      "provenance": "original_fiction",
+      "runtimeAssetStatus": "planned_not_implemented"
+    },
+    {
+      "id": "C2-E04",
+      "caseId": "C2",
+      "locationIds": [
+        "loc.flower_ring"
+      ],
+      "title": "社区使用者来信",
+      "supportScope": "休息与维护意愿；不是材料检查结果",
+      "recordRule": "虚构使用者立场",
+      "provenance": "original_fiction",
+      "runtimeAssetStatus": "planned_not_implemented"
+    },
+    {
+      "id": "C2-E05",
+      "caseId": "C2",
+      "locationIds": [
+        "loc.workshop"
+      ],
+      "title": "任务与维护表",
+      "supportScope": "需要两只花卉容器和明确责任",
+      "recordRule": "维护频率与拟定用途对应",
+      "provenance": "original_fiction",
+      "runtimeAssetStatus": "planned_not_implemented"
+    },
+    {
+      "id": "C2-E06",
+      "caseId": "C2",
+      "locationIds": [
+        "loc.workshop"
+      ],
+      "title": "Sam本轮检查结果",
+      "supportScope": "本轮对象是否适合指定用途",
+      "recordRule": "含scenarioId、objectId、拟定用途、结果；默认可维修，替代情境另给结果",
+      "provenance": "original_fiction",
+      "runtimeAssetStatus": "planned_not_implemented"
+    },
+    {
+      "id": "C2-E07",
+      "caseId": "C2",
+      "locationIds": [
+        "loc.workshop",
+        "loc.flower_ring"
+      ],
+      "title": "学生确认后的成果记录",
+      "supportScope": "本轮实际再用/新购及维护安排",
+      "recordRule": "由已确认操作产生，保留原对象ID与新用途；不能提前提供",
+      "provenance": "original_fiction",
+      "runtimeAssetStatus": "planned_not_implemented"
+    },
+    {
+      "id": "C3-E01",
+      "caseId": "C3",
+      "locationIds": [
+        "loc.workshop",
+        "loc.exit_path"
+      ],
+      "title": "晚间收尾安排",
+      "supportScope": "谁何时可能使用哪一段路",
+      "recordRule": "虚构时刻不是通用关灯规范",
+      "provenance": "original_fiction",
+      "runtimeAssetStatus": "planned_not_implemented"
+    },
+    {
+      "id": "C3-E02",
+      "caseId": "C3",
+      "locationIds": [
+        "loc.exit_path"
+      ],
+      "title": "三个固定点的照明视图",
+      "supportScope": "模型中的光落点和外溢",
+      "recordRule": "固定时刻曝光；非实测lux",
+      "provenance": "original_fiction",
+      "runtimeAssetStatus": "planned_not_implemented"
+    },
+    {
+      "id": "C3-E03",
+      "caseId": "C3",
+      "locationIds": [
+        "loc.workshop"
+      ],
+      "title": "志愿者与访客访谈",
+      "supportScope": "晚离开、慢行、停留需求",
+      "recordRule": "不同人的使用需求",
+      "provenance": "original_fiction",
+      "runtimeAssetStatus": "planned_not_implemented"
+    },
+    {
+      "id": "C3-E04",
+      "caseId": "C3",
+      "locationIds": [
+        "loc.exit_path"
+      ],
+      "title": "虚拟灯具控制卡",
+      "supportScope": "本模型可操作部件和控制",
+      "recordRule": "不是现实电气操作指南",
+      "provenance": "original_fiction",
+      "runtimeAssetStatus": "planned_not_implemented"
+    }
+  ]
+}

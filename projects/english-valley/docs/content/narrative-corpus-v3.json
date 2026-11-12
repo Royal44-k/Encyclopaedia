@@ -1,0 +1,689 @@
+{
+  "schemaVersion": "3.0",
+  "date": "2026-11-06",
+  "title": "English Valley · 连贯案例原创语料初稿",
+  "status": "internally_reviewed_draft_teacher_review_pending",
+  "primaryWrittenVariety": "en-GB",
+  "acceptValidRegionalVariants": true,
+  "usage": "15个叙事单元不是一次性阅读的15篇文章。对话分轮、文本按观察/行动分段解锁；完整成果示例在学生先表达后提供。每案5个单元可分课时、分层使用。",
+  "provenancePolicy": "全文为原创虚构。languageSourceIds只支持列明语法/词义范围，environmentSourceIds只支持一般环境机制；不表示机构审核了本对话。案例时间、检查记录和模拟结果不是实测事实。",
+  "reviewPolicy": "内部语言与逻辑审查后仍需教师按本校教材和学情复核。未录制或试听正式音频，不是完整可发布语料库。",
+  "sourceRegistries": {
+    "language": "lexicon-v3.json#/sources",
+    "environment": "environment-source-register-v3.json#/sources"
+  },
+  "presentation": {
+    "maxDefaultParagraphs": 2,
+    "dialogueTurns": "按轮呈现，可重听/查看文字",
+    "scaffolds": "按需短句、词义和句框，不因使用扣分",
+    "openResponses": "不以关键词自动判思想质量",
+    "modelAnswers": "仅供表达后比较，不替学生完成"
+  },
+  "units": [
+    {
+      "id": "C1-N01",
+      "caseId": "C1",
+      "locationId": "loc.stream_bridge",
+      "format": "field_note",
+      "title": "Two things to notice",
+      "stage": "observe",
+      "provenance": "original_fiction",
+      "languageSourceIds": [
+        "LANG01",
+        "LANG02",
+        "LANG07"
+      ],
+      "environmentSourceIds": [
+        "ENV01"
+      ],
+      "evidenceIds": [
+        "C1-E01",
+        "C1-E06"
+      ],
+      "content": "At the bridge, a bottle is caught between two stones. The water looks brown near the eastern bank. Rowan's photograph shows the same place before the rain, when the water looked different. These are two observations, but do they have the same explanation?\nYou can collect the visible litter in the simulation. After you do, the bottle is gone, but the brown water remains. Your first action has helped with one problem. Now look towards the small channel beside the planting bed. What else would you like to find out?",
+      "interaction": {
+        "action": "同机位翻看照片；数字清理瓶罐；记录两条观察并提出一个问题。",
+        "worldEffect": "只移除对应瓶罐对象；水路、土壤和水色保持当前调查状态。",
+        "acceptance": "观察须区分瓶罐与水色；允许先清理后提问。"
+      },
+      "reviewNotes": "两张照片时间不同；不把外观或照片当作水质检测。旁白不是科学测试结果。",
+      "coreSupport": {
+        "shortText": "There is litter by the bridge. The water looks brown. Are these the same problem?",
+        "glosses": {
+          "bank": "溪岸",
+          "channel": "浅沟"
+        }
+      },
+      "releaseStatus": "internally_reviewed_teacher_review_required"
+    },
+    {
+      "id": "C1-N02",
+      "caseId": "C1",
+      "locationId": "loc.greenhouse",
+      "format": "branching_dialogue",
+      "title": "Ask before you blame",
+      "stage": "interview",
+      "provenance": "original_fiction",
+      "languageSourceIds": [
+        "LANG10",
+        "LANG13"
+      ],
+      "environmentSourceIds": [
+        "ENV01"
+      ],
+      "evidenceIds": [
+        "C1-E04"
+      ],
+      "content": [
+        {
+          "speaker": "Mei",
+          "text": "We prepared the eastern bed yesterday. I meant to cover the soil before the rain, but I was called away to help unload the plants."
+        },
+        {
+          "speaker": "Learner",
+          "text": "Could you show us where the water went?"
+        },
+        {
+          "speaker": "Mei",
+          "text": "I saw water running towards the small channel. I didn't follow it all the way to the stream."
+        },
+        {
+          "speaker": "Learner",
+          "text": "So the planting bed might be one source of the soil. What else should we check?"
+        },
+        {
+          "speaker": "Mei",
+          "text": "Please look upstream as well. I can tell you what I saw, but I can't explain everything that happened."
+        }
+      ],
+      "interaction": {
+        "action": "选择一个开场问题和至少一个与回答有关的追问；对白逐轮展开。",
+        "branches": [
+          {
+            "choice": "Why did you make the stream dirty?",
+            "reply": "I understand why you're worried. I saw some muddy water, but I don't know where all of it came from. Could we check the route together?",
+            "effect": "提示改问观察和时间，不扣人物好感。"
+          },
+          {
+            "choice": "When did you first see water leaving the bed?",
+            "reply": "Just after the rain began. I wasn't watching the stream at the time.",
+            "effect": "新增时间信息并保留目击范围限制。"
+          }
+        ],
+        "worldEffect": "访谈内容加入日志，尚不写入因果结论。"
+      },
+      "reviewNotes": "Mei的经历是虚构证言；不要用 might 后的推测替代观测证据。",
+      "coreSupport": {
+        "shortText": "What did you see? When did you see it? What did you not see?",
+        "glosses": {
+          "upstream": "上游",
+          "soil": "土壤"
+        }
+      },
+      "releaseStatus": "internally_reviewed_teacher_review_required"
+    },
+    {
+      "id": "C1-N03",
+      "caseId": "C1",
+      "locationId": "loc.treehouse",
+      "format": "record_comparison",
+      "title": "The missing page",
+      "stage": "reason",
+      "provenance": "original_fiction",
+      "languageSourceIds": [
+        "LANG01",
+        "LANG07",
+        "LANG08"
+      ],
+      "environmentSourceIds": [
+        "ENV01"
+      ],
+      "evidenceIds": [
+        "C1-E01",
+        "C1-E02",
+        "C1-E03",
+        "C1-E05"
+      ],
+      "content": "Monday, before the rain: Rowan photographed the bridge from the marked spot.\nTuesday, after the rain: the bridge photograph shows brown water near the eastern bank. The upstream and bridge photographs were taken during the same observation round.\nWednesday: no record. Rowan was away.\nA small map marks a channel between the bare bed and the stream. It shows a possible route for water carrying soil; it does not show how much soil travelled along it.\nOne teammate says, “There was no problem on Wednesday.” Another asks, “Or was nobody there to record it?” Which statement does the notebook support?",
+      "interaction": {
+        "action": "把观察、推测与未知分开；为一个判断关联两类线索。",
+        "worldEffect": "保存学生自己的证据关联，不自动填满结论。",
+        "closedCheck": {
+          "question": "Does the missing Wednesday entry show that the stream was clear?",
+          "answer": "No. The notebook contains no observation for Wednesday.",
+          "basis": [
+            "C1-E05"
+          ]
+        },
+        "openCheck": "合理的替代解释交给师生讨论，系统只核对引用是否存在。"
+      },
+      "reviewNotes": "星期和照片是虚构记录；同轮不等于严格同一秒，不能说已经排除所有变化。",
+      "coreSupport": {
+        "shortText": "No record does not mean no problem. What do we know, and what is still missing?",
+        "glosses": {
+          "bare": "裸露的",
+          "claim": "待证据支持的主张"
+        }
+      },
+      "releaseStatus": "internally_reviewed_teacher_review_required"
+    },
+    {
+      "id": "C1-N04",
+      "caseId": "C1",
+      "locationId": "loc.bare_bed",
+      "format": "experiment_brief",
+      "title": "A fair comparison",
+      "stage": "test",
+      "provenance": "original_fiction",
+      "languageSourceIds": [
+        "LANG07",
+        "LANG09",
+        "LANG14"
+      ],
+      "environmentSourceIds": [
+        "ENV01",
+        "ENV02"
+      ],
+      "evidenceIds": [
+        "C1-E03"
+      ],
+      "content": "Before testing, save your plan. Keep the rainfall setting, test length and starting soil conditions the same for both runs. Otherwise, a difference may come from the changed conditions.\nYou can cover exposed soil or test a planted strip beside the modelled flow route. A decorative planter away from that route will not collect the runoff in this model. If you choose established plants, the simulation will show a later stage of growth, clearly labelled.\nWatch where the water goes. Compare the two runs, explain what changed, and name something this simplified model cannot tell you.",
+      "interaction": {
+        "action": "摆放、旋转、撤销并比较两版措施；可点击选择放置点，提供键盘等价操作。",
+        "worldEffect": "仅确认后措施进入持续世界；测试用独立快照，结果标注简化模型。",
+        "comparabilityRule": "降雨输入、时长、初始土壤条件和适用随机种子相同；条件改变则要求重新运行对照。",
+        "outcome": "定性泥沙路径/更多或更少的模型土粒；无水质达标、饮用安全或真实去除率。"
+      },
+      "reviewNotes": "植被效果不在种下瞬间实现；装饰花箱不自动取得雨水花园效果。实验输入不属于实测数据。",
+      "coreSupport": {
+        "shortText": "Change the plan. Keep the rain and starting conditions the same. Compare the results.",
+        "glosses": {
+          "runoff": "地表径流",
+          "established plants": "已长成并稳定生长的植株"
+        }
+      },
+      "releaseStatus": "internally_reviewed_teacher_review_required"
+    },
+    {
+      "id": "C1-N05",
+      "caseId": "C1",
+      "locationId": "loc.stream_bridge",
+      "format": "reflection_invitation",
+      "title": "Return after the next rain",
+      "stage": "transfer",
+      "provenance": "original_fiction",
+      "languageSourceIds": [
+        "LANG01",
+        "LANG12",
+        "LANG13",
+        "LANG15"
+      ],
+      "environmentSourceIds": [
+        "ENV01"
+      ],
+      "evidenceIds": [
+        "C1-E02",
+        "C1-E03",
+        "C1-E06"
+      ],
+      "content": "We have removed the visible litter near the bridge. We also tested a way to reduce soil movement in our model. Although these are useful steps, they do not prove that the stream is safe to drink.\nOur explanation is still incomplete. We need observations from more than one rainy day, and we should compare the same places again.\nWould you like to join our school observation group? Choose a familiar outdoor place, ask for permission to observe it, and record what you can see from a suitable path. Bring one observation and one question. You do not need to arrive with an answer.",
+      "interaction": {
+        "action": "写判断、两类证据、限制及复查计划；邀请同伴观察一个真实可到达地点。",
+        "worldEffect": "保留原解释和修订版；不把本示例自动填入学生成果。",
+        "teacherCheck": "行动具体、承认未知、有对应证据；替代表达和不确定判断均可成立。"
+      },
+      "reviewNotes": "这是一份可选成果示例，学生完成前不显示全文；迁移活动不要求取水、涉水或接触废物。",
+      "coreSupport": {
+        "shortText": "What have we changed? What do we still need to find out? Invite someone to look again.",
+        "glosses": {
+          "observation": "观察记录"
+        }
+      },
+      "releaseStatus": "internally_reviewed_teacher_review_required"
+    },
+    {
+      "id": "C2-N01",
+      "caseId": "C2",
+      "locationId": "loc.workshop",
+      "format": "inventory_note",
+      "title": "Not just a pile of wood",
+      "stage": "inspect",
+      "provenance": "original_fiction",
+      "languageSourceIds": [
+        "LANG05",
+        "LANG06",
+        "LANG11"
+      ],
+      "environmentSourceIds": [
+        "ENV03"
+      ],
+      "evidenceIds": [
+        "C2-E01",
+        "C2-E02",
+        "C2-E03",
+        "C2-E05"
+      ],
+      "content": "The workshop needs two containers for flowers. A bench near the flower ring also needs attention.\nTwo old crates have been brought in from the greenhouse. Their earlier use is recorded, but Sam has not checked their condition yet. The bench has a loose part; it has not been declared beyond repair. A painted board has no label, and nobody here knows its earlier use.\nNew materials are available too. Your task is to decide what each item is suitable for, not to use every old object. First turn the objects, read their labels and find out what information is missing.",
+      "interaction": {
+        "action": "旋转查看接缝和标签；把对象暂放到“待查”“保留维修”“可考虑再用”区域。",
+        "worldEffect": "对象数量守恒，材料未通过剧情检查前不能进入可用库存。",
+        "closedCheck": {
+          "question": "Which item has no record of its earlier use?",
+          "answer": "The painted board.",
+          "basis": [
+            "C2-E03"
+          ]
+        }
+      },
+      "reviewNotes": "来源清楚不等于状态合格。reuse/recycle在本任务按环保材料处理意义区分。",
+      "coreSupport": {
+        "shortText": "What was it used for? What condition is it in? What do we still need to check?",
+        "glosses": {
+          "crate": "木箱",
+          "loose": "松动的"
+        }
+      },
+      "releaseStatus": "internally_reviewed_teacher_review_required"
+    },
+    {
+      "id": "C2-N02",
+      "caseId": "C2",
+      "locationId": "loc.workshop",
+      "format": "branching_dialogue",
+      "title": "A memory is not an inspection",
+      "stage": "interview",
+      "provenance": "original_fiction",
+      "languageSourceIds": [
+        "LANG05",
+        "LANG09",
+        "LANG13",
+        "LANG15"
+      ],
+      "environmentSourceIds": [
+        "ENV03"
+      ],
+      "evidenceIds": [
+        "C2-E01",
+        "C2-E02",
+        "C2-E03"
+      ],
+      "content": [
+        {
+          "speaker": "Sam",
+          "text": "My father made this bench. I'd like to keep it, but its history doesn't tell us whether it can still do its job."
+        },
+        {
+          "speaker": "Learner",
+          "text": "Could you check the loose part before we choose a plan?"
+        },
+        {
+          "speaker": "Sam",
+          "text": "Yes. I suggest checking the whole bench as well. Repairing one visible part may not be enough."
+        },
+        {
+          "speaker": "Learner",
+          "text": "And could we use the old crates for flowers?"
+        },
+        {
+          "speaker": "Sam",
+          "text": "Possibly, after I've checked them for that use. Let's leave the unlabelled board aside until we know more about it."
+        }
+      ],
+      "interaction": {
+        "action": "追问用途、状态与来历；检查由维护员剧情完成，学生操作限数字模块。",
+        "branches": [
+          {
+            "choice": "Old things are always better for the environment.",
+            "reply": "Keeping a useful object can reduce waste. But we still need to ask whether it suits this job and how long it may last.",
+            "effect": "转向用途和维护，不用新旧二分打分。"
+          },
+          {
+            "choice": "What if the bench cannot be repaired for continued use?",
+            "reply": "Then we need suitable seating to replace it. We can record why replacement was necessary.",
+            "effect": "保留合理更换路线。"
+          }
+        ],
+        "worldEffect": "写入检查请求，尚不生成合格证明。"
+      },
+      "reviewNotes": "人物不冒充材料工程专家；具体检查结果由剧情分支明确给出，现实操作不由本对话授权。",
+      "coreSupport": {
+        "shortText": "Can it still do its job? Ask Sam to check before deciding.",
+        "glosses": {
+          "inspection": "检查",
+          "unlabelled": "无标签的"
+        }
+      },
+      "releaseStatus": "internally_reviewed_teacher_review_required"
+    },
+    {
+      "id": "C2-N03",
+      "caseId": "C2",
+      "locationId": "loc.flower_ring",
+      "format": "community_message",
+      "title": "The bench already has a job",
+      "stage": "perspective",
+      "provenance": "original_fiction",
+      "languageSourceIds": [
+        "LANG13",
+        "LANG15"
+      ],
+      "environmentSourceIds": [
+        "ENV03"
+      ],
+      "evidenceIds": [
+        "C2-E04",
+        "C2-E05"
+      ],
+      "content": "Dear workshop team,\nI heard that the old bench might become two flower boxes. The boxes would look lovely, but my grandfather often rests on that bench when we visit. Please keep a place to sit near the flower ring.\nWe would be happy to help look after some flowers, although we cannot come every day. Could you tell us how often the plants will need attention before we volunteer?\nPerhaps you could repair the bench and use another suitable item for the containers. If repair is not possible, please include replacement seating in your plan.\nThank you for listening.\nA visitor",
+      "interaction": {
+        "action": "在地图标出休息需求；记录来访者能够和不能承担的工作。",
+        "worldEffect": "为方案增加“保留适用座位”和“明确维护频率”的需求，不强制唯一材料。",
+        "teacherCheck": "学生须回应人物需求，不能只重复环保口号。"
+      },
+      "reviewNotes": "信件为原创虚构；真实维护频率取决于植物和条件，信件没有虚构固定次数。",
+      "coreSupport": {
+        "shortText": "Someone needs a place to rest. Who will look after the flowers?",
+        "glosses": {
+          "replacement": "替代物",
+          "volunteer": "自愿承担工作"
+        }
+      },
+      "releaseStatus": "internally_reviewed_teacher_review_required"
+    },
+    {
+      "id": "C2-N04",
+      "caseId": "C2",
+      "locationId": "loc.workshop",
+      "format": "planning_negotiation",
+      "title": "Choose a plan and a caretaker",
+      "stage": "plan_act",
+      "provenance": "original_fiction",
+      "languageSourceIds": [
+        "LANG05",
+        "LANG06",
+        "LANG11",
+        "LANG14"
+      ],
+      "environmentSourceIds": [
+        "ENV03"
+      ],
+      "evidenceIds": [
+        "C2-E01",
+        "C2-E02",
+        "C2-E05",
+        "C2-E06"
+      ],
+      "content": "Sam's inspection has now been recorded. In this version of the story, the crates are suitable for the proposed flower containers, and the bench can be repaired for continued use. The unlabelled board remains outside the usable stock.\nPlan A repairs the bench and uses the checked crates. Plan B repairs the bench and uses suitable new containers that the team can maintain. Either plan needs a reason and a named caretaker.\nChoose the pieces in the digital workbench, assemble the container and place it where it will not block the path. If your plan leaves nobody responsible for maintenance, reopen the rota before confirming it.",
+      "interaction": {
+        "action": "读取检查结果；选择并组合数字部件，检查通道，协商谁负责维护。",
+        "worldEffect": "消耗指定材料对象；生成有来源ID和维护计划的花箱；修复同一座椅对象。",
+        "alternateScenario": "若教师选择“座椅检查后不宜继续使用”分支，本单元改用对应检查文本及更换座位方案；不得与当前结果同时出现。",
+        "acceptance": "不同材料方案可成立；缺座位、路径被挡、无维护安排会引发具体人物反馈，允许修订。"
+      },
+      "reviewNotes": "此处检查结果仅属虚构剧情，不指导学生检查承重结构；不能从选择reuse按钮推定方案优越。",
+      "coreSupport": {
+        "shortText": "Choose suitable materials. Keep the path clear. Agree who will care for the result.",
+        "glosses": {
+          "caretaker": "负责照料的人",
+          "rota": "轮值安排"
+        }
+      },
+      "releaseStatus": "internally_reviewed_teacher_review_required"
+    },
+    {
+      "id": "C2-N05",
+      "caseId": "C2",
+      "locationId": "loc.workshop",
+      "format": "public_label",
+      "title": "Tell the object's whole story",
+      "stage": "transfer",
+      "provenance": "original_fiction",
+      "languageSourceIds": [
+        "LANG05",
+        "LANG06",
+        "LANG11",
+        "LANG12"
+      ],
+      "environmentSourceIds": [
+        "ENV03"
+      ],
+      "evidenceIds": [
+        "C2-E06",
+        "C2-E07"
+      ],
+      "content": "These flower containers were made from crates previously used in the greenhouse. Sam checked the crates for this purpose before the team used them. They have a new job, but they still need care.\nThis is reuse: the objects have been used again. Recycling would involve processing discarded material so that it could be made into something else.\nOur label names the original use, the new use and the people responsible for maintenance. It also has a space for the next review.\nWould your classroom benefit from repairing or reusing something? Start with a real need, ask the person responsible, and explain why your idea is suitable.",
+      "interaction": {
+        "action": "为自己的实物成果写来历、用途、维护者、复查点；提出校内具体再用或维修建议。",
+        "worldEffect": "标签保留在对应成果对象上，从总览返回仍可查看。",
+        "closedCheck": {
+          "question": "In this example, were the crates reused or processed into new raw material?",
+          "answer": "They were reused.",
+          "basis": [
+            "C2-E07"
+          ]
+        }
+      },
+      "reviewNotes": "仅当玩家采用木箱方案时展示此示例；新容器路线必须生成相符来历，不沿用reuse文案。",
+      "coreSupport": {
+        "shortText": "What was it? What is it now? Who will look after it?",
+        "glosses": {
+          "discarded": "被弃置的",
+          "maintenance": "维护"
+        }
+      },
+      "releaseStatus": "internally_reviewed_teacher_review_required"
+    },
+    {
+      "id": "C3-N01",
+      "caseId": "C3",
+      "locationId": "loc.exit_path",
+      "format": "site_note",
+      "title": "The valley after sunset",
+      "stage": "observe",
+      "provenance": "original_fiction",
+      "languageSourceIds": [
+        "LANG07",
+        "LANG10"
+      ],
+      "environmentSourceIds": [
+        "ENV04"
+      ],
+      "evidenceIds": [
+        "C3-E01",
+        "C3-E02"
+      ],
+      "content": "The same valley feels different in the evening. Light from a decorative lamp reaches beyond the path towards the stream. Near the exit, a notice says that the workshop team may stay after the public visit ends.\nOne student suggests switching off every lamp as soon as the visitors leave. That might reduce unnecessary lighting, but who else will still be here?\nKeep the camera and evening conditions fixed while comparing plans. A brighter picture does not automatically mean a better route, and a darker picture does not prove that every problem has been solved. Look at where the light goes and ask who needs it.",
+      "interaction": {
+        "action": "沿同一路线观察光落点；切换同机位方案预览；找出仍需服务的人。",
+        "worldEffect": "保留C1措施和C2成果，使用原灯具实例；预览不覆盖已保存设置。",
+        "teacherCheck": "能同时描述多余照明和实际使用需求。"
+      },
+      "reviewNotes": "不把画面亮度当照度计；不从一次模拟得出真实生态或安全认证。",
+      "coreSupport": {
+        "shortText": "Where does the light go? Who still needs the path?",
+        "glosses": {
+          "decorative": "装饰性的"
+        }
+      },
+      "releaseStatus": "internally_reviewed_teacher_review_required"
+    },
+    {
+      "id": "C3-N02",
+      "caseId": "C3",
+      "locationId": "loc.workshop",
+      "format": "branching_dialogue",
+      "title": "Listen to the last person leaving",
+      "stage": "interview",
+      "provenance": "original_fiction",
+      "languageSourceIds": [
+        "LANG13",
+        "LANG14",
+        "LANG15"
+      ],
+      "environmentSourceIds": [
+        "ENV04"
+      ],
+      "evidenceIds": [
+        "C3-E01",
+        "C3-E03"
+      ],
+      "content": [
+        {
+          "speaker": "Amina",
+          "text": "The public visit ends at seven, but we may still be clearing the workshop at a quarter to eight."
+        },
+        {
+          "speaker": "Learner",
+          "text": "Could we turn the decorative lights off at seven and keep the task lights available?"
+        },
+        {
+          "speaker": "Amina",
+          "text": "That could work. We also need a usable route to the exit, including for people who walk slowly."
+        },
+        {
+          "speaker": "Learner",
+          "text": "What if the route lights switch off before someone has left?"
+        },
+        {
+          "speaker": "Amina",
+          "text": "Please give us a way to extend the time. A fixed schedule is helpful, but it cannot know whether everyone has gone."
+        }
+      ],
+      "interaction": {
+        "action": "听访谈并补全晚间使用图；追问例外情形。",
+        "branches": [
+          {
+            "choice": "Everyone can just leave faster.",
+            "reply": "Some people need more time, and clearing up is part of the work. Could we change the lighting plan instead?",
+            "effect": "邀请重新设计，不把慢行者当障碍。"
+          },
+          {
+            "choice": "Who could check the route before closing?",
+            "reply": "The closing volunteer can check it and record any problem. Please include that job in the rota.",
+            "effect": "把维护责任纳入方案。"
+          }
+        ],
+        "worldEffect": "新增关闭流程与手动延时需求。"
+      },
+      "reviewNotes": "7:00和7:45是本案虚构时刻；不是适用于所有学校或季节的规范。",
+      "coreSupport": {
+        "shortText": "Some people leave later. Some people need more time. How can the plan include them?",
+        "glosses": {
+          "extend": "延长",
+          "task light": "工作照明"
+        }
+      },
+      "releaseStatus": "internally_reviewed_teacher_review_required"
+    },
+    {
+      "id": "C3-N03",
+      "caseId": "C3",
+      "locationId": "loc.exit_path",
+      "format": "fixture_card",
+      "title": "Change where the light goes",
+      "stage": "plan",
+      "provenance": "original_fiction",
+      "languageSourceIds": [
+        "LANG09",
+        "LANG11",
+        "LANG14"
+      ],
+      "environmentSourceIds": [
+        "ENV04"
+      ],
+      "evidenceIds": [
+        "C3-E02",
+        "C3-E04"
+      ],
+      "content": "In this simulation, the path lamp has a direction control, a shade and a timer. The decorative lamp can be controlled separately. The closing volunteer can extend the route lighting when it is still needed.\nFirst decide what each light is for. Then aim it at that area, check for unnecessary spill and choose a suitable schedule. Try a lower setting, but check the whole route again before keeping it.\nThese controls are a model for discussion. They do not tell you how to alter a real electrical fitting. For a real place, ask the person responsible to review any proposed change.",
+      "interaction": {
+        "action": "旋转数字灯罩、调整照向和时间表；对比三个固定观测位。",
+        "worldEffect": "灯罩姿态、发光和照明参数分别保存，同一灯具白天可见。",
+        "acceptance": "方案要覆盖实际使用场景；调低不自动成功，调高也不自动成功。"
+      },
+      "reviewNotes": "遵循有用、定向、适量、受控等原则；无真实照度下限，非电气操作指南。",
+      "coreSupport": {
+        "shortText": "What is the light for? Aim it there. Check the route before saving.",
+        "glosses": {
+          "shade": "灯罩",
+          "spill": "照到目标区域外的光"
+        }
+      },
+      "releaseStatus": "internally_reviewed_teacher_review_required"
+    },
+    {
+      "id": "C3-N04",
+      "caseId": "C3",
+      "locationId": "loc.exit_path",
+      "format": "scenario_test",
+      "title": "Three departures",
+      "stage": "test_revise",
+      "provenance": "original_fiction",
+      "languageSourceIds": [
+        "LANG12",
+        "LANG14",
+        "LANG15"
+      ],
+      "environmentSourceIds": [
+        "ENV04"
+      ],
+      "evidenceIds": [
+        "C3-E01",
+        "C3-E02",
+        "C3-E03",
+        "C3-E04"
+      ],
+      "content": "Test your plan in three situations: a visitor leaves at the usual time; a slower walker takes longer; the workshop team finishes late. Finally, check the empty route after everyone has left.\nIf a timer ends too soon, the character pauses and asks for the lighting to be extended. The simulation records the problem without showing an accident. Change the plan and repeat the same situation.\nAlthough the empty path no longer needs decorative lighting, someone may still need light for a real task. Explain how your controls respond to both cases.\nYou have tested the situations provided by this model. What other situation would you ask the community about before using a similar plan in real life?",
+      "interaction": {
+        "action": "选择情境、观察人物经过、查看失败位置、调参重试；保留失败方案用于比较。",
+        "worldEffect": "将经过验证并确认的配置写入世界，记录手动延时与值班责任。",
+        "acceptance": "区分游戏内情境通过与现实方案认可；学生提出至少一个模型未覆盖的使用情况。"
+      },
+      "reviewNotes": "人物暂停不是危险惩罚；不以绝对最暗、最低耗电作为唯一正确答案。",
+      "coreSupport": {
+        "shortText": "Test a late departure. Test a slow journey. Change the plan if it does not work.",
+        "glosses": {
+          "departure": "离开",
+          "timer": "定时器"
+        }
+      },
+      "releaseStatus": "internally_reviewed_teacher_review_required"
+    },
+    {
+      "id": "C3-N05",
+      "caseId": "C3",
+      "locationId": "loc.flower_ring",
+      "format": "invitation_letter",
+      "title": "An invitation with a question",
+      "stage": "transfer",
+      "provenance": "original_fiction",
+      "languageSourceIds": [
+        "LANG01",
+        "LANG13",
+        "LANG15"
+      ],
+      "environmentSourceIds": [
+        "ENV04"
+      ],
+      "evidenceIds": [
+        "C3-E01",
+        "C3-E03"
+      ],
+      "content": "Dear school community,\nWe would like to discuss the lighting near our shared outdoor spaces. Our valley project taught us to ask what a light is for, where it shines and who uses the place.\nBefore proposing a change, we want to hear from students, cleaners, caretakers and people who need extra time to move around. Although our ideas may reduce unnecessary lighting, they must also respond to people's needs.\nCould you help us identify one place to observe and one person to interview? We will bring a record of what we noticed, explain what we still do not know, and invite others to improve the proposal.",
+      "interaction": {
+        "action": "用本组调查信息改写倡议；明确对象、地点、邀请行动和复查方式。",
+        "worldEffect": "生成可讨论的倡议草稿，不自动向真实人物发送。",
+        "teacherCheck": "论据来自实际已取得记录；不把虚构山谷证据当成学校实测事实。"
+      },
+      "reviewNotes": "完成游戏后可看示例；现实调查需另取证。社会呼吁从具体问题和对话开始。",
+      "coreSupport": {
+        "shortText": "Choose a real place. Listen to its users. Invite them to improve the plan.",
+        "glosses": {
+          "proposal": "提议",
+          "caretaker": "场地管理或维护人员"
+        }
+      },
+      "releaseStatus": "internally_reviewed_teacher_review_required"
+    }
+  ]
+}

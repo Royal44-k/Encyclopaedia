@@ -1,0 +1,210 @@
+{
+  "T01.001": {
+    "duration": 1.963,
+    "sampleRate": 24000,
+    "channels": 1,
+    "peakDbFS": -2.16,
+    "rmsDbFS": -21.96,
+    "bytes": 94252,
+    "sha256": "189141e2c8515fbf473a13353b7d9960b2dafd1c8d4d43c4cc46f61a535a852e",
+    "renderSeconds": 1.47
+  },
+  "T01.002": {
+    "duration": 2.539,
+    "sampleRate": 24000,
+    "channels": 1,
+    "peakDbFS": -2.16,
+    "rmsDbFS": -19.49,
+    "bytes": 121900,
+    "sha256": "90f33148da2c7240dd45a59c67f44f449801c2461bf662cd99ddc48a832ec2c3",
+    "renderSeconds": 1.69
+  },
+  "T01.003": {
+    "duration": 2.773,
+    "sampleRate": 24000,
+    "channels": 1,
+    "peakDbFS": -2.16,
+    "rmsDbFS": -21.71,
+    "bytes": 133164,
+    "sha256": "ff64b1750ee6fca7c1d021404be185b03b3cc9103cb0e9eac00c10c1f30056d2",
+    "renderSeconds": 1.78
+  },
+  "T01.005": {
+    "duration": 3.797,
+    "sampleRate": 24000,
+    "channels": 1,
+    "peakDbFS": -2.16,
+    "rmsDbFS": -21.84,
+    "bytes": 182316,
+    "sha256": "12b35243262174ae6353814657360e8aff5472314ad50c7feb8b307ba777e65e",
+    "renderSeconds": 2.22
+  },
+  "T01.006": {
+    "duration": 2.069,
+    "sampleRate": 24000,
+    "channels": 1,
+    "peakDbFS": -2.16,
+    "rmsDbFS": -20.24,
+    "bytes": 99372,
+    "sha256": "4cb43e38150b254b7ecffc95098bbdea1709a93dd12a70b9c504e3da17ffccfd",
+    "renderSeconds": 1.41
+  },
+  "T01.007": {
+    "duration": 1.28,
+    "sampleRate": 24000,
+    "channels": 1,
+    "peakDbFS": -2.16,
+    "rmsDbFS": -18.25,
+    "bytes": 61484,
+    "sha256": "1d8dc8738c9454731b8781807902b719539e57d84a7f2faecbc46eb156ff8e1b",
+    "renderSeconds": 0.97
+  },
+  "T01.009": {
+    "duration": 2.645,
+    "sampleRate": 24000,
+    "channels": 1,
+    "peakDbFS": -2.16,
+    "rmsDbFS": -18.19,
+    "bytes": 127020,
+    "sha256": "fa8fd4869e9e74a3e6cb57eacea5e69a8c136fd9f8e073a94ad102f89843536d",
+    "renderSeconds": 1.75
+  },
+  "T01.010": {
+    "duration": 1.365,
+    "sampleRate": 24000,
+    "channels": 1,
+    "peakDbFS": -2.16,
+    "rmsDbFS": -21.35,
+    "bytes": 65580,
+    "sha256": "77e5812223ad584a9e24b83309b2de3ac81488efe35496a700721fea3a13d038",
+    "renderSeconds": 1.02
+  },
+  "T01.012": {
+    "duration": 2.197,
+    "sampleRate": 24000,
+    "channels": 1,
+    "peakDbFS": -2.16,
+    "rmsDbFS": -22.15,
+    "bytes": 105516,
+    "sha256": "0165ba1b4659f7ce6538738155217a54d479a5bbfdbe54894b86ddcbeaea29e8",
+    "renderSeconds": 1.39
+  },
+  "T01.013": {
+    "duration": 2.475,
+    "sampleRate": 24000,
+    "channels": 1,
+    "peakDbFS": -2.16,
+    "rmsDbFS": -18.7,
+    "bytes": 118828,
+    "sha256": "0928cfa35bc1af8fa92ea41acca5110c3c6030e65ad31870cfc75cc42e73ecb5",
+    "renderSeconds": 1.62
+  },
+  "T01.015": {
+    "duration": 1.664,
+    "sampleRate": 24000,
+    "channels": 1,
+    "peakDbFS": -2.16,
+    "rmsDbFS": -18.79,
+    "bytes": 79916,
+    "sha256": "61ea8bda77e6a8ec56f3feeac7d8d4f40fbc09da2552f0b7fb038922f1ffe10a",
+    "renderSeconds": 1.26
+  },
+  "T01.016": {
+    "duration": 1.856,
+    "sampleRate": 24000,
+    "channels": 1,
+    "peakDbFS": -2.16,
+    "rmsDbFS": -19.8,
+    "bytes": 89132,
+    "sha256": "0a7b26e83b5aa3a8e52681b6a767a2fdad12edb19af395494c787240438897ed",
+    "renderSeconds": 1.2
+  },
+  "T01.018": {
+    "duration": 1.877,
+    "sampleRate": 24000,
+    "channels": 1,
+    "peakDbFS": -2.66,
+    "rmsDbFS": -17.69,
+    "bytes": 90156,
+    "sha256": "9239cc942b3b0ab1d5edd5e9c9f6db90f62ac8429b29fe62384fff010f73dba6",
+    "renderSeconds": 1.31
+  },
+  "T01.019": {
+    "duration": 2.325,
+    "sampleRate": 24000,
+    "channels": 1,
+    "peakDbFS": -2.16,
+    "rmsDbFS": -21.39,
+    "bytes": 111660,
+    "sha256": "ca2d1fb39e8d5fa860ed96dc76213224fc70356cf559281d989e1de6a69101e1",
+    "renderSeconds": 1.51
+  },
+  "T01.020": {
+    "duration": 3.712,
+    "sampleRate": 24000,
+    "channels": 1,
+    "peakDbFS": -2.16,
+    "rmsDbFS": -21.56,
+    "bytes": 178220,
+    "sha256": "a38fca3000f30f03aca17e87731de6264458ce0658dc56d705090c0b946438c6",
+    "renderSeconds": 2.17
+  },
+  "T01.022": {
+    "duration": 2.453,
+    "sampleRate": 24000,
+    "channels": 1,
+    "peakDbFS": -2.16,
+    "rmsDbFS": -20.44,
+    "bytes": 117804,
+    "sha256": "5539701891a6dcc9dbaf766193774c4c327797e60199eedd065af65a31829faf",
+    "renderSeconds": 1.62
+  },
+  "T01.023": {
+    "duration": 3.349,
+    "sampleRate": 24000,
+    "channels": 1,
+    "peakDbFS": -2.16,
+    "rmsDbFS": -20.17,
+    "bytes": 160812,
+    "sha256": "5d7b4100f6d71b7beb86d58c0c4c027262293aaff89479c82b9cdfb970cb8cb3",
+    "renderSeconds": 1.95
+  },
+  "T01.025": {
+    "duration": 1.643,
+    "sampleRate": 24000,
+    "channels": 1,
+    "peakDbFS": -2.16,
+    "rmsDbFS": -17.1,
+    "bytes": 78892,
+    "sha256": "5656205140c7b81e5693a87bcc87a5e61cd734c729c037e170472c5d32579092",
+    "renderSeconds": 1.25
+  },
+  "T01.026": {
+    "duration": 3.2,
+    "sampleRate": 24000,
+    "channels": 1,
+    "peakDbFS": -2.16,
+    "rmsDbFS": -22.86,
+    "bytes": 153644,
+    "sha256": "069da74597f13ca6ac3ad2774943ed1ba299c82b24ec7cea9b9b0054a976ab68",
+    "renderSeconds": 1.92
+  },
+  "workshop": {
+    "duration": 22.326,
+    "sampleRate": 32000,
+    "channels": 2,
+    "peakDbFS": -3.35,
+    "rmsDbFS": -15.82,
+    "bytes": 2857720,
+    "sha256": "bad1fa32d33fa81e1ce862add7a2547bb8878c6993a80da2c27e2b29bf4a6c69"
+  },
+  "workshop_display": {
+    "duration": 26.667,
+    "sampleRate": 32000,
+    "channels": 2,
+    "peakDbFS": -3.35,
+    "rmsDbFS": -15.8,
+    "bytes": 3413376,
+    "sha256": "596cbc62b3ecb0c7ff2f9e5882c93312e430548568c59c206783d05f681be811"
+  }
+}

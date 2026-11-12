@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-06",
+  "status": "passed",
+  "counts": {
+    "mainCases": 12,
+    "optionalEvents": 24,
+    "newNarrativeUnits": 18,
+    "totalNarrativeUnitsIncludingV3": 33,
+    "sharedObjectEntries": 14,
+    "environmentSourcesIncludingV3": 12,
+    "localLinksChecked": 29
+  },
+  "checks": [
+    "unique IDs",
+    "location and case references",
+    "old evidence reuse",
+    "source IDs and exact supported phrases",
+    "C5 phase consistency",
+    "case/event presence in master design",
+    "two feasible resource examples",
+    "local document links"
+  ],
+  "notVerified": [
+    "runtime 3D or state logic",
+    "actual mapped path dimensions",
+    "classroom outcomes",
+    "teacher approval",
+    "new vocabulary and recorded audio",
+    "all 12 complete production scripts"
+  ]
+}

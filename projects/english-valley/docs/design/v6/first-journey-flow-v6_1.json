@@ -1,0 +1,4909 @@
+{
+  "schemaVersion": "6.1-handoff-1",
+  "status": "declarative_design_contract_not_runtime_implementation",
+  "date": "2026-11-07",
+  "purpose": "第一条完整旅程的类型、分支、客观事件和存档边界；不替代原剧本，不宣称经过运行验证。",
+  "entryNode": "j.entry",
+  "profile": {
+    "id": "standalone_invited_return",
+    "declaredPremise": "独立回访课例：Noor接受这次同行邀请，Rowan带着公共记录在桥位等待；玩家此前没有被记录为清理、试验或实施。",
+    "storyClock": "fixed_narrative_stage_no_real_clock_countdown",
+    "priorPlayerAchievements": [],
+    "scopeExclusions": [
+      "完整T03游园和11点演示",
+      "成熟植被试验",
+      "真实水文预测",
+      "联网协作",
+      "自动英语评分",
+      "实际后续生态观测结果"
+    ]
+  },
+  "sourceContracts": {
+    "layout": "../world-layout-v3.json",
+    "layoutStatus": "proposed_coordinates_not_yet_blockout_validated",
+    "staging": "story-state-and-staging.md",
+    "dialogue": "dialogue-reference-index.json",
+    "evidence": "../learning-casebook-v3.md"
+  },
+  "types": {
+    "nullableLocationId": {
+      "union": [
+        "null",
+        "locationId"
+      ]
+    },
+    "locationId": {
+      "enum": [
+        "loc.stream_bridge",
+        "loc.upper_stream",
+        "loc.bare_bed",
+        "loc.greenhouse"
+      ]
+    },
+    "nullableString": {
+      "union": [
+        "null",
+        "string"
+      ]
+    },
+    "nodeId": {
+      "enum": [
+        "j.entry",
+        "j.bridge_record",
+        "j.bridge_hook",
+        "j.fieldwork",
+        "j.mei_neutral",
+        "j.mei_direct",
+        "j.mei_followup",
+        "j.model_assemble",
+        "j.model_intro",
+        "j.model",
+        "j.plan_review",
+        "j.plan_choice",
+        "j.materials",
+        "j.placement",
+        "j.explain",
+        "j.return_to_bridge",
+        "j.return_card",
+        "j.end_saved",
+        "j.end_paused",
+        "j.end_unresolved"
+      ]
+    },
+    "nullableModelPosition": {
+      "union": [
+        "null",
+        {
+          "enum": [
+            "no_cover",
+            "source_cover_zone",
+            "unrelated_zone"
+          ]
+        }
+      ]
+    },
+    "nullablePlacementZone": {
+      "union": [
+        "null",
+        {
+          "enum": [
+            "source_cover_zone",
+            "unrelated_zone",
+            "outside_allowed_zones"
+          ]
+        }
+      ]
+    },
+    "Transform": {
+      "object": {
+        "position": {
+          "type": "number[3]",
+          "units": "metres"
+        },
+        "rotation": {
+          "type": "number[4]",
+          "units": "normalized_quaternion"
+        },
+        "scale": {
+          "type": "number[3]",
+          "minimumExclusive": 0
+        }
+      },
+      "allRequired": true,
+      "finiteNumbersOnly": true
+    },
+    "nullableTransform": {
+      "union": [
+        "null",
+        "Transform"
+      ]
+    },
+    "EvidenceRecord": {
+      "object": {
+        "eventId": "string",
+        "evidenceId": "string",
+        "origin": {
+          "enum": [
+            "observed",
+            "peer_shared"
+          ]
+        },
+        "locationId": "locationId",
+        "storyDayId": "string",
+        "observationProvenance": "string"
+      },
+      "allRequired": true
+    },
+    "TrialRecord": {
+      "object": {
+        "trialId": "string",
+        "modelVersion": "string",
+        "conditionsId": "string",
+        "baselinePosition": {
+          "enum": [
+            "no_cover"
+          ]
+        },
+        "position": {
+          "enum": [
+            "no_cover",
+            "source_cover_zone",
+            "unrelated_zone"
+          ]
+        },
+        "result": {
+          "enum": [
+            "no_difference",
+            "less_source_soil_shown"
+          ]
+        },
+        "provenance": "string",
+        "storyDayId": "string",
+        "runId": "string"
+      },
+      "allRequired": true
+    },
+    "PictureCard": {
+      "object": {
+        "slot": {
+          "enum": [
+            1,
+            2,
+            3
+          ]
+        },
+        "sourceId": "nullableString",
+        "caption": "string",
+        "audioBlobId": "nullableString"
+      },
+      "allRequired": true
+    },
+    "PictureCard[3]": {
+      "arrayOf": "PictureCard",
+      "length": 3,
+      "uniqueBy": "slot",
+      "requiredSlots": [
+        1,
+        2,
+        3
+      ],
+      "nullableSourcesAllowed": true
+    },
+    "ExplanationVersion": {
+      "object": {
+        "eventId": "string",
+        "cards": "PictureCard[3]",
+        "worldLitterRemoved": "boolean",
+        "worldCoverInstalled": "boolean",
+        "trialIdsAtSave": "string[]",
+        "storyDayId": "string"
+      },
+      "allRequired": true
+    },
+    "ReturnCard": {
+      "object": {
+        "locationId": "locationId",
+        "whenText": "string",
+        "question": "string",
+        "whatToObserve": "string",
+        "participants": "string",
+        "realWorldConnection": "string"
+      },
+      "allRequired": true,
+      "emptyTextAllowed": true
+    },
+    "nullableReturnCard": {
+      "union": [
+        "null",
+        "ReturnCard"
+      ]
+    },
+    "FollowupObservation": {
+      "object": {
+        "recordId": "string",
+        "storyDayId": "string",
+        "locationId": "locationId",
+        "observerText": "string",
+        "source": "string"
+      },
+      "allRequired": true,
+      "firstSliceWritePolicy": "no_event_writes_this_type"
+    },
+    "nullableEvidenceId": {
+      "union": [
+        "null",
+        {
+          "enum": [
+            "C1-E02",
+            "C1-E03"
+          ]
+        }
+      ]
+    },
+    "resumeNodeId": {
+      "enum": [
+        "j.entry",
+        "j.bridge_record",
+        "j.bridge_hook",
+        "j.fieldwork",
+        "j.mei_neutral",
+        "j.mei_direct",
+        "j.mei_followup",
+        "j.model_assemble",
+        "j.model_intro",
+        "j.model",
+        "j.plan_review",
+        "j.plan_choice",
+        "j.materials",
+        "j.placement",
+        "j.explain",
+        "j.return_to_bridge",
+        "j.return_card"
+      ]
+    },
+    "nullableDeliveredDialogueId": {
+      "union": [
+        "null",
+        {
+          "enum": [
+            "T03S.001",
+            "T03S.002",
+            "T03S.007",
+            "T03S.009",
+            "T03S.011",
+            "T03S.026",
+            "T03S.028"
+          ]
+        }
+      ]
+    }
+  },
+  "fields": {
+    "session.mode": {
+      "type": "enum",
+      "initial": "same_pc_group",
+      "values": [
+        "same_pc_group",
+        "teacher_projection",
+        "single_bounded_npc"
+      ]
+    },
+    "session.profile": {
+      "type": "enum",
+      "initial": "standalone_invited_return",
+      "values": [
+        "standalone_invited_return"
+      ]
+    },
+    "session.storyDayId": {
+      "type": "string",
+      "initial": "visit.return.01"
+    },
+    "session.phase": {
+      "type": "enum",
+      "initial": "active",
+      "values": [
+        "active",
+        "saved_exit",
+        "paused",
+        "unresolved"
+      ]
+    },
+    "navigation.currentLocation": {
+      "type": "enum",
+      "initial": "loc.stream_bridge",
+      "values": [
+        "loc.stream_bridge",
+        "loc.upper_stream",
+        "loc.bare_bed",
+        "loc.greenhouse"
+      ]
+    },
+    "navigation.targetLocation": {
+      "type": "nullableLocationId",
+      "initial": null
+    },
+    "evidence.bridge": {
+      "type": "enum",
+      "initial": "unseen",
+      "values": [
+        "unseen",
+        "observed"
+      ]
+    },
+    "evidence.upper": {
+      "type": "enum",
+      "initial": "unseen",
+      "values": [
+        "unseen",
+        "observed",
+        "peer_shared"
+      ]
+    },
+    "evidence.path": {
+      "type": "enum",
+      "initial": "unseen",
+      "values": [
+        "unseen",
+        "observed",
+        "peer_shared"
+      ]
+    },
+    "evidence.records": {
+      "type": "EvidenceRecord[]",
+      "initial": []
+    },
+    "interview.heard": {
+      "type": "boolean",
+      "initial": false
+    },
+    "interview.intent": {
+      "type": "enum",
+      "initial": "none",
+      "values": [
+        "none",
+        "ask_observation",
+        "attribute_blame"
+      ]
+    },
+    "world.litterRemoved": {
+      "type": "boolean",
+      "initial": false
+    },
+    "world.coverInstalled": {
+      "type": "boolean",
+      "initial": false
+    },
+    "world.coverTransform": {
+      "type": "nullableTransform",
+      "initial": null
+    },
+    "world.waterAppearance": {
+      "type": "enum",
+      "initial": "authored_brown_at_recorded_visit",
+      "values": [
+        "authored_brown_at_recorded_visit"
+      ]
+    },
+    "model.phase": {
+      "type": "enum",
+      "initial": "idle",
+      "values": [
+        "idle",
+        "running"
+      ]
+    },
+    "model.candidatePosition": {
+      "type": "enum",
+      "initial": "no_cover",
+      "values": [
+        "no_cover",
+        "source_cover_zone",
+        "unrelated_zone"
+      ]
+    },
+    "model.runningPosition": {
+      "type": "nullableModelPosition",
+      "initial": null
+    },
+    "model.latestPosition": {
+      "type": "nullableModelPosition",
+      "initial": null
+    },
+    "model.latestResult": {
+      "type": "enum",
+      "initial": "not_run",
+      "values": [
+        "not_run",
+        "no_difference",
+        "less_source_soil_shown"
+      ]
+    },
+    "model.latestTrialId": {
+      "type": "nullableString",
+      "initial": null
+    },
+    "model.trials": {
+      "type": "TrialRecord[]",
+      "initial": []
+    },
+    "plan.status": {
+      "type": "enum",
+      "initial": "none",
+      "values": [
+        "none",
+        "proposal",
+        "agreed"
+      ]
+    },
+    "plan.trialId": {
+      "type": "nullableString",
+      "initial": null
+    },
+    "plan.note": {
+      "type": "string",
+      "initial": ""
+    },
+    "implementation.requested": {
+      "type": "boolean",
+      "initial": false
+    },
+    "implementation.materialsChecked": {
+      "type": "boolean",
+      "initial": false
+    },
+    "implementation.materialState": {
+      "type": "enum",
+      "initial": "at_table",
+      "values": [
+        "at_table",
+        "carried",
+        "draft_placed",
+        "installed"
+      ]
+    },
+    "implementation.draftZone": {
+      "type": "nullablePlacementZone",
+      "initial": null
+    },
+    "implementation.draftTransform": {
+      "type": "nullableTransform",
+      "initial": null
+    },
+    "explanation.status": {
+      "type": "enum",
+      "initial": "empty",
+      "values": [
+        "empty",
+        "draft",
+        "saved"
+      ]
+    },
+    "explanation.revision": {
+      "type": "integer",
+      "initial": 0,
+      "minimum": 0
+    },
+    "explanation.cards": {
+      "type": "PictureCard[3]",
+      "initial": [
+        {
+          "slot": 1,
+          "sourceId": null,
+          "caption": "",
+          "audioBlobId": null
+        },
+        {
+          "slot": 2,
+          "sourceId": null,
+          "caption": "",
+          "audioBlobId": null
+        },
+        {
+          "slot": 3,
+          "sourceId": null,
+          "caption": "",
+          "audioBlobId": null
+        }
+      ]
+    },
+    "explanation.history": {
+      "type": "ExplanationVersion[]",
+      "initial": []
+    },
+    "followup.status": {
+      "type": "enum",
+      "initial": "not_planned",
+      "values": [
+        "not_planned",
+        "planned"
+      ]
+    },
+    "followup.card": {
+      "type": "nullableReturnCard",
+      "initial": null
+    },
+    "followup.observations": {
+      "type": "FollowupObservation[]",
+      "initial": []
+    },
+    "resume.nodeId": {
+      "type": "resumeNodeId",
+      "initial": "j.entry"
+    },
+    "resume.reason": {
+      "type": "enum",
+      "initial": "none",
+      "values": [
+        "none",
+        "pause",
+        "unresolved",
+        "saved_finish"
+      ]
+    },
+    "resume.note": {
+      "type": "string",
+      "initial": ""
+    },
+    "session.layoutVersion": {
+      "type": "string",
+      "initial": "unbound"
+    },
+    "session.assetManifestVersion": {
+      "type": "string",
+      "initial": "unbound"
+    },
+    "model.activeRunId": {
+      "type": "nullableString",
+      "initial": null
+    },
+    "delivery.T03S.001": {
+      "type": "boolean",
+      "initial": false
+    },
+    "delivery.T03S.002": {
+      "type": "boolean",
+      "initial": false
+    },
+    "delivery.T03S.007": {
+      "type": "boolean",
+      "initial": false
+    },
+    "delivery.T03S.009": {
+      "type": "boolean",
+      "initial": false
+    },
+    "delivery.T03S.011": {
+      "type": "boolean",
+      "initial": false
+    },
+    "delivery.T03S.026": {
+      "type": "boolean",
+      "initial": false
+    },
+    "delivery.T03S.028": {
+      "type": "boolean",
+      "initial": false
+    },
+    "plan.purposeAndPositionConfirmed": {
+      "type": "boolean",
+      "initial": false
+    }
+  },
+  "contextFields": {
+    "eventId": {
+      "type": "string",
+      "source": "command UUID generated once and reused on retry"
+    },
+    "currentNodeId": {
+      "type": "nodeId",
+      "source": "last committed graph node"
+    },
+    "activeCastNoor": {
+      "type": "boolean",
+      "source": "Noor is actually at the speaking position"
+    },
+    "activeCastRowan": {
+      "type": "boolean",
+      "source": "Rowan is actually at the speaking position"
+    },
+    "activeCastMei": {
+      "type": "boolean",
+      "source": "Mei is actually at the speaking position"
+    },
+    "activeCastSam": {
+      "type": "boolean",
+      "source": "Sam is actually at the speaking position"
+    },
+    "destinationReached": {
+      "type": "boolean",
+      "source": "navigation adapter confirms camera/player reached requested anchor on the walkable route"
+    },
+    "bridgePairFullyOpened": {
+      "type": "boolean",
+      "source": "both authored bridge records displayed with source date and camera point"
+    },
+    "upperPairFullyOpened": {
+      "type": "boolean",
+      "source": "current-round upstream/bridge records displayed with both location/date labels"
+    },
+    "sourcePathInspected": {
+      "type": "boolean",
+      "source": "source soil, shallow channel and junction views opened; no comprehension inferred"
+    },
+    "cleanupActionFinished": {
+      "type": "boolean",
+      "source": "bottle prop actually transferred to the collection container"
+    },
+    "modelAnimationFinished": {
+      "type": "boolean",
+      "source": "the deterministic authored comparison or accessible step-by-step equivalent associated with input.runId has finished; late completion from another run is not accepted"
+    },
+    "targetSurfaceAcceptsCover": {
+      "type": "boolean",
+      "source": "collision and normal checks of the saved implementation.draftTransform against source_cover_zone in the bound session.layoutVersion"
+    },
+    "placementBlocksRoute": {
+      "type": "boolean",
+      "source": "intersection of the saved implementation.draftTransform with walkway/water-channel exclusion volumes in the bound layout"
+    },
+    "coverOrientationValid": {
+      "type": "boolean",
+      "source": "orientation/height checks of the saved implementation.draftTransform against the same target surface"
+    },
+    "threeCardSourcesValid": {
+      "type": "boolean",
+      "source": "each non-null card source resolves to an allowed committed record; empty slots allowed"
+    },
+    "referencedMediaDurable": {
+      "type": "boolean",
+      "source": "every referenced audio/frame blob exists locally and has been persisted"
+    },
+    "sharedEvidencePresented": {
+      "type": "boolean",
+      "source": "same-device group explicitly opened an existing public evidence record while sharing; not inferred from speech"
+    },
+    "sharedEvidenceId": {
+      "type": "nullableEvidenceId",
+      "source": "ID of the exact public evidence record displayed by the same-device sharer"
+    },
+    "sessionReopened": {
+      "type": "boolean",
+      "source": "storage adapter confirms a new app session has loaded a complete committed revision"
+    },
+    "sceneBindingsReady": {
+      "type": "boolean",
+      "source": "loader confirms concrete layout/asset versions, anchors, target zones, navigation and public records are bound for this session"
+    },
+    "presentedDialogueId": {
+      "type": "nullableDeliveredDialogueId",
+      "source": "ID whose complete audio or readable caption was actually presented from an allowed cue/transcript; never inferred from a learner answer"
+    },
+    "dialogueDeliveryValidated": {
+      "type": "boolean",
+      "source": "presentation adapter confirms the ID was available in the current node/global cue, its applicable guard held, and its complete audio OR readable transcript was provided"
+    }
+  },
+  "expressionContract": {
+    "operands": [
+      "literal",
+      "field",
+      "input",
+      "context"
+    ],
+    "guards": {
+      "always": "true",
+      "eq": "strict scalar equality including null",
+      "ne": "strict scalar inequality including null",
+      "all": "every arg true",
+      "any": "at least one arg true"
+    },
+    "effects": {
+      "assign": "evaluate value against before-state; assign field",
+      "increment": "integer addition",
+      "appendOnce": "append immutable record only when uniqueBy is absent"
+    },
+    "values": {
+      "projection": "declared array projection only: model.trials.trialId"
+    },
+    "effectOrder": "All operands read pre-event state; effects commit atomically. No condition contains free prose or executable source.",
+    "transitionSelection": "Current-node and applicable global transitions match event ID. Exactly one must match its guard; zero rejects without mutation, multiple is a contract error.",
+    "dynamicTargets": "Only currentNodeId self-target or resume.nodeId; resume.nodeId must be in declared active nodeId enum.",
+    "inputPolicy": "Validate types/enums and context provenance. No English sentence pattern, word count or grammar keyword guard.",
+    "dialoguePolicy": "performed cues use triggerOn and guards; self-transitions do not create node_enter. Cues and replay never write domain state. optional_learner_support remains visible as a selectable example and never impersonates the student.",
+    "presentationTriggers": {
+      "node_enter": "an actual graph-node change, not a self-transition",
+      "cast_arrived": "the relevant actual character reaches its speaking position; re-evaluate pending cues only",
+      "scene_resumed": "the saved scene is restored and cast/caption availability is known",
+      "domain_event": "only the named accepted committed event, not audio completion or an English keyword"
+    },
+    "deliveryReceipts": "A cue with deliveryField remains pending until DIALOGUE_CONTENT_PRESENTED commits that exact ID. Explicit replay is allowed but cannot create a second domain action. Readable transcripts can provide core interview content without replaying audio; receipt means provided, not understood."
+  },
+  "qualitativeModel": {
+    "version": "cover_authored_qualitative_1",
+    "provenance": "deterministic_authored_teaching_scenario_not_real_hydrology",
+    "conditionsId": "fixed_scene_A",
+    "fixedConditions": [
+      "same authored rain animation",
+      "same duration and camera",
+      "same starting soil illustration",
+      "same water-route geometry"
+    ],
+    "outcomes": [
+      {
+        "position": "no_cover",
+        "resultCode": "no_difference",
+        "visual": "与左侧无覆盖基线一致；标记沿裸土—浅沟—汇流口路径移动。"
+      },
+      {
+        "position": "unrelated_zone",
+        "resultCode": "no_difference",
+        "visual": "盖片落在无关区域；预设源头与路径未改变。"
+      },
+      {
+        "position": "source_cover_zone",
+        "resultCode": "less_source_soil_shown",
+        "visual": "本教学场景中，盖住指定裸土后从该源头进入浅沟的土壤示意减少；其他来源保持未解释。"
+      }
+    ],
+    "prohibitedOutputs": [
+      "百分比净化率",
+      "真实泥沙浓度",
+      "饮用或健康安全结论",
+      "刚放下幼苗即成熟",
+      "整条溪流恢复"
+    ],
+    "worldWritePolicy": "TRIAL_COMPLETED never writes world fields; installing a cover never changes waterAppearance.",
+    "geometryBinding": {
+      "source_cover_zone": "loc.bare_bed内经灰模冻结的裸土表面区域",
+      "unrelated_zone": "同一模型边界内，不覆盖源土或截断真实通行/水路的教学对照区",
+      "route": [
+        "loc.bare_bed",
+        "east_shallow_channel",
+        "east_runoff_junction"
+      ],
+      "layoutVersionRequiredBeforeRuntime": true
+    }
+  },
+  "events": {
+    "SESSION_OPENED": {
+      "inputSchema": {
+        "mode": {
+          "type": "enum",
+          "values": [
+            "same_pc_group",
+            "teacher_projection",
+            "single_bounded_npc"
+          ],
+          "required": true
+        },
+        "layoutVersion": {
+          "type": "string",
+          "required": true,
+          "minLength": 1
+        },
+        "assetManifestVersion": {
+          "type": "string",
+          "required": true,
+          "minLength": 1
+        }
+      },
+      "effects": [
+        {
+          "op": "assign",
+          "field": "session.mode",
+          "value": {
+            "input": "mode"
+          }
+        },
+        {
+          "op": "assign",
+          "field": "session.phase",
+          "value": {
+            "literal": "active"
+          }
+        },
+        {
+          "op": "assign",
+          "field": "session.layoutVersion",
+          "value": {
+            "input": "layoutVersion"
+          }
+        },
+        {
+          "op": "assign",
+          "field": "session.assetManifestVersion",
+          "value": {
+            "input": "assetManifestVersion"
+          }
+        }
+      ]
+    },
+    "MOVE_REQUESTED": {
+      "inputSchema": {
+        "destination": {
+          "type": "enum",
+          "values": [
+            "loc.stream_bridge",
+            "loc.upper_stream",
+            "loc.bare_bed",
+            "loc.greenhouse"
+          ],
+          "required": true
+        }
+      },
+      "effects": [
+        {
+          "op": "assign",
+          "field": "navigation.targetLocation",
+          "value": {
+            "input": "destination"
+          }
+        }
+      ]
+    },
+    "MOVE_ARRIVED": {
+      "inputSchema": {},
+      "effects": [
+        {
+          "op": "assign",
+          "field": "navigation.currentLocation",
+          "value": {
+            "field": "navigation.targetLocation"
+          }
+        },
+        {
+          "op": "assign",
+          "field": "navigation.targetLocation",
+          "value": {
+            "literal": null
+          }
+        }
+      ]
+    },
+    "BRIDGE_RECORD_OPENED": {
+      "inputSchema": {},
+      "effects": [
+        {
+          "op": "assign",
+          "field": "evidence.bridge",
+          "value": {
+            "literal": "observed"
+          }
+        },
+        {
+          "op": "appendOnce",
+          "field": "evidence.records",
+          "uniqueBy": "eventId",
+          "value": {
+            "eventId": {
+              "context": "eventId"
+            },
+            "evidenceId": {
+              "literal": "C1-E01"
+            },
+            "origin": {
+              "literal": "observed"
+            },
+            "locationId": {
+              "literal": "loc.stream_bridge"
+            },
+            "storyDayId": {
+              "field": "session.storyDayId"
+            },
+            "observationProvenance": {
+              "literal": "authored_fictional_teaching_scene"
+            }
+          }
+        }
+      ]
+    },
+    "UPPER_RECORD_OPENED": {
+      "inputSchema": {},
+      "effects": [
+        {
+          "op": "assign",
+          "field": "evidence.upper",
+          "value": {
+            "literal": "observed"
+          }
+        },
+        {
+          "op": "appendOnce",
+          "field": "evidence.records",
+          "uniqueBy": "eventId",
+          "value": {
+            "eventId": {
+              "context": "eventId"
+            },
+            "evidenceId": {
+              "literal": "C1-E02"
+            },
+            "origin": {
+              "literal": "observed"
+            },
+            "locationId": {
+              "literal": "loc.upper_stream"
+            },
+            "storyDayId": {
+              "field": "session.storyDayId"
+            },
+            "observationProvenance": {
+              "literal": "authored_fictional_teaching_scene"
+            }
+          }
+        }
+      ]
+    },
+    "PATH_RECORD_OPENED": {
+      "inputSchema": {},
+      "effects": [
+        {
+          "op": "assign",
+          "field": "evidence.path",
+          "value": {
+            "literal": "observed"
+          }
+        },
+        {
+          "op": "appendOnce",
+          "field": "evidence.records",
+          "uniqueBy": "eventId",
+          "value": {
+            "eventId": {
+              "context": "eventId"
+            },
+            "evidenceId": {
+              "literal": "C1-E03"
+            },
+            "origin": {
+              "literal": "observed"
+            },
+            "locationId": {
+              "literal": "loc.bare_bed"
+            },
+            "storyDayId": {
+              "field": "session.storyDayId"
+            },
+            "observationProvenance": {
+              "literal": "authored_fictional_teaching_scene"
+            }
+          }
+        }
+      ]
+    },
+    "UPPER_RECORD_SHARED": {
+      "inputSchema": {},
+      "effects": [
+        {
+          "op": "assign",
+          "field": "evidence.upper",
+          "value": {
+            "literal": "peer_shared"
+          }
+        },
+        {
+          "op": "appendOnce",
+          "field": "evidence.records",
+          "uniqueBy": "eventId",
+          "value": {
+            "eventId": {
+              "context": "eventId"
+            },
+            "evidenceId": {
+              "literal": "C1-E02"
+            },
+            "origin": {
+              "literal": "peer_shared"
+            },
+            "locationId": {
+              "literal": "loc.upper_stream"
+            },
+            "storyDayId": {
+              "field": "session.storyDayId"
+            },
+            "observationProvenance": {
+              "literal": "authored_fictional_teaching_scene"
+            }
+          }
+        }
+      ]
+    },
+    "PATH_RECORD_SHARED": {
+      "inputSchema": {},
+      "effects": [
+        {
+          "op": "assign",
+          "field": "evidence.path",
+          "value": {
+            "literal": "peer_shared"
+          }
+        },
+        {
+          "op": "appendOnce",
+          "field": "evidence.records",
+          "uniqueBy": "eventId",
+          "value": {
+            "eventId": {
+              "context": "eventId"
+            },
+            "evidenceId": {
+              "literal": "C1-E03"
+            },
+            "origin": {
+              "literal": "peer_shared"
+            },
+            "locationId": {
+              "literal": "loc.bare_bed"
+            },
+            "storyDayId": {
+              "field": "session.storyDayId"
+            },
+            "observationProvenance": {
+              "literal": "authored_fictional_teaching_scene"
+            }
+          }
+        }
+      ]
+    },
+    "INVESTIGATE_NOW": {
+      "inputSchema": {},
+      "effects": []
+    },
+    "EXPLAIN_CURRENT_RECORDS": {
+      "inputSchema": {},
+      "effects": []
+    },
+    "ASK_MEI_NEUTRALLY": {
+      "inputSchema": {},
+      "effects": [
+        {
+          "op": "assign",
+          "field": "interview.intent",
+          "value": {
+            "literal": "ask_observation"
+          }
+        }
+      ]
+    },
+    "ASK_MEI_DIRECTLY": {
+      "inputSchema": {},
+      "effects": [
+        {
+          "op": "assign",
+          "field": "interview.intent",
+          "value": {
+            "literal": "attribute_blame"
+          }
+        }
+      ]
+    },
+    "CONTINUE_MEI_INTERVIEW": {
+      "inputSchema": {},
+      "effects": []
+    },
+    "MEI_INTERVIEW_RECORDED": {
+      "inputSchema": {},
+      "effects": [
+        {
+          "op": "assign",
+          "field": "interview.heard",
+          "value": {
+            "literal": true
+          }
+        },
+        {
+          "op": "appendOnce",
+          "field": "evidence.records",
+          "uniqueBy": "eventId",
+          "value": {
+            "eventId": {
+              "context": "eventId"
+            },
+            "evidenceId": {
+              "literal": "C1-E04"
+            },
+            "origin": {
+              "literal": "observed"
+            },
+            "locationId": {
+              "literal": "loc.greenhouse"
+            },
+            "storyDayId": {
+              "field": "session.storyDayId"
+            },
+            "observationProvenance": {
+              "literal": "authored_character_testimony_limited_to_own_observation"
+            }
+          }
+        }
+      ]
+    },
+    "LITTER_REMOVED": {
+      "inputSchema": {},
+      "effects": [
+        {
+          "op": "assign",
+          "field": "world.litterRemoved",
+          "value": {
+            "literal": true
+          }
+        },
+        {
+          "op": "appendOnce",
+          "field": "evidence.records",
+          "uniqueBy": "eventId",
+          "value": {
+            "eventId": {
+              "context": "eventId"
+            },
+            "evidenceId": {
+              "literal": "C1-E06"
+            },
+            "origin": {
+              "literal": "observed"
+            },
+            "locationId": {
+              "literal": "loc.stream_bridge"
+            },
+            "storyDayId": {
+              "field": "session.storyDayId"
+            },
+            "observationProvenance": {
+              "literal": "visible_prop_removal_only"
+            }
+          }
+        }
+      ]
+    },
+    "ASSEMBLE_COMPARISON": {
+      "inputSchema": {},
+      "effects": []
+    },
+    "STAGING_READY": {
+      "inputSchema": {},
+      "effects": []
+    },
+    "COMPARISON_OPENED": {
+      "inputSchema": {},
+      "effects": []
+    },
+    "COVER_POSITION_SELECTED": {
+      "inputSchema": {
+        "position": {
+          "type": "enum",
+          "values": [
+            "no_cover",
+            "source_cover_zone",
+            "unrelated_zone"
+          ],
+          "required": true
+        }
+      },
+      "effects": [
+        {
+          "op": "assign",
+          "field": "model.candidatePosition",
+          "value": {
+            "input": "position"
+          }
+        }
+      ]
+    },
+    "TRIAL_REQUESTED": {
+      "inputSchema": {},
+      "effects": [
+        {
+          "op": "assign",
+          "field": "model.phase",
+          "value": {
+            "literal": "running"
+          }
+        },
+        {
+          "op": "assign",
+          "field": "model.runningPosition",
+          "value": {
+            "field": "model.candidatePosition"
+          }
+        },
+        {
+          "op": "assign",
+          "field": "model.activeRunId",
+          "value": {
+            "context": "eventId"
+          }
+        }
+      ]
+    },
+    "TRIAL_CANCELLED": {
+      "inputSchema": {},
+      "effects": [
+        {
+          "op": "assign",
+          "field": "model.phase",
+          "value": {
+            "literal": "idle"
+          }
+        },
+        {
+          "op": "assign",
+          "field": "model.runningPosition",
+          "value": {
+            "literal": null
+          }
+        },
+        {
+          "op": "assign",
+          "field": "model.activeRunId",
+          "value": {
+            "literal": null
+          }
+        }
+      ]
+    },
+    "TRIAL_COMPLETED": {
+      "inputSchema": {
+        "runId": {
+          "type": "string",
+          "required": true,
+          "minLength": 1
+        }
+      },
+      "effects": [],
+      "effectCases": [
+        {
+          "when": {
+            "op": "eq",
+            "left": {
+              "field": "model.runningPosition"
+            },
+            "right": {
+              "literal": "no_cover"
+            }
+          },
+          "effects": [
+            {
+              "op": "assign",
+              "field": "model.latestPosition",
+              "value": {
+                "field": "model.runningPosition"
+              }
+            },
+            {
+              "op": "assign",
+              "field": "model.latestResult",
+              "value": {
+                "literal": "no_difference"
+              }
+            },
+            {
+              "op": "assign",
+              "field": "model.latestTrialId",
+              "value": {
+                "context": "eventId"
+              }
+            },
+            {
+              "op": "appendOnce",
+              "field": "model.trials",
+              "uniqueBy": "trialId",
+              "value": {
+                "trialId": {
+                  "context": "eventId"
+                },
+                "modelVersion": {
+                  "literal": "cover_authored_qualitative_1"
+                },
+                "conditionsId": {
+                  "literal": "fixed_scene_A"
+                },
+                "baselinePosition": {
+                  "literal": "no_cover"
+                },
+                "position": {
+                  "field": "model.runningPosition"
+                },
+                "result": {
+                  "literal": "no_difference"
+                },
+                "provenance": {
+                  "literal": "deterministic_authored_teaching_scenario_not_measured_hydrology"
+                },
+                "storyDayId": {
+                  "field": "session.storyDayId"
+                },
+                "runId": {
+                  "field": "model.activeRunId"
+                }
+              }
+            },
+            {
+              "op": "assign",
+              "field": "model.phase",
+              "value": {
+                "literal": "idle"
+              }
+            },
+            {
+              "op": "assign",
+              "field": "model.runningPosition",
+              "value": {
+                "literal": null
+              }
+            },
+            {
+              "op": "assign",
+              "field": "model.activeRunId",
+              "value": {
+                "literal": null
+              }
+            }
+          ]
+        },
+        {
+          "when": {
+            "op": "eq",
+            "left": {
+              "field": "model.runningPosition"
+            },
+            "right": {
+              "literal": "unrelated_zone"
+            }
+          },
+          "effects": [
+            {
+              "op": "assign",
+              "field": "model.latestPosition",
+              "value": {
+                "field": "model.runningPosition"
+              }
+            },
+            {
+              "op": "assign",
+              "field": "model.latestResult",
+              "value": {
+                "literal": "no_difference"
+              }
+            },
+            {
+              "op": "assign",
+              "field": "model.latestTrialId",
+              "value": {
+                "context": "eventId"
+              }
+            },
+            {
+              "op": "appendOnce",
+              "field": "model.trials",
+              "uniqueBy": "trialId",
+              "value": {
+                "trialId": {
+                  "context": "eventId"
+                },
+                "modelVersion": {
+                  "literal": "cover_authored_qualitative_1"
+                },
+                "conditionsId": {
+                  "literal": "fixed_scene_A"
+                },
+                "baselinePosition": {
+                  "literal": "no_cover"
+                },
+                "position": {
+                  "field": "model.runningPosition"
+                },
+                "result": {
+                  "literal": "no_difference"
+                },
+                "provenance": {
+                  "literal": "deterministic_authored_teaching_scenario_not_measured_hydrology"
+                },
+                "storyDayId": {
+                  "field": "session.storyDayId"
+                },
+                "runId": {
+                  "field": "model.activeRunId"
+                }
+              }
+            },
+            {
+              "op": "assign",
+              "field": "model.phase",
+              "value": {
+                "literal": "idle"
+              }
+            },
+            {
+              "op": "assign",
+              "field": "model.runningPosition",
+              "value": {
+                "literal": null
+              }
+            },
+            {
+              "op": "assign",
+              "field": "model.activeRunId",
+              "value": {
+                "literal": null
+              }
+            }
+          ]
+        },
+        {
+          "when": {
+            "op": "eq",
+            "left": {
+              "field": "model.runningPosition"
+            },
+            "right": {
+              "literal": "source_cover_zone"
+            }
+          },
+          "effects": [
+            {
+              "op": "assign",
+              "field": "model.latestPosition",
+              "value": {
+                "field": "model.runningPosition"
+              }
+            },
+            {
+              "op": "assign",
+              "field": "model.latestResult",
+              "value": {
+                "literal": "less_source_soil_shown"
+              }
+            },
+            {
+              "op": "assign",
+              "field": "model.latestTrialId",
+              "value": {
+                "context": "eventId"
+              }
+            },
+            {
+              "op": "appendOnce",
+              "field": "model.trials",
+              "uniqueBy": "trialId",
+              "value": {
+                "trialId": {
+                  "context": "eventId"
+                },
+                "modelVersion": {
+                  "literal": "cover_authored_qualitative_1"
+                },
+                "conditionsId": {
+                  "literal": "fixed_scene_A"
+                },
+                "baselinePosition": {
+                  "literal": "no_cover"
+                },
+                "position": {
+                  "field": "model.runningPosition"
+                },
+                "result": {
+                  "literal": "less_source_soil_shown"
+                },
+                "provenance": {
+                  "literal": "deterministic_authored_teaching_scenario_not_measured_hydrology"
+                },
+                "storyDayId": {
+                  "field": "session.storyDayId"
+                },
+                "runId": {
+                  "field": "model.activeRunId"
+                }
+              }
+            },
+            {
+              "op": "assign",
+              "field": "model.phase",
+              "value": {
+                "literal": "idle"
+              }
+            },
+            {
+              "op": "assign",
+              "field": "model.runningPosition",
+              "value": {
+                "literal": null
+              }
+            },
+            {
+              "op": "assign",
+              "field": "model.activeRunId",
+              "value": {
+                "literal": null
+              }
+            }
+          ]
+        }
+      ],
+      "effectCasePolicy": "exactly_one_before_state_mutation"
+    },
+    "PROPOSAL_SAVED": {
+      "inputSchema": {
+        "note": {
+          "type": "string",
+          "required": true
+        }
+      },
+      "effects": [
+        {
+          "op": "assign",
+          "field": "plan.status",
+          "value": {
+            "literal": "proposal"
+          }
+        },
+        {
+          "op": "assign",
+          "field": "plan.trialId",
+          "value": {
+            "field": "model.latestTrialId"
+          }
+        },
+        {
+          "op": "assign",
+          "field": "plan.note",
+          "value": {
+            "input": "note"
+          }
+        },
+        {
+          "op": "assign",
+          "field": "plan.purposeAndPositionConfirmed",
+          "value": {
+            "literal": false
+          }
+        }
+      ]
+    },
+    "REVISE_MODEL": {
+      "inputSchema": {},
+      "effects": []
+    },
+    "PURPOSE_AND_POSITION_CONFIRMED": {
+      "inputSchema": {
+        "purpose": {
+          "type": "enum",
+          "values": [
+            "cover_exposed_source_soil"
+          ],
+          "required": true
+        },
+        "position": {
+          "type": "enum",
+          "values": [
+            "source_cover_zone"
+          ],
+          "required": true
+        }
+      },
+      "effects": [
+        {
+          "op": "assign",
+          "field": "plan.status",
+          "value": {
+            "literal": "agreed"
+          }
+        },
+        {
+          "op": "assign",
+          "field": "plan.purposeAndPositionConfirmed",
+          "value": {
+            "literal": true
+          }
+        }
+      ]
+    },
+    "KEEP_AS_PROPOSAL": {
+      "inputSchema": {},
+      "effects": [
+        {
+          "op": "assign",
+          "field": "plan.status",
+          "value": {
+            "literal": "proposal"
+          }
+        }
+      ]
+    },
+    "IMPLEMENTATION_REQUESTED": {
+      "inputSchema": {},
+      "effects": [
+        {
+          "op": "assign",
+          "field": "implementation.requested",
+          "value": {
+            "literal": true
+          }
+        }
+      ]
+    },
+    "MATERIALS_CHECKED": {
+      "inputSchema": {},
+      "effects": [
+        {
+          "op": "assign",
+          "field": "implementation.materialsChecked",
+          "value": {
+            "literal": true
+          }
+        }
+      ]
+    },
+    "MATERIAL_PICKED_UP": {
+      "inputSchema": {},
+      "effects": [
+        {
+          "op": "assign",
+          "field": "implementation.materialState",
+          "value": {
+            "literal": "carried"
+          }
+        }
+      ]
+    },
+    "DRAFT_POSITION_UPDATED": {
+      "inputSchema": {
+        "zone": {
+          "type": "enum",
+          "values": [
+            "source_cover_zone",
+            "unrelated_zone",
+            "outside_allowed_zones"
+          ],
+          "required": true
+        },
+        "transform": {
+          "type": "Transform",
+          "required": true
+        }
+      },
+      "effects": [
+        {
+          "op": "assign",
+          "field": "implementation.materialState",
+          "value": {
+            "literal": "draft_placed"
+          }
+        },
+        {
+          "op": "assign",
+          "field": "implementation.draftZone",
+          "value": {
+            "input": "zone"
+          }
+        },
+        {
+          "op": "assign",
+          "field": "implementation.draftTransform",
+          "value": {
+            "input": "transform"
+          }
+        }
+      ]
+    },
+    "DRAFT_REPOSITION_REQUESTED": {
+      "inputSchema": {},
+      "effects": [
+        {
+          "op": "assign",
+          "field": "implementation.materialState",
+          "value": {
+            "literal": "carried"
+          }
+        },
+        {
+          "op": "assign",
+          "field": "implementation.draftZone",
+          "value": {
+            "literal": null
+          }
+        },
+        {
+          "op": "assign",
+          "field": "implementation.draftTransform",
+          "value": {
+            "literal": null
+          }
+        }
+      ]
+    },
+    "COVER_INSTALLED": {
+      "inputSchema": {},
+      "effects": [
+        {
+          "op": "assign",
+          "field": "world.coverInstalled",
+          "value": {
+            "literal": true
+          }
+        },
+        {
+          "op": "assign",
+          "field": "world.coverTransform",
+          "value": {
+            "field": "implementation.draftTransform"
+          }
+        },
+        {
+          "op": "assign",
+          "field": "implementation.materialState",
+          "value": {
+            "literal": "installed"
+          }
+        }
+      ]
+    },
+    "EXPLANATION_SAVED": {
+      "inputSchema": {
+        "cards": {
+          "type": "PictureCard[3]",
+          "required": true
+        }
+      },
+      "effects": [
+        {
+          "op": "assign",
+          "field": "explanation.cards",
+          "value": {
+            "input": "cards"
+          }
+        },
+        {
+          "op": "assign",
+          "field": "explanation.status",
+          "value": {
+            "literal": "saved"
+          }
+        },
+        {
+          "op": "increment",
+          "field": "explanation.revision",
+          "by": 1
+        },
+        {
+          "op": "appendOnce",
+          "field": "explanation.history",
+          "uniqueBy": "eventId",
+          "value": {
+            "eventId": {
+              "context": "eventId"
+            },
+            "cards": {
+              "input": "cards"
+            },
+            "worldLitterRemoved": {
+              "field": "world.litterRemoved"
+            },
+            "worldCoverInstalled": {
+              "field": "world.coverInstalled"
+            },
+            "trialIdsAtSave": {
+              "projection": "model.trials.trialId"
+            },
+            "storyDayId": {
+              "field": "session.storyDayId"
+            }
+          }
+        }
+      ]
+    },
+    "EXPLANATION_DRAFT_SAVED": {
+      "inputSchema": {
+        "cards": {
+          "type": "PictureCard[3]",
+          "required": true
+        }
+      },
+      "effects": [
+        {
+          "op": "assign",
+          "field": "explanation.cards",
+          "value": {
+            "input": "cards"
+          }
+        },
+        {
+          "op": "assign",
+          "field": "explanation.status",
+          "value": {
+            "literal": "draft"
+          }
+        }
+      ]
+    },
+    "CONTINUE_TO_RETURN_CARD": {
+      "inputSchema": {},
+      "effects": [
+        {
+          "op": "assign",
+          "field": "navigation.targetLocation",
+          "value": {
+            "literal": "loc.stream_bridge"
+          }
+        }
+      ]
+    },
+    "RETURN_CARD_SAVED": {
+      "inputSchema": {
+        "card": {
+          "type": "ReturnCard",
+          "required": true
+        }
+      },
+      "effects": [
+        {
+          "op": "assign",
+          "field": "followup.card",
+          "value": {
+            "input": "card"
+          }
+        },
+        {
+          "op": "assign",
+          "field": "followup.status",
+          "value": {
+            "literal": "planned"
+          }
+        }
+      ]
+    },
+    "FINISH_SAVED": {
+      "inputSchema": {
+        "note": {
+          "type": "string",
+          "required": true
+        }
+      },
+      "effects": [
+        {
+          "op": "assign",
+          "field": "session.phase",
+          "value": {
+            "literal": "saved_exit"
+          }
+        },
+        {
+          "op": "assign",
+          "field": "resume.nodeId",
+          "value": {
+            "literal": "j.return_card"
+          }
+        },
+        {
+          "op": "assign",
+          "field": "resume.reason",
+          "value": {
+            "literal": "saved_finish"
+          }
+        },
+        {
+          "op": "assign",
+          "field": "resume.note",
+          "value": {
+            "input": "note"
+          }
+        }
+      ]
+    },
+    "PAUSE_SAVED": {
+      "inputSchema": {
+        "note": {
+          "type": "string",
+          "required": true
+        }
+      },
+      "effects": [
+        {
+          "op": "assign",
+          "field": "session.phase",
+          "value": {
+            "literal": "paused"
+          }
+        },
+        {
+          "op": "assign",
+          "field": "resume.nodeId",
+          "value": {
+            "context": "currentNodeId"
+          }
+        },
+        {
+          "op": "assign",
+          "field": "resume.reason",
+          "value": {
+            "literal": "pause"
+          }
+        },
+        {
+          "op": "assign",
+          "field": "resume.note",
+          "value": {
+            "input": "note"
+          }
+        },
+        {
+          "op": "assign",
+          "field": "model.phase",
+          "value": {
+            "literal": "idle"
+          }
+        },
+        {
+          "op": "assign",
+          "field": "model.runningPosition",
+          "value": {
+            "literal": null
+          }
+        },
+        {
+          "op": "assign",
+          "field": "model.activeRunId",
+          "value": {
+            "literal": null
+          }
+        }
+      ]
+    },
+    "UNRESOLVED_SAVED": {
+      "inputSchema": {
+        "note": {
+          "type": "string",
+          "required": true
+        }
+      },
+      "effects": [
+        {
+          "op": "assign",
+          "field": "session.phase",
+          "value": {
+            "literal": "unresolved"
+          }
+        },
+        {
+          "op": "assign",
+          "field": "resume.nodeId",
+          "value": {
+            "context": "currentNodeId"
+          }
+        },
+        {
+          "op": "assign",
+          "field": "resume.reason",
+          "value": {
+            "literal": "unresolved"
+          }
+        },
+        {
+          "op": "assign",
+          "field": "resume.note",
+          "value": {
+            "input": "note"
+          }
+        },
+        {
+          "op": "assign",
+          "field": "model.phase",
+          "value": {
+            "literal": "idle"
+          }
+        },
+        {
+          "op": "assign",
+          "field": "model.runningPosition",
+          "value": {
+            "literal": null
+          }
+        },
+        {
+          "op": "assign",
+          "field": "model.activeRunId",
+          "value": {
+            "literal": null
+          }
+        }
+      ]
+    },
+    "RESUME_SAVED": {
+      "inputSchema": {},
+      "effects": [
+        {
+          "op": "assign",
+          "field": "session.phase",
+          "value": {
+            "literal": "active"
+          }
+        }
+      ]
+    },
+    "INTERRUPTED_TRIAL_RECOVERED": {
+      "inputSchema": {},
+      "effects": [
+        {
+          "op": "assign",
+          "field": "model.phase",
+          "value": {
+            "literal": "idle"
+          }
+        },
+        {
+          "op": "assign",
+          "field": "model.runningPosition",
+          "value": {
+            "literal": null
+          }
+        },
+        {
+          "op": "assign",
+          "field": "model.activeRunId",
+          "value": {
+            "literal": null
+          }
+        }
+      ]
+    },
+    "REOPEN_FIELDWORK": {
+      "inputSchema": {},
+      "effects": []
+    },
+    "DIALOGUE_CONTENT_PRESENTED": {
+      "inputSchema": {
+        "lineId": {
+          "type": "enum",
+          "values": [
+            "T03S.001",
+            "T03S.002",
+            "T03S.007",
+            "T03S.009",
+            "T03S.011",
+            "T03S.026",
+            "T03S.028"
+          ],
+          "required": true
+        }
+      },
+      "effects": [],
+      "effectCases": [
+        {
+          "when": {
+            "op": "eq",
+            "left": {
+              "input": "lineId"
+            },
+            "right": {
+              "literal": "T03S.001"
+            }
+          },
+          "effects": [
+            {
+              "op": "assign",
+              "field": "delivery.T03S.001",
+              "value": {
+                "literal": true
+              }
+            }
+          ]
+        },
+        {
+          "when": {
+            "op": "eq",
+            "left": {
+              "input": "lineId"
+            },
+            "right": {
+              "literal": "T03S.002"
+            }
+          },
+          "effects": [
+            {
+              "op": "assign",
+              "field": "delivery.T03S.002",
+              "value": {
+                "literal": true
+              }
+            }
+          ]
+        },
+        {
+          "when": {
+            "op": "eq",
+            "left": {
+              "input": "lineId"
+            },
+            "right": {
+              "literal": "T03S.007"
+            }
+          },
+          "effects": [
+            {
+              "op": "assign",
+              "field": "delivery.T03S.007",
+              "value": {
+                "literal": true
+              }
+            }
+          ]
+        },
+        {
+          "when": {
+            "op": "eq",
+            "left": {
+              "input": "lineId"
+            },
+            "right": {
+              "literal": "T03S.009"
+            }
+          },
+          "effects": [
+            {
+              "op": "assign",
+              "field": "delivery.T03S.009",
+              "value": {
+                "literal": true
+              }
+            }
+          ]
+        },
+        {
+          "when": {
+            "op": "eq",
+            "left": {
+              "input": "lineId"
+            },
+            "right": {
+              "literal": "T03S.011"
+            }
+          },
+          "effects": [
+            {
+              "op": "assign",
+              "field": "delivery.T03S.011",
+              "value": {
+                "literal": true
+              }
+            }
+          ]
+        },
+        {
+          "when": {
+            "op": "eq",
+            "left": {
+              "input": "lineId"
+            },
+            "right": {
+              "literal": "T03S.026"
+            }
+          },
+          "effects": [
+            {
+              "op": "assign",
+              "field": "delivery.T03S.026",
+              "value": {
+                "literal": true
+              }
+            }
+          ]
+        },
+        {
+          "when": {
+            "op": "eq",
+            "left": {
+              "input": "lineId"
+            },
+            "right": {
+              "literal": "T03S.028"
+            }
+          },
+          "effects": [
+            {
+              "op": "assign",
+              "field": "delivery.T03S.028",
+              "value": {
+                "literal": true
+              }
+            }
+          ]
+        }
+      ],
+      "effectCasePolicy": "exactly_one_before_state_mutation"
+    },
+    "ASK_WATER_COLOUR_QUESTION": {
+      "inputSchema": {},
+      "effects": [],
+      "learnerIntent": "Ask whether appearance alone tells us what is in the water; oral wording is free and not inspected."
+    },
+    "MODEL_REPOSITION_REQUESTED": {
+      "inputSchema": {},
+      "effects": [],
+      "learnerIntent": "Choose to move the existing cover in the model; not a grammar result and not an instruction to install it in the valley."
+    }
+  },
+  "nodes": [
+    {
+      "id": "j.entry",
+      "kind": "entry",
+      "locationId": "loc.stream_bridge",
+      "ui": "明确标注独立回访课例；Noor受邀同行，玩家尚未观察/清理/试验；选择课堂模式。",
+      "dialogue": [],
+      "transitions": [
+        {
+          "event": "SESSION_OPENED",
+          "to": "j.bridge_record",
+          "when": {
+            "op": "eq",
+            "left": {
+              "context": "sceneBindingsReady"
+            },
+            "right": {
+              "literal": true
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "j.bridge_record",
+      "kind": "interaction",
+      "locationId": "loc.stream_bridge",
+      "dialogue": [
+        {
+          "ids": [
+            "T03S.029"
+          ],
+          "when": {
+            "op": "all",
+            "args": [
+              {
+                "op": "eq",
+                "left": {
+                  "context": "activeCastNoor"
+                },
+                "right": {
+                  "literal": true
+                }
+              },
+              {
+                "op": "eq",
+                "left": {
+                  "field": "world.litterRemoved"
+                },
+                "right": {
+                  "literal": false
+                }
+              }
+            ]
+          },
+          "kind": "performed",
+          "triggerOn": [
+            "node_enter"
+          ]
+        },
+        {
+          "ids": [
+            "T03S.030"
+          ],
+          "when": {
+            "op": "all",
+            "args": [
+              {
+                "op": "eq",
+                "left": {
+                  "context": "activeCastRowan"
+                },
+                "right": {
+                  "literal": true
+                }
+              },
+              {
+                "op": "eq",
+                "left": {
+                  "field": "world.litterRemoved"
+                },
+                "right": {
+                  "literal": false
+                }
+              }
+            ]
+          },
+          "kind": "performed",
+          "triggerOn": [
+            "node_enter"
+          ]
+        }
+      ],
+      "transitions": [
+        {
+          "event": "BRIDGE_RECORD_OPENED",
+          "to": "j.bridge_hook",
+          "when": {
+            "op": "all",
+            "args": [
+              {
+                "op": "eq",
+                "left": {
+                  "field": "navigation.currentLocation"
+                },
+                "right": {
+                  "literal": "loc.stream_bridge"
+                }
+              },
+              {
+                "op": "eq",
+                "left": {
+                  "context": "bridgePairFullyOpened"
+                },
+                "right": {
+                  "literal": true
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "j.bridge_hook",
+      "kind": "decision",
+      "locationId": "loc.stream_bridge",
+      "dialogue": [
+        {
+          "ids": [
+            "T03.014"
+          ],
+          "when": {
+            "op": "eq",
+            "left": {
+              "context": "activeCastNoor"
+            },
+            "right": {
+              "literal": true
+            }
+          },
+          "kind": "performed",
+          "triggerOn": [
+            "node_enter"
+          ]
+        },
+        {
+          "ids": [
+            "T03.015",
+            "T03S.003",
+            "T03S.005"
+          ],
+          "when": {
+            "op": "always"
+          },
+          "kind": "optional_learner_support",
+          "presentation": "available_when_guard_true_never_auto_speaks"
+        },
+        {
+          "ids": [
+            "T03S.004"
+          ],
+          "when": {
+            "op": "eq",
+            "left": {
+              "context": "activeCastRowan"
+            },
+            "right": {
+              "literal": true
+            }
+          },
+          "kind": "performed",
+          "triggerOn": [
+            "node_enter"
+          ]
+        },
+        {
+          "ids": [
+            "T03S.006"
+          ],
+          "when": {
+            "op": "eq",
+            "left": {
+              "context": "activeCastRowan"
+            },
+            "right": {
+              "literal": true
+            }
+          },
+          "kind": "performed",
+          "triggerOn": [
+            "ASK_WATER_COLOUR_QUESTION"
+          ]
+        }
+      ],
+      "transitions": [
+        {
+          "event": "INVESTIGATE_NOW",
+          "to": "j.fieldwork",
+          "when": {
+            "op": "always"
+          }
+        },
+        {
+          "event": "EXPLAIN_CURRENT_RECORDS",
+          "to": "j.explain",
+          "when": {
+            "op": "always"
+          }
+        },
+        {
+          "event": "ASK_WATER_COLOUR_QUESTION",
+          "to": "j.bridge_hook",
+          "when": {
+            "op": "eq",
+            "left": {
+              "context": "activeCastRowan"
+            },
+            "right": {
+              "literal": true
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "j.fieldwork",
+      "kind": "open_exploration",
+      "ui": "三处证据可任意次序；同屏同伴共享标来源；英语表达不触发关键词判分。允许随时收束。",
+      "dialogue": [],
+      "transitions": [
+        {
+          "event": "UPPER_RECORD_OPENED",
+          "to": "j.fieldwork",
+          "when": {
+            "op": "all",
+            "args": [
+              {
+                "op": "eq",
+                "left": {
+                  "field": "navigation.currentLocation"
+                },
+                "right": {
+                  "literal": "loc.upper_stream"
+                }
+              },
+              {
+                "op": "eq",
+                "left": {
+                  "context": "upperPairFullyOpened"
+                },
+                "right": {
+                  "literal": true
+                }
+              },
+              {
+                "op": "eq",
+                "left": {
+                  "field": "navigation.targetLocation"
+                },
+                "right": {
+                  "literal": null
+                }
+              }
+            ]
+          }
+        },
+        {
+          "event": "PATH_RECORD_OPENED",
+          "to": "j.fieldwork",
+          "when": {
+            "op": "all",
+            "args": [
+              {
+                "op": "eq",
+                "left": {
+                  "field": "navigation.currentLocation"
+                },
+                "right": {
+                  "literal": "loc.bare_bed"
+                }
+              },
+              {
+                "op": "eq",
+                "left": {
+                  "context": "sourcePathInspected"
+                },
+                "right": {
+                  "literal": true
+                }
+              },
+              {
+                "op": "eq",
+                "left": {
+                  "field": "navigation.targetLocation"
+                },
+                "right": {
+                  "literal": null
+                }
+              }
+            ]
+          }
+        },
+        {
+          "event": "UPPER_RECORD_SHARED",
+          "to": "j.fieldwork",
+          "when": {
+            "op": "all",
+            "args": [
+              {
+                "op": "ne",
+                "left": {
+                  "field": "session.mode"
+                },
+                "right": {
+                  "literal": "single_bounded_npc"
+                }
+              },
+              {
+                "op": "eq",
+                "left": {
+                  "context": "sharedEvidencePresented"
+                },
+                "right": {
+                  "literal": true
+                }
+              },
+              {
+                "op": "eq",
+                "left": {
+                  "context": "sharedEvidenceId"
+                },
+                "right": {
+                  "literal": "C1-E02"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "event": "PATH_RECORD_SHARED",
+          "to": "j.fieldwork",
+          "when": {
+            "op": "all",
+            "args": [
+              {
+                "op": "ne",
+                "left": {
+                  "field": "session.mode"
+                },
+                "right": {
+                  "literal": "single_bounded_npc"
+                }
+              },
+              {
+                "op": "eq",
+                "left": {
+                  "context": "sharedEvidencePresented"
+                },
+                "right": {
+                  "literal": true
+                }
+              },
+              {
+                "op": "eq",
+                "left": {
+                  "context": "sharedEvidenceId"
+                },
+                "right": {
+                  "literal": "C1-E03"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "event": "ASK_MEI_NEUTRALLY",
+          "to": "j.mei_neutral",
+          "when": {
+            "op": "all",
+            "args": [
+              {
+                "op": "eq",
+                "left": {
+                  "field": "navigation.currentLocation"
+                },
+                "right": {
+                  "literal": "loc.greenhouse"
+                }
+              },
+              {
+                "op": "eq",
+                "left": {
+                  "context": "activeCastMei"
+                },
+                "right": {
+                  "literal": true
+                }
+              },
+              {
+                "op": "eq",
+                "left": {
+                  "field": "navigation.targetLocation"
+                },
+                "right": {
+                  "literal": null
+                }
+              }
+            ]
+          }
+        },
+        {
+          "event": "ASK_MEI_DIRECTLY",
+          "to": "j.mei_direct",
+          "when": {
+            "op": "all",
+            "args": [
+              {
+                "op": "eq",
+                "left": {
+                  "field": "navigation.currentLocation"
+                },
+                "right": {
+                  "literal": "loc.greenhouse"
+                }
+              },
+              {
+                "op": "eq",
+                "left": {
+                  "context": "activeCastMei"
+                },
+                "right": {
+                  "literal": true
+                }
+              },
+              {
+                "op": "eq",
+                "left": {
+                  "field": "navigation.targetLocation"
+                },
+                "right": {
+                  "literal": null
+                }
+              }
+            ]
+          }
+        },
+        {
+          "event": "ASSEMBLE_COMPARISON",
+          "to": "j.model_assemble",
+          "when": {
+            "op": "all",
+            "args": [
+              {
+                "op": "all",
+                "args": [
+                  {
+                    "op": "eq",
+                    "left": {
+                      "field": "evidence.bridge"
+                    },
+                    "right": {
+                      "literal": "observed"
+                    }
+                  },
+                  {
+                    "op": "ne",
+                    "left": {
+                      "field": "evidence.upper"
+                    },
+                    "right": {
+                      "literal": "unseen"
+                    }
+                  },
+                  {
+                    "op": "ne",
+                    "left": {
+                      "field": "evidence.path"
+                    },
+                    "right": {
+                      "literal": "unseen"
+                    }
+                  },
+                  {
+                    "op": "eq",
+                    "left": {
+                      "field": "interview.heard"
+                    },
+                    "right": {
+                      "literal": true
+                    }
+                  }
+                ]
+              },
+              {
+                "op": "eq",
+                "left": {
+                  "field": "navigation.currentLocation"
+                },
+                "right": {
+                  "literal": "loc.bare_bed"
+                }
+              },
+              {
+                "op": "eq",
+                "left": {
+                  "field": "navigation.targetLocation"
+                },
+                "right": {
+                  "literal": null
+                }
+              }
+            ]
+          }
+        },
+        {
+          "event": "EXPLAIN_CURRENT_RECORDS",
+          "to": "j.explain",
+          "when": {
+            "op": "all",
+            "args": [
+              {
+                "op": "always"
+              },
+              {
+                "op": "eq",
+                "left": {
+                  "field": "navigation.targetLocation"
+                },
+                "right": {
+                  "literal": null
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "j.mei_neutral",
+      "kind": "conversation",
+      "locationId": "loc.greenhouse",
+      "dialogue": [
+        {
+          "ids": [
+            "T03S.007"
+          ],
+          "when": {
+            "op": "all",
+            "args": [
+              {
+                "op": "eq",
+                "left": {
+                  "context": "activeCastMei"
+                },
+                "right": {
+                  "literal": true
+                }
+              },
+              {
+                "op": "eq",
+                "left": {
+                  "field": "delivery.T03S.007"
+                },
+                "right": {
+                  "literal": false
+                }
+              }
+            ]
+          },
+          "kind": "performed",
+          "triggerOn": [
+            "node_enter"
+          ],
+          "deliveryField": "delivery.T03S.007"
+        },
+        {
+          "ids": [
+            "T03S.008"
+          ],
+          "when": {
+            "op": "always"
+          },
+          "kind": "optional_learner_support",
+          "presentation": "available_when_guard_true_never_auto_speaks"
+        }
+      ],
+      "transitions": [
+        {
+          "event": "CONTINUE_MEI_INTERVIEW",
+          "to": "j.mei_followup",
+          "when": {
+            "op": "always"
+          }
+        }
+      ]
+    },
+    {
+      "id": "j.mei_direct",
+      "kind": "conversation",
+      "locationId": "loc.greenhouse",
+      "dialogue": [
+        {
+          "ids": [
+            "T03S.012"
+          ],
+          "when": {
+            "op": "eq",
+            "left": {
+              "context": "activeCastMei"
+            },
+            "right": {
+              "literal": true
+            }
+          },
+          "kind": "performed",
+          "triggerOn": [
+            "node_enter"
+          ]
+        },
+        {
+          "ids": [
+            "T03S.008"
+          ],
+          "when": {
+            "op": "always"
+          },
+          "kind": "optional_learner_support",
+          "presentation": "available_when_guard_true_never_auto_speaks"
+        }
+      ],
+      "transitions": [
+        {
+          "event": "CONTINUE_MEI_INTERVIEW",
+          "to": "j.mei_followup",
+          "when": {
+            "op": "always"
+          }
+        }
+      ]
+    },
+    {
+      "id": "j.mei_followup",
+      "kind": "conversation",
+      "locationId": "loc.greenhouse",
+      "dialogue": [
+        {
+          "ids": [
+            "T03S.007"
+          ],
+          "when": {
+            "op": "all",
+            "args": [
+              {
+                "op": "eq",
+                "left": {
+                  "context": "activeCastMei"
+                },
+                "right": {
+                  "literal": true
+                }
+              },
+              {
+                "op": "eq",
+                "left": {
+                  "field": "interview.intent"
+                },
+                "right": {
+                  "literal": "attribute_blame"
+                }
+              },
+              {
+                "op": "eq",
+                "left": {
+                  "field": "delivery.T03S.007"
+                },
+                "right": {
+                  "literal": false
+                }
+              }
+            ]
+          },
+          "kind": "performed",
+          "triggerOn": [
+            "node_enter"
+          ],
+          "deliveryField": "delivery.T03S.007"
+        },
+        {
+          "ids": [
+            "T03S.009"
+          ],
+          "when": {
+            "op": "all",
+            "args": [
+              {
+                "op": "eq",
+                "left": {
+                  "context": "activeCastMei"
+                },
+                "right": {
+                  "literal": true
+                }
+              },
+              {
+                "op": "eq",
+                "left": {
+                  "field": "delivery.T03S.009"
+                },
+                "right": {
+                  "literal": false
+                }
+              }
+            ]
+          },
+          "kind": "performed",
+          "triggerOn": [
+            "node_enter"
+          ],
+          "deliveryField": "delivery.T03S.009"
+        },
+        {
+          "ids": [
+            "T03S.011"
+          ],
+          "when": {
+            "op": "all",
+            "args": [
+              {
+                "op": "eq",
+                "left": {
+                  "context": "activeCastMei"
+                },
+                "right": {
+                  "literal": true
+                }
+              },
+              {
+                "op": "eq",
+                "left": {
+                  "field": "delivery.T03S.011"
+                },
+                "right": {
+                  "literal": false
+                }
+              }
+            ]
+          },
+          "kind": "performed",
+          "triggerOn": [
+            "node_enter"
+          ],
+          "deliveryField": "delivery.T03S.011"
+        },
+        {
+          "ids": [
+            "T03S.010"
+          ],
+          "when": {
+            "op": "always"
+          },
+          "kind": "optional_learner_support",
+          "presentation": "available_when_guard_true_never_auto_speaks"
+        }
+      ],
+      "transitions": [
+        {
+          "event": "MEI_INTERVIEW_RECORDED",
+          "to": "j.fieldwork",
+          "when": {
+            "op": "all",
+            "args": [
+              {
+                "op": "eq",
+                "left": {
+                  "field": "delivery.T03S.007"
+                },
+                "right": {
+                  "literal": true
+                }
+              },
+              {
+                "op": "eq",
+                "left": {
+                  "field": "delivery.T03S.009"
+                },
+                "right": {
+                  "literal": true
+                }
+              },
+              {
+                "op": "eq",
+                "left": {
+                  "field": "delivery.T03S.011"
+                },
+                "right": {
+                  "literal": true
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "readableTranscript": {
+        "ids": [
+          "T03S.007",
+          "T03S.009",
+          "T03S.011"
+        ],
+        "when": {
+          "op": "always"
+        },
+        "availableOn": [
+          "node_enter",
+          "scene_resumed"
+        ],
+        "completionEvent": "DIALOGUE_CONTENT_PRESENTED",
+        "policy": "Every core line can be opened here on either branch, including 007 skipped before leaving the neutral node. Each presented line persists separately; no answer or recitation is required."
+      }
+    },
+    {
+      "id": "j.model_assemble",
+      "kind": "staging",
+      "locationId": "loc.bare_bed",
+      "staging": {
+        "characters": [
+          "NOOR",
+          "ROWAN",
+          "MEI",
+          "SAM"
+        ],
+        "method": "walk_on_shared_world_routes",
+        "allowTeleport": false
+      },
+      "dialogue": [],
+      "transitions": [
+        {
+          "event": "STAGING_READY",
+          "to": "j.model_intro",
+          "when": {
+            "op": "all",
+            "args": [
+              {
+                "op": "eq",
+                "left": {
+                  "context": "activeCastNoor"
+                },
+                "right": {
+                  "literal": true
+                }
+              },
+              {
+                "op": "eq",
+                "left": {
+                  "context": "activeCastRowan"
+                },
+                "right": {
+                  "literal": true
+                }
+              },
+              {
+                "op": "eq",
+                "left": {
+                  "context": "activeCastMei"
+                },
+                "right": {
+                  "literal": true
+                }
+              },
+              {
+                "op": "eq",
+                "left": {
+                  "context": "activeCastSam"
+                },
+                "right": {
+                  "literal": true
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "j.model_intro",
+      "kind": "conversation",
+      "locationId": "loc.bare_bed",
+      "dialogue": [
+        {
+          "ids": [
+            "T03S.015"
+          ],
+          "when": {
+            "op": "eq",
+            "left": {
+              "context": "activeCastSam"
+            },
+            "right": {
+              "literal": true
+            }
+          },
+          "kind": "performed",
+          "triggerOn": [
+            "node_enter"
+          ]
+        },
+        {
+          "ids": [
+            "T03S.017"
+          ],
+          "when": {
+            "op": "eq",
+            "left": {
+              "context": "activeCastMei"
+            },
+            "right": {
+              "literal": true
+            }
+          },
+          "kind": "performed",
+          "triggerOn": [
+            "node_enter"
+          ]
+        },
+        {
+          "ids": [
+            "T03S.016",
+            "T03S.018"
+          ],
+          "when": {
+            "op": "always"
+          },
+          "kind": "optional_learner_support",
+          "presentation": "available_when_guard_true_never_auto_speaks"
+        }
+      ],
+      "transitions": [
+        {
+          "event": "COMPARISON_OPENED",
+          "to": "j.model",
+          "when": {
+            "op": "always"
+          }
+        }
+      ]
+    },
+    {
+      "id": "j.model",
+      "kind": "bounded_comparison",
+      "locationId": "loc.bare_bed",
+      "dialogue": [
+        {
+          "ids": [
+            "T03S.019"
+          ],
+          "when": {
+            "op": "all",
+            "args": [
+              {
+                "op": "eq",
+                "left": {
+                  "context": "activeCastRowan"
+                },
+                "right": {
+                  "literal": true
+                }
+              },
+              {
+                "op": "all",
+                "args": [
+                  {
+                    "op": "ne",
+                    "left": {
+                      "field": "model.latestTrialId"
+                    },
+                    "right": {
+                      "literal": null
+                    }
+                  },
+                  {
+                    "op": "eq",
+                    "left": {
+                      "field": "model.phase"
+                    },
+                    "right": {
+                      "literal": "idle"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          "kind": "performed",
+          "triggerOn": [
+            "TRIAL_COMPLETED"
+          ]
+        },
+        {
+          "ids": [
+            "T03S.020"
+          ],
+          "when": {
+            "op": "eq",
+            "left": {
+              "field": "model.latestResult"
+            },
+            "right": {
+              "literal": "less_source_soil_shown"
+            }
+          },
+          "kind": "optional_learner_support",
+          "presentation": "available_when_guard_true_never_auto_speaks"
+        },
+        {
+          "ids": [
+            "T03S.021"
+          ],
+          "when": {
+            "op": "all",
+            "args": [
+              {
+                "op": "eq",
+                "left": {
+                  "field": "model.latestResult"
+                },
+                "right": {
+                  "literal": "no_difference"
+                }
+              },
+              {
+                "op": "eq",
+                "left": {
+                  "field": "model.latestPosition"
+                },
+                "right": {
+                  "literal": "unrelated_zone"
+                }
+              }
+            ]
+          },
+          "kind": "optional_learner_support",
+          "presentation": "available_when_guard_true_never_auto_speaks"
+        },
+        {
+          "ids": [
+            "T03S.022"
+          ],
+          "when": {
+            "op": "eq",
+            "left": {
+              "context": "activeCastMei"
+            },
+            "right": {
+              "literal": true
+            }
+          },
+          "kind": "performed",
+          "triggerOn": [
+            "MODEL_REPOSITION_REQUESTED"
+          ]
+        }
+      ],
+      "transitions": [
+        {
+          "event": "COVER_POSITION_SELECTED",
+          "to": "j.model",
+          "when": {
+            "op": "eq",
+            "left": {
+              "field": "model.phase"
+            },
+            "right": {
+              "literal": "idle"
+            }
+          }
+        },
+        {
+          "event": "TRIAL_REQUESTED",
+          "to": "j.model",
+          "when": {
+            "op": "eq",
+            "left": {
+              "field": "model.phase"
+            },
+            "right": {
+              "literal": "idle"
+            }
+          }
+        },
+        {
+          "event": "TRIAL_COMPLETED",
+          "to": "j.model",
+          "when": {
+            "op": "all",
+            "args": [
+              {
+                "op": "eq",
+                "left": {
+                  "field": "model.phase"
+                },
+                "right": {
+                  "literal": "running"
+                }
+              },
+              {
+                "op": "eq",
+                "left": {
+                  "context": "modelAnimationFinished"
+                },
+                "right": {
+                  "literal": true
+                }
+              },
+              {
+                "op": "eq",
+                "left": {
+                  "input": "runId"
+                },
+                "right": {
+                  "field": "model.activeRunId"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "event": "TRIAL_CANCELLED",
+          "to": "j.model",
+          "when": {
+            "op": "eq",
+            "left": {
+              "field": "model.phase"
+            },
+            "right": {
+              "literal": "running"
+            }
+          }
+        },
+        {
+          "event": "PROPOSAL_SAVED",
+          "to": "j.plan_review",
+          "when": {
+            "op": "all",
+            "args": [
+              {
+                "op": "ne",
+                "left": {
+                  "field": "model.latestTrialId"
+                },
+                "right": {
+                  "literal": null
+                }
+              },
+              {
+                "op": "eq",
+                "left": {
+                  "field": "model.phase"
+                },
+                "right": {
+                  "literal": "idle"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "event": "EXPLAIN_CURRENT_RECORDS",
+          "to": "j.explain",
+          "when": {
+            "op": "eq",
+            "left": {
+              "field": "model.phase"
+            },
+            "right": {
+              "literal": "idle"
+            }
+          }
+        },
+        {
+          "event": "MODEL_REPOSITION_REQUESTED",
+          "to": "j.model",
+          "when": {
+            "op": "all",
+            "args": [
+              {
+                "op": "eq",
+                "left": {
+                  "field": "model.phase"
+                },
+                "right": {
+                  "literal": "idle"
+                }
+              },
+              {
+                "op": "any",
+                "args": [
+                  {
+                    "op": "eq",
+                    "left": {
+                      "field": "model.latestPosition"
+                    },
+                    "right": {
+                      "literal": "source_cover_zone"
+                    }
+                  },
+                  {
+                    "op": "eq",
+                    "left": {
+                      "field": "model.latestPosition"
+                    },
+                    "right": {
+                      "literal": "unrelated_zone"
+                    }
+                  }
+                ]
+              },
+              {
+                "op": "eq",
+                "left": {
+                  "context": "activeCastMei"
+                },
+                "right": {
+                  "literal": true
+                }
+              },
+              {
+                "op": "any",
+                "args": [
+                  {
+                    "op": "eq",
+                    "left": {
+                      "field": "model.candidatePosition"
+                    },
+                    "right": {
+                      "literal": "source_cover_zone"
+                    }
+                  },
+                  {
+                    "op": "eq",
+                    "left": {
+                      "field": "model.candidatePosition"
+                    },
+                    "right": {
+                      "literal": "unrelated_zone"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "j.plan_review",
+      "kind": "decision",
+      "locationId": "loc.bare_bed",
+      "dialogue": [],
+      "transitions": [
+        {
+          "event": "PURPOSE_AND_POSITION_CONFIRMED",
+          "to": "j.plan_choice",
+          "when": {
+            "op": "all",
+            "args": [
+              {
+                "op": "eq",
+                "left": {
+                  "field": "model.latestPosition"
+                },
+                "right": {
+                  "literal": "source_cover_zone"
+                }
+              },
+              {
+                "op": "eq",
+                "left": {
+                  "field": "model.latestResult"
+                },
+                "right": {
+                  "literal": "less_source_soil_shown"
+                }
+              },
+              {
+                "op": "eq",
+                "left": {
+                  "field": "interview.heard"
+                },
+                "right": {
+                  "literal": true
+                }
+              },
+              {
+                "op": "eq",
+                "left": {
+                  "field": "world.coverInstalled"
+                },
+                "right": {
+                  "literal": false
+                }
+              },
+              {
+                "op": "eq",
+                "left": {
+                  "context": "activeCastMei"
+                },
+                "right": {
+                  "literal": true
+                }
+              }
+            ]
+          }
+        },
+        {
+          "event": "REVISE_MODEL",
+          "to": "j.model",
+          "when": {
+            "op": "always"
+          }
+        },
+        {
+          "event": "KEEP_AS_PROPOSAL",
+          "to": "j.explain",
+          "when": {
+            "op": "always"
+          }
+        }
+      ]
+    },
+    {
+      "id": "j.plan_choice",
+      "kind": "decision",
+      "locationId": "loc.bare_bed",
+      "dialogue": [
+        {
+          "ids": [
+            "T03S.031"
+          ],
+          "when": {
+            "op": "all",
+            "args": [
+              {
+                "op": "eq",
+                "left": {
+                  "context": "activeCastMei"
+                },
+                "right": {
+                  "literal": true
+                }
+              },
+              {
+                "op": "eq",
+                "left": {
+                  "field": "plan.status"
+                },
+                "right": {
+                  "literal": "agreed"
+                }
+              }
+            ]
+          },
+          "kind": "performed",
+          "triggerOn": [
+            "node_enter"
+          ]
+        }
+      ],
+      "transitions": [
+        {
+          "event": "KEEP_AS_PROPOSAL",
+          "to": "j.explain",
+          "when": {
+            "op": "always"
+          }
+        },
+        {
+          "event": "IMPLEMENTATION_REQUESTED",
+          "to": "j.materials",
+          "when": {
+            "op": "all",
+            "args": [
+              {
+                "op": "eq",
+                "left": {
+                  "field": "plan.status"
+                },
+                "right": {
+                  "literal": "agreed"
+                }
+              },
+              {
+                "op": "eq",
+                "left": {
+                  "field": "world.coverInstalled"
+                },
+                "right": {
+                  "literal": false
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "j.materials",
+      "kind": "object_interaction",
+      "locationId": "loc.bare_bed",
+      "dialogue": [
+        {
+          "ids": [
+            "T03S.032"
+          ],
+          "when": {
+            "op": "always"
+          },
+          "kind": "optional_learner_support",
+          "presentation": "available_when_guard_true_never_auto_speaks"
+        },
+        {
+          "ids": [
+            "T03S.033"
+          ],
+          "when": {
+            "op": "eq",
+            "left": {
+              "context": "activeCastSam"
+            },
+            "right": {
+              "literal": true
+            }
+          },
+          "kind": "performed",
+          "triggerOn": [
+            "node_enter"
+          ]
+        }
+      ],
+      "transitions": [
+        {
+          "event": "MATERIALS_CHECKED",
+          "to": "j.materials",
+          "when": {
+            "op": "eq",
+            "left": {
+              "field": "implementation.materialState"
+            },
+            "right": {
+              "literal": "at_table"
+            }
+          }
+        },
+        {
+          "event": "MATERIAL_PICKED_UP",
+          "to": "j.placement",
+          "when": {
+            "op": "all",
+            "args": [
+              {
+                "op": "eq",
+                "left": {
+                  "field": "implementation.materialsChecked"
+                },
+                "right": {
+                  "literal": true
+                }
+              },
+              {
+                "op": "eq",
+                "left": {
+                  "field": "implementation.materialState"
+                },
+                "right": {
+                  "literal": "at_table"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "j.placement",
+      "kind": "object_interaction",
+      "locationId": "loc.bare_bed",
+      "dialogue": [],
+      "transitions": [
+        {
+          "event": "DRAFT_POSITION_UPDATED",
+          "to": "j.placement",
+          "when": {
+            "op": "any",
+            "args": [
+              {
+                "op": "eq",
+                "left": {
+                  "field": "implementation.materialState"
+                },
+                "right": {
+                  "literal": "carried"
+                }
+              },
+              {
+                "op": "eq",
+                "left": {
+                  "field": "implementation.materialState"
+                },
+                "right": {
+                  "literal": "draft_placed"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "event": "DRAFT_REPOSITION_REQUESTED",
+          "to": "j.placement",
+          "when": {
+            "op": "eq",
+            "left": {
+              "field": "implementation.materialState"
+            },
+            "right": {
+              "literal": "draft_placed"
+            }
+          }
+        },
+        {
+          "event": "COVER_INSTALLED",
+          "to": "j.explain",
+          "when": {
+            "op": "all",
+            "args": [
+              {
+                "op": "eq",
+                "left": {
+                  "field": "plan.status"
+                },
+                "right": {
+                  "literal": "agreed"
+                }
+              },
+              {
+                "op": "eq",
+                "left": {
+                  "field": "implementation.materialsChecked"
+                },
+                "right": {
+                  "literal": true
+                }
+              },
+              {
+                "op": "eq",
+                "left": {
+                  "field": "implementation.materialState"
+                },
+                "right": {
+                  "literal": "draft_placed"
+                }
+              },
+              {
+                "op": "eq",
+                "left": {
+                  "field": "implementation.draftZone"
+                },
+                "right": {
+                  "literal": "source_cover_zone"
+                }
+              },
+              {
+                "op": "ne",
+                "left": {
+                  "field": "implementation.draftTransform"
+                },
+                "right": {
+                  "literal": null
+                }
+              },
+              {
+                "op": "eq",
+                "left": {
+                  "context": "targetSurfaceAcceptsCover"
+                },
+                "right": {
+                  "literal": true
+                }
+              },
+              {
+                "op": "eq",
+                "left": {
+                  "context": "placementBlocksRoute"
+                },
+                "right": {
+                  "literal": false
+                }
+              },
+              {
+                "op": "eq",
+                "left": {
+                  "context": "coverOrientationValid"
+                },
+                "right": {
+                  "literal": true
+                }
+              },
+              {
+                "op": "eq",
+                "left": {
+                  "field": "world.coverInstalled"
+                },
+                "right": {
+                  "literal": false
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "j.explain",
+      "kind": "artifact_editor",
+      "locationId": null,
+      "ui": "三槽画面可留白；选真实记录、比较画面或已完成操作。caption/audio自由；同伴核对主张，不做语法关键词门槛。",
+      "dialogue": [
+        {
+          "ids": [
+            "T03S.023"
+          ],
+          "when": {
+            "op": "all",
+            "args": [
+              {
+                "op": "eq",
+                "left": {
+                  "context": "activeCastNoor"
+                },
+                "right": {
+                  "literal": true
+                }
+              },
+              {
+                "op": "any",
+                "args": [
+                  {
+                    "op": "eq",
+                    "left": {
+                      "field": "world.litterRemoved"
+                    },
+                    "right": {
+                      "literal": true
+                    }
+                  },
+                  {
+                    "op": "ne",
+                    "left": {
+                      "field": "model.latestTrialId"
+                    },
+                    "right": {
+                      "literal": null
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          "kind": "performed",
+          "triggerOn": [
+            "node_enter"
+          ]
+        },
+        {
+          "ids": [
+            "T03S.024"
+          ],
+          "when": {
+            "op": "all",
+            "args": [
+              {
+                "op": "eq",
+                "left": {
+                  "field": "world.litterRemoved"
+                },
+                "right": {
+                  "literal": true
+                }
+              },
+              {
+                "op": "ne",
+                "left": {
+                  "field": "model.latestTrialId"
+                },
+                "right": {
+                  "literal": null
+                }
+              },
+              {
+                "op": "eq",
+                "left": {
+                  "field": "world.coverInstalled"
+                },
+                "right": {
+                  "literal": false
+                }
+              }
+            ]
+          },
+          "kind": "optional_learner_support",
+          "presentation": "available_when_guard_true_never_auto_speaks"
+        },
+        {
+          "ids": [
+            "T03S.034"
+          ],
+          "when": {
+            "op": "eq",
+            "left": {
+              "field": "world.coverInstalled"
+            },
+            "right": {
+              "literal": true
+            }
+          },
+          "kind": "optional_learner_support",
+          "presentation": "available_when_guard_true_never_auto_speaks"
+        },
+        {
+          "ids": [
+            "T03S.035"
+          ],
+          "when": {
+            "op": "all",
+            "args": [
+              {
+                "op": "all",
+                "args": [
+                  {
+                    "op": "eq",
+                    "left": {
+                      "field": "evidence.bridge"
+                    },
+                    "right": {
+                      "literal": "observed"
+                    }
+                  },
+                  {
+                    "op": "ne",
+                    "left": {
+                      "field": "evidence.upper"
+                    },
+                    "right": {
+                      "literal": "unseen"
+                    }
+                  },
+                  {
+                    "op": "ne",
+                    "left": {
+                      "field": "evidence.path"
+                    },
+                    "right": {
+                      "literal": "unseen"
+                    }
+                  },
+                  {
+                    "op": "eq",
+                    "left": {
+                      "field": "interview.heard"
+                    },
+                    "right": {
+                      "literal": true
+                    }
+                  }
+                ]
+              },
+              {
+                "op": "eq",
+                "left": {
+                  "field": "model.latestTrialId"
+                },
+                "right": {
+                  "literal": null
+                }
+              }
+            ]
+          },
+          "kind": "optional_learner_support",
+          "presentation": "available_when_guard_true_never_auto_speaks"
+        },
+        {
+          "ids": [
+            "T03S.036"
+          ],
+          "when": {
+            "op": "all",
+            "args": [
+              {
+                "op": "eq",
+                "left": {
+                  "field": "world.litterRemoved"
+                },
+                "right": {
+                  "literal": false
+                }
+              },
+              {
+                "op": "ne",
+                "left": {
+                  "field": "model.latestTrialId"
+                },
+                "right": {
+                  "literal": null
+                }
+              },
+              {
+                "op": "eq",
+                "left": {
+                  "field": "world.coverInstalled"
+                },
+                "right": {
+                  "literal": false
+                }
+              },
+              {
+                "op": "eq",
+                "left": {
+                  "field": "plan.purposeAndPositionConfirmed"
+                },
+                "right": {
+                  "literal": false
+                }
+              }
+            ]
+          },
+          "kind": "optional_learner_support",
+          "presentation": "available_when_guard_true_never_auto_speaks"
+        },
+        {
+          "ids": [
+            "T03S.037"
+          ],
+          "when": {
+            "op": "all",
+            "args": [
+              {
+                "op": "eq",
+                "left": {
+                  "field": "evidence.upper"
+                },
+                "right": {
+                  "literal": "unseen"
+                }
+              },
+              {
+                "op": "eq",
+                "left": {
+                  "field": "evidence.path"
+                },
+                "right": {
+                  "literal": "unseen"
+                }
+              },
+              {
+                "op": "eq",
+                "left": {
+                  "field": "interview.heard"
+                },
+                "right": {
+                  "literal": false
+                }
+              }
+            ]
+          },
+          "kind": "optional_learner_support",
+          "presentation": "available_when_guard_true_never_auto_speaks"
+        }
+      ],
+      "transitions": [
+        {
+          "event": "EXPLANATION_SAVED",
+          "to": "j.explain",
+          "when": {
+            "op": "all",
+            "args": [
+              {
+                "op": "eq",
+                "left": {
+                  "context": "threeCardSourcesValid"
+                },
+                "right": {
+                  "literal": true
+                }
+              },
+              {
+                "op": "eq",
+                "left": {
+                  "context": "referencedMediaDurable"
+                },
+                "right": {
+                  "literal": true
+                }
+              }
+            ]
+          }
+        },
+        {
+          "event": "EXPLANATION_DRAFT_SAVED",
+          "to": "j.explain",
+          "when": {
+            "op": "all",
+            "args": [
+              {
+                "op": "eq",
+                "left": {
+                  "context": "threeCardSourcesValid"
+                },
+                "right": {
+                  "literal": true
+                }
+              },
+              {
+                "op": "eq",
+                "left": {
+                  "context": "referencedMediaDurable"
+                },
+                "right": {
+                  "literal": true
+                }
+              }
+            ]
+          }
+        },
+        {
+          "event": "CONTINUE_TO_RETURN_CARD",
+          "to": "j.return_to_bridge",
+          "when": {
+            "op": "always"
+          }
+        }
+      ]
+    },
+    {
+      "id": "j.return_to_bridge",
+      "kind": "staging",
+      "locationId": "loc.stream_bridge",
+      "staging": {
+        "characters": [
+          "NOOR",
+          "ROWAN",
+          "MEI",
+          "SAM"
+        ],
+        "method": "walk_on_shared_world_routes",
+        "allowTeleport": false
+      },
+      "dialogue": [],
+      "transitions": [
+        {
+          "event": "MOVE_ARRIVED",
+          "to": "j.return_card",
+          "when": {
+            "op": "all",
+            "args": [
+              {
+                "op": "eq",
+                "left": {
+                  "field": "navigation.targetLocation"
+                },
+                "right": {
+                  "literal": "loc.stream_bridge"
+                }
+              },
+              {
+                "op": "eq",
+                "left": {
+                  "context": "destinationReached"
+                },
+                "right": {
+                  "literal": true
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "j.return_card",
+      "kind": "reflection",
+      "locationId": "loc.stream_bridge",
+      "dialogue": [
+        {
+          "ids": [
+            "T03S.026"
+          ],
+          "when": {
+            "op": "all",
+            "args": [
+              {
+                "op": "eq",
+                "left": {
+                  "context": "activeCastRowan"
+                },
+                "right": {
+                  "literal": true
+                }
+              },
+              {
+                "op": "eq",
+                "left": {
+                  "field": "delivery.T03S.026"
+                },
+                "right": {
+                  "literal": false
+                }
+              }
+            ]
+          },
+          "kind": "performed",
+          "triggerOn": [
+            "node_enter",
+            "cast_arrived",
+            "scene_resumed"
+          ],
+          "deliveryField": "delivery.T03S.026"
+        },
+        {
+          "ids": [
+            "T03S.027"
+          ],
+          "when": {
+            "op": "always"
+          },
+          "kind": "optional_learner_support",
+          "presentation": "available_when_guard_true_never_auto_speaks"
+        },
+        {
+          "ids": [
+            "T03S.028"
+          ],
+          "when": {
+            "op": "all",
+            "args": [
+              {
+                "op": "eq",
+                "left": {
+                  "context": "activeCastMei"
+                },
+                "right": {
+                  "literal": true
+                }
+              },
+              {
+                "op": "eq",
+                "left": {
+                  "field": "delivery.T03S.028"
+                },
+                "right": {
+                  "literal": false
+                }
+              }
+            ]
+          },
+          "kind": "performed",
+          "triggerOn": [
+            "node_enter",
+            "cast_arrived",
+            "scene_resumed"
+          ],
+          "deliveryField": "delivery.T03S.028"
+        }
+      ],
+      "transitions": [
+        {
+          "event": "RETURN_CARD_SAVED",
+          "to": "j.return_card",
+          "when": {
+            "op": "always"
+          }
+        },
+        {
+          "event": "FINISH_SAVED",
+          "to": "j.end_saved",
+          "when": {
+            "op": "always"
+          }
+        },
+        {
+          "event": "REOPEN_FIELDWORK",
+          "to": "j.fieldwork",
+          "when": {
+            "op": "always"
+          }
+        }
+      ],
+      "optionalCastPolicy": "Player arrival opens the card immediately. Rowan/Mei lines may follow when that speaker arrives; saving or leaving does not wait for them. Undelivered cues remain eligible on the next return; receipts suppress unrequested repeats."
+    },
+    {
+      "id": "j.end_saved",
+      "kind": "terminal",
+      "outcome": "保存本课已发生的事；不代表生态问题解决。",
+      "dialogue": [],
+      "transitions": [
+        {
+          "event": "RESUME_SAVED",
+          "to": {
+            "field": "resume.nodeId"
+          },
+          "when": {
+            "op": "always"
+          }
+        }
+      ]
+    },
+    {
+      "id": "j.end_paused",
+      "kind": "terminal",
+      "outcome": "保存后暂停；恢复安全交互点，未完成试验不补成完成。",
+      "dialogue": [],
+      "transitions": [
+        {
+          "event": "RESUME_SAVED",
+          "to": {
+            "field": "resume.nodeId"
+          },
+          "when": {
+            "op": "always"
+          }
+        }
+      ]
+    },
+    {
+      "id": "j.end_unresolved",
+      "kind": "terminal",
+      "outcome": "保存未解问题；允许少量证据、无试验或无实施。",
+      "dialogue": [],
+      "transitions": [
+        {
+          "event": "RESUME_SAVED",
+          "to": {
+            "field": "resume.nodeId"
+          },
+          "when": {
+            "op": "always"
+          }
+        }
+      ]
+    }
+  ],
+  "globalTransitions": [
+    {
+      "from": [
+        "j.fieldwork"
+      ],
+      "event": "MOVE_REQUESTED",
+      "to": {
+        "context": "currentNodeId"
+      },
+      "when": {
+        "op": "eq",
+        "left": {
+          "field": "navigation.targetLocation"
+        },
+        "right": {
+          "literal": null
+        }
+      }
+    },
+    {
+      "from": [
+        "j.fieldwork"
+      ],
+      "event": "MOVE_ARRIVED",
+      "to": {
+        "context": "currentNodeId"
+      },
+      "when": {
+        "op": "all",
+        "args": [
+          {
+            "op": "ne",
+            "left": {
+              "field": "navigation.targetLocation"
+            },
+            "right": {
+              "literal": null
+            }
+          },
+          {
+            "op": "eq",
+            "left": {
+              "context": "destinationReached"
+            },
+            "right": {
+              "literal": true
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from": [
+        "j.bridge_record",
+        "j.bridge_hook",
+        "j.fieldwork"
+      ],
+      "event": "LITTER_REMOVED",
+      "to": {
+        "context": "currentNodeId"
+      },
+      "when": {
+        "op": "all",
+        "args": [
+          {
+            "op": "eq",
+            "left": {
+              "field": "navigation.currentLocation"
+            },
+            "right": {
+              "literal": "loc.stream_bridge"
+            }
+          },
+          {
+            "op": "eq",
+            "left": {
+              "field": "world.litterRemoved"
+            },
+            "right": {
+              "literal": false
+            }
+          },
+          {
+            "op": "eq",
+            "left": {
+              "context": "cleanupActionFinished"
+            },
+            "right": {
+              "literal": true
+            }
+          },
+          {
+            "op": "eq",
+            "left": {
+              "field": "navigation.targetLocation"
+            },
+            "right": {
+              "literal": null
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from": [
+        "j.entry",
+        "j.bridge_record",
+        "j.bridge_hook",
+        "j.fieldwork",
+        "j.mei_neutral",
+        "j.mei_direct",
+        "j.mei_followup",
+        "j.model_assemble",
+        "j.model_intro",
+        "j.model",
+        "j.plan_review",
+        "j.plan_choice",
+        "j.materials",
+        "j.placement",
+        "j.explain",
+        "j.return_to_bridge",
+        "j.return_card"
+      ],
+      "event": "PAUSE_SAVED",
+      "to": "j.end_paused",
+      "when": {
+        "op": "always"
+      }
+    },
+    {
+      "from": [
+        "j.entry",
+        "j.bridge_record",
+        "j.bridge_hook",
+        "j.fieldwork",
+        "j.mei_neutral",
+        "j.mei_direct",
+        "j.mei_followup",
+        "j.model_assemble",
+        "j.model_intro",
+        "j.model",
+        "j.plan_review",
+        "j.plan_choice",
+        "j.materials",
+        "j.placement",
+        "j.explain",
+        "j.return_to_bridge",
+        "j.return_card"
+      ],
+      "event": "UNRESOLVED_SAVED",
+      "to": "j.end_unresolved",
+      "when": {
+        "op": "always"
+      }
+    },
+    {
+      "from": [
+        "j.entry",
+        "j.bridge_record",
+        "j.bridge_hook",
+        "j.fieldwork",
+        "j.mei_neutral",
+        "j.mei_direct",
+        "j.mei_followup",
+        "j.model_assemble",
+        "j.model_intro",
+        "j.model",
+        "j.plan_review",
+        "j.plan_choice",
+        "j.materials",
+        "j.placement",
+        "j.explain",
+        "j.return_to_bridge",
+        "j.return_card"
+      ],
+      "event": "INTERRUPTED_TRIAL_RECOVERED",
+      "to": {
+        "context": "currentNodeId"
+      },
+      "when": {
+        "op": "all",
+        "args": [
+          {
+            "op": "eq",
+            "left": {
+              "context": "sessionReopened"
+            },
+            "right": {
+              "literal": true
+            }
+          },
+          {
+            "op": "eq",
+            "left": {
+              "field": "model.phase"
+            },
+            "right": {
+              "literal": "running"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "from": [
+        "j.entry",
+        "j.bridge_record",
+        "j.bridge_hook",
+        "j.fieldwork",
+        "j.mei_neutral",
+        "j.mei_direct",
+        "j.mei_followup",
+        "j.model_assemble",
+        "j.model_intro",
+        "j.model",
+        "j.plan_review",
+        "j.plan_choice",
+        "j.materials",
+        "j.placement",
+        "j.explain",
+        "j.return_to_bridge",
+        "j.return_card"
+      ],
+      "event": "DIALOGUE_CONTENT_PRESENTED",
+      "to": {
+        "context": "currentNodeId"
+      },
+      "when": {
+        "op": "all",
+        "args": [
+          {
+            "op": "eq",
+            "left": {
+              "input": "lineId"
+            },
+            "right": {
+              "context": "presentedDialogueId"
+            }
+          },
+          {
+            "op": "eq",
+            "left": {
+              "context": "dialogueDeliveryValidated"
+            },
+            "right": {
+              "literal": true
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "storageContract": {
+    "eventEnvelope": {
+      "commandId": "uuid reused on retry",
+      "eventId": "same stable ID",
+      "expectedRevision": "nonnegative integer",
+      "input": "typed event input",
+      "schemaVersion": "6.1-handoff-1"
+    },
+    "atomicUnit": [
+      "accepted event ID",
+      "domain field effects",
+      "new currentNodeId",
+      "new stateRevision",
+      "durable referenced blob IDs"
+    ],
+    "idempotence": "Existing eventId with identical event name, input and schema hash returns the original committed result; differing content using the same ID is rejected. expectedRevision mismatch reloads latest state without automatic replay.",
+    "animation": "Manipulations are previews until commit. PLAY/REPLAY/SEEK/SKIP/AUDIO_END never dispatch domain completion by themselves.",
+    "storageFailure": "No transition/effect becomes committed. Keep the current scene with a visible retry/discard/export overlay. Retry reuses command ID. Do not say saved.",
+    "refresh": "Recover latest complete committed revision; ignore incomplete journal tail. If model.phase is running, commit INTERRUPTED_TRIAL_RECOVERED before enabling new actions; retain completed trials and do not invent a result.",
+    "inFlightPause": "PAUSE_SAVED cancels running model without appending result. Carry/draft placement fields are retained; restore validated transform against same layout version.",
+    "versionMismatch": "Block application of stale placement transforms; retain read-only records and propose explicit migration/copy, never silently move a permanent landmark.",
+    "privacy": "Local classroom records by default; no account, network room, automatic message or cloud upload.",
+    "navigationResume": "On reopening, start at the saved safe anchor navigation.currentLocation; if a destination remains, visibly offer continuing that walk. Do not alter permanent object transforms.",
+    "draftResume": "Restore carried/draft cover state only with the same frozen layout version; material still exists exactly once. If its transform fails validation, keep the save read-only and request an explicit recovery to the tools table.",
+    "recoveryEventIdentity": "Recovery command ID is stable for the loaded save ID and interrupted trial revision, so a retry cannot create repeated recovery events.",
+    "snapshotEnvelope": {
+      "saveId": "stable local save ID",
+      "schemaVersion": "6.1-handoff-1",
+      "layoutVersion": "copied from session.layoutVersion",
+      "assetManifestVersion": "copied from session.assetManifestVersion",
+      "stateRevision": "last complete integer revision",
+      "currentNodeId": "declared node ID",
+      "fields": "typed field values",
+      "acceptedEvents": "append-only immutable event records"
+    },
+    "blobFailure": "If a referenced frame/audio blob is missing, keep that media slot pending and offer explicit replacement/removal; never silently publish a different image or claim the missing recording was saved.",
+    "asyncCompletion": "TRIAL_COMPLETED requires input.runId equal to the active run ID. Cancelling, pausing or recovering clears activeRunId, so a late animation callback cannot finish a newer run.",
+    "dialogueResume": "Persist delivery.T03S.* booleans with the same atomic revision. The follow-up interview always exposes 007/009/011 transcript, so skipping a previous cue or restoring midway cannot strand the scene. Optional return/cleanup cues wait for actual cast presence and never gate saving."
+  },
+  "invariants": [
+    "Only COVER_INSTALLED sets world.coverInstalled=true.",
+    "Only LITTER_REMOVED sets world.litterRemoved=true.",
+    "No event changes world.waterAppearance in this slice.",
+    "No event appends followup.observations; a saved return card is planned only.",
+    "A failed/cancelled trial does not append a trial record.",
+    "No student free-text content affects transition availability.",
+    "Terminal outcomes are saved activity states, never a claim of ecological restoration.",
+    "Only current public/committed evidence, actual trials and actual implementation are offered as explanation media."
+  ],
+  "publicEvidenceCatalog": {
+    "status": "asset_requirements_not_delivered_media",
+    "datePolicy": "Fictional story date labels are displayed on authored records; no real-world field measurement is claimed.",
+    "records": [
+      {
+        "sourceId": "record.bridge.before_rain.v1",
+        "evidenceId": "C1-E01",
+        "locationId": "loc.stream_bridge",
+        "cameraId": "cam.field_bridge",
+        "storyDateLabel": "Before the rain · previous visit",
+        "conditionLabel": "Before rain",
+        "rights": "project_original_teaching_art_required"
+      },
+      {
+        "sourceId": "record.bridge.current_round.v1",
+        "evidenceId": "C1-E01/C1-E02",
+        "locationId": "loc.stream_bridge",
+        "cameraId": "cam.field_bridge",
+        "storyDateLabel": "Return visit · observation round 01",
+        "conditionLabel": "After rain; current observed appearance",
+        "comparisonRoundId": "round.return.01",
+        "rights": "project_original_teaching_art_required"
+      },
+      {
+        "sourceId": "record.upper.current_round.v1",
+        "evidenceId": "C1-E02",
+        "locationId": "loc.upper_stream",
+        "cameraId": "cam.upper_observation.slice1",
+        "storyDateLabel": "Return visit · observation round 01",
+        "conditionLabel": "Same observation round as bridge record",
+        "comparisonRoundId": "round.return.01",
+        "rights": "project_original_teaching_art_required"
+      },
+      {
+        "sourceId": "record.bare_bed.path.v1",
+        "evidenceId": "C1-E03",
+        "locationId": "loc.bare_bed",
+        "cameraId": "cam.action_east_bed",
+        "storyDateLabel": "Return visit · observation round 01",
+        "conditionLabel": "Exposed soil, shallow channel and visible route; possible source only",
+        "rights": "project_original_teaching_art_required"
+      }
+    ],
+    "newCameraPolicy": "cam.upper_observation.slice1 is an additional camera in the same v3 world, with transform frozen after blockout; it does not create another upstream location.",
+    "learnerMediaEligibility": [
+      {
+        "sourcePrefix": "record.bridge.",
+        "requiresField": "evidence.bridge",
+        "allowedValues": [
+          "observed"
+        ]
+      },
+      {
+        "sourcePrefix": "record.upper.",
+        "requiresField": "evidence.upper",
+        "allowedValues": [
+          "observed",
+          "peer_shared"
+        ]
+      },
+      {
+        "sourcePrefix": "record.bare_bed.",
+        "requiresField": "evidence.path",
+        "allowedValues": [
+          "observed",
+          "peer_shared"
+        ]
+      },
+      {
+        "sourcePrefix": "trial.",
+        "requires": "accepted TRIAL_COMPLETED ID and durable frame"
+      },
+      {
+        "sourcePrefix": "implementation.",
+        "requires": "accepted COVER_INSTALLED ID and durable frame"
+      },
+      {
+        "sourcePrefix": "cleanup.",
+        "requires": "accepted LITTER_REMOVED ID and durable frame"
+      }
+    ]
+  },
+  "globalDialogue": [
+    {
+      "ids": [
+        "T03S.001"
+      ],
+      "when": {
+        "op": "all",
+        "args": [
+          {
+            "op": "eq",
+            "left": {
+              "field": "world.litterRemoved"
+            },
+            "right": {
+              "literal": true
+            }
+          },
+          {
+            "op": "eq",
+            "left": {
+              "field": "delivery.T03S.001"
+            },
+            "right": {
+              "literal": false
+            }
+          },
+          {
+            "op": "eq",
+            "left": {
+              "field": "navigation.currentLocation"
+            },
+            "right": {
+              "literal": "loc.stream_bridge"
+            }
+          },
+          {
+            "op": "eq",
+            "left": {
+              "field": "navigation.targetLocation"
+            },
+            "right": {
+              "literal": null
+            }
+          },
+          {
+            "op": "eq",
+            "left": {
+              "context": "activeCastNoor"
+            },
+            "right": {
+              "literal": true
+            }
+          }
+        ]
+      },
+      "kind": "performed",
+      "triggerOn": [
+        "LITTER_REMOVED",
+        "node_enter",
+        "cast_arrived",
+        "scene_resumed"
+      ],
+      "deliveryField": "delivery.T03S.001",
+      "policy": "Queued from the accepted cleanup event across bridge_record, bridge_hook and fieldwork. Actual speaker must be present; never block movement, saving or leaving."
+    },
+    {
+      "ids": [
+        "T03S.002"
+      ],
+      "when": {
+        "op": "all",
+        "args": [
+          {
+            "op": "eq",
+            "left": {
+              "field": "world.litterRemoved"
+            },
+            "right": {
+              "literal": true
+            }
+          },
+          {
+            "op": "eq",
+            "left": {
+              "field": "delivery.T03S.002"
+            },
+            "right": {
+              "literal": false
+            }
+          },
+          {
+            "op": "eq",
+            "left": {
+              "field": "navigation.currentLocation"
+            },
+            "right": {
+              "literal": "loc.stream_bridge"
+            }
+          },
+          {
+            "op": "eq",
+            "left": {
+              "field": "navigation.targetLocation"
+            },
+            "right": {
+              "literal": null
+            }
+          },
+          {
+            "op": "eq",
+            "left": {
+              "context": "activeCastRowan"
+            },
+            "right": {
+              "literal": true
+            }
+          }
+        ]
+      },
+      "kind": "performed",
+      "triggerOn": [
+        "LITTER_REMOVED",
+        "node_enter",
+        "cast_arrived",
+        "scene_resumed"
+      ],
+      "deliveryField": "delivery.T03S.002",
+      "policy": "Queued from the accepted cleanup event across bridge_record, bridge_hook and fieldwork. Actual speaker must be present; never block movement, saving or leaving."
+    }
+  ],
+  "postCommitVisualFeedback": [
+    {
+      "event": "LITTER_REMOVED",
+      "when": {
+        "op": "eq",
+        "left": {
+          "field": "world.litterRemoved"
+        },
+        "right": {
+          "literal": true
+        }
+      },
+      "requiredVisuals": [
+        "the bottle is absent from its former place",
+        "the same current water remains brown; do not crossfade to clean water"
+      ],
+      "pendingDialogueIds": [
+        "T03S.001",
+        "T03S.002"
+      ],
+      "policy": "Visual before/after feedback is immediate at every legal cleanup node. If actors/audio are not ready, the undelivered caption/voice cues remain pending for actual presence or resume; never erase this difference while transitioning."
+    }
+  ]
+}

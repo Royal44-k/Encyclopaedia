@@ -1,0 +1,153 @@
+{
+  "schemaVersion": "5.0",
+  "date": "2026-11-07",
+  "purpose": "按具体语篇及活动建立教材锚点；不再只用目录匹配自创任务。",
+  "copyrightUse": "仅记录定位与极简主题，不复制原文、原图、练习或原音频；原创场景另行标注。",
+  "sourcePolicy": "同一文件多个检索结果不当作多个独立来源；检索出现的其他学制/单元编号版本未混用。",
+  "items": [
+    {
+      "id": "BK13",
+      "locator": "U13 Section B 2a–2b",
+      "printedPage": 102,
+      "brief": "再用创作",
+      "readScope": "正文及人物—材料—作品表格",
+      "url": "https://r1-ndr.ykt.cbern.com.cn/edu_product/esp/assets/1961dabe-cab0-456d-b7ac-59b37e271e5d.pkg/pdf.pdf",
+      "accessMode": "official_pdf_search_index_text",
+      "directPdfAccess": "403/AccessDenied；未下载完整PDF，未逐页检查版面与插图",
+      "edition": "对应既有九年级全一册14单元结构，学校具体印次待核对",
+      "consultedAt": "2026-11-07"
+    },
+    {
+      "id": "BK08",
+      "locator": "U8 Section A 3a–3c",
+      "printedPage": 59,
+      "brief": "邻里声源推断",
+      "readScope": "正文及不同人物判断表",
+      "url": "https://r1-ndr.ykt.cbern.com.cn/edu_product/esp/assets/1961dabe-cab0-456d-b7ac-59b37e271e5d.pkg/pdf.pdf",
+      "accessMode": "official_pdf_search_index_text",
+      "directPdfAccess": "403/AccessDenied；未下载完整PDF，未逐页检查版面与插图",
+      "edition": "对应既有九年级全一册14单元结构，学校具体印次待核对",
+      "consultedAt": "2026-11-07"
+    },
+    {
+      "id": "BK03",
+      "locator": "U3 Section A 3a–3b",
+      "printedPage": 19,
+      "brief": "游园与问路",
+      "readScope": "对话及信息问句改写活动",
+      "url": "https://r1-ndr.ykt.cbern.com.cn/edu_product/esp/assets/1961dabe-cab0-456d-b7ac-59b37e271e5d.pkg/pdf.pdf",
+      "accessMode": "official_pdf_search_index_text",
+      "directPdfAccess": "403/AccessDenied；未下载完整PDF，未逐页检查版面与插图",
+      "edition": "对应既有九年级全一册14单元结构，学校具体印次待核对",
+      "consultedAt": "2026-11-07"
+    },
+    {
+      "id": "BK06",
+      "locator": "U6 Section A 3a–3c",
+      "printedPage": 43,
+      "brief": "偶然发现",
+      "readScope": "正文及信息提取、动词活动",
+      "url": "https://r1-ndr.ykt.cbern.com.cn/edu_product/esp/assets/1961dabe-cab0-456d-b7ac-59b37e271e5d.pkg/pdf.pdf",
+      "accessMode": "official_pdf_search_index_text",
+      "directPdfAccess": "403/AccessDenied；未下载完整PDF，未逐页检查版面与插图",
+      "edition": "对应既有九年级全一册14单元结构，学校具体印次待核对",
+      "consultedAt": "2026-11-07"
+    },
+    {
+      "id": "BK05",
+      "locator": "U5 Section B 2a–2b",
+      "printedPage": 38,
+      "brief": "传统手作",
+      "readScope": "正文及材料和艺术形式表",
+      "url": "https://r1-ndr.ykt.cbern.com.cn/edu_product/esp/assets/1961dabe-cab0-456d-b7ac-59b37e271e5d.pkg/pdf.pdf",
+      "accessMode": "official_pdf_search_index_text",
+      "directPdfAccess": "403/AccessDenied；未下载完整PDF，未逐页检查版面与插图",
+      "edition": "对应既有九年级全一册14单元结构，学校具体印次待核对",
+      "consultedAt": "2026-11-07"
+    },
+    {
+      "id": "BK02",
+      "locator": "U2 Section A 3a",
+      "printedPage": null,
+      "brief": "中秋叙事",
+      "readScope": "开头、设问和故事前段；页码及余段待纸本核对",
+      "url": "https://r1-ndr.ykt.cbern.com.cn/edu_product/esp/assets/1961dabe-cab0-456d-b7ac-59b37e271e5d.pkg/pdf.pdf",
+      "accessMode": "official_pdf_search_index_text",
+      "directPdfAccess": "403/AccessDenied；未下载完整PDF，未逐页检查版面与插图",
+      "edition": "对应既有九年级全一册14单元结构，学校具体印次待核对",
+      "consultedAt": "2026-11-07"
+    },
+    {
+      "id": "BK09",
+      "locator": "U9 Section B 2a–2b",
+      "printedPage": 70,
+      "brief": "音乐与感受",
+      "readScope": "正文、设问及支撑细节提示",
+      "url": "https://r1-ndr.ykt.cbern.com.cn/edu_product/esp/assets/1961dabe-cab0-456d-b7ac-59b37e271e5d.pkg/pdf.pdf",
+      "accessMode": "official_pdf_search_index_text",
+      "directPdfAccess": "403/AccessDenied；未下载完整PDF，未逐页检查版面与插图",
+      "edition": "对应既有九年级全一册14单元结构，学校具体印次待核对",
+      "consultedAt": "2026-11-07"
+    },
+    {
+      "id": "BK11",
+      "locator": "U11 Section B 2a–2e",
+      "printedPage": 86,
+      "brief": "失误后的团队",
+      "readScope": "正文；另读p87设问、角色扮演及经历分享",
+      "url": "https://r1-ndr.ykt.cbern.com.cn/edu_product/esp/assets/1961dabe-cab0-456d-b7ac-59b37e271e5d.pkg/pdf.pdf",
+      "accessMode": "official_pdf_search_index_text",
+      "directPdfAccess": "403/AccessDenied；未下载完整PDF，未逐页检查版面与插图",
+      "edition": "对应既有九年级全一册14单元结构，学校具体印次待核对",
+      "consultedAt": "2026-11-07"
+    },
+    {
+      "id": "BK10",
+      "locator": "U10 Section B 2a–2b",
+      "printedPage": 78,
+      "brief": "交流生活来信",
+      "readScope": "正文及阅读设问",
+      "url": "https://r1-ndr.ykt.cbern.com.cn/edu_product/esp/assets/1961dabe-cab0-456d-b7ac-59b37e271e5d.pkg/pdf.pdf",
+      "accessMode": "official_pdf_search_index_text",
+      "directPdfAccess": "403/AccessDenied；未下载完整PDF，未逐页检查版面与插图",
+      "edition": "对应既有九年级全一册14单元结构，学校具体印次待核对",
+      "consultedAt": "2026-11-07"
+    },
+    {
+      "id": "BK07",
+      "locator": "U7 Section B 2a–2b",
+      "printedPage": 54,
+      "brief": "爱好与选择",
+      "readScope": "正文及读前立场、读后回看活动",
+      "url": "https://r1-ndr.ykt.cbern.com.cn/edu_product/esp/assets/1961dabe-cab0-456d-b7ac-59b37e271e5d.pkg/pdf.pdf",
+      "accessMode": "official_pdf_search_index_text",
+      "directPdfAccess": "403/AccessDenied；未下载完整PDF，未逐页检查版面与插图",
+      "edition": "对应既有九年级全一册14单元结构，学校具体印次待核对",
+      "consultedAt": "2026-11-07"
+    },
+    {
+      "id": "BK01",
+      "locator": "U1 Section A 3a–3b",
+      "printedPage": 3,
+      "brief": "从兴趣进入学习",
+      "readScope": "正文及动作表情、关键词活动",
+      "url": "https://r1-ndr.ykt.cbern.com.cn/edu_product/esp/assets/1961dabe-cab0-456d-b7ac-59b37e271e5d.pkg/pdf.pdf",
+      "accessMode": "official_pdf_search_index_text",
+      "directPdfAccess": "403/AccessDenied；未下载完整PDF，未逐页检查版面与插图",
+      "edition": "对应既有九年级全一册14单元结构，学校具体印次待核对",
+      "consultedAt": "2026-11-07"
+    },
+    {
+      "id": "BK14",
+      "locator": "U14 Section B 2a–2b",
+      "printedPage": 110,
+      "brief": "毕业回望",
+      "readScope": "正文及体裁、作者、受众设问",
+      "url": "https://r1-ndr.ykt.cbern.com.cn/edu_product/esp/assets/1961dabe-cab0-456d-b7ac-59b37e271e5d.pkg/pdf.pdf",
+      "accessMode": "official_pdf_search_index_text",
+      "directPdfAccess": "403/AccessDenied；未下载完整PDF，未逐页检查版面与插图",
+      "edition": "对应既有九年级全一册14单元结构，学校具体印次待核对",
+      "consultedAt": "2026-11-07"
+    }
+  ]
+}
