@@ -1,0 +1,195 @@
+{
+  "passed": true,
+  "results": [
+    {
+      "path": "/",
+      "status": 200,
+      "mime": "text/html; charset=utf-8"
+    },
+    {
+      "path": "/src/sleeve-continuation.js",
+      "status": 200,
+      "mime": "text/javascript; charset=utf-8"
+    },
+    {
+      "path": "/src/sculling-rig.js",
+      "status": 200,
+      "mime": "text/javascript; charset=utf-8"
+    },
+    {
+      "path": "/src/styles-v7.css",
+      "status": 200,
+      "mime": "text/css; charset=utf-8"
+    },
+    {
+      "path": "/assets/v7/held-fan.webp",
+      "status": 200,
+      "mime": "image/webp"
+    },
+    {
+      "path": "/assets/v7/held-tea-grinder.webp",
+      "status": 200,
+      "mime": "image/webp"
+    },
+    {
+      "path": "/assets/v7/held-tea-pot.webp",
+      "status": 200,
+      "mime": "image/webp"
+    },
+    {
+      "path": "/assets/v7/held-tea-whisk.webp",
+      "status": 200,
+      "mime": "image/webp"
+    },
+    {
+      "path": "/assets/v7/reach-bowl.webp",
+      "status": 200,
+      "mime": "image/webp"
+    },
+    {
+      "path": "/assets/v7/reach-glass.webp",
+      "status": 200,
+      "mime": "image/webp"
+    },
+    {
+      "path": "/assets/v7/sculling-hands.webp",
+      "status": 200,
+      "mime": "image/webp"
+    },
+    {
+      "path": "/assets/v7/sources.json",
+      "status": 200,
+      "mime": "application/json; charset=utf-8"
+    },
+    {
+      "path": "/assets/v7/tea-bowl.webp",
+      "status": 200,
+      "mime": "image/webp"
+    },
+    {
+      "path": "/assets/v7/tea-glass-empty.webp",
+      "status": 200,
+      "mime": "image/webp"
+    },
+    {
+      "path": "/assets/v7/tea-glass.webp",
+      "status": 200,
+      "mime": "image/webp"
+    },
+    {
+      "path": "/assets/v7/tea-grinder-trough.webp",
+      "status": 200,
+      "mime": "image/webp"
+    },
+    {
+      "path": "/assets/v7/tea-tool-sources.json",
+      "status": 200,
+      "mime": "application/json; charset=utf-8"
+    },
+    {
+      "path": "/assets/audio/v7/pingsha-luoyan-charlie-huang.ogg",
+      "status": 200,
+      "mime": "audio/ogg"
+    },
+    {
+      "path": "/assets/audio/voice-modern.wav",
+      "status": 200,
+      "mime": "audio/wav"
+    },
+    {
+      "path": "/assets/audio/voice-sudi.wav",
+      "status": 200,
+      "mime": "audio/wav"
+    },
+    {
+      "path": "/assets/audio/voice-quyuan.wav",
+      "status": 200,
+      "mime": "audio/wav"
+    },
+    {
+      "path": "/assets/audio/voice-pinghu.wav",
+      "status": 200,
+      "mime": "audio/wav"
+    },
+    {
+      "path": "/assets/audio/voice-duanqiao.wav",
+      "status": 200,
+      "mime": "audio/wav"
+    },
+    {
+      "path": "/assets/audio/voice-huagang.wav",
+      "status": 200,
+      "mime": "audio/wav"
+    },
+    {
+      "path": "/assets/audio/voice-liulang.wav",
+      "status": 200,
+      "mime": "audio/wav"
+    },
+    {
+      "path": "/assets/audio/voice-santan.wav",
+      "status": 200,
+      "mime": "audio/wav"
+    },
+    {
+      "path": "/assets/audio/voice-shuangfeng.wav",
+      "status": 200,
+      "mime": "audio/wav"
+    },
+    {
+      "path": "/assets/audio/voice-leifeng.wav",
+      "status": 200,
+      "mime": "audio/wav"
+    },
+    {
+      "path": "/assets/audio/voice-nanping.wav",
+      "status": 200,
+      "mime": "audio/wav"
+    },
+    {
+      "path": "/assets/audio/voice-beishan.wav",
+      "status": 200,
+      "mime": "audio/wav"
+    },
+    {
+      "path": "/assets/audio/voice-song.wav",
+      "status": 200,
+      "mime": "audio/wav"
+    },
+    {
+      "path": "/assets/audio/voice-song-tea.wav",
+      "status": 200,
+      "mime": "audio/wav"
+    },
+    {
+      "path": "/assets/audio/voice-song-birds.wav",
+      "status": 200,
+      "mime": "audio/wav"
+    },
+    {
+      "path": "/assets/audio/voice-wuguitan.wav",
+      "status": 200,
+      "mime": "audio/wav"
+    },
+    {
+      "path": "/assets/audio/voice-boat-call.wav",
+      "status": 200,
+      "mime": "audio/wav"
+    },
+    {
+      "path": "/assets/audio/voice-boat-board.wav",
+      "status": 200,
+      "mime": "audio/wav"
+    },
+    {
+      "path": "/assets/audio/voice-boat-next.wav",
+      "status": 200,
+      "mime": "audio/wav"
+    },
+    {
+      "path": "/assets/audio/voice-river-land.wav",
+      "status": 200,
+      "mime": "audio/wav"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+const fs=require('fs');let h=fs.readFileSync('index.html','utf8');
+h=h.replace('<i class="title-seal">江<br>南</i>','<i class="title-seal" aria-label="江南诗韵"><span>江南</span><span>诗韵</span></i>');
+const overview='<button data-action="overview">展卷全景 <span data-icon="expand"></span></button>';h=h.replace(overview,'');h=h.replace('<nav class="top-nav">','<nav class="top-nav">'+overview+'<button id="modernSound" aria-pressed="false">♫ 配乐</button>');
+h=h.replace('<p class="vertical-note">','<button id="enterWuguitan" class="secret-entry"><small>卷外新境 · 湖西</small><span>一棹入青境 ↗</span><em>乌龟潭 · 第一人称慢游</em></button><p class="vertical-note">');
+h=h.replace('<button id="wideView">展看全卷</button>','<button id="wideView">展卷全景</button><button id="songWuguitan" class="song-secret">卷尽 · 入乌龟潭 ↗</button>');
+h=h.replace('<footer class="visit-bottom">','<div id="visitTools" class="visit-tools" aria-label="此景独有体验"></div><span id="visitMusic" class="visit-music"></span><footer class="visit-bottom">');
+h=h.replace('按住 · 缓步向前','开始漫步');fs.writeFileSync('index.html',h);
+let a=fs.readFileSync('src/app.js','utf8').replace("from './audio.js'","from './soundtrack.js'");a="import {riverVisit} from './wuguitan.js';\n"+a;
+a=a.replace("function setMode(mode){s.mode=mode;","function setMode(mode){s.mode=mode;audio.setScene(mode);audio.update(!document.hidden&&windowFocused,false);");
+a=a.replace("$('#enterCrossing').onclick=startCrossing;","$('#enterWuguitan').onclick=()=>openVisit(riverVisit);$('#songWuguitan').onclick=()=>{if(s.boat.phase!=='idle'){toast('请待小舟靠岸，再进入湖西秘境。');return;}openVisit(riverVisit,'song');};$('#modernSound').onclick=async()=>{await audio.toggle();$('#modernSound').setAttribute('aria-pressed',String(audio.enabled));$('#modernSound').textContent=audio.enabled?'♫ 配乐已开':'♫ 配乐';};\n$('#enterCrossing').onclick=startCrossing;");
+a=a.replace("id:'song-birds',name:'柳岸听莺'","id:'song-birds',kind:'songbirds',image:'song-scene',name:'柳阴题扇',en:'HEAR THE LAKE, PAINT A FAN',action:'收下诗画笺'");
+a=a.replace("if(s.boat.phase==='idle'&&previousBoat==='landing')toast('舟已靠岸 ·「一棹西湖水」已收入手记');","if(s.boat.phase==='idle'&&previousBoat==='landing'){toast('舟已靠岸 · 卷尽还有湖，右侧可入乌龟潭');$('#songWuguitan').classList.add('inviting');}");
+a=a.replace("collection:[...s.collection],target:s.target,visit:","collection:[...s.collection],audio:audio.snapshot(),target:s.target,visit:");
+a=a.replace("if(data.kind==='birds')collect(s,'birds')","if(data.kind==='birds'||data.kind==='songbirds')collect(s,'birds')");
+fs.writeFileSync('src/app.js',a);
+let w=fs.readFileSync('src/visit-world.js','utf8');w=w.replace("Math.sin(t*(v.closeLook?1.5:.5)+i)*8","Math.sin(t*(.4+v.wind*1.4)+i)*(2+v.wind*18)");w=w.replace(".62-v.pan*.22)",".62-v.pan*.22+v.moon*.12)").replace("c.arc(x,h*.30,16","c.arc(x,h*(.36-v.moon*.16),16");fs.writeFileSync('src/visit-world.js',w);

@@ -1,0 +1,26 @@
+const fs=require('fs');
+const file='src/scene.js';let src=fs.readFileSync(file,'utf8');
+const replace=(a,b)=>{if(!src.includes(a))throw Error('Missing '+a.slice(0,65));src=src.replace(a,b);};
+replace("import {clamp} from './state.js';","import {clamp} from './state.js';\nimport {drawRig,passengerPose} from './rig.js';\nimport {drawWeather} from './weather.js';");
+replace('this.zoom=1;this.targetZoom=1;','this.zoom=.82;this.targetZoom=.82;this.heroDistance=0;this.lastHeroX=state.x;');
+replace("length:32","length:48");
+replace("sprite:i%6","id:'resident-'+i,sprite:i,distance:0");
+replace("height:101+seed(i+51)*20","height:i>=36&&i<40?82+seed(i+51)*10:101+seed(i+51)*22");
+replace("speed:i%3===0?.003+seed(i+99)*.004:0","speed:i%3!==0?.007+seed(i+99)*.006:0");
+replace("this.targetZoom=this.targetZoom>1.2?1:1.65","this.targetZoom=this.targetZoom>1.2?.7:1.65");
+src=src.replaceAll("clamp(b.t/1.5,0,1)","clamp(b.t/1.8,0,1)");
+replace("if(b.phase==='cruising')return H*.78;","if(['sitting','cruising','standing'].includes(b.phase))return H*.79;");
+replace("const t=s.time,ambient=reduced?0:t;","const t=s.time,ambient=reduced?0:t;this.heroDistance+=Math.abs(s.x-this.lastHeroX)*W;this.lastHeroX=s.x;");
+replace("n.x+=n.speed*dt*n.direction;","n.x+=n.speed*dt*n.direction;n.distance+=n.speed*dt*W;");
+replace("n.speed&&!reduced?t*4+n.phase:0","n.speed&&!reduced?n.distance:0");
+replace("const cruising=['boarding','cruising','landing'].includes(b.phase);","const cruising=['boarding','sitting','cruising','standing','landing'].includes(b.phase);");
+replace("s.target!==null&&!reduced?t*7:0","s.target!==null&&!reduced?this.heroDistance:0");
+const start=src.indexOf('    this.boat(c,bx,by,365'),end=src.indexOf('    this.details(c,t,reduced);',start);
+if(start<0||end<0)throw Error('boat block missing');
+src=src.slice(0,start)+"    this.occupiedBoat(c,bx,by,520,b,ambient,cruising);\n    if(s.story.active){const p=s.story.progress;this.occupiedBoat(c,W*(.33+p*.29),H*.8,380,{phase:s.story.holding?'cruising':'idle',destination:1,dock:0},ambient,false);}\n"+src.slice(end);
+const ps=src.indexOf('  person(c,index'),pe=src.indexOf('  docks(c)',ps);
+src=src.slice(0,ps)+"  person(c,index,x,y,h,dir,distance,main=false){drawRig(c,main?this.assets.hero[0]:this.assets.people[index],x,y,h,dir,distance,!!distance,{main});}\n  occupiedBoat(c,x,y,width,b,t,occupied){\n    const img=this.assets.boat,ratio=width/520,h=width*img.height/img.width,dir=b.destination<b.dock?-1:1;\n    c.save();c.translate(x,y);c.scale(dir,1);\n    c.drawImage(img,-width/2,-h*.86,width,h);\n    const deck=-h*.2,seatX=width*.025,seatY=deck-5*ratio;\n    if(occupied){const sit=passengerPose(b),phase=b.phase;let hx=seatX,hy=seatY,height=(124-42*sit)*ratio;\n      if(phase==='boarding'||phase==='landing'){const p=clamp(b.t/1.8,0,1),q=phase==='boarding'?p:1-p;hx=(this.state.x*W-x)*dir+(seatX-(this.state.x*W-x)*dir)*q;hy=(this.actorY-y)*(1-q)+seatY*q;height=124*ratio;}\n      if(sit>.12){const pose=sit>.65?this.assets.hero[1]:this.assets.hero[2],ph=height,pw=ph*pose.width/pose.height;c.drawImage(pose,hx-pw/2,hy-ph,pw,ph);}\n      else drawRig(c,this.assets.hero[0],hx,hy,height,1,b.t*64,['boarding','landing'].includes(phase),{main:false});\n      const sy=img.height*.7;c.drawImage(img,0,sy,img.width,img.height-sy,-width/2,-h*.86+h*.7,width,h*.3);\n    }\n    const row=['cruising','approaching'].includes(b.phase),stroke=row?Math.sin(t*2.3):0;\n    const man=this.assets.hero[3],mh=111*ratio,mw=mh*man.width/man.height,mx=-width*.33,my=deck;\n    c.save();c.translate(mx,my);c.rotate(stroke*.045);c.drawImage(man,-mw/2,-mh,mw,mh);c.restore();\n    const pivotX=mx+19*ratio,pivotY=my-40*ratio,angle=.42+stroke*.3;\n    c.save();c.translate(pivotX,pivotY);c.rotate(angle);c.strokeStyle='#514a36';c.lineWidth=5*ratio;c.beginPath();c.moveTo(43*ratio,-17*ratio);c.lineTo(-130*ratio,40*ratio);c.stroke();c.strokeStyle='#ad9570';c.lineWidth=2*ratio;c.stroke();c.fillStyle='#766448';c.beginPath();c.ellipse(-135*ratio,41*ratio,27*ratio,7*ratio,-.3,0,TAU);c.fill();c.restore();\n    c.strokeStyle='#748e7448';c.lineWidth=1;for(let i=0;i<4;i++){c.beginPath();c.ellipse(0,8+i*4,width*(.4+i*.03),4+i*2,0,0,Math.PI);c.stroke();}\n    if(row){const p=(t*.8)%1;c.strokeStyle='#d7debd88';c.beginPath();c.ellipse(mx-95*ratio,28*ratio,8+p*35,2+p*6,0,0,TAU);c.stroke();}\n    c.restore();\n  }\n"+src.slice(pe);
+replace("if(this.weatherMix>.01&&s.season!=='winter')this.drawRain(c,t,reduced);","if(this.weatherMix>.01)drawWeather(c,this.width,this.height,t,s.season==='winter'?'snow':'rain',{reduced,amount:this.weatherMix});");
+replace("if(s.season==='autumn'||(s.season==='winter'&&s.rain))this.drawSeason(c,ambient,reduced);","if(s.season==='autumn')this.drawSeason(c,ambient,reduced);");
+fs.writeFileSync(file,src);
+

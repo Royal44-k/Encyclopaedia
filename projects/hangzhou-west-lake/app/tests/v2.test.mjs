@@ -1,0 +1,10 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {inkStages,inkStageAt} from '../src/crossing.js';
+import {gaitAt,passengerPose,rowingPose} from '../src/rig.js';
+import {drawWeather} from '../src/weather.js';
+test('ink transition follows eight connected stages',()=>{assert.deepEqual(inkStages.map(x=>x.name),['滴墨','晕染','淡化','描摹','勾勒','涂色','聚焦','显现']);assert.equal(inkStageAt(0).name,'滴墨');assert.equal(inkStageAt(1).name,'显现');});
+test('gait alternates planted feet using travelled distance',()=>{const a=gaitAt(9);assert.equal(a.left.lift,0);assert.ok(a.right.lift>0);const b=gaitAt(45);assert.equal(b.right.lift,0);assert.ok(b.left.lift>0);assert.notEqual(a.left.x,b.left.x);});
+test('passenger sits during voyage and rises before landing',()=>{assert.equal(passengerPose({phase:'cruising'}),1);assert.equal(passengerPose({phase:'sitting',t:0}),0);assert.equal(passengerPose({phase:'standing',t:1.1}),0);});
+test('rain remains within the viewport after prolonged play',()=>{for(const t of [0,40,100,3600]){const points=[],noop=()=>{};const c=new Proxy({createLinearGradient:()=>({addColorStop:noop}),moveTo:x=>points.push(x)},{get:(o,k)=>o[k]||noop,set:(o,k,v)=>(o[k]=v,true)});drawWeather(c,390,844,t,'rain');assert.equal(points.length,174);assert.ok(points.every(x=>x>=0&&x<390),'all drops wrap at '+t);}});
+test('rowing hands and blade remain on one articulated shaft',()=>{for(const t of [0,.4,.8,1.2,1.7]){const {hand:h,blade:b,pivot:p,second:s}=rowingPose(t);assert.ok(Math.abs((h.x-p.x)*(b.y-p.y)-(h.y-p.y)*(b.x-p.x))<1e-9);assert.ok(Math.abs((h.x-p.x)*(s.y-p.y)-(h.y-p.y)*(s.x-p.x))<1e-9);}assert.notDeepEqual(rowingPose(0).hand,rowingPose(.6).hand);});

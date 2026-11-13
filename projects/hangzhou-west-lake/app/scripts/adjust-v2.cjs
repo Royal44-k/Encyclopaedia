@@ -1,0 +1,4 @@
+const fs=require('fs');
+let v=fs.readFileSync('src/visits.js','utf8');v=v.replace("$('#visitTitle').textContent=data.name;","$('#visit').dataset.kind=data.kind;$('#visitTitle').textContent=data.name;").replace("y=h*(.82-lift*.21)","y=h*(.80-lift*.21)");fs.writeFileSync('src/visits.js',v);
+let c=fs.readFileSync('styles.css','utf8');c+="\n#visit[data-kind=tea] .visit-position,#visit[data-kind=songtea] .visit-position,#visit[data-kind=tea] #visitNav,#visit[data-kind=songtea] #visitNav{display:none}#visit[data-kind=tea] .visit-bottom,#visit[data-kind=songtea] .visit-bottom{padding-top:23px;background:linear-gradient(transparent,#eee4d0dc 38%)}\n@media(max-width:700px){.top-nav #modernTea{display:none}.visit-actions #visitReset{min-width:52px;padding:9px 8px}}\n";fs.writeFileSync('styles.css',c);
+

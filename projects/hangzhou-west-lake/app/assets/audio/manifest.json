@@ -1,0 +1,487 @@
+{
+  "version": 7,
+  "music": {
+    "modern": {
+      "url": "/assets/audio/v7/pingsha-luoyan-charlie-huang.ogg",
+      "title": "平沙落雁 · 古琴独奏",
+      "duration": 433.551375,
+      "performer": "Charlie Huang (Charles R Tsua)",
+      "credit": "《平沙落雁》古琴：Charlie Huang · CC BY 2.5",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pingsha_Luoyan.ogg",
+      "recorded": "2006-04-23",
+      "sha256": "72889f90b043d30fff9b4b4d0d5dd57caef39a6e71d4c04c2e8c363bf7e89284",
+      "bytes": 4292137,
+      "playback": {
+        "highpassHz": 35,
+        "peakCeiling": 0.7,
+        "fadeIn": 1.8,
+        "fadeOut": 2.6
+      },
+      "changes": "Original OGG retained. Playback removes DC/low-frequency rumble, limits peak by gain, and fades at the loop ends."
+    },
+    "sudi": {
+      "url": "/assets/audio/v7/pingsha-luoyan-charlie-huang.ogg",
+      "title": "平沙落雁 · 古琴独奏",
+      "duration": 433.551375,
+      "performer": "Charlie Huang (Charles R Tsua)",
+      "credit": "《平沙落雁》古琴：Charlie Huang · CC BY 2.5",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pingsha_Luoyan.ogg",
+      "recorded": "2006-04-23",
+      "sha256": "72889f90b043d30fff9b4b4d0d5dd57caef39a6e71d4c04c2e8c363bf7e89284",
+      "bytes": 4292137,
+      "playback": {
+        "highpassHz": 35,
+        "peakCeiling": 0.7,
+        "fadeIn": 1.8,
+        "fadeOut": 2.6
+      },
+      "changes": "Original OGG retained. Playback removes DC/low-frequency rumble, limits peak by gain, and fades at the loop ends."
+    },
+    "quyuan": {
+      "url": "/assets/audio/v7/pingsha-luoyan-charlie-huang.ogg",
+      "title": "平沙落雁 · 古琴独奏",
+      "duration": 433.551375,
+      "performer": "Charlie Huang (Charles R Tsua)",
+      "credit": "《平沙落雁》古琴：Charlie Huang · CC BY 2.5",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pingsha_Luoyan.ogg",
+      "recorded": "2006-04-23",
+      "sha256": "72889f90b043d30fff9b4b4d0d5dd57caef39a6e71d4c04c2e8c363bf7e89284",
+      "bytes": 4292137,
+      "playback": {
+        "highpassHz": 35,
+        "peakCeiling": 0.7,
+        "fadeIn": 1.8,
+        "fadeOut": 2.6
+      },
+      "changes": "Original OGG retained. Playback removes DC/low-frequency rumble, limits peak by gain, and fades at the loop ends."
+    },
+    "pinghu": {
+      "url": "/assets/audio/v7/pingsha-luoyan-charlie-huang.ogg",
+      "title": "平沙落雁 · 古琴独奏",
+      "duration": 433.551375,
+      "performer": "Charlie Huang (Charles R Tsua)",
+      "credit": "《平沙落雁》古琴：Charlie Huang · CC BY 2.5",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pingsha_Luoyan.ogg",
+      "recorded": "2006-04-23",
+      "sha256": "72889f90b043d30fff9b4b4d0d5dd57caef39a6e71d4c04c2e8c363bf7e89284",
+      "bytes": 4292137,
+      "playback": {
+        "highpassHz": 35,
+        "peakCeiling": 0.7,
+        "fadeIn": 1.8,
+        "fadeOut": 2.6
+      },
+      "changes": "Original OGG retained. Playback removes DC/low-frequency rumble, limits peak by gain, and fades at the loop ends."
+    },
+    "duanqiao": {
+      "url": "/assets/audio/v7/pingsha-luoyan-charlie-huang.ogg",
+      "title": "平沙落雁 · 古琴独奏",
+      "duration": 433.551375,
+      "performer": "Charlie Huang (Charles R Tsua)",
+      "credit": "《平沙落雁》古琴：Charlie Huang · CC BY 2.5",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pingsha_Luoyan.ogg",
+      "recorded": "2006-04-23",
+      "sha256": "72889f90b043d30fff9b4b4d0d5dd57caef39a6e71d4c04c2e8c363bf7e89284",
+      "bytes": 4292137,
+      "playback": {
+        "highpassHz": 35,
+        "peakCeiling": 0.7,
+        "fadeIn": 1.8,
+        "fadeOut": 2.6
+      },
+      "changes": "Original OGG retained. Playback removes DC/low-frequency rumble, limits peak by gain, and fades at the loop ends."
+    },
+    "huagang": {
+      "url": "/assets/audio/v7/pingsha-luoyan-charlie-huang.ogg",
+      "title": "平沙落雁 · 古琴独奏",
+      "duration": 433.551375,
+      "performer": "Charlie Huang (Charles R Tsua)",
+      "credit": "《平沙落雁》古琴：Charlie Huang · CC BY 2.5",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pingsha_Luoyan.ogg",
+      "recorded": "2006-04-23",
+      "sha256": "72889f90b043d30fff9b4b4d0d5dd57caef39a6e71d4c04c2e8c363bf7e89284",
+      "bytes": 4292137,
+      "playback": {
+        "highpassHz": 35,
+        "peakCeiling": 0.7,
+        "fadeIn": 1.8,
+        "fadeOut": 2.6
+      },
+      "changes": "Original OGG retained. Playback removes DC/low-frequency rumble, limits peak by gain, and fades at the loop ends."
+    },
+    "liulang": {
+      "url": "/assets/audio/v7/pingsha-luoyan-charlie-huang.ogg",
+      "title": "平沙落雁 · 古琴独奏",
+      "duration": 433.551375,
+      "performer": "Charlie Huang (Charles R Tsua)",
+      "credit": "《平沙落雁》古琴：Charlie Huang · CC BY 2.5",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pingsha_Luoyan.ogg",
+      "recorded": "2006-04-23",
+      "sha256": "72889f90b043d30fff9b4b4d0d5dd57caef39a6e71d4c04c2e8c363bf7e89284",
+      "bytes": 4292137,
+      "playback": {
+        "highpassHz": 35,
+        "peakCeiling": 0.7,
+        "fadeIn": 1.8,
+        "fadeOut": 2.6
+      },
+      "changes": "Original OGG retained. Playback removes DC/low-frequency rumble, limits peak by gain, and fades at the loop ends."
+    },
+    "santan": {
+      "url": "/assets/audio/v7/pingsha-luoyan-charlie-huang.ogg",
+      "title": "平沙落雁 · 古琴独奏",
+      "duration": 433.551375,
+      "performer": "Charlie Huang (Charles R Tsua)",
+      "credit": "《平沙落雁》古琴：Charlie Huang · CC BY 2.5",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pingsha_Luoyan.ogg",
+      "recorded": "2006-04-23",
+      "sha256": "72889f90b043d30fff9b4b4d0d5dd57caef39a6e71d4c04c2e8c363bf7e89284",
+      "bytes": 4292137,
+      "playback": {
+        "highpassHz": 35,
+        "peakCeiling": 0.7,
+        "fadeIn": 1.8,
+        "fadeOut": 2.6
+      },
+      "changes": "Original OGG retained. Playback removes DC/low-frequency rumble, limits peak by gain, and fades at the loop ends."
+    },
+    "shuangfeng": {
+      "url": "/assets/audio/v7/pingsha-luoyan-charlie-huang.ogg",
+      "title": "平沙落雁 · 古琴独奏",
+      "duration": 433.551375,
+      "performer": "Charlie Huang (Charles R Tsua)",
+      "credit": "《平沙落雁》古琴：Charlie Huang · CC BY 2.5",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pingsha_Luoyan.ogg",
+      "recorded": "2006-04-23",
+      "sha256": "72889f90b043d30fff9b4b4d0d5dd57caef39a6e71d4c04c2e8c363bf7e89284",
+      "bytes": 4292137,
+      "playback": {
+        "highpassHz": 35,
+        "peakCeiling": 0.7,
+        "fadeIn": 1.8,
+        "fadeOut": 2.6
+      },
+      "changes": "Original OGG retained. Playback removes DC/low-frequency rumble, limits peak by gain, and fades at the loop ends."
+    },
+    "leifeng": {
+      "url": "/assets/audio/v7/pingsha-luoyan-charlie-huang.ogg",
+      "title": "平沙落雁 · 古琴独奏",
+      "duration": 433.551375,
+      "performer": "Charlie Huang (Charles R Tsua)",
+      "credit": "《平沙落雁》古琴：Charlie Huang · CC BY 2.5",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pingsha_Luoyan.ogg",
+      "recorded": "2006-04-23",
+      "sha256": "72889f90b043d30fff9b4b4d0d5dd57caef39a6e71d4c04c2e8c363bf7e89284",
+      "bytes": 4292137,
+      "playback": {
+        "highpassHz": 35,
+        "peakCeiling": 0.7,
+        "fadeIn": 1.8,
+        "fadeOut": 2.6
+      },
+      "changes": "Original OGG retained. Playback removes DC/low-frequency rumble, limits peak by gain, and fades at the loop ends."
+    },
+    "nanping": {
+      "url": "/assets/audio/v7/pingsha-luoyan-charlie-huang.ogg",
+      "title": "平沙落雁 · 古琴独奏",
+      "duration": 433.551375,
+      "performer": "Charlie Huang (Charles R Tsua)",
+      "credit": "《平沙落雁》古琴：Charlie Huang · CC BY 2.5",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pingsha_Luoyan.ogg",
+      "recorded": "2006-04-23",
+      "sha256": "72889f90b043d30fff9b4b4d0d5dd57caef39a6e71d4c04c2e8c363bf7e89284",
+      "bytes": 4292137,
+      "playback": {
+        "highpassHz": 35,
+        "peakCeiling": 0.7,
+        "fadeIn": 1.8,
+        "fadeOut": 2.6
+      },
+      "changes": "Original OGG retained. Playback removes DC/low-frequency rumble, limits peak by gain, and fades at the loop ends."
+    },
+    "beishan": {
+      "url": "/assets/audio/v7/pingsha-luoyan-charlie-huang.ogg",
+      "title": "平沙落雁 · 古琴独奏",
+      "duration": 433.551375,
+      "performer": "Charlie Huang (Charles R Tsua)",
+      "credit": "《平沙落雁》古琴：Charlie Huang · CC BY 2.5",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pingsha_Luoyan.ogg",
+      "recorded": "2006-04-23",
+      "sha256": "72889f90b043d30fff9b4b4d0d5dd57caef39a6e71d4c04c2e8c363bf7e89284",
+      "bytes": 4292137,
+      "playback": {
+        "highpassHz": 35,
+        "peakCeiling": 0.7,
+        "fadeIn": 1.8,
+        "fadeOut": 2.6
+      },
+      "changes": "Original OGG retained. Playback removes DC/low-frequency rumble, limits peak by gain, and fades at the loop ends."
+    },
+    "song-tea": {
+      "url": "/assets/audio/v7/pingsha-luoyan-charlie-huang.ogg",
+      "title": "平沙落雁 · 古琴独奏",
+      "duration": 433.551375,
+      "performer": "Charlie Huang (Charles R Tsua)",
+      "credit": "《平沙落雁》古琴：Charlie Huang · CC BY 2.5",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pingsha_Luoyan.ogg",
+      "recorded": "2006-04-23",
+      "sha256": "72889f90b043d30fff9b4b4d0d5dd57caef39a6e71d4c04c2e8c363bf7e89284",
+      "bytes": 4292137,
+      "playback": {
+        "highpassHz": 35,
+        "peakCeiling": 0.7,
+        "fadeIn": 1.8,
+        "fadeOut": 2.6
+      },
+      "changes": "Original OGG retained. Playback removes DC/low-frequency rumble, limits peak by gain, and fades at the loop ends."
+    },
+    "song-birds": {
+      "url": "/assets/audio/v7/pingsha-luoyan-charlie-huang.ogg",
+      "title": "平沙落雁 · 古琴独奏",
+      "duration": 433.551375,
+      "performer": "Charlie Huang (Charles R Tsua)",
+      "credit": "《平沙落雁》古琴：Charlie Huang · CC BY 2.5",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pingsha_Luoyan.ogg",
+      "recorded": "2006-04-23",
+      "sha256": "72889f90b043d30fff9b4b4d0d5dd57caef39a6e71d4c04c2e8c363bf7e89284",
+      "bytes": 4292137,
+      "playback": {
+        "highpassHz": 35,
+        "peakCeiling": 0.7,
+        "fadeIn": 1.8,
+        "fadeOut": 2.6
+      },
+      "changes": "Original OGG retained. Playback removes DC/low-frequency rumble, limits peak by gain, and fades at the loop ends."
+    },
+    "song": {
+      "url": "/assets/audio/v7/pingsha-luoyan-charlie-huang.ogg",
+      "title": "平沙落雁 · 古琴独奏",
+      "duration": 433.551375,
+      "performer": "Charlie Huang (Charles R Tsua)",
+      "credit": "《平沙落雁》古琴：Charlie Huang · CC BY 2.5",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pingsha_Luoyan.ogg",
+      "recorded": "2006-04-23",
+      "sha256": "72889f90b043d30fff9b4b4d0d5dd57caef39a6e71d4c04c2e8c363bf7e89284",
+      "bytes": 4292137,
+      "playback": {
+        "highpassHz": 35,
+        "peakCeiling": 0.7,
+        "fadeIn": 1.8,
+        "fadeOut": 2.6
+      },
+      "changes": "Original OGG retained. Playback removes DC/low-frequency rumble, limits peak by gain, and fades at the loop ends."
+    },
+    "crossing": {
+      "url": "/assets/audio/v7/pingsha-luoyan-charlie-huang.ogg",
+      "title": "平沙落雁 · 古琴独奏",
+      "duration": 433.551375,
+      "performer": "Charlie Huang (Charles R Tsua)",
+      "credit": "《平沙落雁》古琴：Charlie Huang · CC BY 2.5",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pingsha_Luoyan.ogg",
+      "recorded": "2006-04-23",
+      "sha256": "72889f90b043d30fff9b4b4d0d5dd57caef39a6e71d4c04c2e8c363bf7e89284",
+      "bytes": 4292137,
+      "playback": {
+        "highpassHz": 35,
+        "peakCeiling": 0.7,
+        "fadeIn": 1.8,
+        "fadeOut": 2.6
+      },
+      "changes": "Original OGG retained. Playback removes DC/low-frequency rumble, limits peak by gain, and fades at the loop ends."
+    },
+    "wuguitan": {
+      "url": "/assets/audio/v7/pingsha-luoyan-charlie-huang.ogg",
+      "title": "平沙落雁 · 古琴独奏",
+      "duration": 433.551375,
+      "performer": "Charlie Huang (Charles R Tsua)",
+      "credit": "《平沙落雁》古琴：Charlie Huang · CC BY 2.5",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pingsha_Luoyan.ogg",
+      "recorded": "2006-04-23",
+      "sha256": "72889f90b043d30fff9b4b4d0d5dd57caef39a6e71d4c04c2e8c363bf7e89284",
+      "bytes": 4292137,
+      "playback": {
+        "highpassHz": 35,
+        "peakCeiling": 0.7,
+        "fadeIn": 1.8,
+        "fadeOut": 2.6
+      },
+      "changes": "Original OGG retained. Playback removes DC/low-frequency rumble, limits peak by gain, and fades at the loop ends."
+    }
+  },
+  "narration": {
+    "modern": {
+      "url": "/assets/audio/voice-modern.wav",
+      "text": "欢迎来到杭州西子湖。让我们从今日湖山，走进宋时烟火，再随一叶小舟，探访湖西曲水。",
+      "duration": 8.426530612244898,
+      "sourceStart": 0,
+      "sourceEnd": 8.4265
+    },
+    "sudi": {
+      "url": "/assets/audio/voice-sudi.wav",
+      "text": "春风从苏堤两侧的水面吹来。沿着桃柳缓行，走累了，就在湖边坐一会儿。",
+      "duration": 6.301043083900227,
+      "sourceStart": 8.4265,
+      "sourceEnd": 14.7275
+    },
+    "quyuan": {
+      "url": "/assets/audio/voice-quyuan.wav",
+      "text": "曲院风荷，荷池与水榭相映。这里可以在画中采一枝荷香，把夏日留在掌心。",
+      "duration": 7.0495238095238095,
+      "sourceStart": 14.7275,
+      "sourceEnd": 21.777
+    },
+    "pinghu": {
+      "url": "/assets/audio/voice-pinghu.wav",
+      "text": "月光落在孤山东南的湖面。放慢呼吸，等水上的碎银，慢慢连成一条月路。",
+      "duration": 7.0495238095238095,
+      "sourceStart": 21.777,
+      "sourceEnd": 28.8265
+    },
+    "duanqiao": {
+      "url": "/assets/audio/voice-duanqiao.wav",
+      "text": "断桥并没有断。向着白堤缓行，两侧湖水与远处山色，随着脚步慢慢展开。",
+      "duration": 7.188526077097506,
+      "sourceStart": 28.8265,
+      "sourceEnd": 36.015
+    },
+    "huagang": {
+      "url": "/assets/audio/voice-huagang.wav",
+      "text": "停在池畔，看看鱼群怎样穿过花影。静静观赏，便能遇见水下的热闹。",
+      "duration": 6.097006802721088,
+      "sourceStart": 36.015,
+      "sourceEnd": 42.112
+    },
+    "liulang": {
+      "url": "/assets/audio/voice-liulang.wav",
+      "text": "柳浪深处，有一声清啼。循着声音转过头，找一找枝叶间的黄鹂。",
+      "duration": 6.055510204081632,
+      "sourceStart": 42.226,
+      "sourceEnd": 48.281499999999994
+    },
+    "santan": {
+      "url": "/assets/audio/voice-santan.wav",
+      "text": "三座石塔立在开阔湖水中。换个角度，看塔影与远岸，怎样彼此相映。",
+      "duration": 6.431020408163265,
+      "sourceStart": 48.281499999999994,
+      "sourceEnd": 54.712500000000006
+    },
+    "shuangfeng": {
+      "url": "/assets/audio/voice-shuangfeng.wav",
+      "text": "薄雾轻轻越过西山。再等一会儿，山肩会从流云里显露出来。",
+      "duration": 5.62,
+      "sourceStart": 54.712500000000006,
+      "sourceEnd": 60.332499999999996
+    },
+    "leifeng": {
+      "url": "/assets/audio/voice-leifeng.wav",
+      "text": "从长桥一带遥望雷峰，是夕照的好景。登高望远，湖西山水与东岸城市，一同入画。",
+      "duration": 7.614013605442177,
+      "sourceStart": 60.332499999999996,
+      "sourceEnd": 67.9465
+    },
+    "nanping": {
+      "url": "/assets/audio/voice-nanping.wav",
+      "text": "南屏山麓，净慈寺的钟声悠悠传来。此刻，让我们静下来，听一声晚钟。",
+      "duration": 6.358004535147392,
+      "sourceStart": 67.9465,
+      "sourceEnd": 74.30449999999999
+    },
+    "beishan": {
+      "url": "/assets/audio/voice-beishan.wav",
+      "text": "北山临湖，茶香入窗。让龙井在温水中舒展，举杯时，眼前仍是一湖春光。",
+      "duration": 7.352517006802721,
+      "sourceStart": 74.30449999999999,
+      "sourceEnd": 81.657
+    },
+    "song": {
+      "url": "/assets/audio/voice-song.wav",
+      "text": "客官，欢迎入画。沿堤走走，看看街巷人家；前面的茶肆，正候着一盏闲情。",
+      "duration": 7.122040816326531,
+      "sourceStart": 81.657,
+      "sourceEnd": 88.779
+    },
+    "song-tea": {
+      "url": "/assets/audio/voice-song-tea.wav",
+      "text": "先将茶碾成细末，再持壶注汤，执筅击拂。待汤花细匀，双手捧盏，慢慢品一口宋韵。",
+      "duration": 8.316009070294784,
+      "sourceStart": 88.803,
+      "sourceEnd": 97.119
+    },
+    "song-birds": {
+      "url": "/assets/audio/voice-song-birds.wav",
+      "text": "听风，写一枝柳；听莺，点一只鸟；听橹，添一叶舟。画扇写好，轻轻摇动，便有清风入怀。",
+      "duration": 9.236507936507936,
+      "sourceStart": 97.119,
+      "sourceEnd": 106.3555
+    },
+    "wuguitan": {
+      "url": "/assets/audio/voice-wuguitan.wav",
+      "text": "穿过桥影，便是湖西的另一番天地。乌龟潭的曲水与岸林相依，遇见水鸟，请慢行，让它们自在游过。",
+      "duration": 8.458004535147392,
+      "sourceStart": 106.3555,
+      "sourceEnd": 114.8135
+    },
+    "boat-call": {
+      "url": "/assets/audio/voice-boat-call.wav",
+      "text": "客官请到码头稍候，小舟这就靠岸。",
+      "duration": 2.954013605442177,
+      "sourceStart": 114.8135,
+      "sourceEnd": 117.7675
+    },
+    "boat-board": {
+      "url": "/assets/audio/voice-boat-board.wav",
+      "text": "坐稳喽。看这一湖山色，都在水波里。",
+      "duration": 3.626530612244898,
+      "sourceStart": 117.7675,
+      "sourceEnd": 121.394
+    },
+    "boat-next": {
+      "url": "/assets/audio/voice-boat-next.wav",
+      "text": "桥影已过。前面还有一片清幽曲水，随我去乌龟潭，再看一程湖山。",
+      "duration": 5.918503401360544,
+      "sourceStart": 121.394,
+      "sourceEnd": 127.3125
+    },
+    "river-land": {
+      "url": "/assets/audio/voice-river-land.wav",
+      "text": "船已停稳。扶住船舷，缓缓起身，沿跳板上岸。回头看看，我们的小舟还泊在水边。",
+      "duration": 7.706666666666667,
+      "sourceStart": 127.3125,
+      "sourceEnd": 135.01916099773243
+    }
+  }
+}

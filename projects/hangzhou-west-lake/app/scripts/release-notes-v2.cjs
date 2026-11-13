@@ -1,0 +1,4 @@
+const fs=require('fs');let s=fs.readFileSync('src/app.js','utf8');s=s.replace("scene?.resize();portal?.resize();visit?.resize();","scene?.resize();portal?.resize();visit?.resize();if(s.mode==='visit')visit?.render(0);");fs.writeFileSync('src/app.js',s);
+let d=fs.readFileSync('docs/v2-design.md','utf8');d=d.replace('曲院在荷池边观荷与亭下避雨','曲院在荷池边观荷与撑伞听雨').replace('上身、手臂、衣摆随步态响应','上身保持轻微步态起伏，保留各角色持物姿态').replace('独立收起和附近互动方式避免移动时闪跳','视窗边界内显示和附近互动方式减少移动时闪跳');fs.writeFileSync('docs/v2-design.md',d);
+fs.appendFileSync('docs/v2-delivery.md',"\n2026-11-10 收尾：增加六张原创茶器/手持姿态透明图。第一人称举杯带手部与袖口，现代玻璃杯与宋代建盏独立。船夫肘部弯曲方向修正。tea-polish-check.cjs 已检查新茶器的现代/宋代状态、手持、移动显示和船夫渲染，无浏览器错误或资源失败。首次旧预览进程已退出，重启本地服务后完成验收。\n");
+fs.appendFileSync('README.md',"\n2026-11-10 画面收尾：品茶使用原创玻璃杯、建盏及手持姿态贴图；提示词记录见 assets/v2/TEA-PROMPTS.json。最终画面检查见 verification/v2/polish.json。\n");

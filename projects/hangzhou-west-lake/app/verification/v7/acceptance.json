@@ -1,0 +1,14 @@
+{
+  "passed": true,
+  "checks": [
+    "local BGM and narrated voice play, duck, and respect independent persisted settings",
+    "direct grinding, pouring, whisking, and six-second lift/sip/return work",
+    "completed fan automatically enters the hand, waves, settles, and can be waved again",
+    "holding the oar still works and the boatman leads directly into Wuguitan",
+    "birds avoid the boat; voyage stops with clearance, deploys gangplank and lands ashore",
+    "ordinary boarding, sitting and full crossing also continue into the lake-west voyage",
+    "no browser exceptions or missing local resources"
+  ],
+  "errors": [],
+  "missing": []
+}

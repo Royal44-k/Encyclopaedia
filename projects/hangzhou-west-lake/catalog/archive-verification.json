@@ -1,0 +1,37 @@
+{
+  "version": "7.0.0",
+  "date": "2026-11-13",
+  "passed": true,
+  "scope": "归档副本语法/38项单元测试/构建/源文件/原图/ZIP一致性；浏览器完整流程沿用此前V7验收记录，本次未重跑。",
+  "baseCommit": "d8488d851db861efad549bbdac42cd35c0e312ad",
+  "checks": {
+    "check": {
+      "exitCode": 0,
+      "output": "catalog/check-output.txt"
+    },
+    "build": {
+      "exitCode": 0,
+      "output": "catalog/build-output.txt"
+    },
+    "sourceCopy": {
+      "passed": true,
+      "filesChecked": 316
+    },
+    "release": {
+      "passed": true,
+      "entries": 216,
+      "filesCompared": 214,
+      "retainedHistoricalDocuments": [
+        "docs/v4-delivery.md",
+        "docs/v5-delivery.md"
+      ],
+      "retainedDocumentsMatchSource": true,
+      "sha256": "000482280f6792b929da03efadeb994aa3474149b1a99024e357f906988f3b68",
+      "bytes": 47880535
+    },
+    "originals": {
+      "passed": true,
+      "filesChecked": 47
+    }
+  }
+}

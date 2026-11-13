@@ -1,0 +1,61 @@
+{
+  "date": "2026-11-12",
+  "generation": "Built-in image generation; original transparent PNG retained, WebP delivery copies",
+  "canva": "Connection unauthorized; no Canva assets generated this revision",
+  "runway": "Not used",
+  "images": [
+    {
+      "id": "hand-grip",
+      "file": "hand-grip.webp",
+      "original": "exec-8634198a-dd7f-4d25-9aef-1ecd447753c0.png",
+      "description": "Generated visual interpretation, not a photographic record of an authentic historical object"
+    },
+    {
+      "id": "tea-cup-hands",
+      "file": "tea-cup-hands.webp",
+      "original": "exec-990aa352-5346-4a69-8d78-a46915743563.png",
+      "description": "Generated visual interpretation, not a photographic record of an authentic historical object"
+    },
+    {
+      "id": "silk-fan",
+      "file": "silk-fan.webp",
+      "original": "exec-807a6e2b-c9c7-4173-9640-d64ec0b3d9f7.png",
+      "description": "Generated visual interpretation, not a photographic record of an authentic historical object"
+    },
+    {
+      "id": "tea-grinder",
+      "file": "tea-grinder.webp",
+      "original": "exec-18c8dab3-3391-4886-b362-d0404ec284a5.png",
+      "description": "Generated visual interpretation, not a photographic record of an authentic historical object"
+    },
+    {
+      "id": "tea-pot",
+      "file": "tea-pot.webp",
+      "original": "exec-5b1b3ab6-85bc-40a6-82e5-9bf5b2d5b113.png",
+      "description": "Generated visual interpretation, not a photographic record of an authentic historical object"
+    },
+    {
+      "id": "tea-whisk",
+      "file": "tea-whisk.webp",
+      "original": "exec-a1805f34-4d84-4f34-bc58-df76cb4e778b.png",
+      "description": "Generated visual interpretation, not a photographic record of an authentic historical object"
+    },
+    {
+      "id": "longjing-hand",
+      "file": "longjing-hand.webp",
+      "original": "exec-19bcc7d9-01e6-47f5-9c5d-80030b28d9bd.png",
+      "description": "Generated visual interpretation, not a photographic record of an authentic historical object"
+    }
+  ],
+  "narration": {
+    "provider": "HeyGen",
+    "plan": "free (verified before the single generation)",
+    "source": "voice-source.json",
+    "manifest": "../audio/manifest.json"
+  },
+  "music": {
+    "method": "Locally rendered original score",
+    "generator": "scripts/render-audio-v6.mjs",
+    "score": "src/scores.js"
+  }
+}

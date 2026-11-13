@@ -1,0 +1,29 @@
+{
+  "reason": "本次上传最新版完整工程及可追溯原件，避免把重复构建和未完成截图作为成品。",
+  "excluded": [
+    {
+      "path": "dist/",
+      "reason": "与 releases/v7 静态 ZIP 内容重复，可由 app 构建或解压恢复"
+    },
+    {
+      "path": "杭州西子湖-静态站点.zip、V2–V6 ZIP",
+      "reason": "过时发布包；本次以 V7 为最新交付"
+    },
+    {
+      "path": "verification/v2–v6（旁白母版除外）",
+      "reason": "历史过程截图与旧验收，非最新版证据"
+    },
+    {
+      "path": "verification/v7/review/、independent-review/ 及非精选截图",
+      "reason": "包含修复前状态；保留最终精选截图及验收报告"
+    },
+    {
+      "path": "reference-review/、reference-inspection.cjs、reference-street.cjs",
+      "reason": "外部参考站点研究缓存与检查脚本，非本作品资产"
+    },
+    {
+      "path": "*.log",
+      "reason": "本地服务器日志"
+    }
+  ]
+}

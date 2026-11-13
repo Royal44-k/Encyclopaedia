@@ -1,0 +1,10 @@
+const fs=require('fs');let s=fs.readFileSync('src/scene.js','utf8');
+s=s.replace('h=width*img.height/img.width,dir=b.destination','h=width*img.height/img.width*1.25,dir=b.destination');
+s=s.replace('let hx=seatX,hy=seatY,height=(124-42*sit)*ratio;','let hx=width*.31*(1-sit)+seatX*sit,hy=seatY,height=(110-40*sit)*ratio;');
+s=s.replace("hx=(this.state.x*W-x)*dir+(seatX-(this.state.x*W-x)*dir)*q;hy=(this.actorY-y)*(1-q)+seatY*q;height=124*ratio;","hx=(this.state.x*W-x)*dir+(width*.31-(this.state.x*W-x)*dir)*q;hy=(groundY(this.state.x)-y)*(1-q)+seatY*q;height=110*ratio;");
+s=s.replace("const sy=img.height*.7;c.drawImage","if(sit>.8)c.drawImage(img,0,0,img.width,img.height*.34,-width/2,-h*.86,width,h*.34);const sy=img.height*.7;c.drawImage");
+fs.writeFileSync('src/scene.js',s);
+let d=fs.readFileSync('src/visit-data.js','utf8');
+d=d.replace("source:'https://wbdl.hzwbzx.cn/house?id=85',sourceName:'杭州文保导览与街区研究'","source:'https://www.ihchina.cn/news_1_details/26837.html',sourceName:'中国非遗数字博物馆 · 龙井茶'");
+d=d.replace("source:heritage,sourceName:'西湖文化景观研究'","source:'https://www.chnmuseum.cn/zp/zpml/csp/202008/t20200825_247299.shtml',sourceName:'中国国家博物馆 · 宋代茶事'");
+fs.writeFileSync('src/visit-data.js',d);

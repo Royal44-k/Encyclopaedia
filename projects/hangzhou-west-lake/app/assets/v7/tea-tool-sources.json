@@ -1,0 +1,45 @@
+{
+  "date": "2026-11-12",
+  "method": "Built-in image editing by project agent. Existing v6 tea tools used as visual references; no paid external generation API.",
+  "assets": [
+    {
+      "id": "held-tea-pot",
+      "file": "held-tea-pot.webp",
+      "sha256": "a234df599a07f20fdc155d98329a61fd13cfb0871cdd996d144eb972c72d8bb8"
+    },
+    {
+      "id": "held-tea-whisk",
+      "file": "held-tea-whisk.webp",
+      "sha256": "f959a335aa62b6e57740dc65f49bf8f1f9644256ac451a1a6c19c5b646e385db"
+    },
+    {
+      "id": "tea-grinder-trough",
+      "file": "tea-grinder-trough.webp",
+      "sha256": "f1582e74dae4ac2ffe8b016cb706f352417db9da973b0fbc1d9e546d5e837dfd"
+    },
+    {
+      "id": "held-tea-grinder",
+      "file": "held-tea-grinder.webp",
+      "sha256": "77aa4e1e2ed5c9ed40f2f652e358822bdd32edec0f325184c0370e578bc1a4c7"
+    }
+  ],
+  "registration": {
+    "pot": {
+      "pivot": [
+        0.58,
+        0.55
+      ],
+      "spout": [
+        0.947,
+        0.105
+      ]
+    },
+    "whisk": {
+      "tip": [
+        0.235,
+        0.955
+      ]
+    },
+    "grinder": "Hands, axle and wheel share one transform; trough stays fixed."
+  }
+}

@@ -1,0 +1,287 @@
+{
+  "note": "原始图保留制作输入与修订稿；最终采用版本以 app/assets WebP 及应用引用为准。相同字节去重，均可按本索引定位。",
+  "files": [
+    {
+      "original": "exec-1429bec3-72d1-4a78-8734-9cd740775c71.png",
+      "archivedPath": "originals/generated-art/exec-1429bec3-72d1-4a78-8734-9cd740775c71.png",
+      "bytes": 2974741,
+      "sha256": "3cb8a9d5424722cc2b46e667f4b021788e9f05a471f596e99a231c80380372c3"
+    },
+    {
+      "original": "exec-18c8dab3-3391-4886-b362-d0404ec284a5.png",
+      "archivedPath": "app/assets/v6/tea-grinder.png",
+      "bytes": 2661470,
+      "sha256": "5d6344d9d9f38dab2bbe2566ac5177d6c5eeac3b09a7de5f5f7530d54f982e3e"
+    },
+    {
+      "original": "exec-19bcc7d9-01e6-47f5-9c5d-80030b28d9bd.png",
+      "archivedPath": "app/assets/v6/longjing-hand.png",
+      "bytes": 1880988,
+      "sha256": "d3cf575a6ec9b77a95b928a8245fa657fa8380780f51a09452250fee514d31ad"
+    },
+    {
+      "original": "exec-1a6b4e6b-8133-46c5-9080-513bf2fce1d9.png",
+      "archivedPath": "originals/generated-art/exec-1a6b4e6b-8133-46c5-9080-513bf2fce1d9.png",
+      "bytes": 1583375,
+      "sha256": "1ccc27be45279031cf8435dfe4b668970bfab6f38f03fca3982ad724527bea2d"
+    },
+    {
+      "original": "exec-208bf617-e243-475b-a213-71366e8883d6.png",
+      "archivedPath": "originals/generated-art/exec-208bf617-e243-475b-a213-71366e8883d6.png",
+      "bytes": 1118159,
+      "sha256": "a2a3be03e210389094d7ea48d13007e4e392179b5a330edd3c4a19fde2add26d"
+    },
+    {
+      "original": "exec-229a2f11-5ab2-4f2a-b8f1-71d23bef93b3.png",
+      "archivedPath": "app/assets/summer.png",
+      "bytes": 3267536,
+      "sha256": "3523d00bfba718a395a05987ca6342e369d1c26f4e16d64764bbd6721524c41c"
+    },
+    {
+      "original": "exec-31540b1c-c889-43fc-9116-ff78486b575e.png",
+      "archivedPath": "originals/generated-art/exec-31540b1c-c889-43fc-9116-ff78486b575e.png",
+      "bytes": 1565044,
+      "sha256": "53dde18ee41020a4fe85ca87ee689b888a990c1c8360d077879b78965351885b"
+    },
+    {
+      "original": "exec-394365aa-80cc-41a2-b7e6-e6b033ecc633.png",
+      "archivedPath": "originals/generated-art/exec-394365aa-80cc-41a2-b7e6-e6b033ecc633.png",
+      "bytes": 3135988,
+      "sha256": "5e659f01436950c49b5a1b66f96fba4e07ca9ef13873e222d0113a0871a33e23"
+    },
+    {
+      "original": "exec-43b0cddc-9810-44e0-9ceb-e3e763b620a3.png",
+      "archivedPath": "originals/generated-art/exec-43b0cddc-9810-44e0-9ceb-e3e763b620a3.png",
+      "bytes": 2609099,
+      "sha256": "eea59ec4f6070779aeb1103c10ecebb5e69eab1bf02200f6a01cb764fd6567ef"
+    },
+    {
+      "original": "exec-45257657-64e8-4ce4-9925-616512d5845f.png",
+      "archivedPath": "originals/generated-art/exec-45257657-64e8-4ce4-9925-616512d5845f.png",
+      "bytes": 3211574,
+      "sha256": "ba20577bd251e4bbad57c3b8199943d5f42448727c4aec8c6203faaf4422f242"
+    },
+    {
+      "original": "exec-4843cbbd-f31a-4cf8-b4ab-c7de1c46b751.png",
+      "archivedPath": "app/assets/modern.png",
+      "bytes": 3026892,
+      "sha256": "45d0423eeebc09efaea5276a5297bf21be444e4284c5ac3cae7f5076fdff8d94"
+    },
+    {
+      "original": "exec-4d8b4264-4dae-487e-8754-26fec6b0c5d3.png",
+      "archivedPath": "app/assets/winter.png",
+      "bytes": 3381238,
+      "sha256": "b35da7a41475aa8383d36d14b94dc827b9431891ded19de70a79f3719f8eeb22"
+    },
+    {
+      "original": "exec-543ce8e6-537e-42a6-8f17-4e39431dc43c.png",
+      "archivedPath": "originals/generated-art/exec-543ce8e6-537e-42a6-8f17-4e39431dc43c.png",
+      "bytes": 3600081,
+      "sha256": "05475e3084dc53831586e898bcb9e33f9bb84fe38c05058f313e17c983fbacb6"
+    },
+    {
+      "original": "exec-5b1b3ab6-85bc-40a6-82e5-9bf5b2d5b113.png",
+      "archivedPath": "app/assets/v6/tea-pot.png",
+      "bytes": 1567204,
+      "sha256": "31f8231001729d23039cc6c68f162ce2ca789afe587fb38ff80a04381cc53b86"
+    },
+    {
+      "original": "exec-5edec6d8-85d0-40c5-a623-d511d5a8fba4.png",
+      "archivedPath": "originals/generated-art/exec-5edec6d8-85d0-40c5-a623-d511d5a8fba4.png",
+      "bytes": 1250086,
+      "sha256": "db84dc7513cb4d1bf97e9767d7af1ff9367cf27e6c23cc0f4973cab5a5cea204"
+    },
+    {
+      "original": "exec-807a6e2b-c9c7-4173-9640-d64ec0b3d9f7.png",
+      "archivedPath": "app/assets/v6/silk-fan.png",
+      "bytes": 1428916,
+      "sha256": "f1563a13ab9d0427f77f25cf1c3b1542ffbcf0720f4180965fd27f08a36facbd"
+    },
+    {
+      "original": "exec-813aadcd-0beb-40e0-80c5-33d4c4f48ab5.png",
+      "archivedPath": "originals/generated-art/exec-813aadcd-0beb-40e0-80c5-33d4c4f48ab5.png",
+      "bytes": 2529872,
+      "sha256": "002248e74eec8e4276840fba85ffe84bd2ed271b6372095eb36f868c484a5351"
+    },
+    {
+      "original": "exec-8634198a-dd7f-4d25-9aef-1ecd447753c0.png",
+      "archivedPath": "app/assets/v6/hand-grip.png",
+      "bytes": 1787147,
+      "sha256": "fac60404daa80f9354a35cbc3fff4f4ed5c10302bc7b00b4618276d9559c7f92"
+    },
+    {
+      "original": "exec-97885f9f-a8c4-407c-951d-cbbfc78c2315.png",
+      "archivedPath": "originals/generated-art/exec-97885f9f-a8c4-407c-951d-cbbfc78c2315.png",
+      "bytes": 1950196,
+      "sha256": "92a9ae1bcf8a487ab4788f7005f052fe56c0d99d9679f07c565057d00fb23b42"
+    },
+    {
+      "original": "exec-98aaba47-4c83-45ce-a534-510b503901dd.png",
+      "archivedPath": "app/assets/autumn.png",
+      "bytes": 3096272,
+      "sha256": "c3692094655f9238150972bdf096ad3f56b1eab3058ffca8a88000ab6d80565f"
+    },
+    {
+      "original": "exec-990aa352-5346-4a69-8d78-a46915743563.png",
+      "archivedPath": "app/assets/v6/tea-cup-hands.png",
+      "bytes": 2360843,
+      "sha256": "6a4bf5319007e294a12810f72fd91a187b8ed66639808ca10dafbc5deb63b9a8"
+    },
+    {
+      "original": "exec-a03a75f1-6ef4-4520-be35-7cd9f50c4be5.png",
+      "archivedPath": "originals/generated-art/exec-a03a75f1-6ef4-4520-be35-7cd9f50c4be5.png",
+      "bytes": 2396745,
+      "sha256": "c75ce0140020deae72a0cac920b08e88ab234f957d01e2c2d636389993900b83"
+    },
+    {
+      "original": "exec-a1805f34-4d84-4f34-bc58-df76cb4e778b.png",
+      "archivedPath": "app/assets/v6/tea-whisk.png",
+      "bytes": 2046637,
+      "sha256": "79ca93324551aead0ac87c1a9734980643500ce8ba53be55cbb4ffed177cf7ab"
+    },
+    {
+      "original": "exec-a97c9b47-7138-4317-9986-547d2629fe3c.png",
+      "archivedPath": "originals/generated-art/exec-a97c9b47-7138-4317-9986-547d2629fe3c.png",
+      "bytes": 1491263,
+      "sha256": "0debf7f066baf2562f6a0f711da8f468f40f2bd81d9f5f9fbe91608da13b3c66"
+    },
+    {
+      "original": "exec-aed5fee1-672e-4af5-afc3-2f4ab6840670.png",
+      "archivedPath": "originals/generated-art/exec-aed5fee1-672e-4af5-afc3-2f4ab6840670.png",
+      "bytes": 2946327,
+      "sha256": "c9fd5469648c7dc1315ee36dcafc8eacd16ef3460ba7053aa0b9945a202708be"
+    },
+    {
+      "original": "exec-aff6ca01-eb74-4b69-8727-3b16519966ac.png",
+      "archivedPath": "originals/generated-art/exec-aff6ca01-eb74-4b69-8727-3b16519966ac.png",
+      "bytes": 3998115,
+      "sha256": "996cebfcf857e2e680dcf0fce9c59217348871dd121a9b9216329e291732a41a"
+    },
+    {
+      "original": "exec-b00d6a05-0ce1-48e6-a4d3-21d932d4d882.png",
+      "archivedPath": "app/assets/song.png",
+      "bytes": 3355523,
+      "sha256": "78a8c3a00957d08a57126b9ef1d1897831315ceced94fdcf14dd3b058791b551"
+    },
+    {
+      "original": "exec-b3d9dcd1-4c4f-4044-9cfe-c94b39b64840.png",
+      "archivedPath": "originals/generated-art/exec-b3d9dcd1-4c4f-4044-9cfe-c94b39b64840.png",
+      "bytes": 435261,
+      "sha256": "b7730723ba0813be200feb97af3701df11a091a10802ed025e6773e80cbbce6a"
+    },
+    {
+      "original": "exec-b53e9d93-aacd-4ef2-89cd-90613dc1f1ff.png",
+      "archivedPath": "originals/generated-art/exec-b53e9d93-aacd-4ef2-89cd-90613dc1f1ff.png",
+      "bytes": 3286955,
+      "sha256": "242fe9d745f9ba9c22e63da090ab840ca5e649404954c156c5a6267dc7d30160"
+    },
+    {
+      "original": "exec-be8576b7-2e6c-453e-ba65-30a572f11462.png",
+      "archivedPath": "originals/generated-art/exec-be8576b7-2e6c-453e-ba65-30a572f11462.png",
+      "bytes": 3450394,
+      "sha256": "b134fddecdedf523e47ec7ddd7bf94ecabf62707a5a57a16647c2141f37a6b0f"
+    },
+    {
+      "original": "exec-c20eb63c-8539-431a-9ece-8cf3f5423116.png",
+      "archivedPath": "originals/generated-art/exec-c20eb63c-8539-431a-9ece-8cf3f5423116.png",
+      "bytes": 3203194,
+      "sha256": "3b34571643017fca374f7340eb04cc18a3a979b857e603e273d30a5a6992dea0"
+    },
+    {
+      "original": "exec-c8db1757-dcc3-4323-836b-562539186acd.png",
+      "archivedPath": "originals/generated-art/exec-c8db1757-dcc3-4323-836b-562539186acd.png",
+      "bytes": 3713205,
+      "sha256": "cd96ec70bdf307507e238c9c126fdcd24d78e645d6a73ec8877ad1d1e5e7ac78"
+    },
+    {
+      "original": "exec-c9966c81-94a8-4b29-98d4-78539f83ee8e.png",
+      "archivedPath": "originals/generated-art/exec-c9966c81-94a8-4b29-98d4-78539f83ee8e.png",
+      "bytes": 422634,
+      "sha256": "cb1c362630888d8f718cc2d141665426325f7b761235819b52ca0dc9cb902a44"
+    },
+    {
+      "original": "exec-cf9d1ca3-a437-40ae-a85d-8ffc3d429923.png",
+      "archivedPath": "originals/generated-art/exec-cf9d1ca3-a437-40ae-a85d-8ffc3d429923.png",
+      "bytes": 2962990,
+      "sha256": "8b6c9630998c2f6d25ec9cbd842be53640cad83486f11546f196f893af3eb8dc"
+    },
+    {
+      "original": "exec-d02a87b0-f2ba-4f4f-8580-0af79fce91f3.png",
+      "archivedPath": "originals/generated-art/exec-d02a87b0-f2ba-4f4f-8580-0af79fce91f3.png",
+      "bytes": 3324587,
+      "sha256": "dfd8554b87ae0a207b7509d31b20a294058394aad5795d0ff57ed0050ce14d02"
+    },
+    {
+      "original": "exec-d0bfd380-b5f3-41d6-829d-4c802346a7be.png",
+      "archivedPath": "originals/generated-art/exec-d0bfd380-b5f3-41d6-829d-4c802346a7be.png",
+      "bytes": 955138,
+      "sha256": "6c81e40e68f0d095e7f75610ce705796d544e03390f99876336cf27253ca5db6"
+    },
+    {
+      "original": "exec-d46e0d51-9785-4e5a-9fed-7d58bb618301.png",
+      "archivedPath": "originals/generated-art/exec-d46e0d51-9785-4e5a-9fed-7d58bb618301.png",
+      "bytes": 3196517,
+      "sha256": "36e26eddd01cf801548ee40418c8d5d146ecf4aa67c121609b3d896f66ad35c4"
+    },
+    {
+      "original": "exec-d6b8610a-8e48-4ae6-9d64-4e9b0a4a23e0.png",
+      "archivedPath": "originals/generated-art/exec-d6b8610a-8e48-4ae6-9d64-4e9b0a4a23e0.png",
+      "bytes": 1708386,
+      "sha256": "cab065ee59555a10ef4924301d38dc55b4b087656ab15688d3f4a6837829ab0c"
+    },
+    {
+      "original": "exec-dc5bcb6f-742f-4d19-95be-bd41405b261a.png",
+      "archivedPath": "originals/generated-art/exec-dc5bcb6f-742f-4d19-95be-bd41405b261a.png",
+      "bytes": 1162516,
+      "sha256": "3e6991b419826521810042d6aa179c75bcf71c50a8218f5aca3b9df9cb9941b4"
+    },
+    {
+      "original": "exec-df189b38-063f-4f5d-923f-1b38788d4320.png",
+      "archivedPath": "originals/generated-art/exec-df189b38-063f-4f5d-923f-1b38788d4320.png",
+      "bytes": 3047375,
+      "sha256": "323dce92dbfaa0aca049b47300d2753b12b3ac16aba43a09a44e903848ac620e"
+    },
+    {
+      "original": "exec-e6e164d3-c1db-4c4a-8f04-5aa9dfecac60.png",
+      "archivedPath": "originals/generated-art/exec-e6e164d3-c1db-4c4a-8f04-5aa9dfecac60.png",
+      "bytes": 2628861,
+      "sha256": "e10ca544a79403a4db9fa6807b957434e1c047557c4e9b105276886fe117c727"
+    },
+    {
+      "original": "exec-e7947021-dc13-4fe8-8781-26294552592d.png",
+      "archivedPath": "app/assets/boat.png",
+      "bytes": 1762472,
+      "sha256": "ab4071fbfbda16d6dc94408b50589a0e647e401c9436574c5d8e775a51750bbc"
+    },
+    {
+      "original": "exec-e96ed1be-3611-404b-8d46-6fc137dc5dc9.png",
+      "archivedPath": "app/assets/people.png",
+      "bytes": 1927282,
+      "sha256": "a813fff72f118f999c2d6c964e14f2a15b26aca98355974047bc2c3204fee128"
+    },
+    {
+      "original": "exec-eb8ee1a6-bb0a-433e-b02f-1c4a91974cfa.png",
+      "archivedPath": "originals/generated-art/exec-eb8ee1a6-bb0a-433e-b02f-1c4a91974cfa.png",
+      "bytes": 2889060,
+      "sha256": "e29b7be2881c788e8ea640e8feeb133ef4fe281395b03399882cc7ba6b5480b0"
+    },
+    {
+      "original": "exec-ebaae08e-b6df-4f55-bafe-acd915f3048b.png",
+      "archivedPath": "originals/generated-art/exec-ebaae08e-b6df-4f55-bafe-acd915f3048b.png",
+      "bytes": 587502,
+      "sha256": "f68a611ac24717052fe41e71006b198a5785a73cce8486671a3ed3e33420141d"
+    },
+    {
+      "original": "exec-f1be87d9-292a-4bd8-8c52-d5d42c725205.png",
+      "archivedPath": "originals/generated-art/exec-f1be87d9-292a-4bd8-8c52-d5d42c725205.png",
+      "bytes": 1865263,
+      "sha256": "24b8758072de13b1cf9d8b2d5b53803c19dcf12d0eb4834d4e97ef94d5e7b286"
+    },
+    {
+      "original": "exec-fd5ff64d-93a3-4a2a-8f2b-5dc3716e6436.png",
+      "archivedPath": "originals/generated-art/exec-fd5ff64d-93a3-4a2a-8f2b-5dc3716e6436.png",
+      "bytes": 3365801,
+      "sha256": "03dd082c8d48478acaaafba58bcb03e4e3c01dfb207598ee586a3e1cf8dc71d9"
+    }
+  ]
+}

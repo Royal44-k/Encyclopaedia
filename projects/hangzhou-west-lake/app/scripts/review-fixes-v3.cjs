@@ -1,0 +1,13 @@
+const fs=require('fs');let a=fs.readFileSync('src/app.js','utf8');
+a=a.replace("window.addEventListener('keyup',e=>", "function syncAudio(){const inSong=s.mode==='song';audio.update(!document.hidden&&windowFocused&&(!inSong||!s.paused),inSong?s.rain:s.mode==='visit'&&visit?.weather==='rain');}\nwindow.addEventListener('keyup',e=>");
+a=a.replace("audio.update(false,s.rain);});window.addEventListener('focus',()=>{windowFocused=true;audio.update(!document.hidden&&!s.paused,s.rain);});", "syncAudio();});window.addEventListener('focus',()=>{windowFocused=true;syncAudio();});");
+a=a.replace("document.addEventListener('visibilitychange',()=>audio.update(!document.hidden&&!s.paused&&windowFocused,s.rain));", "document.addEventListener('visibilitychange',syncAudio);");
+fs.writeFileSync('src/app.js',a);
+let v=fs.readFileSync('src/visits.js','utf8');v=v.replace("this.weather=next;this.updateUI();", "this.weather=next;this.audio.update(true,false);this.updateUI();");
+v=v.replaceAll("if(this.actionKind==='pour')", "if(this.actionKind==='pour'||this.actionKind==='songpour')");
+v=v.replaceAll("if(this.actionKind==='whisk')", "if(this.actionKind==='whisk'||(song&&this.teaStep===2))");
+v=v.replace("const full=song?this.whisk:this.waterLevel;", "const full=song?this.whisk:this.waterLevel;");
+v=v.replace("if(this.waterLevel&&t){c.save();", "if(song&&this.waterLevel>0&&this.whisk<1){c.save();c.fillStyle='#76805a';c.beginPath();c.ellipse(x,y-diam*.55,diam*.38,diam*.115,0,0,TAU);c.fill();if(this.whisk>0){c.globalAlpha=this.whisk;c.fillStyle='#eee5cd';c.fill();}c.restore();}\n  if(this.waterLevel&&t){c.save();");
+fs.writeFileSync('src/visits.js',v);
+let r=fs.readFileSync('src/wuguitan.js','utf8');r=r.replace("c.drawImage(tree,-hh*.33,0,hh*.65,hh)","c.drawImage(tree,-hh*.33,-hh,hh*.65,hh)");r=r.replace("for(let i=0;i<90;i++){const zz=z+.5+(i/90)**2*95", "for(let i=0;i<180;i++){const zz=z+.5+(i/180)**2*95");r=r.replace("this.foliage.tree((Math.round(zz/5)+(side+1)*3)%8)","this.foliage.tree((Math.round(zz/5)+(side+1)*3)%8)");
+fs.writeFileSync('src/wuguitan.js',r);

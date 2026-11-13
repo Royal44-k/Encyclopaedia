@@ -1,0 +1,54 @@
+{
+  "date": "2026-11-12",
+  "method": "Built-in image generation and reference edits; transparent foreground assets. Original files retained.",
+  "assets": [
+    {
+      "id": "held-fan",
+      "file": "held-fan.webp",
+      "prompt": "Edit the referenced transparent fan image, preserving the exact same fan, its artwork, position, scale, round bamboo rim and handle. Keep the SAME portrait composition and transparent background. Add ONE photorealistic Chinese adult right hand actually GRIPPING the existing bamboo fan handle at its middle/lower portion, around x540 y1010 in the 1086x1448 reference. This is a proper closed cylindrical grip, NOT an empty pinch: the thumb presses across the front of the shaft, the index and middle fingers curve over it, the shaft is occluded by these fingers and emerges immediately above and below the hand, and the other fingers wrap snugly underneath. Actual contact shadows where skin touches bamboo. The right wrist and flowing celadon-grey traditional Chinese long sleeve extend diagonally down to the BOTTOM-RIGHT edge; no disconnected or floating hand. Anatomically correct five fingers, realistic nails, warm skin texture, cloth folds, cream inner cuff, gentle diffuse daylight. Keep the fan face artwork identical and unobstructed. No extra handle, no second fan, no open empty finger hole, no background, no text. Treat this as a single photographed hand-held object suitable for rigidly animating together.",
+      "reference": "assets/v6/silk-fan.webp",
+      "original": "exec-d6b8610a-8e48-4ae6-9d64-4e9b0a4a23e0.png"
+    },
+    {
+      "id": "sculling-hands",
+      "file": "sculling-hands.webp",
+      "prompt": "Photorealistic FIRST PERSON view of one's TWO HUMAN HANDS firmly wrapping around ONE substantial aged wooden sculling-oar shaft (Chinese yuloh / 摇橹) as a single integrated object, isolated on transparent alpha background, landscape 3:2 composition. No boat, no water or landscape, no face, no text. The smooth honey-brown worn wooden shaft runs diagonally from the LEFT at (8% width,57% height) towards the upper RIGHT at (98% width,29% height), thickness about 4.5% image width. The left hand grips the shaft at (32%,50%); the right hand grips the SAME shaft at (65%,39%). Both hands are CLOSED POWER GRIPS, with thumbs pressed firmly over the wooden shaft and four fingers wrapping around it, correct anatomical occlusion: fingers hide parts of wood, and the wood is visibly continuous immediately on both sides of each gripping hand. ZERO visible gap between fingers and wood. No hand pinching empty air. No duplicated shaft. Both wrists and naturally folded soft grey-celadon linen long sleeves extend toward their respective BOTTOM-LEFT and BOTTOM-RIGHT image edges with cream inner cuffs. The backs of the hands and knuckles are visible from the user's eyes, natural subtle knuckle tension, realistic soft skin creases, fingernails, wood grain and warm diffuse daylight. The shaft extends beyond the right crop edge toward the stern pivot; do NOT show a paddle blade or T handle. All five fingers anatomically plausible. Composition is an actual physically joined pair of hands gripping wood; no separate floating elements. Make arms long enough to continue out of the bottom frame so they cannot look amputated.",
+      "original": "exec-97885f9f-a8c4-407c-951d-cbbfc78c2315.png"
+    },
+    {
+      "id": "tea-bowl",
+      "file": "tea-bowl.webp",
+      "prompt": "Edit this transparent PNG into a production animation layer. Remove ONLY the two hands and sleeves. Preserve the EXACT same black-brown Song dynasty Jian tea bowl filled with pale foamy tea, including its exact size, perspective, rim shape, glaze texture and pixel location (center around x720 y270 in the 1448x1086 reference, rim from x423 to1023, bowl bottom y515). Reconstruct only the small parts of the bowl hidden by fingers. Everything outside the bowl MUST be transparent alpha. Do not recenter, resize, relight, crop the canvas, change pottery, empty tea, add hands, background or shadows. Keep identical landscape 4:3 canvas framing and the bowl occupying upper middle with empty transparent space below. This layer will align with the original hand-held bowl frame.",
+      "reference": "assets/v6/tea-cup-hands.webp",
+      "original": "exec-ebaae08e-b6df-4f55-bafe-acd915f3048b.png"
+    },
+    {
+      "id": "tea-glass",
+      "file": "tea-glass.webp",
+      "prompt": "Edit this transparent PNG into a production animation layer. Remove ONLY the right human hand, fingers, forearm and sleeve. Preserve the EXACT same glass cup containing Longjing green tea leaves and pale golden tea, including its exact size, perspective, rim ellipse, shape, contents, lighting and pixel location (rim from x144 to655,y40..290, base approx y535, in original1448x1086 canvas). Reconstruct the parts of the glass previously hidden by fingers; clear glass should have real transparency with tea golden transparent. Everything outside the cup MUST be transparent alpha. Do not recenter, resize, crop the canvas, change the glass, change the visible tea leaves, empty tea, add hands, background or shadows. Keep identical landscape 4:3 canvas with cup occupying upper-left and empty transparent space below and to right. This layer will align with the original hand-held glass frame.",
+      "reference": "assets/v6/longjing-hand.webp",
+      "original": "exec-b3d9dcd1-4c4f-4044-9cfe-c94b39b64840.png"
+    },
+    {
+      "id": "tea-glass-empty",
+      "file": "tea-glass-empty.webp",
+      "prompt": "Edit this exact reference image: remove only the golden liquid and all tea leaves INSIDE the glass cup, leaving an EMPTY clean transparent glass. Preserve identical glass geometry, size, pixel coordinates, perspective, rim, foot, lighting, and identical 1448x1086 transparent canvas. No hands. The original glass occupies x140..660,y42..520. No recentering or crop. Transparent background and transparent glass with subtle neutral reflections; do not make it white or opaque. This is the empty frame of a pouring animation, which must align with the original filled glass.",
+      "reference": "assets/v7/tea-glass.webp",
+      "original": "exec-c9966c81-94a8-4b29-98d4-78539f83ee8e.png"
+    },
+    {
+      "id": "reach-glass",
+      "file": "reach-glass.webp",
+      "original": "exec-a97c9b47-7138-4317-9986-547d2629fe3c.png",
+      "reference": "assets/v6/longjing-hand.webp",
+      "edit": "Remove all glass, liquid, leaves; preserve the exact hand and sleeve position for a separate reaching layer."
+    },
+    {
+      "id": "reach-bowl",
+      "file": "reach-bowl.webp",
+      "original": "exec-f1be87d9-292a-4bd8-8c52-d5d42c725205.png",
+      "reference": "assets/v6/tea-cup-hands.webp",
+      "edit": "Remove all pottery and foam; preserve both cupping hands and sleeves with transparent central gap."
+    }
+  ]
+}

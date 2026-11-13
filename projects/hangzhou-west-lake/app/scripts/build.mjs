@@ -1,0 +1,16 @@
+import {mkdir,copyFile,readdir,stat,writeFile} from 'node:fs/promises';
+import path from 'node:path';
+import {fileURLToPath} from 'node:url';
+const root=fileURLToPath(new URL('../',import.meta.url));
+const output=path.join(root,'dist');
+await mkdir(path.join(output,'src'),{recursive:true});await mkdir(path.join(output,'assets'),{recursive:true});
+async function artFiles(dir){const out=[];for(const entry of await readdir(path.join(root,dir),{withFileTypes:true})){const file=dir+'/'+entry.name;if(entry.isDirectory())out.push(...await artFiles(file));else if(/\.(webp|wav|ogg|json)$/.test(entry.name))out.push(file);}return out;}
+const files=['index.html','styles.css','src/styles-v4.css','src/styles-v5.css','src/styles-v6.css','src/styles-v7.css',...(await readdir(path.join(root,'src'))).filter(f=>f.endsWith('.js')).map(f=>'src/'+f),...await artFiles('assets')];
+for(const file of files){await mkdir(path.dirname(path.join(output,file)),{recursive:true});await copyFile(path.join(root,file),path.join(output,file));}
+await copyFile(path.join(root,'scripts/preview-template.mjs'),path.join(output,'start-preview.mjs'));
+await writeFile(path.join(output,'启动预览.cmd'),'@echo off\r\nchcp 65001 >nul\r\ncd /d "%~dp0"\r\nnode start-preview.mjs\r\npause\r\n');
+await writeFile(path.join(output,'阅读说明.txt'),'杭州西子湖 · 今夕入画 V7\r\n\r\n本包包含完整静态站点，无在线运行依赖。请完整解压。\r\n\r\n本地预览：需要 Node.js 22 或更新版本，双击「启动预览.cmd」，在浏览器打开 http://127.0.0.1:4174/ 。也可在本目录运行 node start-preview.mjs。请勿直接双击 index.html。\r\n\r\n服务器部署：将 index.html、styles.css、src、assets 放在网站根目录。start-preview.mjs 和启动文件不需要上传。\r\n\r\n首页「一湖三境」展开约两分半的六幕导览，可暂停、选幕和接手。首次操作后播放配乐和解说，可在湖声设置中独立关闭；钟声可独立点击播放。宋茶可亲手碾磨、倾注、击拂并捧盏轻饮；题扇完成后自动执扇送风。过舟后自动进入乌龟潭；水鸟避让来舟，减速靠岸后连续上岸。画卷全景与设备全屏为独立按钮。支持横竖画笺导出。\r\n\r\n本作品为艺术化空间重建，非实景测绘；湖山图非导航地图。配乐为 Charlie Huang 演奏的古琴独奏《平沙落雁》，按 CC BY 2.5 免费授权使用；全站连续播放，切景不重播。授权与播放处理说明见 docs/research/2026-11-12-music-v7.md，公开展示时请保留湖声设置中的署名。尚未公开部署或代为提交比赛。\r\n');
+await writeFile(path.join(output,'README.md'),'# 杭州西子湖 · 今夕入画 V7\n\n这是完整静态交付包。完整解压后，使用 Node.js 22+ 运行 `node start-preview.mjs`，在浏览器打开 http://127.0.0.1:4174/ 。Windows 可双击「启动预览.cmd」。请勿直接双击 HTML。\n\n首页点击「一湖三境」开始六幕导览；也可直接点选十景、湖山寻路或乌龟潭。首次操作后播放古琴长曲《平沙落雁》与解说，湖声设置可分别关闭；切换景点时音乐连续播放。古琴录音由 Charlie Huang 演奏，按 CC BY 2.5 使用，公开展示时须保留署名。手机次级控制位于「游湖工具」。\n\n部署时将 index.html、styles.css、src、assets 放到静态网站根目录；本地启动脚本不需要上传。\n\n交付记录见 [docs/v7-delivery.md](docs/v7-delivery.md)，配乐授权与验证见 [docs/research/2026-11-12-music-v7.md](docs/research/2026-11-12-music-v7.md)，作品阐述与现场演示顺序见 [docs/competition-note.md](docs/competition-note.md)。这里是静态运行包，不含开发用测试脚本；验收结果在交付记录中列明。\n');
+for(const file of ['docs/v7-delivery.md','docs/research/2026-11-12-music-v7.md','docs/v6-design.md','docs/research/2026-11-12-westlake-v6.md','docs/v5-design.md','docs/research/2026-11-12-westlake-v5.md','docs/v6-delivery.md','docs/v4-design.md','docs/competition-note.md','docs/research/2026-11-09-westlake-real-scenes.md','docs/research/2026-11-10-wuguitan-immersion.md','docs/research/2026-11-11-motion-and-audio.md','assets/v2/sources.json','assets/v3/sources.json']){await mkdir(path.dirname(path.join(output,file)),{recursive:true});await copyFile(path.join(root,file),path.join(output,file));}
+let total=0;for(const f of files)total+=(await stat(path.join(root,f))).size;
+console.log(`Built ${files.length} files, ${(total/1024/1024).toFixed(2)} MB to dist/`);

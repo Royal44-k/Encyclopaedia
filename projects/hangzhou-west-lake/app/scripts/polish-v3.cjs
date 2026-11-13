@@ -1,0 +1,10 @@
+const fs=require('fs');let s=fs.readFileSync('src/visits.js','utf8');
+s=s.replace("$('#visit').dataset.kind=data.kind;","$('#visit').classList.remove('quiet');$('#visit').dataset.kind=data.kind;");
+s=s.replace("try{const img=await this.image(data.image);","try{const img=await this.image(data.image);if(data.kind==='bench')this.benchLake=await this.image('sudi-bench');");
+s=s.replace('this.seatStart=this.progress*7','this.seatStart=this.progress*10');
+s=s.replace('c.drawImage(this.img,x,y,iw,ih);if(this.prev',"c.drawImage(this.img,x,y,iw,ih);if(k==='bench'&&this.benchLake&&this.seatMotion>.45){const blend=smooth((this.seatMotion-.45)/.3),im=this.benchLake,sc=Math.max(w/im.width,h/im.height)*1.08;c.save();c.globalAlpha=blend;c.drawImage(im,(w-im.width*sc)/2-this.pan*90,(h-im.height*sc)/2+(cam.y-1.02)*85,im.width*sc,im.height*sc);c.restore();}if(this.prev");
+fs.writeFileSync('src/visits.js',s);
+let w=fs.readFileSync('src/visit-world.js','utf8');w=w.replace("const cam=this.camera(v),p=", "const cam=this.camera(v),p=");
+w=w.replace("this.details(v,c,w,h,p);","this.details(v,c,w,h,p);\n  if(k==='towers'){const tp=new Perspective(c,w,h,{x:v.pan*9,y:1.6,z:v.progress*3,yaw:0,pitch:0});for(const [x,z]of [[-6,30],[7,43],[1,62]]){tp.box(x,0,z,.48,1.15,.48,'#adb299');tp.box(x-.2,1.15,z-.2,.88,.13,.88,'#858f75');tp.box(x+.11,1.28,z+.11,.25,.5,.25,'#b9bca5');tp.polygon([[x-.2,1.78,z],[x+.65,1.78,z],[x+.22,2.25,z]],'#8b957d');}tp.flush();}\n");
+fs.writeFileSync('src/visit-world.js',w);
+let p=JSON.parse(fs.readFileSync('package.json','utf8'));p.version='3.0.0';p.scripts.check='node scripts/check.mjs';fs.writeFileSync('package.json',JSON.stringify(p,null,2));

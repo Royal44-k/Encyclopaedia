@@ -1,0 +1,14 @@
+{
+  "trees": {
+    "source": "C:/Users/lenovo/.codex/generated_images/01a1be43-5dca-75f3-a7f2-f2d0885128fd/exec-aed5fee1-672e-4af5-afc3-2f4ab6840670.png",
+    "tool": "image_gen",
+    "purpose": "Original botanical shoreline tree sprites, 4 species/variations",
+    "alpha": true
+  },
+  "plates": {
+    "tool": "image_gen",
+    "pinghu": "C:/Users/lenovo/.codex/generated_images/01a1be43-5dca-75f3-a7f2-f2d0885128fd/exec-813aadcd-0beb-40e0-80c5-33d4c4f48ab5.png",
+    "santan": "C:/Users/lenovo/.codex/generated_images/01a1be43-5dca-75f3-a7f2-f2d0885128fd/exec-eb8ee1a6-bb0a-433e-b02f-1c4a91974cfa.png",
+    "purpose": "Remove static moon/towers so interactive subjects appear once"
+  }
+}

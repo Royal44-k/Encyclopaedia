@@ -1,0 +1,10 @@
+/* Keep the recording attribution readable without competing with the controls. */
+#soundPanel .music-credit{margin:16px 0 0;padding-top:12px;border-top:1px solid #7a8b6838;color:#586c5f;font-size:11px;line-height:1.9}
+#soundPanel .music-credit a{color:#38584c;text-decoration:underline;text-underline-offset:3px}
+#soundPanel .music-credit a:focus-visible{outline:2px solid #536e5b;outline-offset:4px}
+/* Keep the foreground hands opaque. Only the text receives a small backing. */
+#visit:is([data-kind=river],[data-kind=tea],[data-kind=songtea],[data-kind=songbirds]) .visit-bottom{background:none}
+#visit:is([data-kind=river],[data-kind=tea],[data-kind=songtea],[data-kind=songbirds]) #visitStatus{width:fit-content;max-width:min(760px,92vw);padding:6px 12px;background:#f2ead8e8;border-radius:4px;box-shadow:0 2px 12px #1e352318}
+#visit[data-kind=river] .visit-position{padding:8px 12px;background:#f2ead8dd;border-radius:4px}
+#visit[data-kind=river] #visitNav{background:#f2ead8d9;border-radius:4px}
+#visit[data-sipping=true] .visit-bottom{opacity:0;pointer-events:none;transition:opacity .25s}#visit[data-sipping=true] .visit-bottom *{pointer-events:none}

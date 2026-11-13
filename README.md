@@ -8,6 +8,7 @@
 | AI 与健康价值 | 理论与证据准备、中英文论文、数据表、图稿及历次版本 | [专题目录](collections/health-value-ai/README.md) |
 | 健康生活方式 | 中国权威依据、初稿与实践方案、三轮正式文稿、检索记录、图表与制作源码 | [专题目录](collections/health-lifestyle/README.md) |
 | English Valley 英语互动课件 | Three.js/WebGL 工程、十二章设计稿、美术/音频及历次验收资产 | [项目与分类目录](projects/english-valley/README.md) |
+| 杭州西子湖 · 江南诗韵 | V7 现代十景、宋韵长卷、乌龟潭舟行；完整源码、美术、音频、调研与发布包 | [项目与分类目录](projects/hangzhou-west-lake/README.md) |
 
 本次归档日期：2026-11-12。现有稿件属于研究准备材料或作者审阅稿；归档不代表投稿、发表或完成实证研究。
 

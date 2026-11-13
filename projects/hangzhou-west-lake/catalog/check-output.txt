@@ -1,0 +1,46 @@
+✔ portrait and landscape sipping keep the cup rim visibly at mouth height (2.3261ms)
+✔ the sculling shaft reaches beyond both viewport edges throughout a stroke (2.8532ms)
+✔ cup remains on the table until grasp and releases only after returning (14.9181ms)
+✔ fan is held at the same resting pose before and after every replay (0.3562ms)
+✔ starts modern; entering Song places the visitor on the causeway (1.8554ms)
+✔ walking clamps targets to land bounds and stops without overshooting (3.6388ms)
+✔ pause freezes walking and boat progression (0.4797ms)
+✔ calling a boat completes walking, boarding, cruising and landing (3.3883ms)
+✔ returning modern cancels all travel without stale targets (0.3371ms)
+✔ collection deduplicates and rejects unknown or malformed restored data (1.4352ms)
+✔ ground clicks cannot divert an already summoned boat approach (0.2385ms)
+✔ sculling coasts to rest without resetting its phase, then resumes from that phase (5.0768ms)
+✔ stroke timing is independent of frame rate and long inactivity (0.4664ms)
+✔ both photographed grips and the shaft share one transform around a fixed fulcrum (3.4982ms)
+✔ reduced motion keeps the held object still without replacing its grip (0.272ms)
+✔ ink transition follows eight connected stages (2.2469ms)
+✔ gait alternates planted feet using travelled distance (0.4766ms)
+✔ passenger sits during voyage and rises before landing (0.2867ms)
+✔ rain remains within the viewport after prolonged play (1.3652ms)
+✔ rowing hands and blade remain on one articulated shaft (0.4954ms)
+✔ bridge underside crossing near plane remains a clipped polygon (2.1336ms)
+✔ ten sights have separate authored scores, valid notes and sparse phrasing (2.0453ms)
+✔ bench approach, look down, turn, sit retain continuous world position (3.229ms)
+✔ forward movement gives near objects greater parallax than distant objects (0.3796ms)
+✔ lake-west route alternates narrow passage with open water and never jumps (0.4205ms)
+✔ curated tour freezes while loading or paused and never skips on large background deltas (1.3501ms)
+✔ tour clock ends exactly at chapter boundary and totals previous chapters correctly (0.3047ms)
+✔ postcard captions are bounded by Unicode characters without cutting surrogate pairs (0.23ms)
+✔ river habitat is stable across frames, irregularly spaced and stays outside the navigable centre (10.9146ms)
+✔ ancient and modern tea memories remain independent and old saved journeys migrate intact (0.4923ms)
+✔ landing is continuous, clears the boat, and stops at a stable standing pose (5.8888ms)
+✔ tea tools ignore outside clicks and pouring requires holding the pot over the bowl (0.8387ms)
+✔ lotus cannot be picked until enabled and a full pulling gesture is completed (0.463ms)
+✔ entire hull clears both banks and the jetty throughout the approach (41.6533ms)
+✔ waterbirds steer away gradually and stay within the water boundary (5.9475ms)
+✔ tea approaches the mouth, makes only small sipping motions, and returns continuously (0.8551ms)
+✔ fan has smooth acceleration, three broad strokes and a settled ending (0.6859ms)
+✔ 17 scenes share the licensed full guqin recording and preserve 20 local PCM narration clips (16.2157ms)
+ℹ tests 38
+ℹ suites 0
+ℹ pass 38
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 315.7426

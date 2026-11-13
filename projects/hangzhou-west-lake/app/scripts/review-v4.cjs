@@ -1,0 +1,10 @@
+const {chromium}=require('C:/Users/lenovo/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules/playwright');
+const fs=require('node:fs');
+(async()=>{fs.mkdirSync('verification/v4',{recursive:true});const browser=await chromium.launch({headless:true,channel:'msedge'});const page=await browser.newPage({viewport:{width:1440,height:960}}),errors=[],failed=[];page.on('pageerror',e=>errors.push(e.message));page.on('response',r=>{if(r.status()>=400)failed.push(r.url());});try{
+ await page.goto('http://127.0.0.1:4173/');await page.waitForFunction(()=>window.westLake);await page.screenshot({path:'verification/v4/home.png'});
+ await page.locator('#startTour').click();await page.screenshot({path:'verification/v4/tour-menu.png'});await page.locator('[data-tour-close]').click();
+ await page.locator('.top-nav [data-open-atlas]').click();await page.locator('[data-atlas-place=wuguitan]').click();await page.screenshot({path:'verification/v4/atlas.png'});await page.locator('#atlasEnter').click();await page.waitForFunction(()=>!westLake.snapshot().visit.loading);await page.waitForTimeout(1000);await page.screenshot({path:'verification/v4/river-desktop.png'});
+ await page.locator('#visitPostcard').click();await page.screenshot({path:'verification/v4/postcard.png'});await page.locator('#postcardClose').click();
+ await page.setViewportSize({width:390,height:844});await page.waitForTimeout(500);await page.screenshot({path:'verification/v4/river-mobile.png'});await page.locator('#visitTrayToggle').click();await page.screenshot({path:'verification/v4/river-mobile-tools.png'});
+ await page.locator('#visitBack').click();await page.locator('#startTour').click();await page.locator('#tourStart').click();await page.waitForFunction(()=>westLake.snapshot().tour.active&&!westLake.snapshot().tour.loading);await page.waitForTimeout(11500);await page.screenshot({path:'verification/v4/tour-bench.png'});console.log(JSON.stringify({errors,failed,state:await page.evaluate(()=>westLake.snapshot())}));
+}finally{await browser.close();}})().catch(e=>{console.error(e);process.exitCode=1;});

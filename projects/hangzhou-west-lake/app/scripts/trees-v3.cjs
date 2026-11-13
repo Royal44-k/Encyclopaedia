@@ -1,0 +1,3 @@
+const sharp=require('C:/Users/lenovo/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules/sharp');const fs=require('fs');
+(async()=>{const source='C:/Users/lenovo/.codex/generated_images/01a1be43-5dca-75f3-a7f2-f2d0885128fd/exec-aed5fee1-672e-4af5-afc3-2f4ab6840670.png';const meta=await sharp(source).metadata();fs.mkdirSync('assets/v3',{recursive:true});for(let i=0;i<4;i++)await sharp(source).extract({left:i*543,top:0,width:543,height:724}).resize({height:640}).webp({quality:88}).toFile('assets/v3/tree-'+i+'.webp');fs.writeFileSync('assets/v3/sources.json',JSON.stringify({trees:{source,tool:'image_gen',purpose:'Original botanical shoreline tree sprites, 4 species/variations',alpha:meta.hasAlpha}},null,2));console.log(meta);})();
+

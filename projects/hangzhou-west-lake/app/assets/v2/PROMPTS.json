@@ -1,0 +1,103 @@
+[
+  {
+    "batch": "v2prompts",
+    "prompts": [
+      [
+        "sudi-walk",
+        "Original production scene for a refined Hangzhou West Lake cultural exploration website. Full landscape 16:9, highly detailed, physically believable modern landscape, first-person standing human eye-level unless specified. Fine natural Chinese ink contours and restrained realistic watercolor, warm ivory light, jade foliage, real architectural scale, far greater depth than a flat decorative illustration. NO text, labels, UI, watermark, magical towers, fantasy cliffs. Clear foreground for interaction; no person immediately in front of viewer. This is an artistic reconstruction, keep stated real geography exact. Su Causeway in early spring, first person facing NORTH along a broad flat gently weathered pedestrian path, receding vanishing point in center. Fresh weeping willow trees and a few peach blossom trees on BOTH sides, glimpses of lake water on BOTH sides. West inner lake and low wooded hills on LEFT, outer West Lake with far shores on RIGHT. A real simple low wood-slat lakeside bench at RIGHT foreground turned to face the lake, modest paved lakeside edging; not a decorative palace chair. A few distinct contemporary visitors far down the path. Soft dawn, clear path, no giant bridges. Camera is on the path, not overhead."
+      ],
+      [
+        "duanqiao",
+        "Original production scene for a refined Hangzhou West Lake cultural exploration website. Full landscape 16:9, highly detailed, physically believable modern landscape, first-person standing human eye-level unless specified. Fine natural Chinese ink contours and restrained realistic watercolor, warm ivory light, jade foliage, real architectural scale, far greater depth than a flat decorative illustration. NO text, labels, UI, watermark, magical towers, fantasy cliffs. Clear foreground for interaction; no person immediately in front of viewer. This is an artistic reconstruction, keep stated real geography exact. Broken Bridge at east end of Bai Causeway, viewed FIRST PERSON from the North Beishan Street approach walking WEST/SOUTHWEST toward Bai Causeway. Wide low gently rising grey stone pavement, LOW plain stone balustrades left and right converging toward the short gentle crest. This is a modest wide single arch bridge, only a subtle slope, NO stairs, NO soaring hump, NO gap, NO roof. Viewer is ON the bridge so the full arch underside is NOT visible. Open outer West Lake on LEFT, North Inner Lake and distant Baoshi wooded hills on RIGHT, continuous willow-lined Bai Causeway straight ahead. Light fresh spring morning, realistic few distant walkers."
+      ],
+      [
+        "leifeng-top",
+        "Original production scene for a refined Hangzhou West Lake cultural exploration website. Full landscape 16:9, highly detailed, physically believable modern landscape, first-person standing human eye-level unless specified. Fine natural Chinese ink contours and restrained realistic watercolor, warm ivory light, jade foliage, real architectural scale, far greater depth than a flat decorative illustration. NO text, labels, UI, watermark, magical towers, fantasy cliffs. Clear foreground for interaction; no person immediately in front of viewer. This is an artistic reconstruction, keep stated real geography exact. First-person view FROM INSIDE the upper viewing balcony of modern rebuilt Leifeng Pagoda, looking NORTH over broad West Lake. Close traditional dark wood posts at far left and far right, a restrained warm brown balcony railing along bottom edge, a narrow strip of balcony floor. Viewer stands securely behind railing, eye looking gently down across broad lake, islands and tree-lined Su Causeway toward northwest LEFT, east-city shore to RIGHT in far distance. Low green hills rim west/north. A little roof eave frames top. IMPORTANT: DO NOT put a complete Leifeng pagoda in the view because viewer is standing in that very pagoda. Not drone view. Soft clear late-afternoon sun, serene grandeur, vast open lake."
+      ]
+    ]
+  },
+  {
+    "batch": "v2promptsB",
+    "prompts": [
+      [
+        "quyuan",
+        "Original 16:9 full-frame highly detailed landscape for first-person Hangzhou West Lake cultural exploration. Contemporary real-world place interpreted in fine realistic Chinese ink and muted watercolor, pale jade and ivory, believable perspective and natural materials, deep atmospheric landscape, not cartoon, not fantasy, not drone view. Human eye height, foreground grounded in actual place. No text, no UI, no labels, no watermark, no facing character in close foreground. Quyuan Fenghe lotus garden in SUMMER. First-person standing on a low garden path or platform just above a LOCAL LOTUS POND. Modest stone edging in foreground, broad lotus leaves and pink blossoms rising through visible water gaps at several depths. Low small garden bridge middle right, willow shade, simple pavilion peeking through trees. Humid summer morning. A contained garden pond, not entire West Lake covered with lotus. Realistic scale, gentle breeze."
+      ],
+      [
+        "pinghu",
+        "Original 16:9 full-frame highly detailed landscape for first-person Hangzhou West Lake cultural exploration. Contemporary real-world place interpreted in fine realistic Chinese ink and muted watercolor, pale jade and ivory, believable perspective and natural materials, deep atmospheric landscape, not cartoon, not fantasy, not drone view. Human eye height, foreground grounded in actual place. No text, no UI, no labels, no watermark, no facing character in close foreground. Pinghu Qiuyue at southeast Gushan and west end of Bai Causeway. First-person from low lakeside observation terrace facing SOUTH over broad OUTER WEST LAKE on clear autumn blue hour. Low simple stone parapet at bottom, pavilion eave and wooden column only at extreme left, osmanthus and willow foliage edges. Huge calm lake, low wooded hills far away and modest far-city shore at left/east. Realistically sized moon visible over lake, subtle reflection, silver jade evening. Not island or tower, no huge moon or sky lanterns."
+      ],
+      [
+        "huagang",
+        "Original 16:9 full-frame highly detailed landscape for first-person Hangzhou West Lake cultural exploration. Contemporary real-world place interpreted in fine realistic Chinese ink and muted watercolor, pale jade and ivory, believable perspective and natural materials, deep atmospheric landscape, not cartoon, not fantasy, not drone view. Human eye height, foreground grounded in actual place. No text, no UI, no labels, no watermark, no facing character in close foreground. Huagang Guanyu RED FISH POND garden in southwest West Lake. First-person looking slightly down from a curved stone garden path at the edge of a contained clear pond. Foreground worn natural stone edging, orange-red carp visibly swimming UNDER the water at several depths with soft reflections. Small planted island, curving simple bridge, peony garden and varied trees in middle ground. Soft spring daylight and a few petals, reflective clear green water. Not fish in the whole West Lake, no feeding, no identical fish."
+      ],
+      [
+        "liulang",
+        "Original 16:9 full-frame highly detailed landscape for first-person Hangzhou West Lake cultural exploration. Contemporary real-world place interpreted in fine realistic Chinese ink and muted watercolor, pale jade and ivory, believable perspective and natural materials, deep atmospheric landscape, not cartoon, not fantasy, not drone view. Human eye height, foreground grounded in actual place. No text, no UI, no labels, no watermark, no facing character in close foreground. Liulang Wenying on SOUTHEAST West Lake shore near Qingbo Gate, first person under weeping willows facing WEST across open lake. Slender willow branches at top and edges, lakeside pedestrian path and low stone edging at bottom, natural grass, a simple wood bench left, broad water ahead and LOW wooded western hills across lake. Modest pavilion partly hidden in willow grove, early spring morning. Tiny birds far among branches, no giant bird, no cage, no palace, no city skyline across western hills."
+      ]
+    ]
+  },
+  {
+    "batch": "v2promptsC",
+    "prompts": [
+      [
+        "santan",
+        "Original 16:9 immersive first-person scenic art of real contemporary Hangzhou West Lake. Highly detailed, natural proportion, fine restrained ink and realistic watercolor, pale ivory, jade trees, detailed authentic materials and atmospheric depth. Grounded visitor viewpoint, no UI or text or labels or watermark or fantasy constructions. Standing on SOUTH shore of Xiaoyingzhou island by a modest lakeside pavilion looking SOUTH into OUTER WEST LAKE. A low worn stone railing bottom edge, small corner of pavilion eave top left. THREE SMALL traditional stone incense-burner-shaped towers with rounded hollow bodies rise from the OPEN lake at natural DISTANCE, triangular arrangement and differing apparent sizes, not an equal spaced straight line, not reachable from railing. Wide reflective water, low forested southern hills across the lake. Not three tall pagodas, not inside the island's inner pond. Soft clear daylight."
+      ],
+      [
+        "shuangfeng",
+        "Original 16:9 immersive first-person scenic art of real contemporary Hangzhou West Lake. Highly detailed, natural proportion, fine restrained ink and realistic watercolor, pale ivory, jade trees, detailed authentic materials and atmospheric depth. Grounded visitor viewpoint, no UI or text or labels or watermark or fantasy constructions. From a low lakeshore viewpoint near western West Lake looking WEST toward South Peak and North Peak. A little stone edge and lake water foreground, broad water, green woodland beyond, TWO separated low rounded forested hills with drifting bands of white mist between hillside layers. Quiet natural soft morning light. Peaks are subtle real Jiangnan hills, not pointed giant mountains. NO PAGODAS on the two peaks: the historic towers no longer exist. No buildings dominating scene, no temples in clouds."
+      ],
+      [
+        "nanping",
+        "Original 16:9 immersive first-person scenic art of real contemporary Hangzhou West Lake. Highly detailed, natural proportion, fine restrained ink and realistic watercolor, pale ivory, jade trees, detailed authentic materials and atmospheric depth. Grounded visitor viewpoint, no UI or text or labels or watermark or fantasy constructions. Quiet first-person visitor in a courtyard of Jingci Buddhist Temple at foot of Nanping Hill on SOUTH side of West Lake. Warm yellow/ochre walls, believable traditional yellow glazed tiled double-eaved hall seen to one side, courtyard stone paving, a modest timber bell pavilion glimpsed to right behind trees, dense gentle wooded hill behind temple. View grounded in courtyard, late afternoon to dusk soft light, restful respectful atmosphere. No giant visible lake in temple courtyard, no Leifeng Tower bells, no imaginary ornate palace. Human-scale architecture, no people close."
+      ],
+      [
+        "leifeng-sunset",
+        "Original 16:9 immersive first-person scenic art of real contemporary Hangzhou West Lake. Highly detailed, natural proportion, fine restrained ink and realistic watercolor, pale ivory, jade trees, detailed authentic materials and atmospheric depth. Grounded visitor viewpoint, no UI or text or labels or watermark or fantasy constructions. The true LEIFENG SUNSET view from Changqiao lakeshore looking WEST toward Leifeng Pagoda on wooded Xizhao Hill. Low curved stone lakeside edging near foreground, open West Lake water in front, modern rebuilt Leifeng Pagoda with its distinctive five visible tiers and octagonal shape in the mid-distance ON A WOODED HILL attached to the south shore. Gentle evening amber sunlight behind hill, pale orange-grey sky, reflections. Not a tower island. Not a tower balcony view. Tiny actual-scale walkers far to side, peaceful modern park."
+      ]
+    ]
+  },
+  {
+    "batch": "v2promptsD",
+    "prompts": [
+      [
+        "beishan-tea",
+        "Original highly detailed 16:9 immersive first-person art. Contemporary Beishan Street lakeside tea room in Hangzhou, viewer SITTING at a simple warm dark wooden table looking SOUTH through a broad open window toward North Inner West Lake and willow-lined Bai Causeway/Gushan. View is an artistic generic tea room, NOT a named real business. Near foreground shows empty table surface occupying lower 25% with clean place for interactive tea objects; NO cups, NO teapots, no food on this empty table. Windowsill, restrained modern heritage-style timber frame at left and right, lake view central, finely layered low south/west distant hills. Baoshi Hill is behind viewer, DO NOT put its tower directly across water. No tea plantations at lake edge. Fine believable architectural ink contours with subtle realistic watercolor, warm ivory and pale jade, soft natural daylight, quiet Jiangnan lifestyle, not photograph, not cartoon. No text, UI, logo, watermark, no people."
+      ],
+      [
+        "song-tea",
+        "Original high-detail 16:9 first-person fine ink and restrained watercolor of a plausible Song dynasty West Lake lakeside tea house. Viewer sitting at a low dark wooden table, foreground empty table surface lower 25% reserved for interactive tea bowl. NO cups or pots on table. Open modest timber window, bamboo blind partly rolled overhead, simple wood posts, view of lakeside willow, quiet stone bank and broad pale lake with distant low hills. Authentic modest Song domestic craftsmanship, no glass windows, no modern glass teacups, no Qing furniture, no advertising. Warm pale silk and jade palette matching Song handscroll. Not a reconstruction of modern Beishan architecture; no text, UI, logos, watermark, or people."
+      ],
+      [
+        "sudi-bench",
+        "Original high-detail 16:9 first-person scene of SITTING on a modest wooden lakeside bench beside Su Causeway, looking EAST across outer West Lake. Low seated human eye level 1.1m, nearby willow trunk at far left, gently hanging fresh willow branches frame upper corners, small strip of path and grass with low stone lakeside edge along bottom, a small wooden bench slat edge just visible lower corner as grounding. Broad lake opens ahead, tiny islands and distant east bank city buildings subtle in haze, realistic low hills to side. Fine natural detailed ink contours, pale mineral watercolor, warm ivory light, spring morning. Natural beautiful actual scale; no huge fantasy towers or palace, no tea field, no text or UI, no foreground person."
+      ]
+    ]
+  },
+  {
+    "batch": "v2peoplePrompts",
+    "prompts": [
+      [
+        "residents-a",
+        "12 distinct men: elderly slim white-bearded scholar in ivory; stout middle-aged merchant in dark brown; young student in indigo short robe; tall red-robed scholar with square hat; grey-clad balding scribe; small moustached man in ochre; broad-shouldered visitor in slate blue; senior in muted purple with walking stick; young man in off-white tunic; slim man with rust vest; older man in blue-grey cap; middle-aged gentleman in beige with black cap."
+      ],
+      [
+        "residents-b",
+        "12 distinct working people, no duplicate face/build: thin elderly basket seller grey tunic; robust young porter brown short jacket; middle-aged ceramic merchant muted blue; elderly vendor in mustard apron; tall cook in off-white apron; short flower seller dusty rose; woman weaving seller in faded blue; stocky fruit vendor purple vest; bamboo artisan tan clothing; older market woman grey brown; tea waiter ochre short tunic; fisherman muted brown hat and navy trousers. Modest carried props only."
+      ],
+      [
+        "residents-c",
+        "12 distinct women of varied ages/builds, no identical face or hair: young woman in lilac; elderly grey-haired woman in muted ochre; middle-aged round-faced woman in dusty blue; slim young woman in muted plum; taller woman in ivory and rust skirt; short older woman in light grey; woman with pink inner layer and brown skirt; young woman in very pale blue; middle-aged woman in faded aubergine; older woman in tan with hair wrap; young woman in white and silver-grey skirt; sturdy woman in faded green-blue jacket. Hairstyles distinctly different, modest Song attire."
+      ],
+      [
+        "residents-d",
+        "12 distinct people: little boy in slate blue tunic; little girl in dusty pink; teenage boy in brown; teenage girl in pale lilac; elderly man grey beard black tunic; tall woman cream-grey dress; stout man faded blue robe; thin man red-brown tunic and simple hat; middle-aged woman olive brown with basket; young man pale ochre vest; old woman grey hair light blue; travelling monk simple muted grey robe. No duplicate faces, hats or outfits."
+      ]
+    ]
+  },
+  {
+    "batch": "v2heroPrompt",
+    "prompts": "Production sprite sheet TRUE TRANSPARENT alpha, exactly FOUR full body figure poses in strict 2 columns by 2 rows grid, each contained with ample margins. Same young adult Song dynasty male traveller in ALL FOUR cells: distinctive forest green knee-length outer jacket, ivory narrow scarf, pale tan trousers clearly visible below knee, dark soft shoes, warm ochre belt, black hair small simple bun NO hat, gentle oval face. Thin sophisticated realistic Chinese ink and pale watercolor, no cartoon or 3D. Top left: side profile facing RIGHT standing naturally, hands beside body, both legs slightly apart, arms separated for animation rig. Top right: same traveller SITTING side profile facing RIGHT, knees bent 90 degrees, torso upright relaxed, both hands resting on lap, visible thighs and lower legs, no actual chair drawn. Bottom left: SAME traveller halfway lowering into seated pose, knees bending, torso slightly forward, hands forward for balance, no chair. Bottom right: different older boatman in indigo short work jacket and tan trousers, straw hat, side facing RIGHT, knees slightly flexed and BOTH ARMS reaching forward to grasp an imaginary horizontal oar, NO oar drawn. Full body every pose. No scenery, no floor, no shadows, no text, no labels, no glow, no watermark, genuine transparency."
+  }
+]
